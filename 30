@@ -8,7 +8,7 @@
 "spider":"https://gitee.com/hnkfmh/jsjar/raw/master/天微.jar",
 
 //---------------以下复制---------30Mobile--agit.ai-----------
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2x6aG1oL3BkL3Jhdy9icmFuY2gvbWFzdGVyLzMwbW9iLnBocA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x6aG1oL3BkL21haW4vMzBtb2IucGhw"]}]}],
 "sites":[
     {"key":"drpy_js_豆瓣","name":"豆瓣Mob30V14","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"},
 //--------以上复制-------20240301-----------------------
