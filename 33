@@ -3,25 +3,40 @@
 //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
 //"spider":"https://gitee.com/hnkfmh/Mobtee/raw/master/fan.jar",
 //数据接口说明：{"key":"key_〔资源名称〕","name":"『资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义官源资源列表〕","〔自定义官源资源列表〕"] },
-{
-"spider":"https://gitee.com/hnkfmh/jsjar/raw/master/天微.jar",
+{"spider":"https://gitee.com/hnkfmh/jsjar/raw/master/天微.jar",
 
-//---------------以下复制---------3Mobile--agit.ai-----------
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x6aG1oL3BkL21haW4vMzNtb2IucGhw"]}]}],
-"sites":[
-    {"key":"drpy_js_豆瓣","name":"豆瓣M3V17","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
-//--------以上复制-------20240308-----------------------
+//---------------以下复制---------3Mobile--github-----------
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x6aG1oL3BkL21haW4vMzNtb2IucGhw"]}]}],
+  "lives": [
+    {
+      "name":"Live",
+      "type":0,
+      "url": "https://raw.gitmirror.com/bluefriendCN/set/main/live.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name":"范明明",
+      "type":0,
+      "url":"https://mirror.ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo":"https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "sites":[{"key":"drpy_js_豆瓣","name":"豆瓣MH3V17","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
+//--------以上复制-------20240423-----------------------
+    {"key":"csp_DouDou","name":"豆瓣荐片","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"YGP","name":"预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
+    {"key":"Live2cms","name":"电视直播","type":3,"api":"https://raw.gitmirror.com/bluefriendCN/bin/main/js/live2mv.js","changeable":0,"ext":"YueChan$https://mirror.ghproxy.com/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
 
      {"key":"lf_js_lf_live","name":"git直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
      {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
      {"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
      {"key":"csp_Kunyu77","name":"🌤酷云77","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"豆豆","name":"豆豆","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-     {"key":"索尼","name":"🐝┃索尼4K┃","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧",	"泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
      {"key":"csp_WoGG","name":"🐋┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/业余影视/阿里/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
      {"key":"贱贱","name":"🐓┃贱贱┃4K","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
      {"key":"AppYs_南瓜","name":"👑┃南瓜┃2K","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
-
      {"key":"csp_MeiJu69","name":"🗽┃六九┃美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
      {"key":"csp_xml___天空资源","name":"🐝天空资源","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
      {"key":"csp_xml___天空资源2","name":"🐝天空资源2","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -41,6 +56,7 @@
      {"key":"csp_app_贵宾影院","name":"🐌贵宾影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vipdytv.com/api.php/iptv/vod/"},
      {"key":"csp_app_CV影视","name":"🐌CV影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
      {"key":"csp_app_2号币","name":"🐌2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
+     {"key":"索尼","name":"🐝┃索尼4K┃","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧",	"泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]},
 //🍀//
     {"key":"youku","name":"👑优酷","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
     {"key":"csp_Yj1211","name":"🐞Justlive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
