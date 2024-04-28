@@ -1,6 +1,9 @@
-﻿//Mobile频道数据收集自网络上的分享240302开通IPV6
+﻿//Mobile频道数据收集自网络上的分享240428开通IPV6
 
-港澳H037,#genre#
+港澳H038,#genre#
+
+凤凰中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$洛移
+凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$洛移
 
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$天移
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8$天移
@@ -11,17 +14,20 @@
 凤凰中文,http://1.62.64.252:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv$哈联
 凤凰资讯,http://1.62.64.252:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv$哈联
 
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8$连移s
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$连移s
+
+
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$天移
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$天移
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$天移
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 
-凤凰中文,http://1.62.64.252:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://1.62.64.252:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,http://220.189.108.176:19888/rtp/233.50.200.191:5140
+凤凰中文,http://220.189.92.253:9999/rtp/233.50.200.191:5140$高清
+凤凰资讯,http://220.189.92.253:9999/rtp/233.50.200.192:5140$高清
 凤凰中文,http://fzcds.cn:8822/hls/81/index.m3u8
 凤凰中文,http://110.72.78.16:808/hls/62/index.m3u8
 凤凰中文,http://111.31.107.123/1.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8 
@@ -137,6 +143,8 @@ RHK31,https://s2.pub/cctv-14
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,mitv://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b
 
+凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,https://ktpremium.com:443/M919HR/5577/492400?c=
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
 凤凰香港,mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2$mitv
 凤凰香港,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
@@ -286,6 +294,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001$qna1
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001$hom1
 
+广东体育,http://113.65.8.95:8000/udp/239.77.0.168:5146
 广东体育,http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
 广东体育,http://202.168.187.208:2024/tsfile/live/1014_1.m3u8$广电
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
