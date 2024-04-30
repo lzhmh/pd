@@ -1,6 +1,6 @@
 ﻿//Mobile频道数据收集自网络上的分享240428开通IPV6
 
-港澳H038,#genre#
+港澳H039,#genre#
 
 凤凰中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$洛移
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$洛移
@@ -606,6 +606,28 @@ JJ斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
 东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
 东森新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d$mitv
+
+TVB无线新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+TVB新闻,http://58.176.4.57:8800/play/a00d
+无线娱乐新闻https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+Now 新闻,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
+TVB无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
+TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+三立新闻1,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+三立新闻2,http://66.165.240.154:8080/live/slxw02/hls.m3u8
+民视新闻,http://66.165.240.154:8080/live/tymsxw1/hls.m3u8
+台视新闻,http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
+大爱HD,http://66.165.240.154:8080/live/gatda201/hls.m3u8
+东森财经2,http://66.165.240.154:8080/live/gatdscj02/hls.m3u8
+东森新闻https://edge1.laotv.la/live/DongsenMovie/index.m3u8
+三立新闻1,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+三立新闻2,http://66.165.240.154:8080/live/slxw02/hls.m3u8
+民视新闻,http://66.165.240.154:8080/live/tymsxw1/hls.m3u8
+台视新闻,http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
 
 TVBSHD,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 TVBSHD,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476$索1
