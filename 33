@@ -36,7 +36,7 @@
      {"key":"贱贱","name":"🐓┃贱贱┃4K","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
      {"key":"AppYs_南瓜","name":"🎃┃南瓜┃","type":3,"playerType":2,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},     {"key":"csp_MeiJu69","name":"🗽┃六九┃美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
      {"key":"YGP","name":"预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-     {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hnkfmh/jsjar/raw/master/candymuj.jar"},     
+     {"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},     
      {"key":"影图资源","name":"💡影图资源(官)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
      {"key":"玩偶哥哥","name":"💡云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/jsjar/blob/master/玩偶哥哥.json"},     
      {"key":"天天开心","name":"💡云盘｜开心","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szyyds.cn/tv/XYQHiker/天天开心.json","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},    
