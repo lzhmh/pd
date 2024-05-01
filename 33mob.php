@@ -1,6 +1,6 @@
 ﻿//Mobile频道数据收集自网络上的分享240428开通IPV6
 
-港澳H039,#genre#
+港澳H040,#genre#
 
 凤凰中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$洛移
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$洛移
@@ -10,6 +10,13 @@
 
 凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
 凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
+
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+
+凤凰资讯,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnpyc1Bwd0NJS0QwN29UR2FQbjdlUzV6bFRGTnpSa0pxUktiZlZpalE0QVIxTTZwMW1BVkhrcHE3dVh3VlNCVWhlcFBXM3EybEhnY0FoY25QWkxQNXNTdXpPTmRKb3krejg9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2
+凤凰中文,http://iptv.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnpyc1Bwd0NJS0QwN29UR2FQbjdlUzV6bFRGTnpSa0pxUktiZlZpalE0QVIxTTZwMW1BVkhrcHE3dVh3VlNCVWhlcFBXM3EybEhnY09uM3ZrZHhsa00xRkpjRmNGNGo1OUU9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2
+凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 
 凤凰中文,http://1.62.64.252:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv$哈联
 凤凰资讯,http://1.62.64.252:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv$哈联
@@ -24,7 +31,6 @@
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰中文,http://220.189.108.176:19888/rtp/233.50.200.191:5140
 凤凰中文,http://220.189.92.253:9999/rtp/233.50.200.191:5140$高清
 凤凰资讯,http://220.189.92.253:9999/rtp/233.50.200.192:5140$高清
@@ -32,7 +38,6 @@
 凤凰中文,http://110.72.78.16:808/hls/62/index.m3u8
 凤凰中文,http://111.31.107.123/1.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8 
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://220.189.108.176:19888/rtp/233.50.200.192:5140
 凤凰资讯,http://fzcds.cn:8822/hls/80/index.m3u8
 凤凰资讯,http://111.31.107.123/1.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
@@ -41,6 +46,9 @@
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.1.4:2191$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192$nas
+
+凤凰中文,http://php.jdshipin.com:8880/jydx.php?id=37
+凤凰资讯,http://php.jdshipin.com:8880/jydx.php?id=36
 
 凤凰资讯,http://110.81.206.138:50080/tsfile/live/23019_1.m3u8
 凤凰中文,http://110.81.206.138:50080/tsfile/live/23020_1.m3u8
@@ -113,36 +121,6 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://dl.zhoujie218.top/new/fhx.php?id=fhhk$上阿里
 
-无线新闻,https://s2.pub/cctv-12
-无线财经,https://s2.pub/cctv-11
-翡翠台,https://s2.pub/cctv-4
-明珠台,https://s2.pub/cctv-6
-香港J2台,https://s2.pub/cctv-5
-viu,https://s2.pub/cctv-7
-viu6,https://s2.pub/cctv-8
-HOY77,https://s2.pub/cctv-9
-HOY78,https://s2.pub/cctv-10
-RHK31,https://s2.pub/cctv-14
-翡翠台,https://s2.pub/cctv-23
-
-明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8$广电
-翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8$广电
-
-翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
-
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线财经,http://live.cooltv.top/tv/tvb.php?id=3
-无线财经,http://live.cooltv.top/tv/tvb.php?id=3&hq
-
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2
-无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=1&hq
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻,mitv://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b
-
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,https://ktpremium.com:443/M919HR/5577/492400?c=
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
@@ -192,6 +170,36 @@ NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/ind
 
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+
+无线新闻,https://s2.pub/cctv-12
+无线财经,https://s2.pub/cctv-11
+翡翠台,https://s2.pub/cctv-4
+明珠台,https://s2.pub/cctv-6
+香港J2台,https://s2.pub/cctv-5
+viu,https://s2.pub/cctv-7
+viu6,https://s2.pub/cctv-8
+HOY77,https://s2.pub/cctv-9
+HOY78,https://s2.pub/cctv-10
+RHK31,https://s2.pub/cctv-14
+翡翠台,https://s2.pub/cctv-23
+
+明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8$广电
+翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8$广电
+
+翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
+翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+
+无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
+无线财经,http://live.cooltv.top/tv/tvb.php?id=3
+无线财经,http://live.cooltv.top/tv/tvb.php?id=3&hq
+
+无线财经,http://live.cooltv.top/tv/tvb.php?id=2
+无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=1&hq
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,mitv://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b
 
 无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 无线财经,http://bziyunshao.synology.me:8890/bysid/85
@@ -606,6 +614,20 @@ JJ斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
 东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
 东森新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d$mitv
+
+TVBS,http://111.76.16.111:9000/live.m3u8?c=1
+TVBSNEWS,http://111.76.16.111:9000/live.m3u8?c=2
+TVBS新闻,http://111.76.16.111:9000/live.m3u8?c=3
+中视新闻,http://111.76.16.111:9000/live.m3u8?c=7
+东森财经,http://111.76.16.111:9000/live.m3u8?c=9
+台视新闻http://111.76.16.111:9000/live.m3u8?c=11
+民视新闻,http://111.76.16.111:9000/live.m3u8?c=12
+LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
+三立iNEWS,http://111.76.16.111:9000/live.m3u8?c=15
+三立NEWS+,http://111.76.16.111:9000/live.m3u8?c=22
+中视经典综艺,http://111.76.16.111:9000/live.m3u8?c=28
+中视台湾志,http://111.76.16.111:9000/live.m3u8?c=29
+中视大陆寻奇,http://111.76.16.111:9000/live.m3u8?c=37
 
 TVB无线新闻,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 TVB新闻,http://58.176.4.57:8800/play/a00d
