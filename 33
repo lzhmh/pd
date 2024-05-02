@@ -140,7 +140,7 @@
      {"key":"api_红牛采集","name":"🐮红牛采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港澳剧","欧美剧","台湾剧","日剧","韩剧","泰剧","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
      {"key":"1080资源","name":"🐝1️080资源","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"changeable":1},
       {"key":"量子云播","name":"🐝量子云播","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"json:https://www.itvbox.cc/fflz.php?url="},
-     {"key":"南瓜","name":"🐝南瓜┃APP","type":3,"searchable":1,"quickSearch":1,"api":"https://agit.ai/65012833/lib/raw/branch/master/drpy2.min.js","ext":"https://agit.ai/65012833/lib/raw/branch/master/南瓜.js","changeable": 0},     
+    // {"key":"南瓜","name":"🐝南瓜┃APP","type":3,"searchable":1,"quickSearch":1,"api":"https://agit.ai/65012833/lib/raw/branch/master/drpy2.min.js","ext":"https://agit.ai/65012833/lib/raw/branch/master/南瓜.js","changeable": 0},     
      {"key":"drpy_js_两个BT","name":"🐝两个BT（js）","type":3,"api":"https://agit.ai/65012833/lib/raw/branch/master/两个BT1.js","ext":"https://agit.ai/65012833/lib/raw/branch/master/两个BT2.js"},
      {"key":"csp_xml___飞速资源","name":"🐝飞速资源","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
      {"key":"csp_xml___飞速资源2","name":"🐝飞速资源2","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
