@@ -1,6 +1,6 @@
 ﻿//Mobile频道数据收集自网络上的分享240428开通IPV6
 
-港澳H040,#genre#
+港澳H041,#genre#
 
 凤凰中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$洛移
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$洛移
@@ -114,6 +114,8 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001$qna1
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001$hom1
 
+Now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
+
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
@@ -171,6 +173,7 @@ NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/ind
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
+翡翠台,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
 无线新闻,https://s2.pub/cctv-12
 无线财经,https://s2.pub/cctv-11
 翡翠台,https://s2.pub/cctv-4
