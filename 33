@@ -8,9 +8,9 @@
 //---------------以下复制---------3Mobile--github-----------
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2x6aG1oL3BkL21haW4vMzNtb2IucGhw"]}]}],
   "lives": [
-    {"name":"30","type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/30mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"33", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "sites":[{"key":"drpy_js_豆瓣","name":"豆瓣MH3V20","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
+    {"name":"33","type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+    {"name":"30", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/30mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+  "sites":[{"key":"drpy_js_豆瓣","name":"豆瓣MH3V21","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
 //--------以上复制-------2024052-----------------------https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib
     {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
      {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
@@ -33,6 +33,12 @@
      {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Butterfly.jar"},
      {"key": "比特影视","name": "比特影视","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Butterfly.jar"},
      {"key": "农民影视","name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"},
+
+    {"key":"观影台","name":"观影台","type":"3","jar":"https://gitee.com/yin-weiwei_1/tvbox/raw/master/XBPQ.jar","api":"csp_XBPQ","searchable":1,"changeable":1,"ext":"https://gitee.com/yin-weiwei_1/tvbox/raw/master/%E8%A7%82%E5%BD%B1%E5%8F%B0.json"},
+    {"key":"6v磁力_drpy_js","name":"6v磁力","type":3, "api":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/js/6V%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"},
+    {"key": "B站影视_drpy_js","name": "B站影视","type": 3,"api": "https://gitee.com/yin-weiwei_1/dr_py/raw/main/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/js/B%E7%AB%99%E5%BD%B1%E8%A7%86.js"},
+    {"key": "奇珍异兽_drpy_js","name": "奇珍异兽","type": 3,"api": "https://gitee.com/yin-weiwei_1/dr_py/raw/main/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://gitee.com/yin-weiwei_1/dr_py/raw/main/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
+    {"key":"49","name":"49┃采集","type":0,"api":"https://49zyw.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1},
 //#磁力
 {"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
