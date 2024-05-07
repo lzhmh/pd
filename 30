@@ -9,7 +9,7 @@
 //---------------以下复制---------30Mobile--github-----------
   "lives": [
     {"name":"30", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/30mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "sites":[{"key":"drpy_js_豆瓣","name":"豆瓣MH30V22","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
+  "sites":[{"key":"drpy_js_豆瓣","name":"豆瓣MH30V23","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
 //--------以上复制-------2024056-----------------------
     {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
      {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
@@ -25,7 +25,6 @@
      {"key":"玩偶哥哥","name":"💡云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/jsjar/blob/master/玩偶哥哥.json"},     
      {"key":"天天开心","name":"💡云盘｜开心","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szyyds.cn/tv/XYQHiker/天天开心.json","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},    
      {"key": "南瓜","name": "南瓜影视","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-     {"key": "萌米","name": "萌米影视","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
      {"key": "毛驴影视","name": "毛驴影视","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
      {"key": "苹果影视","name": "苹果影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Butterfly.jar"},
      {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Butterfly.jar"},
@@ -35,8 +34,15 @@
     {"key":"观影台","name":"观影台","type":"3","jar":"https://gitee.com/yin-weiwei_1/tvbox/raw/master/XBPQ.jar","api":"csp_XBPQ","searchable":1,"changeable":1,"ext":"https://gitee.com/yin-weiwei_1/tvbox/raw/master/%E8%A7%82%E5%BD%B1%E5%8F%B0.json"},
     {"key":"6v磁力_drpy_js","name":"6v磁力","type":3, "api":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/js/6V%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"},
     {"key": "B站影视_drpy_js","name": "B站影视","type": 3,"api": "https://gitee.com/yin-weiwei_1/dr_py/raw/main/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/js/B%E7%AB%99%E5%BD%B1%E8%A7%86.js"},
-   // {"key": "奇珍异兽_drpy_js","name": "奇珍异兽","type": 3,"api": "https://gitee.com/yin-weiwei_1/dr_py/raw/main/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://gitee.com/yin-weiwei_1/dr_py/raw/main/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
-    {"key":"49","name":"49┃采集","type":0,"api":"https://49zyw.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1},
+    {"key":"49","name":"49采集","type":0,"api":"https://49zyw.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1},
+
+    {"key": "csp_XYQHikerAL_土豆","name": "🎖土豆4K纯净","type": 3,"api": "csp_XYQHikerAL","searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/hnkfmh/jsjar/blob/master/tudou.json"},
+    {"key": "多多弹幕","name": "🎖多多4K弹幕", "type": 3, "api": "csp_Wobg", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php", "quickSearch": 1, "changeable": 1, "filterable": 1,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt", "site": "https://tv.yydsys.top/", "danmu": true }, "timeout": 25 },
+    {"key": "newyt", "name": "🎖影探4k线路","type": 3,"api": "csp_App", "jar": "https://gitee.com/hnkfmh/jsjar/blob/master/yt.jar","searchable": 1, "quickSearch": 1,"playerType": 1, "filterable": 0,"ext": "W5oiFIJWXdNTJR3aBqvu1ZNS5mnqT/NwZ0FhzbtIBX3FMKftY7yLAcj1P+nCq+bg1f+FWyup7ptaf4O5iF+7ImPv5VZ0DQyDmE5C9KkjXJHp4YAcZPCL/NtGj8IaVFUVXi10XLhX7+d4WmbvWoSKQCb6Is6zDv4BnWDVZ/eN6Jp9fLTAC9xsGHB8l461jjb1KEzOpP1/K2Goh8bDoD9J6ox31zKI/LHGCrr+3S35AMfL50wy3vbVswlLGUFP7vO3SzdbiYgjid1jCyeuSG2TZPdIW9quiw10m802Vcrfu2vH1GXHmUs/fAIiH/P5LsPvW07TqXXYRozECNB0TU5iR75QK53snnf0H4K/xIkoG6cBoW5F0f7W6danJGi0HZIo1giervIUTITGLqTixAk8yTAqK2LU5NA1W9W4RODtuA01mDJeh6g/YT11aVYYBOKo"}，          
+    {"key": "csp_XYQHikerAL_阿里苏苏", "name": "🎖可见影视4K", "type": 3,"api": "csp_XYQHikerAL","jar": "https://gitee.com/hnkfmh/jsjar/blob/master/xyqwogg.jar","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://gitee.com/hnkfmh/jsjar/blob/master/alisusu.json"},
+    {"key":"csp_黑狐","name":"🎖黑狐影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/hnkfmh/jsjar/blob/master/heihu.json"},
+    {"key":"天天","name":"🎖天天影视","type":3,"api":"csp_TTian","jar":"https://gitee.com/hnkfmh/jsjar/blob/master/fix1209.jar","playerType":1,"ext":"http://op.ysdqjs.cn"},
+    {"key":"畅梦","name":"🎖畅梦影视","type":3,"api":"https://gitee.com/hnkfmh/jsjar/blob/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/blob/master/changmeng.js"}, 
 //#磁力
 {"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
