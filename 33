@@ -10,7 +10,7 @@
   "lives": [
     {"name":"33","type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"30", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/30mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "sites":[{"key":"drpy_js_豆瓣","name":"豆瓣MH3V23","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
+  "sites":[{"key":"drpy_js_豆瓣","name":"豆瓣MH3V22","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
 //--------以上复制-------2024056-----------------------
     {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
      {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
@@ -36,8 +36,6 @@
     {"key":"6v磁力_drpy_js","name":"6v磁力","type":3, "api":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/js/6V%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"},
     {"key": "B站影视_drpy_js","name": "B站影视","type": 3,"api": "https://gitee.com/yin-weiwei_1/dr_py/raw/main/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext":"https://gitee.com/yin-weiwei_1/dr_py/raw/main/js/B%E7%AB%99%E5%BD%B1%E8%A7%86.js"},
     {"key":"49","name":"49┃采集","type":0,"api":"https://49zyw.com/api.php/provide/vod/at/xml","searchable":1,"changeable":1},
-
-    {"key": "多多弹幕","name": "🎖多多4K弹幕", "type": 3, "api": "csp_Wobg", "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php", "quickSearch": 1, "changeable": 1, "filterable": 1,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tv.yydsys.top/", "danmu": true },"timeout": 25 },
 
 //#磁力
 {"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
