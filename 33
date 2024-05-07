@@ -2,6 +2,7 @@
 //"spider":"https://out.zxglife.top/down.php/7c7281a78781bd352dfe9ca3e3293999.jar",
 //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
 //"spider":"https://gitee.com/hnkfmh/Mobtee/raw/master/fan.jar",
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=G1oL3BkL21haW4vMzNtb2IucGhw"]}]}],
 //数据接口说明：{"key":"key_〔资源名称〕","name":"『资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义官源资源列表〕","〔自定义官源资源列表〕"] },
 {"spider":"https://gitee.com/hnkfmh/jsjar/raw/master/天微.jar",
 
@@ -11,7 +12,7 @@
     {"name":"33","type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"30", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/30mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[{"key":"drpy_js_豆瓣","name":"豆瓣MH3V23","type":3,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://gitee.com/hnkfmh/jsjar/raw/master/douban.js"},
-//--------以上复制-------2024052----------------------
+//--------以上复制-------2024056-----------------------
     {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
      {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
      {"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
@@ -21,7 +22,8 @@
      {"key":"光速资源","name":"光速资源","type":1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
      {"key":"非凡","name":"非凡[fm]","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
      {"key":"贱贱","name":"🐓┃贱贱┃4K","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
-     {"key":"AppYs_南瓜","name":"🎃┃南瓜┃","type":3,"playerType":2,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},     {"key":"csp_MeiJu69","name":"🗽┃六九┃美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+     {"key":"AppYs_南瓜","name":"🎃┃南瓜┃","type":3,"playerType":2,"api":"https://gitee.com/hnkfmh/jsjar/raw/master/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"}, 
+     {"key":"csp_MeiJu69","name":"🗽┃六九┃美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
      {"key":"影图资源","name":"💡影图资源(官)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
      {"key":"玩偶哥哥","name":"💡云盘｜玩偶","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/jsjar/blob/master/玩偶哥哥.json"},     
      {"key":"天天开心","name":"💡云盘｜开心","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://szyyds.cn/tv/XYQHiker/天天开心.json","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},    
