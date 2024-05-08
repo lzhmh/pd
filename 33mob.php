@@ -1,10 +1,12 @@
 ﻿//Mobile频道数据收集自网络上的分享240428开通IPV6
 
-港澳H042,#genre#
+港澳H043,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
 
+凤凰中文,http://113.64.145.121:8081/hls/37/index.m3u8
+凤凰资讯,http://113.64.145.121:8081/hls/36/index.m3u8
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192$高清
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$高清
 
@@ -74,6 +76,7 @@ Now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://dl.zhoujie218.top/new/fhx.php?id=fhhk$上阿里
 
+凤凰香港,http://113.64.145.121:8081/hls/38/index.m3u8
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,https://ktpremium.com:443/M919HR/5577/492400?c=
 凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
@@ -3629,6 +3632,10 @@ Nature,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 教育综合,#genre#
 
+CETV1,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CETV2,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CETV3,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CETV4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CETV1,http://39.134.66.66/PLTV/88888888/224/3221225563/index.m3u8$鸡西移
 CETV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$ip6
 CETV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$ip6
