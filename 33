@@ -34,27 +34,8 @@
      {"key": "比特影视","name": "比特影视","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Butterfly.jar"},
      {"key": "农民影视","name": "农民影视","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
-    {
-      "key": "meowtv_rxdj",
-      "name": "锐星┃短剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.84.103:6822/api.php/app/"
-    },
-
-    {
-      "key": "meowtv_6Vcl",
-      "name": "新6v┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.xb6v.com/"
-    },
+    {"key": "meowtv_rxdj","name": "锐星┃短剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.84.103:6822/api.php/app/"},
+    {"key": "meowtv_6Vcl","name": "新6v┃磁力","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://www.xb6v.com/"},
     {"key": "meowtv_49ys","name": "四九┃资源","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
     {"key": "meowtv_yzys","name": "🥇┃柚子影视","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
     {"key":"观影台","name":"观影台","type":"3","jar":"https://gitee.com/yin-weiwei_1/tvbox/raw/master/XBPQ.jar","api":"csp_XBPQ","searchable":1,"changeable":1,"ext":"https://gitee.com/yin-weiwei_1/tvbox/raw/master/%E8%A7%82%E5%BD%B1%E5%8F%B0.json"},
