@@ -71,9 +71,8 @@
 			"type": 1,
 			"api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
 			"searchable": 1
-		},       "searchable": 1
-		},
-                                {
+		},   
+{
                                               "key": "voflix",
                                                "name": "🔴voflix┃采集",
                                                "type": 1,
