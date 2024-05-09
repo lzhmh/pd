@@ -1,10 +1,18 @@
 ﻿//Mobile频道数据收集自网络上的分享240428开通IPV6
 
-港澳H043,#genre#
+港澳H044,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
 
+凤凰中文,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8$连移s
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$连移s
+凤凰中文,http://103.95.24.37:880/fhws.m3u8
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰中文,http://113.64.145.91:8081/hls/37/index.m3u8
+凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰中文,http://113.64.145.121:8081/hls/37/index.m3u8
 凤凰资讯,http://113.64.145.121:8081/hls/36/index.m3u8
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192$高清
@@ -23,9 +31,6 @@
 
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f$mitv
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64$mitv
-
-凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8$连移s
-凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$连移s
 
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 
@@ -76,6 +81,7 @@ Now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://dl.zhoujie218.top/new/fhx.php?id=fhhk$上阿里
 
+凤凰香港,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://113.64.145.121:8081/hls/38/index.m3u8
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,https://ktpremium.com:443/M919HR/5577/492400?c=
@@ -507,6 +513,7 @@ JJ斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
 北京体育,http://221.219.71.190:18888/rtp/239.3.1.243:8000
 北京体育,http://iptv.8t.cx:8180/udp/239.3.1.243:8000
 北京体育,http://opdf.top:8088/rtp/239.3.1.243:8000$opdf1
+北京体育,http://218.241.192.50:8808/udp/239.3.1.243:8000
 
 黑龙江文体,http://39.134.66.66/PLTV/88888888/224/3221225965/index.m3u8$鸡移
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
@@ -546,47 +553,26 @@ JJ斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
 
+凤凰中文,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8$连移s
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$连移s
+凤凰中文,http://103.95.24.37:880/fhws.m3u8
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰中文,http://113.64.145.91:8081/hls/37/index.m3u8
+凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
+凤凰中文,http://113.64.145.121:8081/hls/37/index.m3u8
+凤凰资讯,http://113.64.145.121:8081/hls/36/index.m3u8
+凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192$高清
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$高清
+
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.0.118:2191$nas
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.1.4:2191$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192$nas
 
-凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192$高清
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$高清
-
 凤凰中文,http://php.jdshipin.com:8880/jydx.php?id=37
 凤凰资讯,http://php.jdshipin.com:8880/jydx.php?id=36
-
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6#http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8$ip6
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
-
-凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f$mitv
-凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64$mitv
-
-凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8$连移s
-凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$连移s
-
-凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-
-凤凰中文,http://220.189.92.253:9999/rtp/233.50.200.191:5140$高清
-凤凰资讯,http://220.189.92.253:9999/rtp/233.50.200.192:5140$高清
-
-凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
-凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
-
-凤凰中文,http://1.62.64.252:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv$哈联
-凤凰资讯,http://1.62.64.252:80/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv$哈联
-
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$天移
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8$天移
-
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$天移
-凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$天移
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$天移
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$天移
-
-凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8$泛播
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8$泛播
 
 中天新闻,https://s2.pub/cctv-17
 中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
@@ -1009,6 +995,7 @@ CN卡通频道,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d6
 
 环球体育,#genre#
 
+FIFA 足球,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 曼联官方MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
@@ -1337,8 +1324,6 @@ inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 游戏风云,http://nas.jdshipin.com:8801/bst.php?id=yxfy
 游戏风云,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8$ip6
 游戏风云,http://39.134.19.252:6610/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-李子柒美食,http://159.75.85.63:35455/douyu/2901080
 
 百事独播,https://bp-caster.bestv.com.cn/944/3/video.m3u8
 百事TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
@@ -1998,14 +1983,25 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 上视新闻,http://nas.jdshipin.com:8801/bst.php?id=shxwzh
 上海都市,http://nas.jdshipin.com:8801/bst.php?id=shds
 
+郑铁有线,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+
 电影频道,#genre#
 
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$ip6
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$ip6
-CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$ip6
+CHC影迷电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$ip6
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8$ip6
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8$ip6
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8$ip6
+
+CHC影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+
+CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
+CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
+CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 
 第一剧场,http://home.sylaigym.top:8887/rtp/239.69.1.74:10084
 第一剧场,http://171.117.73.52:8085/rtp/226.0.2.221:9680
@@ -2017,9 +2013,9 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$ipv6
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$ipv6
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$ipv6
+CHC影迷电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$ipv6
 
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$西移索
+CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$西移索
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$西移索
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$西移索
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$哈移
@@ -2032,19 +2028,19 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$哈移
 
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$西移
+CHC影迷电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$西移
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8$西移
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8$西移
 
-CHC高清电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+CHC影迷电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC影迷电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 
 CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3b6$mitv
-CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11$mitv
+CHC影迷电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11$mitv
 CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf$mitv
 
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8$鸡西移
