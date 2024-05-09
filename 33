@@ -52,6 +52,12 @@
     {"key":"csp_Xdys","name":"💥小点","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Yoursmile.jar"},
     {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Yoursmile.jar"},
 
+    {"key": "横版影院", "name": "🔴横版┃采集", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1,  "filterable": 1,  "categories": [ "短剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧"] },
+    {"key": "最大资源","name": "🔴最大┃采集","type": 1,"api": "http://zuidazy.me/api.php/provide/vod/","searchable": 1},
+    {"key": "奇虎资源","name": "🔴奇虎┃采集","type": 1,"api": "https://caiji.qhzyapi.com/api.php/provide/vod/","searchable": 1},  
+    {"key": "voflix","name": "🔴voflix┃采集","type": 1,"api": "https://www.voflix.me/api.php/provide/vod","searchable": 1 },
+    {"key": "360","name": "🔴360┃采集","type": 1,"api": "https://360zy.com/api.php/provide/vod/","searchable": 1},
+
 //#磁力
 {"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
