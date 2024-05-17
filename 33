@@ -68,6 +68,11 @@
     {"key":"泰泰","name":"🐼时光┃泰泰","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
     {"key":"快看资源","name":"🐼时光┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 
+    {"key":"guanwangzy","name":"官网资源","type":1,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":2,"jar":"http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001","ext":"http://app.kzjtv.com"},
+    {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":2,"jar":"http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001","ext":"http://op.ysdqjs.cn"},
+    {"key":"5566","name":"5566","type":1,"api":"https://caiji.5566ziyuan.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playurl":"http://json.xn--cerrw216dja891if19b.xn--fiqs8s/?url=","filterable":1},
+    
 //#磁力
 {"key":"荐片","name":"磁力｜荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
 {"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
@@ -143,7 +148,6 @@
      {"key":"1080资源","name":"🐝1️080资源","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"changeable":1},
      {"key":"量子云播","name":"🐝量子云播","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"json:https://www.itvbox.cc/fflz.php?url="},
      {"key":"drpy_js_两个BT","name":"🐝两个BT（js）","type":3,"api":"https://agit.ai/65012833/lib/raw/branch/master/两个BT1.js","ext":"https://agit.ai/65012833/lib/raw/branch/master/两个BT2.js"},
-     {"key":"csp_XBPQ极品影视","name":"🐝极品影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e6%9e%81%e5%93%81%e5%bd%b1%e8%a7%86.json","jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/xBPQ.jar"},
      {"key":"1080zyk","name":"🐝1080ZYK","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php",	"searchable":1,"quickSearch": 0},     
      {"key":"随缘电影","name":"🐝随缘电影(聚)","type":1,"api":"https://baobei666.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
      {"key":"csp_xBPQ_爱看影视","name":"爱看影视|xBPQ|","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/sub/xBPQ/ikan.json","jar":"http://9xi4o.tk/sub/xBPQ.jar"},
