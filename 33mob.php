@@ -1,9 +1,12 @@
-﻿//Mobile频道数据收集自网络上的分享240510开通IPV6
-港澳H046,#genre#
+﻿//Mobile频道数据收集自网络上的分享240519开通IPV6
+港澳H047,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
-
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
+凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.1.4:2191$nas
+凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192$nas
 凤凰中文,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv$南腾讯
 凤凰资讯,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv$南腾讯
 凤凰资讯,http://121.24.99.32:8090/hls/72/index.m3u8$邯联
@@ -22,10 +25,7 @@
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191$高清
 
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.0.118:2191$nas
-凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.1.4:2191$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192$nas
-凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192$nas
-
 凤凰中文,http://php.jdshipin.com:8880/jydx.php?id=37
 凤凰资讯,http://php.jdshipin.com:8880/jydx.php?id=36
 
@@ -81,6 +81,7 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://dl.zhoujie218.top/new/fhx.php?id=fhhk$上阿里
 
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$南腾讯
 凤凰香港,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv$南腾讯
 凤凰香港,http://113.64.145.121:8081/hls/38/index.m3u8$揭信
 凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8$揭信
