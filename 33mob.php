@@ -93,6 +93,16 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 凤凰香港,http://gxdl-lhs.8866.org:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8$ip6
 
+中天新闻,https://s2.pub/cctv-17
+中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+
+东森新闻,https://s2.pub/cctv-18
+东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
+东森新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d$mitv
+
+台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
@@ -448,8 +458,8 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 
 棋牌娱乐,#genre#
 
-体育人物,http://159.75.85.63:35455/douyu/8434598
 体育人物,http://zzy789.xyz/douyu1.php?id=8434598
+体育人物,http://159.75.85.63:35455/douyu/8434598
 
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
@@ -463,22 +473,6 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 
 掼中冠,http://43.138.170.29:35455/huya/139165
 掼中冠,https://live.metshop.top/huya/139165
-
-帽子象棋,http://159.75.85.63:35455/douyu/4487219
-象棋死神,http://159.75.85.63:35455/douyu/10226687
-大神象棋,http://159.75.85.63:35455/douyu/1227260
-飞刀陷阱,http://159.75.85.63:35455/douyu/11576846
-飞刀讲解,http://159.75.85.63:35455/douyu/10237088
-飞刀谱,http://159.75.85.63:35455/douyu/11765935
-小鹤求败,http://159.75.85.63:35455/douyu/3830820
-旭宝斗地主,http://159.75.85.63:35455/douyu/9804176
-欢乐斗地主,http://159.75.85.63:35455/douyu/8324074
-JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
-弈夫围棋,http://159.75.85.63:35455/douyu/6399350
-
-八卦大师,http://159.75.85.63:35455/douyu/851040
-八卦大师,http://43.138.170.29:35455/douyu/851040
-八卦大师,http://zzy789.xyz/douyu1.php?id=851040
 
 帽子象棋,http://43.138.170.29:35455/douyu/4487219
 大神象棋,http://43.138.170.29:35455/douyu/1227260
@@ -501,6 +495,22 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 欢乐斗地主,http://zzy789.xyz/douyu1.php?id=8324074
 JJ斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
+
+帽子象棋,http://159.75.85.63:35455/douyu/4487219
+象棋死神,http://159.75.85.63:35455/douyu/10226687
+大神象棋,http://159.75.85.63:35455/douyu/1227260
+飞刀陷阱,http://159.75.85.63:35455/douyu/11576846
+飞刀讲解,http://159.75.85.63:35455/douyu/10237088
+飞刀谱,http://159.75.85.63:35455/douyu/11765935
+小鹤求败,http://159.75.85.63:35455/douyu/3830820
+旭宝斗地主,http://159.75.85.63:35455/douyu/9804176
+欢乐斗地主,http://159.75.85.63:35455/douyu/8324074
+JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
+弈夫围棋,http://159.75.85.63:35455/douyu/6399350
+
+八卦大师,http://zzy789.xyz/douyu1.php?id=851040
+八卦大师,http://159.75.85.63:35455/douyu/851040
+八卦大师,http://43.138.170.29:35455/douyu/851040
 
 弈坛春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 弈坛春秋,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$ip6
@@ -1247,48 +1257,34 @@ inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 健康养生,http://nas.jdshipin.com:8801/bst.php?id=jkys
 健康养生,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 
-科学放映厅,http://159.75.85.63:35455/douyu/9439712
 科学放映厅,http://zzy789.xyz/douyu1.php?id=9439712
 科学放映厅,http://43.138.170.29:35455/douyu/9439712
 
-纪录片之家,http://159.75.85.63:35455/douyu/8834003
 纪录片之家,http://zzy789.xyz/douyu1.php?id=8834003
 纪录片之家,http://43.138.170.29:35455/douyu/8834003
 
-咸鱼放映,http://159.75.85.63:35455/douyu/442280
 咸鱼放映,http://zzy789.xyz/douyu1.php?id=442280
 
 未解之谜,http://zzy789.xyz/douyu1.php?id=9369468
-未解之谜,http://159.75.85.63:35455/douyu/9369468
 
-科技发明,http://159.75.85.63:35455/douyu/9317739
 科技发明,http://zzy789.xyz/douyu1.php?id=9317739
 
-宇宙科普,http://159.75.85.63:35455/douyu/9412981
 宇宙科普,http://zzy789.xyz/douyu1.php?id=9412981
 
-观察宇宙,http://159.75.85.63:35455/douyu/8667001
 观察宇宙,http://zzy789.xyz/douyu1.php?id=8667001
 
-杰瑞生活,http://159.75.85.63:35455/douyu/7357786
 杰瑞生活,http://zzy789.xyz/douyu1.php?id=7357786
 
-理论科普,http://159.75.85.63:35455/douyu/9385288
 理论科普,http://zzy789.xyz/douyu1.php?id=9385288
 
-林超科普,http://159.75.85.63:35455/douyu/9447974
 林超科普,http://zzy789.xyz/douyu1.php?id=9447974
 
-斗鱼历史1,http://159.75.85.63:35455/douyu/9738854
 斗鱼历史1,http://zzy789.xyz/douyu1.php?id=9738854
 
-斗鱼历史2,http://159.75.85.63:35455/douyu/10102281
 斗鱼历史2,http://zzy789.xyz/douyu1.php?id=10102281
 
-斗鱼历史3,http://159.75.85.63:35455/douyu/1330448
 斗鱼历史3,http://zzy789.xyz/douyu1.php?id=1330448
 
-老高闲聊,http://159.75.85.63:35455/douyu/838632
 老高闲聊,http://zzy789.xyz/douyu1.php?id=838632
 
 都市剧场,http://nas.jdshipin.com:8801/bst.php?id=dsjc
@@ -2082,7 +2078,6 @@ TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist
 
 华宇影视,http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8$鸡西移
 
-邵氏影院,http://159.75.85.63:35455/douyu/4246519
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 邵氏影院,http://mmitv.top:80/test/douyu.php?id=4246519
@@ -2940,14 +2935,6 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 
 斗鱼轮播,#genre#
 
-犯罪片,http://159.75.85.63:35455/douyu/747764
-苹果影院,http://159.75.85.63:35455/douyu/2793084
-漫威科幻,http://159.75.85.63:35455/douyu/6140589
-桃花影院,http://159.75.85.63:35455/douyu/7305938
-邦德影院,http://159.75.85.63:35455/douyu/9292499
-可乐电影,http://159.75.85.63:35455/douyu/20415
-4K影院,http://159.75.85.63:35455/douyu/9249162
-
 犯罪片,http://zzy789.xyz/douyu1.php?id=747764
 漫威科幻,http://zzy789.xyz/douyu1.php?id=6140589
 苹果影院,http://zzy789.xyz/douyu1.php?id=2793084
@@ -2959,6 +2946,14 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 粤语电影,http://zzy789.xyz/douyu1.php?id=6566671
 
 粤语电影3,http://zzy789.xyz/douyu1.php?id=1226741
+
+犯罪片,http://159.75.85.63:35455/douyu/747764
+苹果影院,http://159.75.85.63:35455/douyu/2793084
+漫威科幻,http://159.75.85.63:35455/douyu/6140589
+桃花影院,http://159.75.85.63:35455/douyu/7305938
+邦德影院,http://159.75.85.63:35455/douyu/9292499
+可乐电影,http://159.75.85.63:35455/douyu/20415
+4K影院,http://159.75.85.63:35455/douyu/9249162
 
 歐美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 电影輪播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28205255
@@ -4526,17 +4521,17 @@ CNTV自然,#genre#
 
 小品汇,#genre#
 
+本山小品,http://zzy789.xyz/douyu1.php?id=9817716
 本山小品,http://159.75.85.63:35455/douyu/9817716
 本山小品,http://43.138.170.29:35455/douyu/9817716
-本山小品,http://zzy789.xyz/douyu1.php?id=9817716
 
+吐槽大会,http://zzy789.xyz/douyu1.php?id=9236042
 吐槽大会,http://159.75.85.63:35455/douyu/9236042
 吐槽大会,http://43.138.170.29:35455/douyu/9236042
-吐槽大会,http://zzy789.xyz/douyu1.php?id=9236042
 
+辽宁小品,http://zzy789.xyz/douyu1.php?id=9322175
 辽宁小品,http://159.75.85.63:35455/douyu/9322175
 辽宁小品,http://43.138.170.29:35455/douyu/9322175
-辽宁小品,http://zzy789.xyz/douyu1.php?id=9322175
 
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
