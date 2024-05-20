@@ -6,7 +6,18 @@
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
 
+凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012$kl
+凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708$kl
+
 凤凰资讯,http://william8073.eu.org:9000/live.m3u8?c=19$will
+
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234$cs
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000$cs
+
+凤凰资讯,http://120.41.124.228:8888/rtp/239.61.2.183:9086
+凤凰资讯,http://www.yao87.com:4022/udp/239.76.246.135:1234
+凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.1.4:2191$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192$nas
@@ -148,7 +159,15 @@ NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/ind
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
+HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
+HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
+
+翡翠台,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
+
 无线新闻,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://888.iptv543.com/Smartv.php?id=inews_twn
+无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
+
 明珠台,http://zsntlqj.xicp.net:8896/bysid/2$中山信
 TVB,http://zsntlqj.xicp.net:8896/bysid/82$中山信
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83$中山信
@@ -615,13 +634,27 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-寰宇新闻,http://888.iptv543.com/Smartv.php?id=huanyuxinwen_twn$888
+华视新闻,http://william8073.eu.org:9000/live.m3u8?c=18$will
+中视新闻,http://william8073.eu.org:9000/live.m3u8?c=7$will
+寰宇新闻,http://william8073.eu.org:9000/live.m3u8?c=26$will
+寰宇新闻,http://william8073.eu.org:9000/live.m3u8?c=10$will
+东森财经,http://william8073.eu.org:9000/live.m3u8?c=9$will
+台视新闻,http://william8073.eu.org:9000/live.m3u8?c=11$will
+民视新闻,http://william8073.eu.org:9000/live.m3u8?c=12$will
+三立iNEWS,http://william8073.eu.org:9000/live.m3u8?c=15$will
+三立NEWS+,http://william8073.eu.org:9000/live.m3u8?c=22$will
+中视经典综艺,http://william8073.eu.org:9000/live.m3u8?c=28$will
+中视台湾志,http://william8073.eu.org:9000/live.m3u8?c=29$will
+中视大陆寻奇,http://william8073.eu.org:9000/live.m3u8?c=37$will
+大爱1台,http://william8073.eu.org:9000/live.m3u8?c=16$will
+大爱2台,http://william8073.eu.org:9000/live.m3u8?c=17$will
+
+中视新闻,http://888.iptv543.com/Smartv.php?id=ca73a13c37$888
 台视新闻,http://888.iptv543.com/Smartv.php?id=ttvnews_twn$888
 民视新闻,http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan$888
 年代新闻,http://888.iptv543.com/Smartv.php?id=niandainews_twn$888
 民视台湾,http://888.iptv543.com/Smartv.php?id=ftvtaiwan_twn$888
 民视第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn$888
-中视新闻,http://888.iptv543.com/Smartv.php?id=ca73a13c37$888
 三立综合,http://888.iptv543.com/Smartv.php?id=sanlizhonghe$888
 三立戏剧,http://888.iptv543.com/Smartv.php?id=sanlixiju_twn$888
 三立台湾,http://888.iptv543.com/Smartv.php?id=sanlitaiwan$888
@@ -636,7 +669,7 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 公视,http://888.iptv543.com/Smartv.php?id=ctv_taiwan$888
 TVBS新闻,http://888.iptv543.com/Smartv.php?id=tvbs_n$888
 
-台视新闻http://111.76.16.111:9000/live.m3u8?c=11
+台视新闻,http://111.76.16.111:9000/live.m3u8?c=11
 TVBS,http://111.76.16.111:9000/live.m3u8?c=1
 TVBSNEWS,http://111.76.16.111:9000/live.m3u8?c=2
 TVBS新闻,http://111.76.16.111:9000/live.m3u8?c=3
@@ -649,20 +682,7 @@ LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
 中视经典综艺,http://111.76.16.111:9000/live.m3u8?c=28
 中视台湾志,http://111.76.16.111:9000/live.m3u8?c=29
 中视大陆寻奇,http://111.76.16.111:9000/live.m3u8?c=37
-中视新闻,http://william8073.eu.org:9000/live.m3u8?c=7$will
-东森财经,http://william8073.eu.org:9000/live.m3u8?c=9$will
-寰宇新闻,http://william8073.eu.org:9000/live.m3u8?c=10$will
-台视新闻,http://william8073.eu.org:9000/live.m3u8?c=11$will
-民视新闻,http://william8073.eu.org:9000/live.m3u8?c=12$will
-三立iNEWS,http://william8073.eu.org:9000/live.m3u8?c=15$will
-华视新闻,http://william8073.eu.org:9000/live.m3u8?c=18$will
-三立NEWS+,http://william8073.eu.org:9000/live.m3u8?c=22$will
-寰宇新闻,http://william8073.eu.org:9000/live.m3u8?c=26$will
-中视经典综艺,http://william8073.eu.org:9000/live.m3u8?c=28$will
-中视台湾志,http://william8073.eu.org:9000/live.m3u8?c=29$will
-中视大陆寻奇,http://william8073.eu.org:9000/live.m3u8?c=37$will
-大爱1台,http://william8073.eu.org:9000/live.m3u8?c=16$will
-大爱2台,http://william8073.eu.org:9000/live.m3u8?c=17$will
+
 民视第一,http://live.9528.eu.org/4gtv.php?channel=1$liv
 民视台湾,http://live.9528.eu.org/4gtv.php?channel=2$liv
 民视,http://live.9528.eu.org/4gtv.php?channel=3$liv
