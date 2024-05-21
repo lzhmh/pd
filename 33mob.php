@@ -632,6 +632,32 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 中天新闻,https://s2.pub/cctv-17
 中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 
+TVBSHD,http://888.iptv543.com/Smartv.php?id=tvbs
+中天新闻,http://888.iptv543.com/Smartv.php?id=ctinews
+中天亚洲,http://888.iptv543.com/Smartv.php?id=ctiasia_twn
+中视新闻,http://888.iptv543.com/Smartv.php?id=ca73a13c37$888
+東森新闻,http://888.iptv543.com/Smartv.php?id=ettvnews
+寰宇新闻,http://888.iptv543.com/Smartv.php?id=huanyuxinwen_twn
+非凡新闻,http://888.iptv543.com/Smartv.php?id=feifannews_twn
+台视新闻,http://888.iptv543.com/Smartv.php?id=ttvnews_twn$888
+民视新闻,http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan$888
+年代新闻,http://888.iptv543.com/Smartv.php?id=niandainews_twn$888
+民视台湾,http://888.iptv543.com/Smartv.php?id=ftvtaiwan_twn$888
+民视第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn$888
+三立综合,http://888.iptv543.com/Smartv.php?id=sanlizhonghe$888
+三立戏剧,http://888.iptv543.com/Smartv.php?id=sanlixiju_twn$888
+三立台湾,http://888.iptv543.com/Smartv.php?id=sanlitaiwan$888
+民视,http://888.iptv543.com/Smartv.php?id=ftvhd_taiwan$888
+东森财经,http://888.iptv543.com/Smartv.php?id=ettvcaijing_twn$888
+龙祥时代,http://888.iptv543.com/Smartv.php?id=lungxiangtime_twn$888
+龙祥时代,http://888.iptv543.com/Smartv.php?id=cb7a1fec69$888
+东森综合,http://888.iptv543.com/Smartv.php?id=ettvzhonghe$888
+东森洋片,http://888.iptv543.com/Smartv.php?id=ettvwestern$888
+东森超视,http://888.iptv543.com/Smartv.php?id=ettvsuper$888
+大爱,http://888.iptv543.com/Smartv.php?id=daai_twn$888
+公视,http://888.iptv543.com/Smartv.php?id=ctv_taiwan$888
+TVBS新闻,http://888.iptv543.com/Smartv.php?id=tvbs_n$888
+
 东森新闻,https://s2.pub/cctv-18
 东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
@@ -653,26 +679,6 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 中视大陆寻奇,http://william8073.eu.org:9000/live.m3u8?c=37$will
 大爱1台,http://william8073.eu.org:9000/live.m3u8?c=16$will
 大爱2台,http://william8073.eu.org:9000/live.m3u8?c=17$will
-
-中视新闻,http://888.iptv543.com/Smartv.php?id=ca73a13c37$888
-台视新闻,http://888.iptv543.com/Smartv.php?id=ttvnews_twn$888
-民视新闻,http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan$888
-年代新闻,http://888.iptv543.com/Smartv.php?id=niandainews_twn$888
-民视台湾,http://888.iptv543.com/Smartv.php?id=ftvtaiwan_twn$888
-民视第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn$888
-三立综合,http://888.iptv543.com/Smartv.php?id=sanlizhonghe$888
-三立戏剧,http://888.iptv543.com/Smartv.php?id=sanlixiju_twn$888
-三立台湾,http://888.iptv543.com/Smartv.php?id=sanlitaiwan$888
-民视,http://888.iptv543.com/Smartv.php?id=ftvhd_taiwan$888
-龙祥时代,http://888.iptv543.com/Smartv.php?id=lungxiangtime_twn$888
-龙祥时代,http://888.iptv543.com/Smartv.php?id=cb7a1fec69$888
-东森综合,http://888.iptv543.com/Smartv.php?id=ettvzhonghe$888
-东森洋片,http://888.iptv543.com/Smartv.php?id=ettvwestern$888
-东森超视,http://888.iptv543.com/Smartv.php?id=ettvsuper$888
-东森财经,http://888.iptv543.com/Smartv.php?id=ettvcaijing_twn$888
-大爱,http://888.iptv543.com/Smartv.php?id=daai_twn$888
-公视,http://888.iptv543.com/Smartv.php?id=ctv_taiwan$888
-TVBS新闻,http://888.iptv543.com/Smartv.php?id=tvbs_n$888
 
 台视新闻,http://111.76.16.111:9000/live.m3u8?c=11
 TVBS,http://111.76.16.111:9000/live.m3u8?c=1
@@ -1015,6 +1021,7 @@ CN卡通频道,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d6
 
 环球体育,#genre#
 
+皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 FIFA 足球,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 曼联官方MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
