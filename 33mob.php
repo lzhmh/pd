@@ -1,4 +1,4 @@
-﻿//Mobile频道数据收集自网络上的分享240519开通IPV6
+﻿//Mobile频道数据收集自网络上的分享240521开通IPV6
 港澳H048,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
@@ -112,16 +112,6 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 凤凰香港,http://gxdl-lhs.8866.org:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8$ip6
 
-中天新闻,https://s2.pub/cctv-17
-中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-
-东森新闻,https://s2.pub/cctv-18
-东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
-东森新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d$mitv
-
-台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
@@ -218,7 +208,7 @@ RHK31,https://s2.pub/cctv-14
 无线财经,http://bziyunshao.synology.me:8890/bysid/85
 香港J2台,http://bziyunshao.synology.me:8890/bysid/82
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
-國際財經,http://bziyunshao.synology.me:8891/bysid/76
+國際财经,http://bziyunshao.synology.me:8891/bysid/76
 HOY資訊,http://bziyunshao.synology.me:8891/bysid/78
 HOYTV,http://bziyunshao.synology.me:8891/bysid/77
 
@@ -630,13 +620,26 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 
 中天新闻,https://s2.pub/cctv-17
-中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+中天新闻,http://23.224.232.221:81/kk.php?id=ctinews
+中天亚洲,http://23.224.232.221:81/kk.php?id=ctiasia_twn
+中视新闻,http://23.224.232.221:81/kk.php?id=zhongshinews_twn
+TVBSHD,http://23.224.232.221:81/kk.php?id=tvbs
+TVBS新闻,http://23.224.232.221:81/kk.php?id=tvbs_n
+东森新闻,http://23.224.232.221:81/kk.php?id=ettvnews
+东森财经,http://23.224.232.221:81/kk.php?id=ettvcaijing_twn
+台视新闻,http://23.224.232.221:81/kk.php?id=ttvnews_twn
+寰宇新闻,http://23.224.232.221:81/kk.php?id=huanyuxinwen_twn
+寰宇财经,http://23.224.232.221:81/kk.php?id=huanyutaiwan_twn
+年代新闻,http://23.224.232.221:81/kk.php?id=niandainews_twn
+民视台湾,http://23.224.232.221:81/kk.php?id=ftvtaiwan_twn
+民视新闻,http://23.224.232.221:81/kk.php?id=ftvnew_taiwan
+非凡新闻,http://23.224.232.221:81/kk.php?id=feifannews_twn
 
 TVBSHD,http://888.iptv543.com/Smartv.php?id=tvbs
 中天新闻,http://888.iptv543.com/Smartv.php?id=ctinews
 中天亚洲,http://888.iptv543.com/Smartv.php?id=ctiasia_twn
 中视新闻,http://888.iptv543.com/Smartv.php?id=ca73a13c37$888
-東森新闻,http://888.iptv543.com/Smartv.php?id=ettvnews
+东森新闻,http://888.iptv543.com/Smartv.php?id=ettvnews
 寰宇新闻,http://888.iptv543.com/Smartv.php?id=huanyuxinwen_twn
 非凡新闻,http://888.iptv543.com/Smartv.php?id=feifannews_twn
 台视新闻,http://888.iptv543.com/Smartv.php?id=ttvnews_twn$888
@@ -645,19 +648,17 @@ TVBSHD,http://888.iptv543.com/Smartv.php?id=tvbs
 民视台湾,http://888.iptv543.com/Smartv.php?id=ftvtaiwan_twn$888
 民视第一,http://888.iptv543.com/Smartv.php?id=lunghuajingdian_twn$888
 三立综合,http://888.iptv543.com/Smartv.php?id=sanlizhonghe$888
-三立戏剧,http://888.iptv543.com/Smartv.php?id=sanlixiju_twn$888
 三立台湾,http://888.iptv543.com/Smartv.php?id=sanlitaiwan$888
 民视,http://888.iptv543.com/Smartv.php?id=ftvhd_taiwan$888
 东森财经,http://888.iptv543.com/Smartv.php?id=ettvcaijing_twn$888
 龙祥时代,http://888.iptv543.com/Smartv.php?id=lungxiangtime_twn$888
 龙祥时代,http://888.iptv543.com/Smartv.php?id=cb7a1fec69$888
 东森综合,http://888.iptv543.com/Smartv.php?id=ettvzhonghe$888
-东森洋片,http://888.iptv543.com/Smartv.php?id=ettvwestern$888
-东森超视,http://888.iptv543.com/Smartv.php?id=ettvsuper$888
-大爱,http://888.iptv543.com/Smartv.php?id=daai_twn$888
 公视,http://888.iptv543.com/Smartv.php?id=ctv_taiwan$888
 TVBS新闻,http://888.iptv543.com/Smartv.php?id=tvbs_n$888
 
+中天綜合,http://23.224.232.221:81/kk.php?id=ctizhonghe
+中视,http://23.224.232.221:81/kk.php?id=zhongshihd_twn
 东森新闻,https://s2.pub/cctv-18
 东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
@@ -674,11 +675,6 @@ TVBS新闻,http://888.iptv543.com/Smartv.php?id=tvbs_n$888
 民视新闻,http://william8073.eu.org:9000/live.m3u8?c=12$will
 三立iNEWS,http://william8073.eu.org:9000/live.m3u8?c=15$will
 三立NEWS+,http://william8073.eu.org:9000/live.m3u8?c=22$will
-中视经典综艺,http://william8073.eu.org:9000/live.m3u8?c=28$will
-中视台湾志,http://william8073.eu.org:9000/live.m3u8?c=29$will
-中视大陆寻奇,http://william8073.eu.org:9000/live.m3u8?c=37$will
-大爱1台,http://william8073.eu.org:9000/live.m3u8?c=16$will
-大爱2台,http://william8073.eu.org:9000/live.m3u8?c=17$will
 
 台视新闻,http://111.76.16.111:9000/live.m3u8?c=11
 TVBS,http://111.76.16.111:9000/live.m3u8?c=1
@@ -690,10 +686,6 @@ TVBS新闻,http://111.76.16.111:9000/live.m3u8?c=3
 LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
 三立iNEWS,http://111.76.16.111:9000/live.m3u8?c=15
 三立NEWS+,http://111.76.16.111:9000/live.m3u8?c=22
-中视经典综艺,http://111.76.16.111:9000/live.m3u8?c=28
-中视台湾志,http://111.76.16.111:9000/live.m3u8?c=29
-中视大陆寻奇,http://111.76.16.111:9000/live.m3u8?c=37
-
 民视第一,http://live.9528.eu.org/4gtv.php?channel=1$liv
 民视台湾,http://live.9528.eu.org/4gtv.php?channel=2$liv
 民视,http://live.9528.eu.org/4gtv.php?channel=3$liv
@@ -724,16 +716,6 @@ LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
 寰宇新闻,http://live.9528.eu.org/4gtv.php?channel=280$liv
 东森新闻,http://live.9528.eu.org/4gtv.php?channel=292$liv
 东森财经,http://live.9528.eu.org/4gtv.php?channel=293$liv
-
-三立新闻,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-壹新闻,http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-镜新闻,http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
-LIVE三立,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv 
-民视新闻,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
-中视新闻,http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv 
-台视新闻,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv 
-寰宇新闻,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv  
-非凡新闻,http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
 
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
