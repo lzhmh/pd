@@ -230,7 +230,7 @@
     {"key":"戏 曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
     {"key":"酷奇","name":"🎤酷奇┃MV","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
     {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"},
-    {"key": "Music_spider","name": "音乐欣赏","api": "csp_Music","type": 3,"filterable": 0,"quickSearch": 1,"searchable": 1,"jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"}],
+    {"key": "Music_spider","name": "音乐欣赏","api": "csp_Music","type": 3,"filterable": 0,"quickSearch": 1,"searchable": 1,"ext": "","jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"}],
 //-----------------------key end----------
 
 "parses": [
