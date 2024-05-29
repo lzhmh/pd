@@ -1,10 +1,29 @@
-﻿//Mobile频道数据收集自网络上的分享240519开通IPV6
-港澳H047,#genre#
+﻿//Mobile频道数据收集自网络上的分享240521开通IPV6
+港澳H049,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
+
+凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8$s
+凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012$kl
+凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708$kl
+
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
+
+凤凰资讯,http://william8073.eu.org:9000/live.m3u8?c=19$will
+凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086$e
+
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234$cs
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000$cs
+
+凤凰资讯,http://120.41.124.228:8888/rtp/239.61.2.183:9086
+凤凰资讯,http://www.yao87.com:4022/udp/239.76.246.135:1234
+凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.1.4:2191$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192$nas
 凤凰中文,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv$南腾讯
@@ -15,6 +34,9 @@
 凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$连移s
 凤凰中文,http://103.95.24.37:880/fhws.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰中文,http://113.64.145.132:8081/hls/37/index.m3u8
+凤凰资讯,http://113.64.145.61:8081/hls/36/index.m3u8
+凤凰资讯,http://113.64.145.229:8081/hls/36/index.m3u8
 凤凰中文,http://113.64.145.91:8081/hls/37/index.m3u8$揭信
 凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8$揭信
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8$揭信
@@ -93,16 +115,6 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 凤凰香港,http://gxdl-lhs.8866.org:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8$ip6
 
-中天新闻,https://s2.pub/cctv-17
-中天新闻,http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-
-东森新闻,https://s2.pub/cctv-18
-东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
-东森新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d$mitv
-
-台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
@@ -145,6 +157,23 @@ NHKWorld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/ind
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
+HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
+HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
+
+翡翠台,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
+
+无线新闻,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://888.iptv543.com/Smartv.php?id=inews_twn
+无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
+
+明珠台,http://zsntlqj.xicp.net:8896/bysid/2$中山信
+TVB,http://zsntlqj.xicp.net:8896/bysid/82$中山信
+无线新闻,http://zsntlqj.xicp.net:8896/bysid/83$中山信
+
+无线新闻,http://888.iptv543.com/Smartv.php?id=inews_twn
+J2,http://888.iptv543.com/Smartv.php?id=j2_twn
+VIUTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
+
 Now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 
 翡翠台,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
@@ -182,7 +211,7 @@ RHK31,https://s2.pub/cctv-14
 无线财经,http://bziyunshao.synology.me:8890/bysid/85
 香港J2台,http://bziyunshao.synology.me:8890/bysid/82
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
-國際財經,http://bziyunshao.synology.me:8891/bysid/76
+國際财经,http://bziyunshao.synology.me:8891/bysid/76
 HOY資訊,http://bziyunshao.synology.me:8891/bysid/78
 HOYTV,http://bziyunshao.synology.me:8891/bysid/77
 
@@ -854,6 +883,7 @@ CN卡通频道,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d6
 
 环球体育,#genre#
 
+皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 FIFA 足球,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 曼联官方MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
@@ -1014,6 +1044,8 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 军事评论,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 军事评论,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 
+兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
+兵器科技,http://60.6.255.8:2180/live/gfjs/index.m3u8
 兵器科技,http://home.sylaigym.top:8887/rtp/239.69.1.79:10114
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$ip6
@@ -3431,6 +3463,8 @@ Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 发现之旅,http://111.20.35.103:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8
 
+世界地理,http://222.223.118.222:2180/live/sjdl/index.m3u8
+世界地理,http://60.6.255.8:2180/live/sjdl/index.m3u8
 世界地理,http://113.9.152.139:88/hls/118/index.m3u8
 世界地理.http://home.sylaigym.top:8887/rtp/239.69.1.91:10186
 世界地理,http://ssrs2004.win:8888/udp/239.111.205.71:5140
