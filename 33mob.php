@@ -1,5 +1,5 @@
 ﻿//Mobile频道数据收集自网络上的分享240521开通IPV6
-港澳H048,#genre#
+港澳H049,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
@@ -9,6 +9,9 @@
 凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8$s
 凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012$kl
 凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708$kl
+
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 
 凤凰资讯,http://william8073.eu.org:9000/live.m3u8?c=19$will
 凤凰资讯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086$e
@@ -619,6 +622,20 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 凤凰中文,http://103.95.24.37:880/fhws.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 
+中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1
+TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5
+三立新闻,http://news.666.hz.cz:2086/live.m3u8?c=6
+镜新闻台,http://news.666.hz.cz:2086/live.m3u8?c=10
+中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9
+中视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=6
+中视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=6
+三立新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=12
+寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1
+
+TVBS新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1
+TVBS新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=5
+东森新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=9
+
 中天新闻,https://s2.pub/cctv-17
 中天新闻,http://23.224.232.221:81/kk.php?id=ctinews
 中天亚洲,http://23.224.232.221:81/kk.php?id=ctiasia_twn
@@ -1164,6 +1181,8 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 军事评论,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 军事评论,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 
+兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
+兵器科技,http://60.6.255.8:2180/live/gfjs/index.m3u8
 兵器科技,http://home.sylaigym.top:8887/rtp/239.69.1.79:10114
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8$ip6
@@ -3581,6 +3600,8 @@ Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 发现之旅,http://111.20.35.103:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8
 
+世界地理,http://222.223.118.222:2180/live/sjdl/index.m3u8
+世界地理,http://60.6.255.8:2180/live/sjdl/index.m3u8
 世界地理,http://113.9.152.139:88/hls/118/index.m3u8
 世界地理.http://home.sylaigym.top:8887/rtp/239.69.1.91:10186
 世界地理,http://ssrs2004.win:8888/udp/239.111.205.71:5140
