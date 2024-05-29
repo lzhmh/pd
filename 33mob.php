@@ -1,4 +1,4 @@
-﻿//Mobile频道数据收集自网络上的分享240521开通IPV6
+//Mobile频道数据收集自网络上的分享240521开通IPV6
 港澳H049,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
@@ -622,19 +622,38 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 凤凰中文,http://103.95.24.37:880/fhws.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 
-中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1
-TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5
-三立新闻,http://news.666.hz.cz:2086/live.m3u8?c=6
-镜新闻台,http://news.666.hz.cz:2086/live.m3u8?c=10
-中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9
-中视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=6
-中视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=6
-三立新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=12
-寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1
+中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1$666
+中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9$666
+TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5$666
+镜新闻台,http://news.666.hz.cz:2086/live.m3u8?c=10$666
+台视新闻,http://news.666.hz.cz:2086/live.m3u8?c=4$666
+三立新闻,http://news.666.hz.cz:2086/live.m3u8?c=6$666
 
-TVBS新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1
-TVBS新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=5
-东森新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=9
+寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1$6v
+
+TVBS新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1$or
+TVBSHD,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=2$or
+中视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=6$or
+台视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=7$or
+LIVE三立,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9$or
+民视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=10$or
+中天新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=23$or
+寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26$or
+
+华视新闻,http://william8073.eu.org:9000/live.m3u8?c=18$will
+中视新闻,http://william8073.eu.org:9000/live.m3u8?c=7$will
+寰宇新闻,http://william8073.eu.org:9000/live.m3u8?c=26$will
+寰宇新闻,http://william8073.eu.org:9000/live.m3u8?c=10$will
+东森财经,http://william8073.eu.org:9000/live.m3u8?c=9$will
+台视新闻,http://william8073.eu.org:9000/live.m3u8?c=11$will
+民视新闻,http://william8073.eu.org:9000/live.m3u8?c=12$will
+三立iNEWS,http://william8073.eu.org:9000/live.m3u8?c=15$will
+三立NEWS+,http://william8073.eu.org:9000/live.m3u8?c=22$will
+
+中视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=6$lv
+三立新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=12$lv
+TVBS新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=5$lv
+东森新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=9$lv
 
 中天新闻,https://s2.pub/cctv-17
 中天新闻,http://23.224.232.221:81/kk.php?id=ctinews
@@ -682,16 +701,6 @@ TVBS新闻,http://888.iptv543.com/Smartv.php?id=tvbs_n$888
 东森新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d$mitv
 
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-华视新闻,http://william8073.eu.org:9000/live.m3u8?c=18$will
-中视新闻,http://william8073.eu.org:9000/live.m3u8?c=7$will
-寰宇新闻,http://william8073.eu.org:9000/live.m3u8?c=26$will
-寰宇新闻,http://william8073.eu.org:9000/live.m3u8?c=10$will
-东森财经,http://william8073.eu.org:9000/live.m3u8?c=9$will
-台视新闻,http://william8073.eu.org:9000/live.m3u8?c=11$will
-民视新闻,http://william8073.eu.org:9000/live.m3u8?c=12$will
-三立iNEWS,http://william8073.eu.org:9000/live.m3u8?c=15$will
-三立NEWS+,http://william8073.eu.org:9000/live.m3u8?c=22$will
 
 台视新闻,http://111.76.16.111:9000/live.m3u8?c=11
 TVBS,http://111.76.16.111:9000/live.m3u8?c=1
