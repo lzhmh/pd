@@ -10,6 +10,8 @@
 凤凰中文,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012$kl
 凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708$kl
 
+凤凰资讯,http://us1.qqvr.online:9000/live.m3u8?c=26$us
+
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -639,6 +641,11 @@ TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5$666
 三立NEWS+,http://news.666.hz.cz:2086/live.m3u8?c=6$666
 
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1$6v
+
+TVBS新闻,http://us1.qqvr.online:9000/live.m3u8?c=1$us
+中天新闻,http://us1.qqvr.online:9000/live.m3u8?c=3$us
+寰宇新闻,http://us1.qqvr.online:9000/live.m3u8?c=6$us
+中视新闻,http://us1.qqvr.online:9000/live.m3u8?c=31$us
 
 TVBS新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1$or
 TVBSHD,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=2$or
