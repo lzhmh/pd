@@ -1,5 +1,5 @@
 //Mobile频道数据收集自网络上的分享240521开通IPV6
-港澳H049,#genre#
+港澳H050,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
@@ -363,6 +363,9 @@ UFC格斗,https://live.metshop.top/huya/880223
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
 
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8$ip6
+风云足球,http://60.27.20.217:4022/rtp/225.1.2.168:5002
+风云足球,http://1.83.163.43:8888/rtp/239.111.205.68:5140
+风云足球,http://dms.yryyj.site:8188/udp/239.76.254.52:9000
 风云足球,http://113.9.152.139:88/hls/156/index.m3u8
 风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 风云足球,http://home.sylaigym.top:8887/rtp/239.69.1.81:10126
@@ -589,14 +592,20 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$ip6
+央视台球,http://60.27.20.217:4022/rtp/225.1.2.170:5002
+央视台球,http://1.83.163.43:8888/rtp/239.111.205.70:5140
+央视台球,http://dms.yryyj.site:8188/udp/239.76.254.58:9000
 央视台球,http://113.9.152.139:88/hls/158/index.m3u8
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 央视台球,http://home.sylaigym.top:8887/rtp/239.69.1.98:10224
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8$ip6
 央视台球,http://39.134.19.252:6610/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8$ip6
+高尔夫网球,http://60.27.20.217:4022/rtp/225.1.2.169:5002
+高尔夫网球,http://mail.petzhu.top:7000/rtp/239.254.200.98:6232
+高尔夫网球,http://60.2.190.206:4000/rtp/239.253.92.117:8062
 高尔夫网球,http://183.11.239.36:808/hls/174/index.m3u8
 高尔夫网球,http://home.sylaigym.top:8887/rtp/239.69.1.83:10138
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
@@ -625,9 +634,9 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1$666
 中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9$666
 TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5$666
-镜新闻台,http://news.666.hz.cz:2086/live.m3u8?c=10$666
+镜新闻,http://news.666.hz.cz:2086/live.m3u8?c=10$666
 台视新闻,http://news.666.hz.cz:2086/live.m3u8?c=4$666
-三立新闻,http://news.666.hz.cz:2086/live.m3u8?c=6$666
+三立NEWS+,http://news.666.hz.cz:2086/live.m3u8?c=6$666
 
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1$6v
 
@@ -651,7 +660,7 @@ LIVE三立,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9$or
 三立NEWS+,http://william8073.eu.org:9000/live.m3u8?c=22$will
 
 中视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=6$lv
-三立新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=12$lv
+三立NEWS+,http://livetv.skycf.eu.org:80/live.m3u8?c=12$lv
 TVBS新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=5$lv
 东森新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=9$lv
 
@@ -1191,6 +1200,9 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 军事评论,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 
 兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
+兵器科技,http://60.27.20.217:4022/rtp/225.1.2.166:5002
+兵器科技,http://1.83.163.43:8888/rtp/239.111.205.74:5140
+兵器科技,http://dms.yryyj.site:8188/udp/239.76.254.59:9000
 兵器科技,http://60.6.255.8:2180/live/gfjs/index.m3u8
 兵器科技,http://home.sylaigym.top:8887/rtp/239.69.1.79:10114
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
@@ -1477,6 +1489,9 @@ CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/22
 华数4K,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3$ipv6
 华数影视,http://nas.jdshipin.com:8801/4kys.php$广州信4K
 
+文化精品,http://60.27.20.217:4022/rtp/225.1.2.177:5002
+文化精品,http://1.83.163.43:8888/rtp/239.111.205.75:5140
+文化精品,http://dms.yryyj.site:8188/udp/239.76.254.56:9000
 文化精品,http://113.9.152.139:88/hls/161/index.m3u8
 文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8$ip6
@@ -1485,6 +1500,8 @@ CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/22
 文化精品,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
 
 女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8$ip6
+女性时尚,http://60.27.20.217:4022/rtp/225.1.2.172:5002
+女性时尚,http://1.83.163.43:8888/rtp/239.111.205.72:5140
 女性时尚,http://183.11.239.36:808/hls/12/index.m3u8
 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8$西移索
 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8$西移
@@ -1500,6 +1517,9 @@ CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/22
 电视指南,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8
 
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$ip6
+风云音乐,http://60.27.20.217:4022/rtp/225.1.2.176:5002
+风云音乐,http://1.83.163.43:8888/rtp/239.111.205.69:5140
+风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
 风云音乐,http://113.9.152.139:88/hls/113/index.m3u8
 风云音乐,http://183.11.239.36:808/hls/99/index.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8$西移索
@@ -2003,10 +2023,21 @@ CHC影迷电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 
+CHC家庭影院,http://60.27.20.217:4022/rtp/225.1.1.213:5002
+CHC家庭影院,http://1.83.163.43:8888/rtp/239.112.205.205:5140
+CHC家庭影院,http://dms.yryyj.site:8188/udp/239.76.245.241:1234
+
+CHC动作电影,http://60.27.20.217:4022/rtp/225.1.1.215:5002
+CHC动作电影,http://1.83.163.43:8888/rtp/239.112.205.207:5140
+CHC动作电影,http://dms.yryyj.site:8188/udp/239.76.245.243:1234
+
 CHC影迷电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
 CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 
+第一剧场,http://60.27.20.217:4022/rtp/225.1.2.175:5002
+第一剧场,http://1.83.163.43:8888/rtp/239.111.205.65:5140
+第一剧场,http://dms.yryyj.site:8188/udp/239.76.254.49:9000
 第一剧场,http://home.sylaigym.top:8887/rtp/239.69.1.74:10084
 第一剧场,http://171.117.73.52:8085/rtp/226.0.2.221:9680
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8$ip6
@@ -2048,9 +2079,14 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 
 老故事,http://113.9.152.139:88/hls/93/index.m3u8
 
+怀旧剧场,http://60.27.20.217:4022/rtp/225.1.2.173:5002
+怀旧剧场,http://1.83.163.43:8888/rtp/239.111.205.67:5140
 怀旧剧场,http://39.134.19.252:6610/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 怀旧剧场,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
 
+风云剧场,http://60.27.20.217:4022/rtp/225.1.2.174:5002
+风云剧场,http://1.83.163.43:8888/rtp/239.111.205.66:5140
+风云剧场,http://dms.yryyj.site:8188/udp/239.76.254.50:9000
 风云剧场,http://121.24.99.32:8090/hls/106/index.m3u8$邯联
 风云剧场,http://39.134.19.252:6610/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云剧场,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
@@ -2058,6 +2094,7 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 第一剧场,http://39.134.19.252:6610/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 第一剧场,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8
 
+老故事,http://60.2.190.206:4000/rtp/239.253.92.132:8068
 老故事,http://111.20.35.103:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/index.m3u8
@@ -3609,6 +3646,9 @@ Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 发现之旅,http://111.20.35.103:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8
 
+世界地理,http://60.27.20.217:4022/rtp/225.1.2.171:5002
+世界地理,http://1.83.163.43:8888/rtp/239.111.205.71:5140
+世界地理,http://dms.yryyj.site:8188/udp/239.76.254.57:9000
 世界地理,http://222.223.118.222:2180/live/sjdl/index.m3u8
 世界地理,http://60.6.255.8:2180/live/sjdl/index.m3u8
 世界地理,http://113.9.152.139:88/hls/118/index.m3u8
