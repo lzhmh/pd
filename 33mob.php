@@ -640,13 +640,6 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 凤凰中文,http://103.95.24.37:880/fhws.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 
-中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1$666
-中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9$666
-TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5$666
-镜新闻,http://news.666.hz.cz:2086/live.m3u8?c=10$666
-台视新闻,http://news.666.hz.cz:2086/live.m3u8?c=4$666
-三立NEWS+,http://news.666.hz.cz:2086/live.m3u8?c=6$666
-
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1$6v
 
 TVBS新闻,http://us1.qqvr.online:9000/live.m3u8?c=1$us
@@ -684,6 +677,13 @@ TVBS新闻,http://william8073.eu.org:9000/live.m3u8?c=2$will
 中视台湾志,http://william8073.eu.org:9000/live.m3u8?c=29$will
 中视大陆寻奇,http://william8073.eu.org:9000/live.m3u8?c=37$will
 
+中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1$666
+中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9$666
+TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5$666
+镜新闻,http://news.666.hz.cz:2086/live.m3u8?c=10$666
+台视新闻,http://news.666.hz.cz:2086/live.m3u8?c=4$666
+三立NEWS+,http://news.666.hz.cz:2086/live.m3u8?c=6$666
+
 寰宇新闻,http://gigs1.micar.me:8900/live.m3u8?c=6
 中天新闻,http://gigs1.micar.me:8900/live.m3u8?c=7
 TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8
@@ -702,28 +702,30 @@ TVBS新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=5$lv
 东森新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=9$lv
 
 中天新闻,https://s2.pub/cctv-17
-中天新闻,http://23.224.232.221:81/kk.php?id=ctinews
-中天亚洲,http://23.224.232.221:81/kk.php?id=ctiasia_twn
-中视新闻,http://23.224.232.221:81/kk.php?id=zhongshinews_twn
-TVBSHD,http://23.224.232.221:81/kk.php?id=tvbs
-TVBS新闻,http://23.224.232.221:81/kk.php?id=tvbs_n
-东森新闻,http://23.224.232.221:81/kk.php?id=ettvnews
-东森财经,http://23.224.232.221:81/kk.php?id=ettvcaijing_twn
-台视新闻,http://23.224.232.221:81/kk.php?id=ttvnews_twn
-寰宇新闻,http://23.224.232.221:81/kk.php?id=huanyuxinwen_twn
-寰宇财经,http://23.224.232.221:81/kk.php?id=huanyutaiwan_twn
-年代新闻,http://23.224.232.221:81/kk.php?id=niandainews_twn
-民视台湾,http://23.224.232.221:81/kk.php?id=ftvtaiwan_twn
-民视新闻,http://23.224.232.221:81/kk.php?id=ftvnew_taiwan
-非凡新闻,http://23.224.232.221:81/kk.php?id=feifannews_twn
+中天新闻,http://23.224.232.221:81/kk.php?id=ctinews$kk
+中天亚洲,http://23.224.232.221:81/kk.php?id=ctiasia_twn$kk
+中视新闻,http://23.224.232.221:81/kk.php?id=zhongshinews_twn$kk
+中天綜合,http://23.224.232.221:81/kk.php?id=ctizhonghe$kk
+中视,http://23.224.232.221:81/kk.php?id=zhongshihd_twn$kk
+TVBSHD,http://23.224.232.221:81/kk.php?id=tvbs$kk
+TVBS新闻,http://23.224.232.221:81/kk.php?id=tvbs_n$kk
+东森新闻,http://23.224.232.221:81/kk.php?id=ettvnews$kk
+东森财经,http://23.224.232.221:81/kk.php?id=ettvcaijing_twn$kk
+台视新闻,http://23.224.232.221:81/kk.php?id=ttvnews_twn$kk
+寰宇新闻,http://23.224.232.221:81/kk.php?id=huanyuxinwen_twn$kk
+寰宇财经,http://23.224.232.221:81/kk.php?id=huanyutaiwan_twn$kk
+年代新闻,http://23.224.232.221:81/kk.php?id=niandainews_twn$kk
+民视台湾,http://23.224.232.221:81/kk.php?id=ftvtaiwan_twn$kk
+民视新闻,http://23.224.232.221:81/kk.php?id=ftvnew_taiwan$kk
+非凡新闻,http://23.224.232.221:81/kk.php?id=feifannews_twn$kk
 
-TVBSHD,http://888.iptv543.com/Smartv.php?id=tvbs
-中天新闻,http://888.iptv543.com/Smartv.php?id=ctinews
-中天亚洲,http://888.iptv543.com/Smartv.php?id=ctiasia_twn
-中视新闻,http://888.iptv543.com/Smartv.php?id=ca73a13c37$888
-东森新闻,http://888.iptv543.com/Smartv.php?id=ettvnews
-寰宇新闻,http://888.iptv543.com/Smartv.php?id=huanyuxinwen_twn
-非凡新闻,http://888.iptv543.com/Smartv.php?id=feifannews_twn
+TVBSHD,http://888.iptv543.com/Smartv.php?id=tvbs$888
+中天新闻,http://888.iptv543.com/Smartv.php?id=ctinews$888
+中天亚洲,http://888.iptv543.com/Smartv.php?id=ctiasia_twn$888
+中视新闻,http://888.iptv543.com/Smartv.php?id=ca73a13c37$888$888
+东森新闻,http://888.iptv543.com/Smartv.php?id=ettvnews$888
+寰宇新闻,http://888.iptv543.com/Smartv.php?id=huanyuxinwen_twn$888
+非凡新闻,http://888.iptv543.com/Smartv.php?id=feifannews_twn$888
 台视新闻,http://888.iptv543.com/Smartv.php?id=ttvnews_twn$888
 民视新闻,http://888.iptv543.com/Smartv.php?id=ftvnew_taiwan$888
 年代新闻,http://888.iptv543.com/Smartv.php?id=niandainews_twn$888
@@ -739,8 +741,6 @@ TVBSHD,http://888.iptv543.com/Smartv.php?id=tvbs
 公视,http://888.iptv543.com/Smartv.php?id=ctv_taiwan$888
 TVBS新闻,http://888.iptv543.com/Smartv.php?id=tvbs_n$888
 
-中天綜合,http://23.224.232.221:81/kk.php?id=ctizhonghe
-中视,http://23.224.232.221:81/kk.php?id=zhongshihd_twn
 东森新闻,https://s2.pub/cctv-18
 东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
@@ -758,6 +758,7 @@ TVBS新闻,http://111.76.16.111:9000/live.m3u8?c=3
 LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
 三立iNEWS,http://111.76.16.111:9000/live.m3u8?c=15
 三立NEWS+,http://111.76.16.111:9000/live.m3u8?c=22
+
 民视第一,http://live.9528.eu.org/4gtv.php?channel=1$liv
 民视台湾,http://live.9528.eu.org/4gtv.php?channel=2$liv
 民视,http://live.9528.eu.org/4gtv.php?channel=3$liv
