@@ -1,5 +1,5 @@
 //Mobile频道数据收集自网络上的分享240521开通IPV6
-港澳H052,#genre#
+港澳H053,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
@@ -656,6 +656,11 @@ LIVE三立,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9$or
 中天新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=23$or
 寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26$or
 
+中视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=6$lv
+三立NEWS+,http://livetv.skycf.eu.org:80/live.m3u8?c=12$lv
+TVBS新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=5$lv
+东森新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=9$lv
+
 TVBS新闻,http://william8073.eu.org:9000/live.m3u8?c=2$will
 中天新闻,http://william8073.eu.org:9000/live.m3u8?c=4$will
 中天新闻,http://william8073.eu.org:9000/live.m3u8?c=5$will
@@ -677,6 +682,9 @@ TVBS新闻,http://william8073.eu.org:9000/live.m3u8?c=2$will
 中视台湾志,http://william8073.eu.org:9000/live.m3u8?c=29$will
 中视大陆寻奇,http://william8073.eu.org:9000/live.m3u8?c=37$will
 
+中天新闻,https://s2.pub/cctv-17$s2
+东森新闻,https://s2.pub/cctv-18$s2
+
 中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1$666
 中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9$666
 TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5$666
@@ -684,24 +692,18 @@ TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5$666
 台视新闻,http://news.666.hz.cz:2086/live.m3u8?c=4$666
 三立NEWS+,http://news.666.hz.cz:2086/live.m3u8?c=6$666
 
-寰宇新闻,http://gigs1.micar.me:8900/live.m3u8?c=6
-中天新闻,http://gigs1.micar.me:8900/live.m3u8?c=7
-TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8
-三立新闻,http://gigs1.micar.me:8900/live.m3u8?c=9
-台视新闻,http://gigs1.micar.me:8900/live.m3u8?c=10
-民視新聞,http://gigs1.micar.me:8900/live.m3u8?c=11
-东森新闻,http://gigs1.micar.me:8900/live.m3u8?c=12
-公视新闻,http://gigs1.micar.me:8900/live.m3u8?c=13
-中视新闻,http://gigs1.micar.me:8900/live.m3u8?c=14
-寰宇国际,http://gigs1.micar.me:8900/live.m3u8?c=15
-镜新闻,http://gigs1.micar.me:8900/live.m3u8?c=16
+寰宇新闻,http://gigs1.micar.me:8900/live.m3u8?c=6$gi
+中天新闻,http://gigs1.micar.me:8900/live.m3u8?c=7$gi
+TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8$gi
+三立新闻,http://gigs1.micar.me:8900/live.m3u8?c=9$gi
+台视新闻,http://gigs1.micar.me:8900/live.m3u8?c=10$gi
+民視新聞,http://gigs1.micar.me:8900/live.m3u8?c=11$gi
+东森新闻,http://gigs1.micar.me:8900/live.m3u8?c=12$gi
+公视新闻,http://gigs1.micar.me:8900/live.m3u8?c=13$gi
+中视新闻,http://gigs1.micar.me:8900/live.m3u8?c=14$gi
+寰宇国际,http://gigs1.micar.me:8900/live.m3u8?c=15$gi
+镜新闻,http://gigs1.micar.me:8900/live.m3u8?c=16$gi
 
-中视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=6$lv
-三立NEWS+,http://livetv.skycf.eu.org:80/live.m3u8?c=12$lv
-TVBS新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=5$lv
-东森新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=9$lv
-
-中天新闻,https://s2.pub/cctv-17
 中天新闻,http://23.224.232.221:81/kk.php?id=ctinews$kk
 中天亚洲,http://23.224.232.221:81/kk.php?id=ctiasia_twn$kk
 中视新闻,http://23.224.232.221:81/kk.php?id=zhongshinews_twn$kk
@@ -741,23 +743,23 @@ TVBSHD,http://888.iptv543.com/Smartv.php?id=tvbs$888
 公视,http://888.iptv543.com/Smartv.php?id=ctv_taiwan$888
 TVBS新闻,http://888.iptv543.com/Smartv.php?id=tvbs_n$888
 
-东森新闻,https://s2.pub/cctv-18
 东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+
 东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$索1
 东森新闻,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d$mitv
 
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-台视新闻,http://111.76.16.111:9000/live.m3u8?c=11
-TVBS,http://111.76.16.111:9000/live.m3u8?c=1
-TVBS新闻,http://111.76.16.111:9000/live.m3u8?c=2
-TVBS新闻,http://111.76.16.111:9000/live.m3u8?c=3
-中视新闻,http://111.76.16.111:9000/live.m3u8?c=7
-东森财经,http://111.76.16.111:9000/live.m3u8?c=9
-民视新闻,http://111.76.16.111:9000/live.m3u8?c=12
-LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
-三立iNEWS,http://111.76.16.111:9000/live.m3u8?c=15
-三立NEWS+,http://111.76.16.111:9000/live.m3u8?c=22
+台视新闻,http://111.76.16.111:9000/live.m3u8?c=11$111
+TVBS,http://111.76.16.111:9000/live.m3u8?c=1$111
+TVBS新闻,http://111.76.16.111:9000/live.m3u8?c=2$111
+TVBS新闻,http://111.76.16.111:9000/live.m3u8?c=3$111
+中视新闻,http://111.76.16.111:9000/live.m3u8?c=7$111
+东森财经,http://111.76.16.111:9000/live.m3u8?c=9$111
+民视新闻,http://111.76.16.111:9000/live.m3u8?c=12$111
+LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14$111
+三立iNEWS,http://111.76.16.111:9000/live.m3u8?c=15$111
+三立NEWS+,http://111.76.16.111:9000/live.m3u8?c=22$111
 
 民视第一,http://live.9528.eu.org/4gtv.php?channel=1$liv
 民视台湾,http://live.9528.eu.org/4gtv.php?channel=2$liv
@@ -791,7 +793,11 @@ LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
 东森财经,http://live.9528.eu.org/4gtv.php?channel=293$liv
 
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 
@@ -799,12 +805,13 @@ LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-公视,http://194.87.101.118/live.m3u8?c=8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+
+公视,http://194.87.101.118/live.m3u8?c=8$194
 
 DW,http://61.221.215.25:8800/hls/1/index.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -814,7 +821,6 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
@@ -836,40 +842,45 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-东森新闻,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+LOVENATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+动物世界 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
+半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+东森新闻,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
+
+年代新闻,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+
 镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+
 亚洲经典,http://goldfm.cn:8000/goldfm
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
 Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 
 少儿动漫,#genre#
