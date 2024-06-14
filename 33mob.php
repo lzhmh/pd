@@ -1,5 +1,5 @@
 //Mobile频道数据收集自网络上的分享240521开通IPV6
-港澳H053,#genre#
+港澳H055,#genre#
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
@@ -516,6 +516,7 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 掼中冠,https://live.metshop.top/huya/139165
 
 帽子象棋,http://diyp.zxxoo.work/douyu/4487219
+笑笑象棋,http://diyp.zxxoo.work/douyu/9969
 大神象棋,http://diyp.zxxoo.work/douyu/1227260
 飞刀陷阱,http://diyp.zxxoo.work/douyu/11576846
 飞刀讲解,http://diyp.zxxoo.work/douyu/10237088
@@ -524,9 +525,11 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 旭宝斗地主,http://diyp.zxxoo.work/douyu/9804176
 欢乐斗地主,http://diyp.zxxoo.work/douyu/8324074
 JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
+陶老师围棋,http://diyp.zxxoo.work/douyu/6586073
 弈夫围棋,http://diyp.zxxoo.work/douyu/6399350
 
 帽子象棋,http://maomao.kandiantv.cn/douyu1.php?id=4487219
+笑笑象棋,http://maomao.kandiantv.cn/douyu1.php?id=9969
 大神象棋,http://maomao.kandiantv.cn/douyu1.php?id=1227260
 飞刀陷阱,http://maomao.kandiantv.cn/douyu1.php?id=11576846
 飞刀讲解,http://maomao.kandiantv.cn/douyu1.php?id=10237088
@@ -535,9 +538,11 @@ JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
 旭宝斗地主,http://maomao.kandiantv.cn/douyu1.php?id=9804176
 欢乐斗地主,http://maomao.kandiantv.cn/douyu1.php?id=8324074
 JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
+陶老师围棋,http://maomao.kandiantv.cn/douyu1.php?id=6586073
 弈夫围棋,http://maomao.kandiantv.cn/douyu1.php?id=6399350
 
 帽子象棋,http://43.138.170.29:35455/douyu/4487219
+笑笑象棋,http://43.138.170.29:35455/douyu/9969
 大神象棋,http://43.138.170.29:35455/douyu/1227260
 飞刀陷阱,http://43.138.170.29:35455/douyu/11576846
 飞刀讲解,http://43.138.170.29:35455/douyu/10237088
@@ -546,6 +551,7 @@ JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
 旭宝斗地主,http://43.138.170.29:35455/douyu/9804176
 欢乐斗地主,http://43.138.170.29:35455/douyu/8324074
 JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
+陶老师围棋,http://43.138.170.29:35455/douyu/6586073
 弈夫围棋,http://43.138.170.29:35455/douyu/6399350
 
 帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
@@ -668,10 +674,17 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1$6v
 
-TVBS新闻,http://us1.qqvr.online:9000/live.m3u8?c=1$us
-中天新闻,http://us1.qqvr.online:9000/live.m3u8?c=3$us
-寰宇新闻,http://us1.qqvr.online:9000/live.m3u8?c=6$us
-中视新闻,http://us1.qqvr.online:9000/live.m3u8?c=31$us
+寰宇新闻,http://gigs1.micar.me:8900/live.m3u8?c=6$gi
+寰宇国际,http://gigs1.micar.me:8900/live.m3u8?c=15$gi
+中天新闻,http://gigs1.micar.me:8900/live.m3u8?c=7$gi
+东森新闻,http://gigs1.micar.me:8900/live.m3u8?c=12$gi
+TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8$gi
+三立新闻,http://gigs1.micar.me:8900/live.m3u8?c=9$gi
+台视新闻,http://gigs1.micar.me:8900/live.m3u8?c=10$gi
+民視新聞,http://gigs1.micar.me:8900/live.m3u8?c=11$gi
+公视新闻,http://gigs1.micar.me:8900/live.m3u8?c=13$gi
+中视新闻,http://gigs1.micar.me:8900/live.m3u8?c=14$gi
+镜新闻,http://gigs1.micar.me:8900/live.m3u8?c=16$gi
 
 TVBS新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1$or
 TVBSHD,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=2$or
@@ -681,6 +694,11 @@ LIVE三立,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9$or
 民视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=10$or
 中天新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=23$or
 寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26$or
+
+TVBS新闻,http://us1.qqvr.online:9000/live.m3u8?c=1$us
+中天新闻,http://us1.qqvr.online:9000/live.m3u8?c=3$us
+寰宇新闻,http://us1.qqvr.online:9000/live.m3u8?c=6$us
+中视新闻,http://us1.qqvr.online:9000/live.m3u8?c=31$us
 
 中视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=6$lv
 三立NEWS+,http://livetv.skycf.eu.org:80/live.m3u8?c=12$lv
@@ -717,18 +735,6 @@ TVBSHD,http://news.666.hz.cz:2086/live.m3u8?c=5$666
 镜新闻,http://news.666.hz.cz:2086/live.m3u8?c=10$666
 台视新闻,http://news.666.hz.cz:2086/live.m3u8?c=4$666
 三立NEWS+,http://news.666.hz.cz:2086/live.m3u8?c=6$666
-
-寰宇新闻,http://gigs1.micar.me:8900/live.m3u8?c=6$gi
-中天新闻,http://gigs1.micar.me:8900/live.m3u8?c=7$gi
-TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8$gi
-三立新闻,http://gigs1.micar.me:8900/live.m3u8?c=9$gi
-台视新闻,http://gigs1.micar.me:8900/live.m3u8?c=10$gi
-民視新聞,http://gigs1.micar.me:8900/live.m3u8?c=11$gi
-东森新闻,http://gigs1.micar.me:8900/live.m3u8?c=12$gi
-公视新闻,http://gigs1.micar.me:8900/live.m3u8?c=13$gi
-中视新闻,http://gigs1.micar.me:8900/live.m3u8?c=14$gi
-寰宇国际,http://gigs1.micar.me:8900/live.m3u8?c=15$gi
-镜新闻,http://gigs1.micar.me:8900/live.m3u8?c=16$gi
 
 中天新闻,http://23.224.232.221:81/kk.php?id=ctinews$kk
 中天亚洲,http://23.224.232.221:81/kk.php?id=ctiasia_twn$kk
