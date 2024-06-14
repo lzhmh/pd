@@ -1,16 +1,19 @@
 //Mobile频道数据收集自网络上的分享240521开通IPV6
-港澳H053,#genre#
+港澳H055,#genre#
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
 
 凤凰中文,http://222.209.182.184:8000/udp/239.93.0.162:2192$222
-凤凰中文,http://221.237.92.139:9999/udp/239.93.0.162:2192$221
-凤凰中文,http://110.185.219.86:58888/udp/239.93.0.162:2192$110
-凤凰中文,http://171.212.170.243:8088/udp/239.93.0.162:2192$171
-凤凰资讯,http://110.185.219.86:58888/udp/239.93.0.118:2191$110
 凤凰资讯,http://222.209.182.184:8000/udp/239.93.0.118:2191$222
+
+凤凰中文,http://221.237.92.139:9999/udp/239.93.0.162:2192$221
 凤凰资讯,http://221.237.92.139:9999/udp/239.93.0.118:2191$221
+
+凤凰中文,http://110.185.219.86:58888/udp/239.93.0.162:2192$110
+凤凰资讯,http://110.185.219.86:58888/udp/239.93.0.118:2191$110
+
+凤凰中文,http://171.212.170.243:8088/udp/239.93.0.162:2192$171
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$ip6
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
@@ -516,6 +519,7 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 掼中冠,https://live.metshop.top/huya/139165
 
 帽子象棋,http://diyp.zxxoo.work/douyu/4487219
+笑笑象棋,http://diyp.zxxoo.work/douyu/9969
 大神象棋,http://diyp.zxxoo.work/douyu/1227260
 飞刀陷阱,http://diyp.zxxoo.work/douyu/11576846
 飞刀讲解,http://diyp.zxxoo.work/douyu/10237088
@@ -524,9 +528,11 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 旭宝斗地主,http://diyp.zxxoo.work/douyu/9804176
 欢乐斗地主,http://diyp.zxxoo.work/douyu/8324074
 JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
+陶老师围棋,http://diyp.zxxoo.work/douyu/6586073
 弈夫围棋,http://diyp.zxxoo.work/douyu/6399350
 
 帽子象棋,http://maomao.kandiantv.cn/douyu1.php?id=4487219
+笑笑象棋,http://maomao.kandiantv.cn/douyu1.php?id=9969
 大神象棋,http://maomao.kandiantv.cn/douyu1.php?id=1227260
 飞刀陷阱,http://maomao.kandiantv.cn/douyu1.php?id=11576846
 飞刀讲解,http://maomao.kandiantv.cn/douyu1.php?id=10237088
@@ -535,9 +541,11 @@ JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
 旭宝斗地主,http://maomao.kandiantv.cn/douyu1.php?id=9804176
 欢乐斗地主,http://maomao.kandiantv.cn/douyu1.php?id=8324074
 JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
+陶老师围棋,http://maomao.kandiantv.cn/douyu1.php?id=6586073
 弈夫围棋,http://maomao.kandiantv.cn/douyu1.php?id=6399350
 
 帽子象棋,http://43.138.170.29:35455/douyu/4487219
+笑笑象棋,http://43.138.170.29:35455/douyu/9969
 大神象棋,http://43.138.170.29:35455/douyu/1227260
 飞刀陷阱,http://43.138.170.29:35455/douyu/11576846
 飞刀讲解,http://43.138.170.29:35455/douyu/10237088
@@ -546,6 +554,7 @@ JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
 旭宝斗地主,http://43.138.170.29:35455/douyu/9804176
 欢乐斗地主,http://43.138.170.29:35455/douyu/8324074
 JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
+陶老师围棋,http://43.138.170.29:35455/douyu/6586073
 弈夫围棋,http://43.138.170.29:35455/douyu/6399350
 
 帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
