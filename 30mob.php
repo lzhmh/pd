@@ -1,11 +1,17 @@
 //Mobile频道数据收集自网络上的分享240521开通IPV6
-港澳H055,#genre#
+港澳H056,#genre#
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
 
 凤凰中文,http://222.209.182.184:8000/udp/239.93.0.162:2192$222
 凤凰资讯,http://222.209.182.184:8000/udp/239.93.0.118:2191$222
+
+凤凰中文,http://mail.petzhu.top:7000/rtp/239.254.201.2:5226$mai
+凤凰资讯,http://mail.petzhu.top:7000/rtp/239.254.201.3:5227$mai
+凤凰中文,http://tv.sd.cn/sichuan?id=239.93.0.162:2192$stv
+凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.1.4:2191$stv
+凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234$cs
 
 凤凰中文,http://221.237.92.139:9999/udp/239.93.0.162:2192$221
 凤凰资讯,http://221.237.92.139:9999/udp/239.93.0.118:2191$221
