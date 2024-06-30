@@ -8,7 +8,7 @@
 //---------------以下复制---------3Mobile--github-----------
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0ucGhw"]}]}],
   "lives": [{"name":"3", "type":0,"url":"https://mirror.ghproxy.com/https://raw.github.com/lzhmh/pd/main/33mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-  "sites":[{"key":"csp_DouDou","name":"豆瓣M3H31","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+  "sites":[{"key":"csp_DouDou","name":"豆瓣M3H32","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 //--------以上复制-------20240630----------------------
     {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
     {"key": "csp_LocalFile","name": "💻本地视频","type": 3,"api": "csp_LocalFile","searchable": 0,"quickSearch": 0,"filterable": 0,"type_flag": 0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/custom_spider.jar"},     
@@ -75,16 +75,16 @@
     {"key":"热播","name":"热播┃App","type":3,"api":"csp_TTian","playerType":2,"jar":"http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001","ext":"http://v.rbotv.cn"},
     {"key": "meowtv_rxdj","name": "锐星┃短剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.84.103:6822/api.php/app/"},
 
+    {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/fanSZ.txt"},
+    {"key": "蛋蛋","name": "🍓蛋蛋┃多线","type": 3,"api": "csp_Cddys","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/fanSZ.txt"},    
+    {"key": "可可","name": "👻可可┃多线","type": 3,"api": "csp_Kekys","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/fanSZ.txt"},    
+
     {"key":"百度","name":"百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
     {"key":"低端","name":"低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Yoursmile.jar"},
     {"key":"csp_Djuu","name":"🌈短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Yoursmile.jar"}, 
     {"key":"csp_Xdys","name":"💥小点","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Yoursmile.jar"},
     {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar": "https://gitee.com/hnkfmh/jsjar/raw/master/Yoursmile.jar"},
-    {"key": "最大资源","name": "🔴最大┃采集","type": 1,"api": "http://zuidazy.me/api.php/provide/vod/","searchable": 1},
-    {"key": "奇虎资源","name": "🔴奇虎┃采集","type": 1,"api": "https://caiji.qhzyapi.com/api.php/provide/vod/","searchable": 1},  
-    {"key": "voflix","name": "🔴voflix┃采集","type": 1,"api": "https://www.voflix.me/api.php/provide/vod","searchable": 1 },
-    {"key": "360","name": "🔴360┃采集","type": 1,"api": "https://360zy.com/api.php/provide/vod/","searchable": 1},
     {"key":"映迷","name":"🐼时光┃映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"飞速资源","name":"🐼时光┃飞速","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
      {"key":"光速资源","name":"🐼时光┃光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["大陆剧","港澳剧","综艺","动漫"]},
@@ -220,6 +220,10 @@
     {"key":"我的哔哩(js)","name":"💥哔哩合集","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/我的哔哩.js"},
     {"key":"厂长(js)","name":"💥厂长","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/厂长资源.js"},
     {"key":"两个BT(js)","name":"💥两个BT","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/两个BT.js"},
+    {"key": "最大资源","name": "🔴最大┃采集","type": 1,"api": "http://zuidazy.me/api.php/provide/vod/","searchable": 1},
+    {"key": "奇虎资源","name": "🔴奇虎┃采集","type": 1,"api": "https://caiji.qhzyapi.com/api.php/provide/vod/","searchable": 1},  
+    {"key": "voflix","name": "🔴voflix┃采集","type": 1,"api": "https://www.voflix.me/api.php/provide/vod","searchable": 1 },
+    {"key": "360","name": "🔴360┃采集","type": 1,"api": "https://360zy.com/api.php/provide/vod/","searchable": 1},
 
 {"key":"88js","name":"⚽88┃看球","type":3,"api":"csp_Kanqiu","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},
