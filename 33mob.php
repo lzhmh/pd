@@ -1,11 +1,8 @@
 //Mobile频道数据收集自网络上的分享240521开通IPV6
-港澳H056,#genre#
+港澳H057,#genre#
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
-
-凤凰中文,http://222.209.182.184:8000/udp/239.93.0.162:2192$222
-凤凰资讯,http://222.209.182.184:8000/udp/239.93.0.118:2191$222
 
 凤凰中文,http://mail.petzhu.top:7000/rtp/239.254.201.2:5226$mai
 凤凰资讯,http://mail.petzhu.top:7000/rtp/239.254.201.3:5227$mai
@@ -305,8 +302,6 @@ CCTV5,http://nas.jdshipin.com:8801/bst.php?id=cctv5$广州信
 CCTV5+,http://nas.jdshipin.com:8801/bst.php?id=cctv5p$广州信
 CCTV16,http://nas.jdshipin.com:8801/bst.php?id=cctv164k$广州信4K
 
-羽毛球台,http://blc.zmychn.cn:4000/udp/225.1.2.1:5002
-
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 先锋乒羽,http://113.9.152.139:88/hls/79/index.m3u8
 先锋乒羽,http://61.136.96.78:880/65.m3u8
@@ -323,6 +318,8 @@ CCTV16,http://nas.jdshipin.com:8801/bst.php?id=cctv164k$广州信4K
 睛彩羽毛球,http://36.49.50.223:30007/udp/239.37.0.040:5540
 睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001$qna1
 睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.3.1.127:8001$hom1
+
+羽毛球台,http://blc.zmychn.cn:4000/udp/225.1.2.1:5002
 
 广东体育,http://223.109.210.41/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,http://116.21.123.51:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -515,14 +512,18 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
-石头掼蛋,http://43.138.170.29:35455/huya/28092051
-石头掼蛋,https://live.metshop.top/huya/28092051
-
-掼蛋讲解,http://43.138.170.29:35455/huya/28092049
-掼蛋讲解,https://live.metshop.top/huya/28092049
-
-掼中冠,http://43.138.170.29:35455/huya/139165
-掼中冠,https://live.metshop.top/huya/139165
+帽子象棋,http://43.138.170.29:35455/douyu/4487219
+笑笑象棋,http://43.138.170.29:35455/douyu/9969
+大神象棋,http://43.138.170.29:35455/douyu/1227260
+飞刀陷阱,http://43.138.170.29:35455/douyu/11576846
+飞刀讲解,http://43.138.170.29:35455/douyu/10237088
+飞刀谱,http://43.138.170.29:35455/douyu/11765935
+小鹤求败,http://43.138.170.29:35455/douyu/3830820
+旭宝斗地主,http://43.138.170.29:35455/douyu/9804176
+欢乐斗地主,http://43.138.170.29:35455/douyu/8324074
+JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
+陶老师围棋,http://43.138.170.29:35455/douyu/6586073
+弈夫围棋,http://43.138.170.29:35455/douyu/6399350
 
 帽子象棋,http://diyp.zxxoo.work/douyu/4487219
 笑笑象棋,http://diyp.zxxoo.work/douyu/9969
@@ -549,19 +550,6 @@ JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
 JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
 陶老师围棋,http://maomao.kandiantv.cn/douyu1.php?id=6586073
 弈夫围棋,http://maomao.kandiantv.cn/douyu1.php?id=6399350
-
-帽子象棋,http://43.138.170.29:35455/douyu/4487219
-笑笑象棋,http://43.138.170.29:35455/douyu/9969
-大神象棋,http://43.138.170.29:35455/douyu/1227260
-飞刀陷阱,http://43.138.170.29:35455/douyu/11576846
-飞刀讲解,http://43.138.170.29:35455/douyu/10237088
-飞刀谱,http://43.138.170.29:35455/douyu/11765935
-小鹤求败,http://43.138.170.29:35455/douyu/3830820
-旭宝斗地主,http://43.138.170.29:35455/douyu/9804176
-欢乐斗地主,http://43.138.170.29:35455/douyu/8324074
-JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
-陶老师围棋,http://43.138.170.29:35455/douyu/6586073
-弈夫围棋,http://43.138.170.29:35455/douyu/6399350
 
 帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
 大神象棋,http://zzy789.xyz/douyu1.php?id=1227260
@@ -661,11 +649,16 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 高尔夫网球,http://39.134.19.252:6610/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+石头掼蛋,http://43.138.170.29:35455/huya/28092051
+石头掼蛋,https://live.metshop.top/huya/28092051
+
+掼蛋讲解,http://43.138.170.29:35455/huya/28092049
+掼蛋讲解,https://live.metshop.top/huya/28092049
+
+掼中冠,http://43.138.170.29:35455/huya/139165
+掼中冠,https://live.metshop.top/huya/139165
+
 移动综合,#genre#
-
-凤凰中文,http://222.209.182.184:8000/udp/239.93.0.162:2192$222
-凤凰资讯,http://222.209.182.184:8000/udp/239.93.0.118:2191$222
-
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
 
@@ -676,6 +669,10 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8$ip6
 
 凤凰资讯,http://william8073.eu.org:9000/live.m3u8?c=19$will
+
+
+凤凰中文,http://222.209.182.184:8000/udp/239.93.0.162:2192$222
+凤凰资讯,http://222.209.182.184:8000/udp/239.93.0.118:2191$222
 
 凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.1.4:2191$nas
 凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.1.9:2192$nas
@@ -690,6 +687,15 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1$6v
 
+TVBS新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1$or
+TVBSHD,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=2$or
+中视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=6$or
+台视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=7$or
+LIVE三立,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9$or
+民视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=10$or
+中天新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=23$or
+寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26$or
+
 寰宇新闻,http://gigs1.micar.me:8900/live.m3u8?c=6$gi
 寰宇国际,http://gigs1.micar.me:8900/live.m3u8?c=15$gi
 中天新闻,http://gigs1.micar.me:8900/live.m3u8?c=7$gi
@@ -701,15 +707,6 @@ TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8$gi
 公视新闻,http://gigs1.micar.me:8900/live.m3u8?c=13$gi
 中视新闻,http://gigs1.micar.me:8900/live.m3u8?c=14$gi
 镜新闻,http://gigs1.micar.me:8900/live.m3u8?c=16$gi
-
-TVBS新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1$or
-TVBSHD,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=2$or
-中视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=6$or
-台视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=7$or
-LIVE三立,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9$or
-民视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=10$or
-中天新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=23$or
-寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26$or
 
 TVBS新闻,http://us1.qqvr.online:9000/live.m3u8?c=1$us
 中天新闻,http://us1.qqvr.online:9000/live.m3u8?c=3$us
