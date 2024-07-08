@@ -1,8 +1,20 @@
-//Mobile频道数据收集自网络上的分享240521开通IPV6
-港澳H058,#genre#
+//Mobile频道数据收集自网络上的分享240708开通IPV6
+港澳H059,#genre#
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
+
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8?$ax
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_HKiHKifengtvnewstv_1.m3u8$ax1
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_HKiHKifengtvnewstv_2.m3u8$ax2
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_HKifengcntv_1.m3u8$ax1
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_HKifengcntv_2.m3u8$ax2
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_HKifengcntv_3.m3u8$ax3
+
+凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+
+凤凰中文,http://146.56.153.245:20121/bysid/258
+凤凰资讯,http://146.56.153.245:20121/bysid/257
 
 凤凰中文,http://183.156.100.221:4022/udp/233.50.200.42:5140
 凤凰资讯,http://183.156.100.221:4022/udp/233.50.200.192:5140
@@ -100,12 +112,17 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
+香港卫视,http://ax.micaesoft.com/YMitv/YMITV_CN_HKhkstv_1.m3u8$ax
+香港卫视,http://ax.micaesoft.com/YMitv/YMITV_CN_HKhkstv_2.m3u8$ax
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://dl.zhoujie218.top/new/fhx.php?id=fhhk$上阿里
 
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$南腾讯
 凤凰香港,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv$南腾讯
+凤凰香港,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
+凤凰香港,http://hikvision.city:880/fhxgt.m3u8
+凤凰香港,http://146.56.153.245:20121/bysid/259
 凤凰香港,http://113.64.145.121:8081/hls/38/index.m3u8$揭信
 凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8$揭信
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -124,9 +141,17 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RTHK34,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 
+RTHK35,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
+RTHK33,https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
+RTHK34,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
+RTHK35,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
+
+澳亚卫视,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8$广电
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
@@ -1509,7 +1534,8 @@ CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 风云剧场,http://dms.yryyj.site:8188/udp/239.76.254.50:9000
 老故事,http://60.2.190.206:4000/rtp/239.253.92.132:8068
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+
+亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
