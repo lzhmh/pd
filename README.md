@@ -4,8 +4,10 @@ https://guihet.com/convert-m3u-js.html
 
 直播源
 https://epg.pw/test_channel_page.html?lang=zh-hant
-
 http://tonkiang.us/
+
+篡改猴(Tampermonkey)
+https://www.tampermonkey.net/index.php
 
 1、给英文不好的朋友
 
@@ -31,9 +33,9 @@ https://raw.fastgit.org/用户名/仓库名/main/接口文件
 
 韩国
 
-https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
+https://ghproxy.com/https://raw.github.com/用户名/仓库名/main/接口文件
 
-https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
+https://ghproxy.net/https://raw.github.com/用户名/仓库名/main/接口文件
 
 https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
@@ -138,7 +140,7 @@ https://notabug.org/
 
 （4）饭太硬：http://饭太硬.ga/x/o.json
 
-（5）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+（5）霜辉月明py：https://ghproxy.com/raw.github.com/lm317379829/PyramidStore/pyramid/py.json
 
 （6）小雅dr：http://drpy.site/js1
 
@@ -154,7 +156,7 @@ https://notabug.org/
 
 （12）潇洒：https://download.kstore.space/download/2863/01.txt
 
-（13）佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+（13）佰欣园：https://ghproxy.com/https://raw.github.com/chengxueli818913/maoTV/main/44.txt
 
 （14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
 
@@ -166,7 +168,7 @@ https://notabug.org/
 
 （18）哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
 
-（19）UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+（19）UndCover：https://raw.github.com/UndCover/PyramidStore/main/py.json
 
 （20）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
 
