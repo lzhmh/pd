@@ -196,22 +196,6 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/150000001
 先锋乒羽,http://218.29.135.2:4000/udp/225.1.4.210:1263
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
-深圳体育,http://14.121.146.11:30001/udp/239.77.1.128:5146
-深圳体育,http://14.121.146.11:30001/udp/239.77.1.140:5146
-深圳体育,http://14.121.146.11:30001/udp/239.77.1.8:5146
-深圳体育,http://14.121.146.11:554/udp/239.77.1.128:5146
-深圳体育,http://14.121.146.11:554/udp/239.77.1.140:5146
-深圳体育,http://14.121.146.11:554/udp/239.77.1.8:5146
-
-广东体育,http://14.121.146.11:30001/udp/239.77.0.112:5146
-广东体育,http://14.121.146.11:30001/udp/239.77.0.168:5146
-广东体育,http://14.121.146.11:30001/udp/239.77.0.6:5146
-广东体育,http://14.121.146.11:30001/udp/239.77.1.97:5146
-广东体育,http://14.121.146.11:554/udp/239.77.0.112:5146
-广东体育,http://14.121.146.11:554/udp/239.77.0.168:5146
-广东体育,http://14.121.146.11:554/udp/239.77.0.6:5146
-广东体育,http://14.121.146.11:554/udp/239.77.1.97:5146
-
 睛彩羽毛球,http://opdf.top:8088/udp/239.81.0.192:4056$opdf1
 睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001$qna1
 睛彩竞技,http://opdf.top:8088/udp/239.81.0.190:4056$opdf1
@@ -3259,39 +3243,15 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 移动戏曲,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
 
-梨园频道,http://113.9.152.139:88/hls/105/index.m3u8
-梨园频道,http://106.115.26.37:9999/tsfile/live/1021_1.m3u8
-
 东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8
 东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
 
-戏曲精选,http://nas.jdshipin.com:8801/bst.php?id=xqjx
-七彩戏剧,http://nas.jdshipin.com:8801/bst.php?id=qcxj
-
 省市地方,#genre#
 
-广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
-广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
-广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
-广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
-广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
-广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
-广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-广州综合,http://www.namewee.xyz/gudou.php?id=1432_4500
-广州新闻,http://www.namewee.xyz/gudou.php?id=1433_4500
-
-广东新闻,http://202.168.187.208:2024/tsfile/live/1013_1.m3u8$广电
-广东珠江,http://202.168.187.208:2024/tsfile/live/1011_1.m3u8$广电
-广东影视,http://202.168.187.208:2024/tsfile/live/1015_1.m3u8$广电
-广东少儿,http://202.168.187.208:2024/tsfile/live/1016_1.m3u8$广电
-广州法治,http://202.168.187.208:2024/tsfile/live/1017_1.m3u8$广电
-广州新闻,http://202.168.187.208:2024/tsfile/live/1019_1.m3u8$广电
-广州影视,http://202.168.187.208:2024/tsfile/live/1020_1.m3u8$广电
-岭南戏曲,http://202.168.187.208:2024/tsfile/live/1025_1.m3u8$广电
 
 岭南戏曲,http://183.11.239.36:808/hls/16/index.m3u8
 广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
@@ -3304,77 +3264,15 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 龙华有线,http://tvpull.dxhmt.cn:9081/tv/10902-1.m3u8
 
 大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$哈移s
-大湾区卫视,http://59.39.184.215:8000/udp/239.77.0.215:5146
-大湾区卫视,http://39.134.66.66/PLTV/88888888/224/3221226020/index.m3u8$鸡西移
-
-广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
-广东珠江,mitv://generationnexxxt.com:19806/a050c8e736174de681b13b8ebd2ce3c4$mitv
-
-深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-深圳都市,http://218.17.196.234:9901/tsfile/live/1004_1.m3u8
-深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
-深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
-深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
-
-广东影视,http://218.17.196.234:9901/tsfile/live/1002_1.m3u8
-
-广东GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
-广东GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
-广东GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-广东少儿,http://218.17.196.234:9901/tsfile/live/1006_1.m3u8
 
-广东珠江,http://163.197.220.190:1354/itouchtv.php?id=gdzj
-广东新闻,http://163.197.220.190:1354/itouchtv.php?id=gdxw
-广东影视,http://163.197.220.190:1354/itouchtv.php?id=gdys
-广东国际,http://163.197.220.190:1354/itouchtv.php?id=gdgj
-广东少儿,http://163.197.220.190:1354/itouchtv.php?id=gdse
-广东移动,http://163.197.220.190:1354/itouchtv.php?id=gdyd
-广东公共,http://163.197.220.190:1354/itouchtv.php?id=gdms
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe#http://r.jdshipin.com/iR6Gq
 
-孝感新闻,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1704038399-0-0-71023ffd778812fa103ed72b64f4e067
-孝感生活,http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1704038399-0-0-38258db7eb010303cb33988874a75a9f
 孝感公共,http://live.yingxi.tv/channel1/sd/live.m3u8
-
-天津新闻,http://117.9.169.188:8888/udp/225.1.1.130:5002
-天津文艺,http://117.9.169.188:8888/udp/225.1.1.131:5002
-天津影视,http://117.9.169.188:8888/udp/225.1.1.149:5002
-天津都市,http://117.9.169.188:8888/udp/225.1.1.128:5002
-天津科教,http://117.9.169.188:8888/udp/225.1.1.129:5002
-天津少儿,http://117.9.169.188:8888/udp/225.1.1.125:5002
-
-天津新闻,http://111.163.73.179:8888/udp/225.1.1.130:5002
-天津文艺,http://111.163.73.179:8888/udp/225.1.1.131:5002
-天津影视,http://111.163.73.179:8888/udp/225.1.1.149:5002
-天津都市,http://111.163.73.179:8888/udp/225.1.1.128:5002
-天津科教,http://111.163.73.179:8888/udp/225.1.1.129:5002
-天津少儿,http://111.163.73.179:8888/udp/225.1.1.125:5002
-
-天津新闻,http://111.165.239.80:50000/udp/225.1.1.130:5002
-天津文艺,http://111.165.239.80:50000/udp/225.1.1.131:5002
-天津影视,http://111.165.239.80:50000/udp/225.1.1.149:5002
-天津都市,http://111.165.239.80:50000/udp/225.1.1.128:5002
-天津科教,http://111.165.239.80:50000/udp/225.1.1.129:5002
-天津少儿,http://111.165.239.80:50000/udp/225.1.1.125:5002
-
-绿色生活,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
-
-阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
-阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
-
-广州新闻,http://nas.jdshipin.com:8801/gztv.php?id=xinwen$广州信
-广州综合,http://nas.jdshipin.com:8801/gztv.php?id=zhonghe$广州信
-广州影视,http://nas.jdshipin.com:8801/gztv.php?id=yingshi$广州信
-广州法治,http://nas.jdshipin.com:8801/gztv.php?id=fazhi$广州信
 
 东莞新闻,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活,http://php.jdshipin.com:8880/0769.php?id=shzx
-东莞新闻,http://14.121.146.11:30001/udp/239.253.43.104:5146
-东莞新闻,http://14.121.146.11:554/udp/239.253.43.104:5146
-东莞生活,http://14.121.146.11:30001/udp/239.253.43.105:5146
-东莞生活,http://14.121.146.11:554/udp/239.253.43.105:5146
 
 外语新闻,#genre#
 
@@ -3389,20 +3287,8 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-新加坡cna,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-BBCWorldNews,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-BBCWorldNews,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a$mitv
-
-CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd$mitv
-
-WRBZ2+,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
 FOX新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -3411,10 +3297,6 @@ France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694$mitv
 
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-金砖俄语,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金砖俄语,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-金砖俄语,https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 印BeritaSatu,https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 Bloomberg,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -3428,15 +3310,6 @@ NASA 空间站,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_
 NINETTUNOUNIVERSITYTV,http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 今日印度,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 ANTV越南,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-
-CNEWS新闻,http://livetv.ktv.zone/18/play.m3u8
-EURO新闻,http://livetv.ktv.zone/73/play.m3u8
-LCI新闻,http://livetv.ktv.zone/28/play.m3u8
-LES新闻,http://livetv.ktv.zone/29/play.m3u8
-PARIS新闻1,http://livetv.ktv.zone/56/play.m3u8
-PARIS新闻2,http://livetv.ktv.zone/57/play.m3u8
-BBC新闻台,http://livetv.ktv.zone/60/play.m3u8
-TV5新闻HD,http://livetv.ktv.zone/61/play.m3u8
 
 CNTV频道,#genre#
 
