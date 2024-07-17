@@ -880,37 +880,7 @@ beINSports,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
 Bein综合,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6131/index.m3u8
 beINSports,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6158/index.m3u8
 
-SportV2蓝排,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/172
-美国摔角1,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-FoxSports2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/140
-EuroSport2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/138
-SportV3搏击,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/175
-SportTV3足球,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/169
-SportV,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/178
-SportV,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/183
-SportV4,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/170
-FIFA足球,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/829
-ESPNstar,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/826
-
-ESPNEXTRA,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/133
 12TVParma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-
-Premiere体育,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/165
-Premiere体育,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/148
-Premiere体育,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/164
-
-beINSports3,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/901
-beINSports4,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/902
-beINSports5,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/905
-beINSports6,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/906
-beINSports7,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/907
-AovivoSports赛车,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/120
-AovivoSports赛车,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/121
-deportv,https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-AOvivo,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/939
-glaboNews,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/968
-AOvivonews,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/983
 
 ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
@@ -919,28 +889,14 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$哈移
 军事评论,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
-军事评论,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
-军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8$鸡西移
+军事评论,http://39.134.67.7:80/ottr
 
-兵器科技,http://223.242.146.144:4022/rtp/238.1.79.56:4584
-兵器科技,http://110.179.80.171:8083/udp/239.1.1.97:8097
-兵器科技,http://171.118.209.251:8082/rtp/226.0.2.223:9696
-兵器科技,http://171.124.48.100:8083/rtp/226.0.2.223:9696
-兵器科技,http://222.223.118.222:2180/live/gfjs/index.m3u8
 兵器科技,http://dms.yryyj.site:8188/udp/239.76.254.59:9000
-兵器科技,http://60.6.255.8:2180/live/gfjs/index.m3u8
 
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$郑移
-东方财经,http://nas.jdshipin.com:8801/bst.php?id=dfcj
-东方财经,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8$郑移
-东方财经,http://113.9.152.139:88/hls/84/index.m3u8
 
 财富天下,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226334/index.m3u8
-财富天下,http://113.9.152.139:88/hls/99/index.m3u8
-财富天下,http://119.145.89.210:9527/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-财富天下,http://218.17.196.234:9901/tsfile/live/1003_1.m3u8
-财富天下,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226350/1.m3u8
 
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
