@@ -1,5 +1,5 @@
 //Mobile频道数据收集自网络上的分享240712开通IPV6
-港澳H060,#genre#
+港澳H061,#genre#
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
@@ -96,9 +96,9 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
+翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
@@ -111,7 +111,7 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 
-明珠台,http://zsntlqj.xicp.net:8896/bysid/2$中山信
+明珠,http://zsntlqj.xicp.net:8896/bysid/2$中山信
 TVB,http://zsntlqj.xicp.net:8896/bysid/82$中山信
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83$中山信
 
@@ -474,14 +474,374 @@ LIVE三立,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9$or
 民视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=10$or
 寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26$or
 
+中天新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv009.m3u8$ip
+非凡新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv010.m3u8$ip
+台视新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv051.m3u8$ip
+华视新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv052.m3u8$ip
+TVBS新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv072.m3u8$ip
+靖天資訊,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv065.m3u8$ip
+TVBS,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv073.m3u8$ip
+東森新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv152.m3u8$ip
+TVBSNews,https://iptv.lalifeier.eu.org/smartv/tvbs_n.m3u8$ip
+TVBS,https://iptv.lalifeier.eu.org/smartv/tvbs.m3u8$ip
+中天亚洲,https://iptv.lalifeier.eu.org/smartv/ctiasia_twn.m3u8$ip
+中视新闻,https://iptv.lalifeier.eu.org/smartv/zhongshinews_twn.m3u8$ip
+非凡新闻,https://iptv.lalifeier.eu.org/smartv/feifannews_twn.m3u8$ip
+寰宇新闻,https://iptv.lalifeier.eu.org/litv/litv-longturn14.m3u8$ip
+民视新闻,https://iptv.lalifeier.eu.org/litv/litv-ftv13.m3u8$ip
+寰宇台湾,https://iptv.lalifeier.eu.org/litv/litv-longturn15.m3u8$ip
+民视新闻,https://iptv.lalifeier.eu.org/smartv/ftvnew_taiwan.m3u8$ip
+民视台湾,https://iptv.lalifeier.eu.org/smartv/ftvtaiwan_twn.m3u8$ip
+TVBS新闻,https://iptv.lalifeier.eu.org/smartv/tvbs_n.m3u8$ip
+TVBSNews,https://iptv.lalifeier.eu.org/smartv/tvbs_n.m3u8$ip
+TVBS,https://iptv.lalifeier.eu.org/smartv/tvbs.m3u8$ip
+中视新闻,https://iptv.lalifeier.eu.org/smartv/zhongshinews_twn.m3u8$ip
+非凡新闻,https://iptv.lalifeier.eu.org/smartv/feifannews_twn.m3u8$ip
+年代新闻,https://iptv.lalifeier.eu.org/smartv/niandainews_twn.m3u8$ip
+中天新闻,https://iptv.lalifeier.eu.org/smartv/ctinews.m3u8$ip
+中天亚洲,https://iptv.lalifeier.eu.org/smartv/ctiasia_twn.m3u8$ip
+中天亚洲,https://iptv.lalifeier.eu.org/smartv/ctiasia_twn.m3u8$ip
+中视新闻,https://iptv.lalifeier.eu.org/smartv/zhongshinews_twn.m3u8$ip
+非凡新闻,https://iptv.lalifeier.eu.org/smartv/feifannews_twn.m3u8$ip
+中视新闻,https://iptv.lalifeier.eu.org/smartv/zhongshinews_twn.m3u8$ip
+東森财经新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv153.m3u8$ip
+中视新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv074.m3u8$ip
+鏡新闻,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv075.m3u8$ip
+民视台湾,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv001.m3u8$ip
+民视第一,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv0
+MEZZO LIVE,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv083.m3u8$ip03.m3u8$ip
+
+民视,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv002.m3u8$ip
+民视綜艺,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv004.m3u8$ip
+豬哥亮歌廳秀,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv006.m3u8$ip
+影迷數位电影,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv011.m3u8$ip
+视納华仁紀實,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv013.m3u8$ip
+時尚運動X,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv014.m3u8$ip
+GLOBETROTTER,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv016.m3u8$ip
+AMC电影,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv017.m3u8$ip
+達文西頻道,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv018.m3u8$ip
+八大精彩,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv034.m3u8$ip
+八大綜艺,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv039.m3u8$ip
+中视,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv040.m3u8$ip
+华视,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv041.m3u8$ip
+公视戏剧,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv042.m3u8$ip
+客家电视,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv043.m3u8$ip
+靖天卡通，https://iptv.lalifeier.eu.org/litv/4gtv-4gtv044.m3u8$ip
+靖洋戏剧,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv045.m3u8$ip
+靖天綜合,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv046.m3u8$ip
+靖天日本,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv047.m3u8$ip
+非凡商業,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv048.m3u8$ip
+采昌影剧,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv049.m3u8$ip
+GINX TV,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv053.m3u8$ip
+靖天欢乐,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv054.m3u8$ip
+靖天映畫,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv055.m3u8$ip
+台视财经,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv056.m3u8$ip
+靖洋卡通,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv057.m3u8$ip
+靖天戏剧,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv058.m3u8$ip
+古典音乐,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv059.m3u8$ip
+靖天电影,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv061.m3u8$ip
+靖天育乐,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv062.m3u8$ip
+靖天國際,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv063.m3u8$ip
+中视菁采,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv064.m3u8$ip
+台视,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv066.m3u8$ip
+TVBS精采,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv067.m3u8$ip
+TVBS欢乐,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv068.m3u8$ip
+愛爾達娛乐,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv070.m3u8$ip
+CATCHPLAY电影,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv076.m3u8$ip
+TRACE SPORTS STARS,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv077.m3u8$ip
+阿里郎,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv079.m3u8$ip
+中视经典,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv080.m3u8$ip
+TRACE URBAN,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv082.m3u8$ip
+國會頻道1,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv084.m3u8$ip
+國會頻道2,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv085.m3u8$ip
+智林體育,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv101.m3u8$ip
+國際财经,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv104.m3u8$ip
+第1商業,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv109.m3u8$ip
+民视,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv155.m3u8$ip
+民视台湾,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv156.m3u8$ip
+美國之音,https://iptv.lalifeier.eu.org/litv/litv-ftv03.m3u8$ip
+民视旅遊,https://iptv.lalifeier.eu.org/litv/litv-ftv07.m3u8$ip
+民视影剧,https://iptv.lalifeier.eu.org/litv/litv-ftv09.m3u8$ip
+半島新闻,https://iptv.lalifeier.eu.org/litv/litv-ftv10.m3u8$ip
+愛放動漫,https://iptv.lalifeier.eu.org/litv/litv-ftv15.m3u8$ip
+好消息,https://iptv.lalifeier.eu.org/litv/litv-ftv16.m3u8$ip
+好消息2,https://iptv.lalifeier.eu.org/litv/litv-ftv17.m3u8$ip
+龍华卡通,https://iptv.lalifeier.eu.org/litv/litv-longturn01.m3u8$ip
+龍华电影,https://iptv.lalifeier.eu.org/litv/litv-longturn03.m3u8$ip
+博斯魅力,https://iptv.lalifeier.eu.org/litv/litv-longturn04.m3u8$ip
+博斯高球1,https://iptv.lalifeier.eu.org/litv/litv-longturn05.m3u8$ip
+博斯高球2,https://iptv.lalifeier.eu.org/litv/litv-longturn06.m3u8$ip
+博斯運動1,https://iptv.lalifeier.eu.org/litv/litv-longturn07.m3u8$ip
+博斯運動2,https://iptv.lalifeier.eu.org/litv/litv-longturn08.m3u8$ip
+博斯網球,https://iptv.lalifeier.eu.org/litv/litv-longturn09.m3u8$ip
+博斯無限,https://iptv.lalifeier.eu.org/litv/litv-longturn10.m3u8$ip
+龍华日韓,https://iptv.lalifeier.eu.org/litv/litv-longturn11.m3u8$ip
+龍华偶像,https://iptv.lalifeier.eu.org/litv/litv-longturn12.m3u8$ip
+博斯無限2,https://iptv.lalifeier.eu.org/litv/litv-longturn13.m3u8$ip
+亞洲旅遊,https://iptv.lalifeier.eu.org/litv/litv-longturn17.m3u8$ip
+龍华戏剧,https://iptv.lalifeier.eu.org/litv/litv-longturn18.m3u8$ip
+Smart知識,https://iptv.lalifeier.eu.org/litv/litv-longturn19.m3u8$ip
+生活英語,https://iptv.lalifeier.eu.org/litv/litv-longturn20.m3u8$ip
+龍华经典,https://iptv.lalifeier.eu.org/litv/litv-longturn21.m3u8$ip
+台湾戏剧,https://iptv.lalifeier.eu.org/litv/litv-longturn22.m3u8$ip
+寰宇财经,https://iptv.lalifeier.eu.org/litv/litv-longturn23.m3u8$ip
+
+RTHK32,https://iptv.lalifeier.eu.org/smartv/rhk32_twn.m3u8$ip
+RTHK31,https://iptv.lalifeier.eu.org/smartv/rhk31_twn.m3u8$ip
+凤凰卫视,https://iptv.lalifeier.eu.org/smartv/phoenixtv_hd.m3u8$ip
+无线财经资讯,https://iptv.lalifeier.eu.org/smartv/tvbcaijing_twn.m3u8$ip
+VIUTV1,https://iptv.lalifeier.eu.org/smartv/viu1_twn.m3u8$ip
+无线新闻,https://iptv.lalifeier.eu.org/smartv/inews_twn.m3u8$ip
+龙华戏剧,https://iptv.lalifeier.eu.org/smartv/lunghuaxiju_twn.m3u8$ip
+龙华偶像,https://iptv.lalifeier.eu.org/smartv/lunghuaidol_twn.m3u8$ip
+龙华卡通,https://iptv.lalifeier.eu.org/smartv/jingtiancartoon_twn.m3u8$ip
+美亚电影,https://iptv.lalifeier.eu.org/smartv/meiyamovie_twn.m3u8$ip
+Arirang,https://iptv.lalifeier.eu.org/smartv/arirang_twn.m3u8$ip
+好莱坞电影,https://iptv.lalifeier.eu.org/smartv/hollywoodmovies_twn.m3u8$ip
+爱尔达体育2,https://iptv.lalifeier.eu.org/smartv/eltasport2_twn.m3u8$ip
+爱尔达体育1,https://iptv.lalifeier.eu.org/smartv/eltasport_twn.m3u8$ip
+民视,https://iptv.lalifeier.eu.org/smartv/ftvhd_taiwan.m3u8$ip
+年代新闻,https://iptv.lalifeier.eu.org/smartv/niandainews_twn.m3u8$ip
+大爱1,https://iptv.lalifeier.eu.org/smartv/daai_twn.m3u8$ip
+博斯高球2,https://iptv.lalifeier.eu.org/smartv/bosigolf2_twn.m3u8$ip
+博斯运动2,https://iptv.lalifeier.eu.org/smartv/bosisport2_twn.m3u8$ip
+博斯运动1,https://iptv.lalifeier.eu.org/smartv/bosisport1_twn.m3u8$ip
+博斯网球,https://iptv.lalifeier.eu.org/smartv/bositennis_twn.m3u8$ip
+华视,https://iptv.lalifeier.eu.org/smartv/ctshd_twn.m3u8$ip
+公视,https://iptv.lalifeier.eu.org/smartv/ctv_taiwan.m3u8$ip
+八大综合,https://iptv.lalifeier.eu.org/smartv/badazhonghe.m3u8$ip
+中视,https://iptv.lalifeier.eu.org/smartv/zhongshihd_twn.m3u8$ip
+中天娱乐,https://iptv.lalifeier.eu.org/smartv/ctient.m3u8$ip
+东森超视,https://iptv.lalifeier.eu.org/smartv/ettvsuper.m3u8$ip
+东森戏剧,https://iptv.lalifeier.eu.org/smartv/ettvdrama.m3u8$ip
+三立综合,https://iptv.lalifeier.eu.org/smartv/sanlizhonghe.m3u8$ip
+三立戏剧,https://iptv.lalifeier.eu.org/smartv/sanlixiju_twn.m3u8$ip
+东森电影,https://iptv.lalifeier.eu.org/smartv/ettvmovie.m3u8$ip
+东森综合,https://iptv.lalifeier.eu.org/smartv/ettvzhonghe.m3u8$ip
+中天综合,https://iptv.lalifeier.eu.org/smartv/ctizhonghe.m3u8$ip
+八大综合,https://iptv.lalifeier.eu.org/smartv/badazhonghe.m3u8$ip
+八大戏剧,https://iptv.lalifeier.eu.org/smartv/badadrama.m3u8$ip
+八大第一,https://iptv.lalifeier.eu.org/smartv/badafirst.m3u8$ip
+小太阳,https://iptv.lalifeier.eu.org/smartv/Xiaotaiyang.m3u8$ip
+靖天卡通,https://iptv.lalifeier.eu.org/smartv/jingtiancartoon_twn.m3u8$ip
+靖天国际,https://iptv.lalifeier.eu.org/smartv/jingtianintl_twn.m3u8$ip
+EYETV戏剧,https://iptv.lalifeier.eu.org/smartv/eyetvxiju_twn.m3u8$ip
+EYETV旅游,https://iptv.lalifeier.eu.org/smartv/eyetvtravel_twn.m3u8$ip
+TVBS欢乐,https://iptv.lalifeier.eu.org/smartv/tvbshuanle_twn.m3u8$ip
+Zee TV HD,https://iptv.lalifeier.eu.org/smartv/Zeetvhd.m3u8$ip
+Warner TV,https://iptv.lalifeier.eu.org/smartv/WarnerTV.m3u8$ip
+Viu6,https://iptv.lalifeier.eu.org/smartv/viusix_twn.m3u8$ip
+Vasantham,https://iptv.lalifeier.eu.org/smartv/Vasantham.m3u8$ip
+TvN,https://iptv.lalifeier.eu.org/smartv/TVN.m3u8$ip
+True Premium 2 HD,https://iptv.lalifeier.eu.org/smartv/truepre2_pat.m3u8$ip
+True Premium 1 HD,https://iptv.lalifeier.eu.org/smartv/truepre1_pat.m3u8$ip
+Transtv,https://iptv.lalifeier.eu.org/smartv/Transtv.m3u8$ip
+Trans 7,https://iptv.lalifeier.eu.org/smartv/Trans7_eko.m3u8$ip
+Tnn24,https://iptv.lalifeier.eu.org/smartv/tnn24_pat.m3u8$ip
+Thrill,https://iptv.lalifeier.eu.org/smartv/Thrill.m3u8$ip
+Tawaf TV,https://iptv.lalifeier.eu.org/smartv/TawafTV.m3u8$ip
+TVRI National,https://iptv.lalifeier.eu.org/smartv/TVRI.m3u8$ip
+TVMU,https://iptv.lalifeier.eu.org/smartv/TVMU_eko.m3u8$ip
+TV9,https://iptv.lalifeier.eu.org/smartv/TV9.m3u8$ip
+TV9 Indonesia,https://iptv.lalifeier.eu.org/smartv/TV9_eko.m3u8$ip
+TV8,https://iptv.lalifeier.eu.org/smartv/TV8.m3u8$ip
+TV3,https://iptv.lalifeier.eu.org/smartv/TV3.m3u8$ip
+TV3 backup,https://iptv.lalifeier.eu.org/smartv/TV3_backup.m3u8$ip
+TV2,https://iptv.lalifeier.eu.org/smartv/TV2.m3u8$ip
+TV1,https://iptv.lalifeier.eu.org/smartv/TV1.m3u8$ip
+TPTV,https://iptv.lalifeier.eu.org/smartv/tptv_pat.m3u8$ip
+TLC,https://iptv.lalifeier.eu.org/smartv/Tlc.m3u8$ip
+Suria,https://iptv.lalifeier.eu.org/smartv/Suria.m3u8$ip
+体育3,https://iptv.lalifeier.eu.org/smartv/Assp3.m3u8$ip
+体育2,https://iptv.lalifeier.eu.org/smartv/Assp2.m3u8$ip
+Sunnah HD,https://iptv.lalifeier.eu.org/smartv/sunnah_mido.m3u8$ip
+Sun Music,https://iptv.lalifeier.eu.org/smartv/sunmusic_raj.m3u8$ip
+Star Vijay,https://iptv.lalifeier.eu.org/smartv/Starvijay.m3u8$ip
+Star Vijay India,https://iptv.lalifeier.eu.org/smartv/starvijay_raj.m3u8$ip
+Sony Six HD,https://iptv.lalifeier.eu.org/smartv/sonysix_raj.m3u8$ip
+Sony HD,https://iptv.lalifeier.eu.org/smartv/SetOne.m3u8$ip
+Skynews,https://iptv.lalifeier.eu.org/smartv/skynews_antik.m3u8$ip
+SCTV,https://iptv.lalifeier.eu.org/smartv/Sctv.m3u8$ip
+SCM,https://iptv.lalifeier.eu.org/smartv/Weishimovie.m3u8$ip
+RTM Sports HD,https://iptv.lalifeier.eu.org/smartv/Rtmsport.m3u8$ip
+RCTI,https://iptv.lalifeier.eu.org/smartv/Rcti.m3u8$ip
+Quran HD,https://iptv.lalifeier.eu.org/smartv/quran_mido.m3u8$ip
+Prima,https://iptv.lalifeier.eu.org/smartv/Prima.m3u8$ip
+Pick TV,https://iptv.lalifeier.eu.org/smartv/picktv_antik.m3u8$ip
+PPTV Thailand1,https://iptv.lalifeier.eu.org/smartv/pptv_pat.m3u8$ip
+One,https://iptv.lalifeier.eu.org/smartv/One.m3u8$ip
+Oasis,https://iptv.lalifeier.eu.org/smartv/Oasis.m3u8$ip
+Nickelodeon,https://iptv.lalifeier.eu.org/smartv/Nickelodeon.m3u8$ip
+Nick Jr,https://iptv.lalifeier.eu.org/smartv/Nickjr.m3u8$ip
+News 18 Tamil,https://iptv.lalifeier.eu.org/smartv/news18tamil_raj.m3u8$ip
+New,https://iptv.lalifeier.eu.org/smartv/new_pat.m3u8$ip
+Net TV,https://iptv.lalifeier.eu.org/smartv/NetTV.m3u8$ip
+Nation,https://iptv.lalifeier.eu.org/smartv/nation_pat.m3u8$ip
+国家地理,https://iptv.lalifeier.eu.org/smartv/natgeohd_twn.m3u8$ip
+地理野生动物,https://iptv.lalifeier.eu.org/smartv/natgeowildtamil_raj.m3u8$ip
+野生动物,https://iptv.lalifeier.eu.org/smartv/natgeowild_twn.m3u8$ip
+地理野生动物,https://iptv.lalifeier.eu.org/smartv/Natgeowild.m3u8$ip
+NatGeo Tamil,https://iptv.lalifeier.eu.org/smartv/natgeotamil_raj.m3u8$ip
+国家地理,https://iptv.lalifeier.eu.org/smartv/Natgeo.m3u8$ip
+More4,https://iptv.lalifeier.eu.org/smartv/more4_antik.m3u8$ip
+Momo TV,https://iptv.lalifeier.eu.org/smartv/momo1_twn.m3u8$ip
+MiaoMi,https://iptv.lalifeier.eu.org/smartv/MiaoMi.m3u8$ip
+Metro TV,https://iptv.lalifeier.eu.org/smartv/metrotv_eko.m3u8$ip
+Makkal TV,https://iptv.lalifeier.eu.org/smartv/Makkaltv.m3u8$ip
+AXNTaiwan,https://iptv.lalifeier.eu.org/smartv/axn_twn.m3u8$ip
+动物星球,https://iptv.lalifeier.eu.org/smartv/AnimalPlanet.m3u8$ip
+动物星球1,https://iptv.lalifeier.eu.org/smartv/animalplanet_twn.m3u8$ip
+Asianet,https://iptv.lalifeier.eu.org/smartv/asianet_raj.m3u8$ip
+Awani,https://iptv.lalifeier.eu.org/smartv/Awani.m3u8$ip
+AxnHD,https://iptv.lalifeier.eu.org/smartv/Axn.m3u8$ip
+Cinemax,https://iptv.lalifeier.eu.org/smartv/cinemax_twn.m3u8$ip
+CNBC,https://iptv.lalifeier.eu.org/smartv/cnbc_twn.m3u8$ip
+CelestialMoviesHD,https://iptv.lalifeier.eu.org/smartv/Celestialindo.m3u8$ip
+Channel3Thailand,https://iptv.lalifeier.eu.org/smartv/ch3_pat.m3u8$ip
+DiscoveryAsia,https://iptv.lalifeier.eu.org/smartv/discoverytwn_twn.m3u8$ip
+DiscoveryHD,https://iptv.lalifeier.eu.org/smartv/discoveryhd_twn.m3u8$ip
+DiscoveryKidsTamil,https://iptv.lalifeier.eu.org/smartv/discoverykidtamil_raj.m3u8$ip
+DiscoveryTurbo,https://iptv.lalifeier.eu.org/smartv/discoveryturbo_twn.m3u8$ip
+DiscoveryWorldTamil,https://iptv.lalifeier.eu.org/smartv/discoveryworldtam_raj.m3u8$ip
+BBC1,https://iptv.lalifeier.eu.org/smartv/bbc1_antik.m3u8$ip
+BBC2,https://iptv.lalifeier.eu.org/smartv/bbc2_antik.m3u8$ip
+BBCEarthHD,https://iptv.lalifeier.eu.org/smartv/bbcearth_twn.m3u8$ip
+BBCEarthTamil,https://iptv.lalifeier.eu.org/smartv/bbcearthtam_raj.m3u8$ip
+BBCWorldNews,https://iptv.lalifeier.eu.org/smartv/bbcnews_twn.m3u8$ip
+BTESPN,https://iptv.lalifeier.eu.org/smartv/btespn.m3u8$ip
+BTSports1,https://iptv.lalifeier.eu.org/smartv/beeone.m3u8$ip
+BTSports3,https://iptv.lalifeier.eu.org/smartv/beethree.m3u8$ip
+BloombergNews,https://iptv.lalifeier.eu.org/smartv/bloomberg_twn.m3u8$ip
+Boomerang,https://iptv.lalifeier.eu.org/smartv/Boomerang.m3u8$ip
+CBBC,https://iptv.lalifeier.eu.org/smartv/cbbc_antik.m3u8$ip
+CBSHD,https://iptv.lalifeier.eu.org/smartv/cbshd_glo.m3u8$ip
+CBSNHD,https://iptv.lalifeier.eu.org/smartv/cbsn_glo.m3u8$ip
+Muslim TV,https://iptv.lalifeier.eu.org/smartv/MuslimTV.m3u8$ip
+itv1,https://iptv.lalifeier.eu.org/smartv/itv1_antik.m3u8$ip
+tvNMovie,https://iptv.lalifeier.eu.org/smartv/Tvnmovie.m3u8$ip
+TVN,https://iptv.lalifeier.eu.org/smartv/TVN.m3u8$ip
+RTHK32,https://iptv.lalifeier.eu.org/smartv/rhk32_twn.m3u8$ip
+RTHK31,https://iptv.lalifeier.eu.org/smartv/rhk31_twn.m3u8$ip
+J2,https://iptv.lalifeier.eu.org/smartv/j2_twn.m3u8$ip
+无线财经资讯,https://iptv.lalifeier.eu.org/smartv/tvbcaijing_twn.m3u8$ip
+民视第一,https://iptv.lalifeier.eu.org/smartv/lunghuajingdian_twn.m3u8$ip
+龙华偶像,https://iptv.lalifeier.eu.org/smartv/lunghuaidol_twn.m3u8$ip
+龙华卡通,https://iptv.lalifeier.eu.org/smartv/jingtiancartoon_twn.m3u8$ip
+美食星球,https://iptv.lalifeier.eu.org/smartv/foodplanet_twn.m3u8$ip
+Arirang,https://iptv.lalifeier.eu.org/smartv/arirang_twn.m3u8$ip
+爱尔达体育2,https://iptv.lalifeier.eu.org/smartv/eltasport2_twn.m3u8$ip
+爱尔达体育1,https://iptv.lalifeier.eu.org/smartv/eltasport_twn.m3u8$ip
+民视台湾,https://iptv.lalifeier.eu.org/smartv/ftvtaiwan_twn.m3u8$ip
+民视,https://iptv.lalifeier.eu.org/smartv/ftvhd_taiwan.m3u8$ip
+好消息 2,https://iptv.lalifeier.eu.org/smartv/good2_twn.m3u8$ip
+大爱1,https://iptv.lalifeier.eu.org/smartv/daai_twn.m3u8$ip
+博斯高球2,https://iptv.lalifeier.eu.org/smartv/bosigolf2_twn.m3u8$ip
+博斯运动 2,https://iptv.lalifeier.eu.org/smartv/bosisport2_twn.m3u8$ip
+博斯运动 1,https://iptv.lalifeier.eu.org/smartv/bosisport1_twn.m3u8$ip
+博斯网球,https://iptv.lalifeier.eu.org/smartv/bositennis_twn.m3u8$ip
+华视,https://iptv.lalifeier.eu.org/smartv/ctshd_twn.m3u8$ip
+公视,https://iptv.lalifeier.eu.org/smartv/ctv_taiwan.m3u8$ip
+八大综合,https://iptv.lalifeier.eu.org/smartv/badazhonghe.m3u8$ip
+中天娱乐,https://iptv.lalifeier.eu.org/smartv/ctient.m3u8$ip
+中视,https://iptv.lalifeier.eu.org/smartv/zhongshihd_twn.m3u8$ip
+东森超视,https://iptv.lalifeier.eu.org/smartv/ettvsuper.m3u8$ip
+东森财经新闻,https://iptv.lalifeier.eu.org/smartv/ettvcaijing_twn.m3u8$ip
+东森戏剧,https://iptv.lalifeier.eu.org/smartv/ettvdrama.m3u8$ip
+三立综合,https://iptv.lalifeier.eu.org/smartv/sanlizhonghe.m3u8$ip
+三立戏剧,https://iptv.lalifeier.eu.org/smartv/sanlixiju_twn.m3u8$ip
+东森电影,https://iptv.lalifeier.eu.org/smartv/ettvmovie.m3u8$ip
+东森综合,https://iptv.lalifeier.eu.org/smartv/ettvzhonghe.m3u8$ip
+中天综合,https://iptv.lalifeier.eu.org/smartv/ctizhonghe.m3u8$ip
+八大综合,https://iptv.lalifeier.eu.org/smartv/badazhonghe.m3u8$ip
+八大戏剧,https://iptv.lalifeier.eu.org/smartv/badadrama.m3u8$ip
+八大第一,https://iptv.lalifeier.eu.org/smartv/badafirst.m3u8$ip
+八大第一,https://iptv.lalifeier.eu.org/smartv/badafirst.m3u8$ip
+小太阳,https://iptv.lalifeier.eu.org/smartv/Xiaotaiyang.m3u8$ip
+靖天卡通,https://iptv.lalifeier.eu.org/smartv/jingtiancartoon_twn.m3u8$ip
+靖天国际,https://iptv.lalifeier.eu.org/smartv/jingtianintl_twn.m3u8$ip
+EYETV戏剧,https://iptv.lalifeier.eu.org/smartv/eyetvxiju_twn.m3u8$ip
+EYETV旅游,https://iptv.lalifeier.eu.org/smartv/eyetvtravel_twn.m3u8$ip
+TVBS欢乐,https://iptv.lalifeier.eu.org/smartv/tvbshuanle_twn.m3u8$ip
+Viu6,https://iptv.lalifeier.eu.org/smartv/viusix_twn.m3u8$ip
+国家地理,https://iptv.lalifeier.eu.org/smartv/natgeohd_twn.m3u8$ip
+野生动物,https://iptv.lalifeier.eu.org/smartv/natgeowild_twn.m3u8$ip
+Momo TV,https://iptv.lalifeier.eu.org/smartv/momo1_twn.m3u8$ip
+亚洲旅游,https://iptv.lalifeier.eu.org/smartv/asiatravel_twn.m3u8$ip
+AXNTaiwan,https://iptv.lalifeier.eu.org/smartv/axn_twn.m3u8$ip
+动物星球1,https://iptv.lalifeier.eu.org/smartv/animalplanet_twn.m3u8$ip
+CINEMAX,https://iptv.lalifeier.eu.org/smartv/cinemax_twn.m3u8$ip
+CNBC,https://iptv.lalifeier.eu.org/smartv/cnbc_twn.m3u8$ip
+DiscoveryAsia,https://iptv.lalifeier.eu.org/smartv/discoverytwn_twn.m3u8$ip
+DiscoveryHD,https://iptv.lalifeier.eu.org/smartv/discoveryhd_twn.m3u8$ip
+DiscoveryTurbo,https://iptv.lalifeier.eu.org/smartv/discoveryturbo_twn.m3u8$ip
+BBCEarthHD,https://iptv.lalifeier.eu.org/smartv/bbcearth_twn.m3u8$ip
+BBCWorldNews,https://iptv.lalifeier.eu.org/smartv/bbcnews_twn.m3u8$ip
+BloombergNews,https://iptv.lalifeier.eu.org/smartv/bloomberg_twn.m3u8$ip
+CBSHD,https://iptv.lalifeier.eu.org/smartv/cbshd_glo.m3u8$ip
+CBSNHD,https://iptv.lalifeier.eu.org/smartv/cbsn_glo.m3u8$ip
+ABCNews,https://iptv.lalifeier.eu.org/smartv/abcnews_glo.m3u8$ip
+BabyTV,https://iptv.lalifeier.eu.org/smartv/babytv_twn.m3u8$ip
+CBSNews,https://iptv.lalifeier.eu.org/smartv/cbsn_glo.m3u8$ip
+CNN,https://iptv.lalifeier.eu.org/smartv/cnn_twn.m3u8$ip
+DiscoveryAsia,https://iptv.lalifeier.eu.org/smartv/discoverytwn_twn.m3u8$ip
+ELEVEN体育1,https://iptv.lalifeier.eu.org/smartv/golfchannel_twn.m3u8$ip
+EYETV戏剧,https://iptv.lalifeier.eu.org/smartv/eyetvxiju_twn.m3u8$ip
+FoxNews,https://iptv.lalifeier.eu.org/smartv/foxnews_twn.m3u8$ip
+GOODTV真理,https://iptv.lalifeier.eu.org/smartv/good2_twn.m3u8$ip
+HBO家庭,https://iptv.lalifeier.eu.org/smartv/fyi_twn.m3u8$ip
+RTHK32,https://iptv.lalifeier.eu.org/smartv/rhk32_twn.m3u8$ip
+TVBS欢乐,https://iptv.lalifeier.eu.org/smartv/tvbshuanle_twn.m3u8$ip
+WWE,https://iptv.lalifeier.eu.org/smartv/wwe_twn.m3u8$ip
+三立台湾,https://iptv.lalifeier.eu.org/smartv/sanlitaiwan.m3u8$ip
+三立戏剧,https://iptv.lalifeier.eu.org/smartv/sanlixiju_twn.m3u8$ip
+三立综合,https://iptv.lalifeier.eu.org/smartv/sanlizhonghe.m3u8$ip
+中天娱乐,https://iptv.lalifeier.eu.org/smartv/ctient.m3u8$ip
+
+中视经典,https://iptv.lalifeier.eu.org/smartv/zhongshi_twn.m3u8$ip
+亚洲旅游,https://iptv.lalifeier.eu.org/smartv/asiatravel_twn.m3u8$ip
+八大戏剧,https://iptv.lalifeier.eu.org/smartv/badadrama.m3u8$ip
+八大第一,https://iptv.lalifeier.eu.org/smartv/badafirst.m3u8$ip
+八大综合,https://iptv.lalifeier.eu.org/smartv/badazhonghe.m3u8$ip
+公视,https://iptv.lalifeier.eu.org/smartv/ctv_taiwan.m3u8$ip
+动物星球,https://iptv.lalifeier.eu.org/smartv/animalplanet_twn.m3u8$ip
+博斯网球,https://iptv.lalifeier.eu.org/smartv/bositennis_twn.m3u8$ip
+博斯运动2,https://iptv.lalifeier.eu.org/smartv/bosisport2_twn.m3u8$ip
+博斯高球1,https://iptv.lalifeier.eu.org/smartv/bosigolf1_twn.m3u8$ip
+博斯高球1,https://iptv.lalifeier.eu.org/smartv/bosigolf1_twn.m3u8$ip
+好莱坞电影,https://iptv.lalifeier.eu.org/smartv/hollywoodmovies_twn.m3u8$ip
+爱尔达体育1,https://iptv.lalifeier.eu.org/smartv/eltasport2_twn.m3u8$ip
+爱尔达体育2,https://iptv.lalifeier.eu.org/smartv/eltasport2_twn.m3u8$ip
+探索亚洲,https://iptv.lalifeier.eu.org/smartv/discoverytwn_twn.m3u8$ip
+探索动力,https://iptv.lalifeier.eu.org/smartv/discoveryturbo_twn.m3u8$ip
+星卫电影,https://iptv.lalifeier.eu.org/smartv/xingwei_movie.m3u8$ip
+时尚,https://iptv.lalifeier.eu.org/smartv/fashiontv_twn.m3u8$ip
+东森财经,https://iptv.lalifeier.eu.org/smartv/ettvcaijing_twn.m3u8$ip
+东森超视,https://iptv.lalifeier.eu.org/smartv/ettvsuper.m3u8$ip
+民视新闻,https://iptv.lalifeier.eu.org/smartv/ftvnew_taiwan.m3u8$ip
+美亚电影,https://iptv.lalifeier.eu.org/smartv/meiyamovie_twn.m3u8$ip
+靖天卡通,https://iptv.lalifeier.eu.org/smartv/jingtiancartoon_twn.m3u8$ip
+龙华戏剧,https://iptv.lalifeier.eu.org/smartv/lunghuaxiju_twn.m3u8$ip
+Awani,https://iptv.lalifeier.eu.org/smartv/Awani.m3u8$ip
+BBC,https://iptv.lalifeier.eu.org/smartv/bbc1_antik.m3u8$ip
+BBC1,https://iptv.lalifeier.eu.org/smartv/bbc1_antik.m3u8$ip
+BBC2,https://iptv.lalifeier.eu.org/smartv/bbc2_antik.m3u8$ip
+BBC WORLD NEWS,https://iptv.lalifeier.eu.org/smartv/bbcnews_twn.m3u8$ip
+BTSports4,https://iptv.lalifeier.eu.org/smartv/btespn.m3u8$ip
+CNA亚洲新闻,https://iptv.lalifeier.eu.org/smartv/cna.m3u8$ip
+Euronews,https://iptv.lalifeier.eu.org/smartv/euronews_antik.m3u8$ip
+TLC旅游生活,https://iptv.lalifeier.eu.org/smartv/tlc_twn.m3u8$ip
+新加坡8,https://iptv.lalifeier.eu.org/smartv/TV8.m3u8$ip
+翡翠,https://iptv.lalifeier.eu.org/smartv/jade_twn.m3u8$ip
+翡翠,https://iptv.lalifeier.eu.org/smartv/Wlt.m3u8$ip
+
 民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8$ex
 
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+蕃薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
@@ -499,23 +859,23 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大戲劇台HD,http://61.221.215.25:8800/hls/39/index.m3u8
+八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8
 八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8
-三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
-AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 49号,http://61.221.215.25:8800/hls/49/index.m3u8
@@ -532,7 +892,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8$gi
 三立新闻,http://gigs1.micar.me:8900/live.m3u8?c=9$gi
 台视新闻,http://gigs1.micar.me:8900/live.m3u8?c=10$gi
-民視新聞,http://gigs1.micar.me:8900/live.m3u8?c=11$gi
+民视新闻,http://gigs1.micar.me:8900/live.m3u8?c=11$gi
 公视新闻,http://gigs1.micar.me:8900/live.m3u8?c=13$gi
 中视新闻,http://gigs1.micar.me:8900/live.m3u8?c=14$gi
 镜新闻,http://gigs1.micar.me:8900/live.m3u8?c=16$gi
@@ -561,8 +921,8 @@ TVBS新闻,http://william8073.eu.org:9000/live.m3u8?c=2$will
 三立iNEWS,http://william8073.eu.org:9000/live.m3u8?c=15$will
 三立NEWS+,http://william8073.eu.org:9000/live.m3u8?c=22$will
 镜新闻,http://william8073.eu.org:9000/live.m3u8?c=13$will
-大爱一台,http://william8073.eu.org:9000/live.m3u8?c=16$will
-大爱二台,http://william8073.eu.org:9000/live.m3u8?c=17$will
+大爱一,http://william8073.eu.org:9000/live.m3u8?c=16$will
+大爱二,http://william8073.eu.org:9000/live.m3u8?c=17$will
 国会频道1,http://william8073.eu.org:9000/live.m3u8?c=23$will
 中视经典综艺,http://william8073.eu.org:9000/live.m3u8?c=28$will
 中视台湾志,http://william8073.eu.org:9000/live.m3u8?c=29$will
@@ -643,7 +1003,7 @@ LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14$111
 中视经典,http://live.9528.eu.org/4gtv.php?channel=124$liv
 三立综合,http://live.9528.eu.org/4gtv.php?channel=169$liv
 三立iNEWS,http://live.9528.eu.org/4gtv.php?channel=229$liv
-大爱二台,http://live.9528.eu.org/4gtv.php?channel=230$liv
+大爱二,http://live.9528.eu.org/4gtv.php?channel=230$liv
 民视,http://live.9528.eu.org/4gtv.php?channel=246$liv
 民视第一,http://live.9528.eu.org/4gtv.php?channel=254$liv
 民视台湾,http://live.9528.eu.org/4gtv.php?channel=255$liv
@@ -1173,7 +1533,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 
 炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$哈移
 
-黄河电视台,http://live.cooltv.top/tv/tide.php?id=sxhh
+黄河电视,http://live.cooltv.top/tv/tide.php?id=sxhh
 
 MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
@@ -1436,8 +1796,8 @@ CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
-神乐1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
@@ -2268,8 +2628,8 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
 跑跑卡丁车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
-神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐影院-1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 
 //http://zzy789.xyz
 犯罪片,http://zzy789.xyz/douyu1.php?id=747764
@@ -2361,7 +2721,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 高帧影片,http://zzy789.xyz/douyu1.php?id=6763930
 恐怖鬼怪,http://zzy789.xyz/douyu1.php?id=1165374
 愛看电影,http://zzy789.xyz/douyu1.php?id=432071
-經典神劇,http://zzy789.xyz/douyu1.php?id=3700024
+经典神剧,http://zzy789.xyz/douyu1.php?id=3700024
 漫威宇宙,http://zzy789.xyz/douyu1.php?id=4282654
 蚂蚱影视,http://zzy789.xyz/douyu1.php?id=6079455
 国产剧场,http://zzy789.xyz/douyu1.php?id=308752
@@ -2462,7 +2822,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 高帧影片,http://maomao.kandiantv.cn/douyu1.php?id=6763930
 恐怖鬼怪,http://maomao.kandiantv.cn/douyu1.php?id=1165374
 愛看电影,http://maomao.kandiantv.cn/douyu1.php?id=432071
-經典神劇,http://maomao.kandiantv.cn/douyu1.php?id=3700024
+经典神剧,http://maomao.kandiantv.cn/douyu1.php?id=3700024
 漫威宇宙,http://maomao.kandiantv.cn/douyu1.php?id=4282654
 蚂蚱影视,http://maomao.kandiantv.cn/douyu1.php?id=6079455
 国产剧场,http://maomao.kandiantv.cn/douyu1.php?id=308752
@@ -2558,7 +2918,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 高帧影片,http://diyp.zxxoo.work/douyu/6763930
 恐怖鬼怪,http://diyp.zxxoo.work/douyu/1165374
 愛看电影,http://diyp.zxxoo.work/douyu/432071
-經典神劇,http://diyp.zxxoo.work/douyu/3700024
+经典神剧,http://diyp.zxxoo.work/douyu/3700024
 漫威宇宙,http://diyp.zxxoo.work/douyu/4282654
 蚂蚱影视,http://diyp.zxxoo.work/douyu/6079455
 国产剧场,http://diyp.zxxoo.work/douyu/308752
@@ -3117,7 +3477,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 信阳新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226369/index.m3u8$郑移
 信阳文旅,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226367/index.m3u8$郑移
 信阳文旅,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226658/index.m3u8$郑移
-信阳教育台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226674/index.m3u8$郑移
+信阳教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226674/index.m3u8$郑移
 浉河广电,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8$郑移
 淮滨综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8$郑移
 光山综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227055/index.m3u8$郑移
@@ -3142,7 +3502,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 驻马店新闻1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8$郑移
 驻马店公共2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226375/index.m3u8$郑移
 驻马店科教3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8$郑移
-西平电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$郑移
+西平电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$郑移
 漯河新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8$郑移
 濮阳新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226378/index.m3u8$郑移
 濮阳公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8$郑移
@@ -3152,14 +3512,14 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 周口公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226626/index.m3u8$郑移
 周口教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226379/index.m3u8$郑移
 上蔡-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227065/index.m3u8$郑移
-项城电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226354/index.m3u8$郑移
-项城电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226541/index.m3u8$郑移
+项城电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226354/index.m3u8$郑移
+项城电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226541/index.m3u8$郑移
 三门峡新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226381/index.m3u8$郑移
 三门峡新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8$郑移
 灵宝综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227099/index.m3u8$郑移
 渑池新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8$郑移
-延津电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227098/index.m3u8$郑移
-义马电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8$郑移
+延津电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227098/index.m3u8$郑移
+义马电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8$郑移
 卢氏综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227023/index.m3u8$郑移
 焦作综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226382/index.m3u8$郑移
 焦作教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$郑移
@@ -3171,11 +3531,11 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 许昌公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8$郑移
 许昌农业科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226387/index.m3u8$郑移
 许昌综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226385/index.m3u8$郑移
-禹州电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$郑移
+禹州电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$郑移
 舞钢电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226361/index.m3u8$郑移
 漯河新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8$郑移
 鹤壁新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226384/index.m3u8$郑移
-淇县电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227061/index.m3u8$郑移
+淇县电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227061/index.m3u8$郑移
 安阳新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8$郑移
 安阳科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$郑移
 内黄综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226356/index.m3u8$郑移
@@ -3183,8 +3543,8 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 新乡新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8$郑移
 新乡新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688/index.m3u8$郑移
 新乡公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8$郑移
-卫辉电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226538/index.m3u8$郑移
-原阳电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227069/index.m3u8$郑移
+卫辉电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226538/index.m3u8$郑移
+原阳电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227069/index.m3u8$郑移
 原阳新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227069/index.m3u8$郑移
 封丘新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226346/index.m3u8$郑移
 平顶山新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8$郑移
@@ -3193,7 +3553,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 郏县城市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226388/index.m3u8$郑移
 郏县公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226399/index.m3u8$郑移
 郏县综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8$郑移
-叶县电视台,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227159/index.m3u8$郑移
+叶县电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227159/index.m3u8$郑移
 通许综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227086/index.m3u8$郑移
 杞县新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227100/index.m3u8$郑移
 
@@ -3221,7 +3581,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$哈移s
 
-番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+番禺电视,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe#http://r.jdshipin.com/iR6Gq
 
@@ -3246,9 +3606,9 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-FOX新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-FOX新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-FOX新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 俄IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694$mitv
@@ -3330,7 +3690,7 @@ CNTV频道,#genre#
 墙头马上,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
 花为媒,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
 牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
-梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+梁山伯与祝英,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
 铁弓缘,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
 碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
 野猪林,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
@@ -4019,7 +4379,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 天生胆小,https://vip.ffzy-play6.com/20221129/9417_4ed30e0d/index.m3u8
 天下无贼,https://vip.ffzy-play6.com/20221018/39_d0036fb2/index.m3u8
 天与地,https://vip.ffzy-play6.com/20221112/6144_016eb00a/index.m3u8
-铜雀台,https://vip.ffzy-play6.com/20221019/200_4eede94c/index.m3u8
+铜雀,https://vip.ffzy-play6.com/20221019/200_4eede94c/index.m3u8
 投名状,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
 顽主,https://vip.ffzy-play7.com/20221115/4578_af3f092c/index.m3u8
 旺角卡门,https://vip.ffzy-play1.com/20221018/469_ab458c38/index.m3u8
@@ -4614,7 +4974,7 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 杨晓琼赞郓城麻辣烫,https://vd3.bdstatic.com/mda-jdpndjp1v1jz1ujv/mda-jdpndjp1v1jz1ujv.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=0848956681&vid=10238512764995178241&auth_key=1655099049-0-0-2b5386996585edc0579f1031625633c9&bcevod_channel=searchbox_feed
 杨晓琼暑假洗澡,https://vd2.bdstatic.com/mda-jkt4dvp8575ibprn/mda-jkt4dvp8575ibprn.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=0554843168&vid=13064769158661196336&auth_key=1655098754-0-0-247256f5692b195f360d5cbd44e5f5ed&bcevod_channel=searchbox_feed
 杨晓琼真喜庆,https://vd3.bdstatic.com/mda-kc6d1ufaud89mzu2/mda-kc6d1ufaud89mzu2.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2012358077&vid=8852202819487302894&auth_key=1655100212-0-0-00640f5716b8f79937ed6b0bddfdf4df&bcevod_channel=searchbox_feed
-宋天福我是大明星要饭要到电视台,https://vd3.bdstatic.com/mda-kkj3jmzu5p2ftvhj/mda-kkj3jmzu5p2ftvhj.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2545324337&vid=4995212536240997817&auth_key=1655107945-0-0-c9437f7759d6b45dc0061c8e223c2a8e&bcevod_channel=searchbox_feed
+宋天福我是大明星要饭要到电视,https://vd3.bdstatic.com/mda-kkj3jmzu5p2ftvhj/mda-kkj3jmzu5p2ftvhj.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2545324337&vid=4995212536240997817&auth_key=1655107945-0-0-c9437f7759d6b45dc0061c8e223c2a8e&bcevod_channel=searchbox_feed
 宋天福现场表演,https://vd3.bdstatic.com/mda-jmgqbup3vu6kbtb0/mda-jmgqbup3vu6kbtb0.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=1593286976&vid=14372004599969065577&auth_key=1655106993-0-0-04440e1897a53c963d208f72ce3e4e6d&bcevod_channel=searchbox_feed
 宋天福大战姬云龙,https://vd2.bdstatic.com/mda-kmfipauatpdx480x/mda-kmfipauatpdx480x.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2341318009&vid=131617383戏曲精选49746182563&auth_key=1655107741-0-0-bbbd0ff6588a8deae544fe7c6a58a2c1&bcevod_channel=searchbox_feed
 
