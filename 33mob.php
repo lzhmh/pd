@@ -3246,6 +3246,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
+FOX新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX新闻台,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX新闻台,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 俄IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
