@@ -131,7 +131,7 @@ RTHK31,https://iptv.lalifeier.eu.org/smartv/rhk31_twn.m3u8$sm
 
 MEZZOLIVE,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv083.m3u8$ip
 古典音乐,https://iptv.lalifeier.eu.org/litv/4gtv-4gtv059.m3u8$ip
-凤凰卫视,https://iptv.lalifeier.eu.org/smartv/phoenixtv_hd.m3u8$sm
+凤凰中文,https://iptv.lalifeier.eu.org/smartv/phoenixtv_hd.m3u8$sm
 无线财经,https://iptv.lalifeier.eu.org/smartv/tvbcaijing_twn.m3u8$sm
 VIUTV1,https://iptv.lalifeier.eu.org/smartv/viu1_twn.m3u8$sm
 无线新闻,https://iptv.lalifeier.eu.org/smartv/inews_twn.m3u8$sm
@@ -163,7 +163,7 @@ NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/ind
 
 新加坡cna,https://iptv.lalifeier.eu.org/smartv/cna.m3u8$sm
 Euronews,https://iptv.lalifeier.eu.org/smartv/euronews_antik.m3u8$sm
-BBC WORLD NEWS,https://iptv.lalifeier.eu.org/smartv/bbcnews_twn.m3u8$sm
+BBCNEWS,https://iptv.lalifeier.eu.org/smartv/bbcnews_twn.m3u8$sm
 新加坡8,https://iptv.lalifeier.eu.org/smartv/TV8.m3u8$sm
 翡翠台,https://iptv.lalifeier.eu.org/smartv/jade_twn.m3u8$sm
 翡翠台,https://iptv.lalifeier.eu.org/smartv/Wlt.m3u8$sm
@@ -609,6 +609,7 @@ TVBS,https://iptv.lalifeier.eu.org/smartv/tvbs.m3u8$sm
 中视新闻,https://iptv.lalifeier.eu.org/smartv/zhongshinews_twn.m3u8$sm
 非凡新闻,https://iptv.lalifeier.eu.org/smartv/feifannews_twn.m3u8$sm
 中视新闻,https://iptv.lalifeier.eu.org/smartv/zhongshinews_twn.m3u8$sm
+
 龙华戏剧,https://iptv.lalifeier.eu.org/smartv/lunghuaxiju_twn.m3u8$sm
 龙华偶像,https://iptv.lalifeier.eu.org/smartv/lunghuaidol_twn.m3u8$sm
 龙华卡通,https://iptv.lalifeier.eu.org/smartv/jingtiancartoon_twn.m3u8$sm
@@ -617,7 +618,6 @@ Arirang,https://iptv.lalifeier.eu.org/smartv/arirang_twn.m3u8$sm
 好莱坞电影,https://iptv.lalifeier.eu.org/smartv/hollywoodmovies_twn.m3u8$sm
 民视,https://iptv.lalifeier.eu.org/smartv/ftvhd_taiwan.m3u8$sm
 年代新闻,https://iptv.lalifeier.eu.org/smartv/niandainews_twn.m3u8$sm
-大爱1,https://iptv.lalifeier.eu.org/smartv/daai_twn.m3u8$sm
 华视,https://iptv.lalifeier.eu.org/smartv/ctshd_twn.m3u8$sm
 公视,https://iptv.lalifeier.eu.org/smartv/ctv_taiwan.m3u8$sm
 八大综合,https://iptv.lalifeier.eu.org/smartv/badazhonghe.m3u8$sm
@@ -759,8 +759,6 @@ J2,https://iptv.lalifeier.eu.org/smartv/j2_twn.m3u8$sm
 中天综合,https://iptv.lalifeier.eu.org/smartv/ctizhonghe.m3u8$sm
 八大综合,https://iptv.lalifeier.eu.org/smartv/badazhonghe.m3u8$sm
 八大戏剧,https://iptv.lalifeier.eu.org/smartv/badadrama.m3u8$sm
-八大第一,https://iptv.lalifeier.eu.org/smartv/badafirst.m3u8$sm
-八大第一,https://iptv.lalifeier.eu.org/smartv/badafirst.m3u8$sm
 小太阳,https://iptv.lalifeier.eu.org/smartv/Xiaotaiyang.m3u8$sm
 靖天卡通,https://iptv.lalifeier.eu.org/smartv/jingtiancartoon_twn.m3u8$sm
 靖天国际,https://iptv.lalifeier.eu.org/smartv/jingtianintl_twn.m3u8$sm
@@ -831,8 +829,24 @@ TLC旅游生活,https://iptv.lalifeier.eu.org/smartv/tlc_twn.m3u8$sm
 
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-大爱一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8$61
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$61
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8$61
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$61
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$61
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$61
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8$61
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
+八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8$61
+八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8$61
+八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8$61
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$61
+
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 蕃薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
@@ -846,37 +860,6 @@ TLC旅游生活,https://iptv.lalifeier.eu.org/smartv/tlc_twn.m3u8$sm
 Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
-
-DW,http://61.221.215.25:8800/hls/1/index.m3u8
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8
-八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8
-八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-49号,http://61.221.215.25:8800/hls/49/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 
 寰宇新闻,http://gigs1.micar.me:8900/live.m3u8?c=6$gi
 寰宇国际,http://gigs1.micar.me:8900/live.m3u8?c=15$gi
@@ -1011,10 +994,9 @@ LIVE三立,http://111.76.16.111:9000/live.m3u8?c=14$111
 
 少儿动漫,#genre#
 
-ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
+ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-ZeeMoo,https://iptv.lalifeier.eu.org/smartv/Zeetvhd.m3u8$sm
 
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
