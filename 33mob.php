@@ -463,6 +463,7 @@ JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 
+TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8$61
 寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1$6v
 寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26$or
 中天新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=23$or
@@ -478,7 +479,6 @@ TVBSHD,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=2$or
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
-TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$61
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8$61
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$61
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8$61
@@ -488,10 +488,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$61
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8$61
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
-八大戏剧台HD,http://61.221.215.25:8800/hls/39/index.m3u8$61
-八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8$61
-八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8$61
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$61
 
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
