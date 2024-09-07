@@ -1,5 +1,17 @@
-//Mobile频道数据收集自网络上的分享240712开通IPV6
+//Mobile频道数据收集自网络上的分享24097开通IPV6
 港澳H061,#genre#
+
+凤凰中文,http://222.186.57.133:22222/php/fhx.php?id=fhzw
+凤凰资讯,http://222.186.57.133:22222/php/fhx.php?id=fhzx
+
+凤凰中文,http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192
+凤凰中文,http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
+凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
+
+凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
+凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
+凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
 
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$南腾讯
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$南腾讯
@@ -72,9 +84,6 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 先锋乒羽,http://218.29.135.2:4000/udp/225.1.4.210:1263
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
-睛彩羽毛球,http://opdf.top:8088/udp/239.81.0.192:4056$opdf1
-睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001$qna1
-
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
@@ -84,6 +93,7 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,https://dl.zhoujie218.top/new/fhx.php?id=fhhk$上阿里
 
+凤凰香港,http://222.186.57.133:22222/php/fhx.php?id=fhhk
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$南腾讯
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
 凤凰香港,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
@@ -195,11 +205,37 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/150000001
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 先锋乒羽,http://218.29.135.2:4000/udp/225.1.4.210:1263
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
+先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
+先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140
 
-睛彩羽毛球,http://opdf.top:8088/udp/239.81.0.192:4056$opdf1
-睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001$qna1
+晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
+晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
+晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+晴彩竞技,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
+晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
+晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
+晴彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
+
+晴彩竞技,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.125:8001
+晴彩篮球,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.126:8001
+晴彩青少,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.127:8001
+晴彩竞技,http://drive.mxmy.net:8888/rtp/239.3.1.125:8001
+晴彩篮球,http://drive.mxmy.net:8888/rtp/239.3.1.126:8001
+晴彩青少,http://drive.mxmy.net:8888/rtp/239.3.1.127:8001
+
+睛彩青少,http://opdf.top:8088/udp/239.81.0.192:4056$opdf1
+睛彩青少,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001$qna1
 睛彩竞技,http://opdf.top:8088/udp/239.81.0.190:4056$opdf1
 睛彩篮球,http://opdf.top:8088/udp/239.81.0.191:4056$opdf1
+
+广东体育,http://116.22.147.124:6868/udp/239.77.0.112:5146
+广东体育,http://jt.zorua.cn:8787/udp/239.77.0.112:5146
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育,http://api2.52tb.xyz/info?id=414&token=20230326xflvzc
+广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
 
@@ -255,9 +291,9 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 
 睛彩广场舞,http://opdf.top:8088/udp/239.3.1.128:8001$opdf1
 
-睛彩羽毛球,http://home4.kmo.ink:8888/rtp/239.81.0.192:4056$hom2
-睛彩羽毛球,http://home4.kmo.ink:8888/rtp/233.50.201.195:5140$hom3
-睛彩羽毛球,http://home4.kmo.ink:8888/rtp/233.50.202.28:5140$hom4
+睛彩青少,http://home4.kmo.ink:8888/rtp/239.81.0.192:4056$hom2
+睛彩青少,http://home4.kmo.ink:8888/rtp/233.50.201.195:5140$hom3
+睛彩青少,http://home4.kmo.ink:8888/rtp/233.50.202.28:5140$hom4
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.3.1.125:8001$hom1
 睛彩竞技,http://home4.kmo.ink:8888/rtp/239.81.0.190:4056$hom2
 睛彩篮球,http://home4.kmo.ink:8888/rtp/239.3.1.126:8001$hom1
@@ -270,35 +306,35 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 睛彩竞技,http://qnap.yjnhome.com:4000/udp/239.81.0.190:4056$qna
 睛彩篮球,http://qnap.yjnhome.com:4000/udp/239.3.1.126:8001$qna
 睛彩篮球,http://qnap.yjnhome.com:4000/udp/239.81.0.191:4056$qna
-睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/239.81.0.192:4056$qna
-睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/233.50.201.195:5140$qna
-睛彩羽毛球,http://qnap.yjnhome.com:4000/udp/233.50.202.28:5140$qna
+睛彩青少,http://qnap.yjnhome.com:4000/udp/239.81.0.192:4056$qna
+睛彩青少,http://qnap.yjnhome.com:4000/udp/233.50.201.195:5140$qna
+睛彩青少,http://qnap.yjnhome.com:4000/udp/233.50.202.28:5140$qna
 睛彩广场舞,http://qnap.yjnhome.com:4000/udp/239.3.1.128:8001$qna
 
 睛彩竞技,http://webmail.axxe.top:4022/udp/239.3.1.125:8001$web
 睛彩竞技,http://webmail.axxe.top:4022/udp/239.81.0.190:4056$web
 睛彩篮球,http://webmail.axxe.top:4022/udp/239.3.1.126:8001$web
 睛彩篮球,http://webmail.axxe.top:4022/udp/239.81.0.191:4056$web
-睛彩羽毛球,http://webmail.axxe.top:4022/udp/239.81.0.192:4056$web
-睛彩羽毛球,http://webmail.axxe.top:4022/udp/233.50.201.195:5140$web
-睛彩羽毛球,http://webmail.axxe.top:4022/udp/233.50.202.28:5140$web
-睛彩羽毛球,http://webmail.axxe.top:4022/udp/239.3.1.127:8001$web
+睛彩青少,http://webmail.axxe.top:4022/udp/239.81.0.192:4056$web
+睛彩青少,http://webmail.axxe.top:4022/udp/233.50.201.195:5140$web
+睛彩青少,http://webmail.axxe.top:4022/udp/233.50.202.28:5140$web
+睛彩青少,http://webmail.axxe.top:4022/udp/239.3.1.127:8001$web
 睛彩广场舞,http://webmail.axxe.top:4022/udp/239.3.1.128:8001$web
 
 睛彩竞技,http://opdf.top:8088/udp/239.3.1.125:8001$opdf2
 睛彩篮球,http://opdf.top:8088/udp/239.3.1.126:8001$opdf2
-睛彩羽毛球,http://opdf.top:8088/udp/233.50.201.195:5140$opdf2
-睛彩羽毛球,http://opdf.top:8088/udp/233.50.202.28:5140$opdf3
-睛彩羽毛球,http://opdf.top:8088/udp/239.3.1.127:8001$opdf4
+睛彩青少,http://opdf.top:8088/udp/233.50.201.195:5140$opdf2
+睛彩青少,http://opdf.top:8088/udp/233.50.202.28:5140$opdf3
+睛彩青少,http://opdf.top:8088/udp/239.3.1.127:8001$opdf4
 
 睛彩竞技,http://home.zts1993.com:8887/udp/239.3.1.125:8001$ho
 睛彩竞技,http://home.zts1993.com:8887/udp/239.81.0.190:4056$ho
 睛彩篮球,http://home.zts1993.com:8887/udp/239.3.1.126:8001$ho
 睛彩篮球,http://home.zts1993.com:8887/udp/239.81.0.191:4056$ho
-睛彩羽毛球,http://home.zts1993.com:8887/udp/239.81.0.192:4056$ho
-睛彩羽毛球,http://home.zts1993.com:8887/udp/233.50.201.195:5140$ho
-睛彩羽毛球,http://home.zts1993.com:8887/udp/233.50.202.28:5140$ho
-睛彩羽毛球,http://home.zts1993.com:8887/udp/239.3.1.127:8001$ho
+睛彩青少,http://home.zts1993.com:8887/udp/239.81.0.192:4056$ho
+睛彩青少,http://home.zts1993.com:8887/udp/233.50.201.195:5140$ho
+睛彩青少,http://home.zts1993.com:8887/udp/233.50.202.28:5140$ho
+睛彩青少,http://home.zts1993.com:8887/udp/239.3.1.127:8001$ho
 睛彩广场舞,http://home.zts1993.com:8887/udp/239.3.1.128:8001$ho
 
 棋牌娱乐,#genre#
