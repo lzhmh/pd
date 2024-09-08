@@ -1,6 +1,9 @@
 //Mobile频道数据收集自网络上的分享24097开通IPV6
 港澳H061,#genre#
 
+凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
+
 凤凰中文,http://222.186.57.133:22222/php/fhx.php?id=fhzw
 凤凰资讯,http://222.186.57.133:22222/php/fhx.php?id=fhzx
 
@@ -91,15 +94,13 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 香港卫视,http://ax.micaesoft.com/YMitv/YMITV_CN_HKhkstv_2.m3u8$ax
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,https://dl.zhoujie218.top/new/fhx.php?id=fhhk$上阿里
 
+凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk$上阿里
 凤凰香港,http://222.186.57.133:22222/php/fhx.php?id=fhhk
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8$南腾讯
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
-凤凰香港,https://epg.pw/stream/b3ab43b2415df405226d5b25f38e51432ca7d32b5a240e0aa1f3e201d181442f.m3u8
 凤凰香港,http://hikvision.city:880/fhxgt.m3u8
 凤凰香港,http://146.56.153.245:20121/bysid/259
-凤凰香港,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
 
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
@@ -131,10 +132,6 @@ RTHK34,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/str
 
 RTHK35,http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-
-RTHK33,https://epg.pw/stream/00ea10452b568a8e587ebece8311785afe7f33c41437de0a68839e6392d45dfc.m3u8
-RTHK34,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8
-RTHK35,https://epg.pw/stream/cabd18457f278cda40ac160bccabf77a6b0ad341e50a00bd62620d78819dd220.m3u8
 
 澳亚卫视,http://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
