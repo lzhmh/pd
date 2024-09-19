@@ -4,6 +4,9 @@
 凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
 凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
 
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$php
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$php
+
 凤凰中文,http://222.186.57.133:22222/php/fhx.php?id=fhzw
 凤凰资讯,http://222.186.57.133:22222/php/fhx.php?id=fhzx
 
@@ -86,6 +89,9 @@ CCTV4,http://api.52tb.xyz/info?id=107&token=20220102lithops2009$香腾
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 先锋乒羽,http://218.29.135.2:4000/udp/225.1.4.210:1263
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
+先锋乒羽,http://42.48.17.204:808/hls/77/index.m3u8$长联
+先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
+先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
@@ -204,6 +210,19 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/150000001
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
 先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140
+
+先锋乒羽,http://42.48.17.204:808/hls/77/index.m3u8$长联
+先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
+先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140
+
+ELTA3羽球,P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960$p2p
+ELTA3羽球,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0$p2p
+beIN2网球,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f$p2p
+beIN2网球,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300$p2p
+
+博斯网球,P2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4$p2p
+博斯网球,P2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd$p2p
+博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8$芬兰
 
 晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
 晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
@@ -344,6 +363,20 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
+八卦大师,http://diyp.zxxoo.work/douyu/851040
+帽子象棋,http://diyp.zxxoo.work/douyu/4487219
+笑笑象棋,http://diyp.zxxoo.work/douyu/9969
+大神象棋,http://diyp.zxxoo.work/douyu/1227260
+飞刀陷阱,http://diyp.zxxoo.work/douyu/11576846
+飞刀讲解,http://diyp.zxxoo.work/douyu/10237088
+飞刀谱,http://diyp.zxxoo.work/douyu/11765935
+小鹤求败,http://diyp.zxxoo.work/douyu/3830820
+旭宝斗地主,http://diyp.zxxoo.work/douyu/9804176
+欢乐斗地主,http://diyp.zxxoo.work/douyu/8324074
+JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
+陶老师围棋,http://diyp.zxxoo.work/douyu/6586073
+弈夫围棋,http://diyp.zxxoo.work/douyu/6399350
+
 帽子象棋,http://maomao.kandiantv.cn/douyu1.php?id=4487219
 笑笑象棋,http://maomao.kandiantv.cn/douyu1.php?id=9969
 大神象棋,http://maomao.kandiantv.cn/douyu1.php?id=1227260
@@ -357,6 +390,7 @@ JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
 陶老师围棋,http://maomao.kandiantv.cn/douyu1.php?id=6586073
 弈夫围棋,http://maomao.kandiantv.cn/douyu1.php?id=6399350
 
+八卦大师,http://zzy789.xyz/douyu1.php?id=851040
 帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
 大神象棋,http://zzy789.xyz/douyu1.php?id=1227260
 飞刀陷阱,http://zzy789.xyz/douyu1.php?id=11576846
@@ -367,19 +401,6 @@ JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
 欢乐斗地主,http://zzy789.xyz/douyu1.php?id=8324074
 JJ斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
-
-帽子象棋,http://diyp.zxxoo.work/douyu/4487219
-笑笑象棋,http://diyp.zxxoo.work/douyu/9969
-大神象棋,http://diyp.zxxoo.work/douyu/1227260
-飞刀陷阱,http://diyp.zxxoo.work/douyu/11576846
-飞刀讲解,http://diyp.zxxoo.work/douyu/10237088
-飞刀谱,http://diyp.zxxoo.work/douyu/11765935
-小鹤求败,http://diyp.zxxoo.work/douyu/3830820
-旭宝斗地主,http://diyp.zxxoo.work/douyu/9804176
-欢乐斗地主,http://diyp.zxxoo.work/douyu/8324074
-JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
-陶老师围棋,http://diyp.zxxoo.work/douyu/6586073
-弈夫围棋,http://diyp.zxxoo.work/douyu/6399350
 
 帽子象棋,http://159.75.85.63:35455/douyu/4487219
 象棋死神,http://159.75.85.63:35455/douyu/10226687
@@ -452,6 +473,35 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+
+尼克儿童,http://37.27.111.214:8080/live/12/hls.m3u8$芬兰
+nickjr,http://37.27.111.214:8080/live/22/hls.m3u8$芬兰
+月亮少儿,http://37.27.111.214:8080/live/57/hls.m3u8$芬兰
+梅花猫和老鼠,http://37.27.111.214:8080/live/105/hls.m3u8$芬兰
+梅花少儿,http://37.27.111.214:8080/live/106/hls.m3u8$芬兰
+梅花哆啦少儿,http://37.27.111.214:8080/live/107/hls.m3u8$芬兰
+HokkoTV,http://37.27.111.214:8080/live/1/hls.m3u8$芬兰
+
+尼克儿童,P2p://generationnexxxt.com:19806/1d8cc2412f824c3c888a5d91d241910c$p2p
+东森幼幼,P2p://generationnexxxt.com:19806/f426ffd2f2744109aedcfaa04fed3a6e$p2p
+MOMO亲子,P2p://generationnexxxt.com:19806/e15e61548a2b4ff792b3dd6620be8139$p2p
+AstroCeria,P2p://generationnexxxt.com:19806/aeb0f86165f24fda89427db290065d21$p2p
+i-Fun爱放,P2p://generationnexxxt.com:19806/5e4556e2a12846c5bedb721c6b5ff1c3$p2p
+CN卡通,P2p://generationnexxxt.com:19806/7eb800b1540d4aab9365efc149622aa0$p2p
+Animax,P2p://generationnexxxt.com:19806/7c6f8a583fc24b298779528c07b8c66d$p2p
+ELTV英语,P2p://generationnexxxt.com:19806/1a430b38978a4a0698ede6f842b3a265$p2p
+Animax(B),P2p://generationnexxxt.com:19806/4913cc8e4b7e490eaebbb4a081bf02b8$p2p
+靖洋NiceBingo,P2p://generationnexxxt.com:19806/c7d3153e13894863a8d735c907971efd$p2p
+靖天卡通,P2p://generationnexxxt.com:19806/f55c325d0f8b4cac938804f090c50b5c$p2p
+
+东森幼幼,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8515/.m3u8$tian
+GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+
+PetBites少儿,http://37.27.111.214:8080/live/81/hls.m3u8$芬兰
+TECHStorm科技,http://37.27.111.214:8080/live/80/hls.m3u8$芬兰
+
+ABC互动英语,http://37.27.111.214:8080/live/54/hls.m3u8$芬兰
+ELTV生活英语,http://37.27.111.214:8080/live/56/hls.m3u8$芬兰
 
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$哈移
 优漫卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
@@ -552,6 +602,53 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 环球体育,#genre#
 
+ELTA1足球,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727$p2p
+ELTA1足球,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc$p2p
+ELTA2美足,P2p://generationnexxxt.com:19806/dc194c3738dd40448246b92172399ccd$p2p
+ELTA2美足,P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb$p2p
+ELTA4棒球,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4$p2p
+ELTA4棒球,P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e$p2p
+beIN足球,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df$p2p
+beIN足球,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df$p2p
+beIN3足球,P2p://generationnexxxt.com:19806/377e62e57ccb4a128195cb09fe8b107f$p2p
+AstroArena,P2p://generationnexxxt.com:19806/8320c917bc6b48cea94601d851635400$p2p
+AstroArena2,P2p://generationnexxxt.com:19806/3f9efc73e52f4cca99985de38ba0f28a$p2p
+AstroSuperSport2,P2p://generationnexxxt.com:19806/e9358d09c276404f91d27dca79e42b73$p2p
+AstroSuper3足球,P2p://generationnexxxt.com:19806/3dd6cd51d294486f85d3bfdfe787a431$p2p
+纬来体育,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99$p2p
+智林体育,P2p://generationnexxxt.com:19806/2eb49b88b20146879f4c2af756b30118$p2p
+博斯运动I棒球,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4$p2p
+博斯运动I棒球,P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70$p2p
+博斯无限台球,P2p://generationnexxxt.com:19806/0df5cdddf4b94ff09c04dfc4f11bcfcf$p2p
+博斯无限台球,P2p://generationnexxxt.com:19806/3f6a91a25f724acb9bc245c2eda7b04c$p2p
+博斯高球I,P2p://generationnexxxt.com:19806/10e28a2c31fe4fe8b3975961dec3503e$p2p
+博斯高球I,P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a$p2p
+MOMOTV,P2p://generationnexxxt.com:19806/bc7a77f2d1a54242a2b845916fcb726c$p2p
+ELEVEN1,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59$p2p
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731$f13
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741$f13
+ELEVEN1,http://60.248.77.83/sat/tv731.flv$f13
+ELEVEN2,http://60.248.77.83/sat/tv741.flv$f13
+
+纬来体育,http://60.248.77.83/sat/tv721.flv
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8585/.m3u8$tian
+
+MOMOTV,rtmp://f13h.mine.nu/sat/tv761.flv
+MOMOTV,http://60.248.77.83/sat/tv761.flv
+MOMOTV,rtmp://f13h.mine.nu/sat/tv761
+
+SPOTV赛车,P2p://generationnexxxt.com:19806/4644a6bafc344250b5feee6805553d42$p2p
+GolfChannel,P2p://generationnexxxt.com:19806/d6d3302276514a79a289a45ec22d88f0$p2p
+GolfChannel,P2p://generationnexxxt.com:19806/1efa1c2e65614ce78d0c6a649fdee46a$p2p
+FightSports,P2p://generationnexxxt.com:19806/afba524c846148f98685fb42b776435c$p2p
+WWE拳击,P2p://generationnexxxt.com:19806/e3ac5937983b467197d0355d0bfaf53b$p2p
+TVBPlus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6$p2p
+TVBPlus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d$p2p
+18台,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6$p2p
+
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 FIFA 足球,https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 曼联官方MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
@@ -563,111 +660,19 @@ Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
+博斯运动I棒球,http://37.27.111.214:8080/live/14/hls.m3u8$芬兰
+博斯高球I,http://37.27.111.214:8080/live/13/hls.m3u8$芬兰
+博斯无限台球,http://37.27.111.214:8080/live/15/hls.m3u8$芬兰
+智林体育,http://37.27.111.214:8080/live/77/hls.m3u8$芬兰
+V+体育,http://37.27.111.214:8080/live/78/hls.m3u8$芬兰
+博斯运动I棒球,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8$tian
 
-Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-
-ESPN,http://51.83.238.223:16515/
-ESPN,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/130
-ESPN,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/131
-
-ESPN2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/129
-ESPN2,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/135
-
-ESPN3,http://51.83.238.223:16555/
-ESPN3,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/127
-
-ESPN4,http://208.115.225.174:14510
-ESPN4,http://51.83.238.223:16575/
-ESPN4,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/143
-ESPN4,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/142
+TraceSportsStars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 F1赛车,https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
-Dric足球,http://livetv.ktv.zone/23/play.m3u8
-
 OneGolf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 OneGolf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
-DubaiRacing2,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-DubaiRacing3,http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
-SK4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7272/index.m3u8
-SK3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7271/index.m3u8
-SK2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7270/index.m3u8
-SK5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7273/index.m3u8
-
-EdgeSport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-EUROSPORT2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
-EUROSPORT1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-
-天空足球1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
-天空足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-天空综合,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
-天空英超,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
-天空新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-天空竞技,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
-天空格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
-天空德甲,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
-天空板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-天空澳洲,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
-天空Golf,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7344/index.m3u8
-天空F1赛车,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
-
-极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
-俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-
-ViasatSport足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12076/index.m3u8
-ViasatSportExtra,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12074/index.m3u8
-ViasatSport综合,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12079/index.m3u8
-ViasatSport1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12075/index.m3u8
-ViasatSportGolf,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12077/index.m3u8
-TVPSport,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2520/index.m3u8
-TV3SPORT,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12100/index.m3u8
-TennisChannel 2,https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-
-SportTV,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2529/index.m3u8
-SportTV4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2528/index.m3u8
-SportTV3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2527/index.m3u8
-SportTV2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2526/index.m3u8
-SportTV1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2525/index.m3u8
-SportTV+,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2530/index.m3u8
-
-SportKlub,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2521/index.m3u8
-SetantaEurasia+,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15184/index.m3u8
-SetantaEurasia,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15183/index.m3u8
-红牛RedBull,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16040/index.m3u8
-ONtimeSports足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2512/index.m3u8
-FOX体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
-MAT体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
-
-MAT体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/124/index.m3u8
-Insport,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16071/index.m3u8
-Fastnfunbox,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15231/index.m3u8
-Eleven Sports5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2535/index.m3u8
-Eleven Sports4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2534/index.m3u8
-Eleven Sports3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2533/index.m3u8
-Eleven Sports2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2532/index.m3u8
-Eleven Sports1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2531/index.m3u8
-DIGI Sport 4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2538/index.m3u8
-DIGI Sport 2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2522/index.m3u8
-DIGI Sport 1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2523/index.m3u8
-C More Sport,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2515/index.m3u8
-BT 体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6564/index.m3u8
-BT 体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
-beINSports3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
-beINSports3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
-beINSports2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2500/index.m3u8
-beINSports,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
-Bein综合,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6131/index.m3u8
-beINSports,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6158/index.m3u8
 
 12TVParma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
@@ -1186,6 +1191,46 @@ CHC影迷电影,http://218.67.184.19:8888/udp/225.1.1.214:5002
 CHC动作电影,http://171.118.209.251:8082/rtp/226.0.2.94:8012
 CHC家庭影院,http://171.118.209.251:8082/rtp/226.0.2.240:9820
 CHC影迷电影,http://171.118.209.251:8082/rtp/226.0.2.93:8004
+
+女神影院,https://pull.kktv8.com/livekktv/99350550.flv
+金马影院,https://pull.kktv8.com/livekktv/128600025.flv
+午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+
+HBO纪录片,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3800
+HBOTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/3799
+ThrillTV,http://nv1connect.com:80/tamtam/tjfYkCbP3s/94482
+
+HollyWood,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716$p2p
+HBO电影,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb$p2p
+HBOFamily,P2p://generationnexxxt.com:19806/a478d349433544c894aef4e3dc167d64$p2p
+HBOFamily,P2p://generationnexxxt.com:19806/e8c4b36eccf04b64aee2e9ef6b12a980$p2p
+HBOHits,P2p://generationnexxxt.com:19806/7199aae1ab984d4fa9562d1babe7ba06$p2p
+HBOHits,P2p://generationnexxxt.com:19806/55d1f251a1cc4043b0b2a748bcd26242$p2p
+HBO原创巨献,P2p://generationnexxxt.com:19806/39c393cd52cb4a1b9b51a542f897570e$p2p
+HBO原创巨献,P2p://generationnexxxt.com:19806/03579c59806d4cd9b1b3100caacadede$p2p
+美亚电影,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0$p2p
+美亚电影,P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581$p2p
+爱奇艺,P2p://generationnexxxt.com:19806/57550dfdc5e44996894431f0f14fb42f$p2p
+AXN电影,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b$p2p
+CINEMAX,P2p://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e$p2p
+amc 电影,P2p://generationnexxxt.com:19806/951cecbe3fd745498d5216c042600ccf$p2p
+纬来电影,P2p://generationnexxxt.com:19806/73fb2db46b6c4ec885e3709d9b7a4983$p2p
+龙祥电影,P2p://generationnexxxt.com:19806/1c325d3c69ec458c852b173bf2e397a9$p2p
+龙华电影,P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf$p2p
+壹电视电影,P2p://generationnexxxt.com:19806/8ce448f9cbae4feb805286d5b11bcf4d$p2p
+PopC,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043$p2p
+影迷数位电影,P2p://generationnexxxt.com:19806/68111c16e7bc42d3bc27791997d39a4b$p2p
+CatchPlay电影,P2p://generationnexxxt.com:19806/6c90e32dd9b14d1f9eebb3c57a351d15$p2p
+
+澳门莲花,http://php.jdshipin.com:8880/amlh.php$php
+澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8$p2p
+澳门莲花,P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242$p2p
+天映经典,P2p://generationnexxxt.com:19806/3496dc2c5dc1421c8c403eb9c475753e$p2p
+tvNMovies,P2p://generationnexxxt.com:19806/2272a99a946d4f7fac4cbf0dc62fd58b$p2p
+tvNMovies,P2p://generationnexxxt.com:19806/4cc0c1c2f4204fe0b99ca3552f63894c$p2p
+Mediacorp5,P2p://generationnexxxt.com:19806/e701bea921da476497494dffe17fa18f$p2p
+MediacorpU,P2p://generationnexxxt.com:19806/56d9f8daf4584cc5af47c72f471ae9d7$p2p
+BOO电影,P2p://generationnexxxt.com:19806/b98310cd5c794352bca4cffc500b0cc6$p2p
 
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$哈移
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$哈移
