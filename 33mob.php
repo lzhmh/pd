@@ -1,8 +1,14 @@
-//Mobile频道数据收集自网络上的分享24097开通IPV6
-港澳H061,#genre#
+//Mobile频道数据收集自网络上的分享241030开通IPV6
+港澳H062,#genre#
 
 凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw$上阿里
 凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx$上阿里
+
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$php
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$php
+
+凤凰中文,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv$ali
+凤凰资讯,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv$ali
 
 凤凰中文,http://222.186.57.133:22222/php/fhx.php?id=fhzw
 凤凰资讯,http://222.186.57.133:22222/php/fhx.php?id=fhzx
@@ -209,23 +215,23 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/150000001
 先锋乒羽,http://60.7.56.50:4000/rtp/239.253.93.219:6397
 先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140
 
-晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
-晴彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
-晴彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
-晴彩竞技,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
-晴彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
-晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
-晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
-晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
-晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
-晴彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
+睛彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
+睛彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
+睛彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+睛彩竞技,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
+睛彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
+睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
+睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
+睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
+睛彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
 
-晴彩竞技,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.125:8001
-晴彩篮球,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.126:8001
-晴彩青少,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.127:8001
-晴彩竞技,http://drive.mxmy.net:8888/rtp/239.3.1.125:8001
-晴彩篮球,http://drive.mxmy.net:8888/rtp/239.3.1.126:8001
-晴彩青少,http://drive.mxmy.net:8888/rtp/239.3.1.127:8001
+睛彩竞技,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.125:8001
+睛彩篮球,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.126:8001
+睛彩青少,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.127:8001
+睛彩竞技,http://drive.mxmy.net:8888/rtp/239.3.1.125:8001
+睛彩篮球,http://drive.mxmy.net:8888/rtp/239.3.1.126:8001
+睛彩青少,http://drive.mxmy.net:8888/rtp/239.3.1.127:8001
 
 睛彩青少,http://opdf.top:8088/udp/239.81.0.192:4056$opdf1
 睛彩青少,http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001$qna1
@@ -238,9 +244,34 @@ CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/150000001
 广东体育,http://api2.52tb.xyz/info?id=414&token=20230326xflvzc
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
 
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=59f483a17f5bf8f0cfba52b845141caa&txTime=19182c077bb
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
 
-咪咕赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+睛彩竞技,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$IP6
+睛彩青少,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$$IP6
+睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
+睛彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
+
+爱尔达1,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727$p2p
+爱尔达1,P2p://generationnexxxt.com:19806/a45037ddc0734fe58e4ab3e053d811dc$p2p
+
+博斯运动I,http://37.27.111.214:8080/live/14/hls.m3u8$芬兰
+博斯运动I,https://litv.zapi.us.kg/?id=litv-longturn07$litv
+博斯运动I,P2p://generationnexxxt.com:19806/1939cbb0de3449739f1dd5738bfa99e4$p2p
+博斯运动I,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8587/.m3u8$错时
+博斯运动I,P2p://generationnexxxt.com:19806/9ab4db0c2a6444f5bca41b8dca371a70$p2p
+
+博斯网球,P2p://generationnexxxt.com:19806/2d4ebc7a69904ad795df8adc5906d3a4$p2p
+博斯网球,P2p://generationnexxxt.com:19806/3ffce834097d40fa9036d0c469bafefd$p2p
+博斯网球,http://37.27.111.214:8080/live/16/hls.m3u8$芬兰
+博斯网球,https://litv.zapi.us.kg/?id=litv-longturn09$litv
+
+beIN2网球,P2p://generationnexxxt.com:19806/23d14199213c426092f9e1002f0f143f$p2p
+beIN2网球,P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300$p2p
+
+EURO1网球,http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
+EURO1网球,http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
@@ -348,6 +379,7 @@ MOMOTV,http://60.248.77.83/sat/tv761.flv
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
+八卦大师,http://maomao.kandiantv.cn/douyu1.php?id=851040
 帽子象棋,http://maomao.kandiantv.cn/douyu1.php?id=4487219
 笑笑象棋,http://maomao.kandiantv.cn/douyu1.php?id=9969
 大神象棋,http://maomao.kandiantv.cn/douyu1.php?id=1227260
@@ -361,7 +393,9 @@ JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
 陶老师围棋,http://maomao.kandiantv.cn/douyu1.php?id=6586073
 弈夫围棋,http://maomao.kandiantv.cn/douyu1.php?id=6399350
 
+八卦大师,http://zzy789.xyz/douyu1.php?id=851040
 帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
+笑笑象棋,http://zzy789.xyz/douyu1.php?id=9969
 大神象棋,http://zzy789.xyz/douyu1.php?id=1227260
 飞刀陷阱,http://zzy789.xyz/douyu1.php?id=11576846
 飞刀讲解,http://zzy789.xyz/douyu1.php?id=10237088
@@ -370,8 +404,10 @@ JJ斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
 旭宝斗地主,http://zzy789.xyz/douyu1.php?id=9804176
 欢乐斗地主,http://zzy789.xyz/douyu1.php?id=8324074
 JJ斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
+陶老师围棋,http://zzy789.xyz/douyu1.php?id=6586073
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
 
+八卦大师,http://diyp.zxxoo.work/douyu/851040
 帽子象棋,http://diyp.zxxoo.work/douyu/4487219
 笑笑象棋,http://diyp.zxxoo.work/douyu/9969
 大神象棋,http://diyp.zxxoo.work/douyu/1227260
@@ -385,6 +421,20 @@ JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
 陶老师围棋,http://diyp.zxxoo.work/douyu/6586073
 弈夫围棋,http://diyp.zxxoo.work/douyu/6399350
 
+八卦大师,http://live.iill.top/douyu.php?id=9851040$liv
+帽子象棋,http://live.iill.top/douyu.php?id=94487219$liv
+象棋死神,http://live.iill.top/douyu.php?id=910226687$liv
+大神象棋,http://live.iill.top/douyu.php?id=91227260$liv
+飞刀陷阱,http://live.iill.top/douyu.php?id=911576846$liv
+飞刀讲解,http://live.iill.top/douyu.php?id=910237088$liv
+飞刀谱,http://live.iill.top/douyu.php?id=911765935$liv
+小鹤求败,http://live.iill.top/douyu.php?id=93830820$liv
+旭宝斗地主,http://live.iill.top/douyu.php?id=99804176$liv
+欢乐斗地主,http://live.iill.top/douyu.php?id=98324074$liv
+JJ斗地主冠军赛,http://live.iill.top/douyu.php?id=9488743$liv
+弈夫围棋,http://live.iill.top/douyu.php?id=96399350$liv
+
+八卦大师,http://159.75.85.63:35455/douyu/851040
 帽子象棋,http://159.75.85.63:35455/douyu/4487219
 象棋死神,http://159.75.85.63:35455/douyu/10226687
 大神象棋,http://159.75.85.63:35455/douyu/1227260
@@ -396,8 +446,8 @@ JJ斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
 欢乐斗地主,http://159.75.85.63:35455/douyu/8324074
 JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 弈夫围棋,http://159.75.85.63:35455/douyu/6399350
-八卦大师,http://159.75.85.63:35455/douyu/851040
 
+八卦大师,http://43.138.170.29:35455/douyu/851040
 帽子象棋,http://43.138.170.29:35455/douyu/4487219
 笑笑象棋,http://43.138.170.29:35455/douyu/9969
 大神象棋,http://43.138.170.29:35455/douyu/1227260
@@ -410,6 +460,8 @@ JJ斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
 JJ斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
 陶老师围棋,http://43.138.170.29:35455/douyu/6586073
 弈夫围棋,http://43.138.170.29:35455/douyu/6399350
+
+八卦大师,http://124.248.69.76:35455/douyu/851040
 
 天元围棋,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$郑移
 天元围棋,http://bxny.667789.cn:88/hls/128/index.m3u8
