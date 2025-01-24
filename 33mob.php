@@ -184,121 +184,17 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 陶老师围棋,http://zzy789.xyz/douyu1.php?id=6586073
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
 
-八卦大师,http://allinone.netsite.cc/douyu/851040
-帽子象棋,http://allinone.netsite.cc/douyu/4487219
-笑笑象棋,http://allinone.netsite.cc/douyu/9969
-大神象棋,http://allinone.netsite.cc/douyu/1227260
-飞刀陷阱,http://allinone.netsite.cc/douyu/11576846
-飞刀讲解,http://allinone.netsite.cc/douyu/10237088
-飞刀谱,http://allinone.netsite.cc/douyu/11765935
-小鹤求败,http://allinone.netsite.cc/douyu/3830820
-旭宝斗地主,http://allinone.netsite.cc/douyu/9804176
-欢乐斗地主,http://allinone.netsite.cc/douyu/8324074
-斗地主冠军赛,http://allinone.netsite.cc/douyu/488743
-陶老师围棋,http://allinone.netsite.cc/douyu/6586073
-弈夫围棋,http://allinone.netsite.cc/douyu/6399350
-
-八卦大师,http://diyp.zxxoo.work/douyu/851040
-帽子象棋,http://diyp.zxxoo.work/douyu/4487219
-笑笑象棋,http://diyp.zxxoo.work/douyu/9969
-大神象棋,http://diyp.zxxoo.work/douyu/1227260
-飞刀陷阱,http://diyp.zxxoo.work/douyu/11576846
-飞刀讲解,http://diyp.zxxoo.work/douyu/10237088
-飞刀谱,http://diyp.zxxoo.work/douyu/11765935
-小鹤求败,http://diyp.zxxoo.work/douyu/3830820
-旭宝斗地主,http://diyp.zxxoo.work/douyu/9804176
-欢乐斗地主,http://diyp.zxxoo.work/douyu/8324074
-斗地主冠军赛,http://diyp.zxxoo.work/douyu/488743
-陶老师围棋,http://diyp.zxxoo.work/douyu/6586073
-弈夫围棋,http://diyp.zxxoo.work/douyu/6399350
-
-八卦大师,http://maomao.kandiantv.cn/douyu1.php?id=851040
-帽子象棋,http://maomao.kandiantv.cn/douyu1.php?id=4487219
-笑笑象棋,http://maomao.kandiantv.cn/douyu1.php?id=9969
-大神象棋,http://maomao.kandiantv.cn/douyu1.php?id=1227260
-飞刀陷阱,http://maomao.kandiantv.cn/douyu1.php?id=11576846
-飞刀讲解,http://maomao.kandiantv.cn/douyu1.php?id=10237088
-飞刀谱,http://maomao.kandiantv.cn/douyu1.php?id=11765935
-小鹤求败,http://maomao.kandiantv.cn/douyu1.php?id=3830820
-旭宝斗地主,http://maomao.kandiantv.cn/douyu1.php?id=9804176
-欢乐斗地主,http://maomao.kandiantv.cn/douyu1.php?id=8324074
 斗地主冠军赛,http://60.164.128.167:8029/udp/239.255.30.128:8231$甘肃信
-斗地主冠军赛,http://maomao.kandiantv.cn/douyu1.php?id=488743
-陶老师围棋,http://maomao.kandiantv.cn/douyu1.php?id=6586073
-弈夫围棋,http://maomao.kandiantv.cn/douyu1.php?id=6399350
-
-八卦大师,https://www.goodiptv.club/douyu/851040
-帽子象棋,https://www.goodiptv.club/douyu/4487219
-笑笑象棋,https://www.goodiptv.club/douyu/9969
-大神象棋,https://www.goodiptv.club/douyu/1227260
-飞刀陷阱,https://www.goodiptv.club/douyu/11576846
-飞刀讲解,https://www.goodiptv.club/douyu/10237088
-飞刀谱,https://www.goodiptv.club/douyu/11765935
-小鹤求败,https://www.goodiptv.club/douyu/3830820
-旭宝斗地主,https://www.goodiptv.club/douyu/9804176
-欢乐斗地主,https://www.goodiptv.club/douyu/8324074
-斗地主冠军赛,https://www.goodiptv.club/douyu/488743
-陶老师围棋,https://www.goodiptv.club/douyu/6586073
-弈夫围棋,https://www.goodiptv.club/douyu/6399350
-
-八卦大师,http://live.iill.top/douyu.php?id=9851040$liv
-帽子象棋,http://live.iill.top/douyu.php?id=94487219$liv
-象棋死神,http://live.iill.top/douyu.php?id=910226687$liv
-大神象棋,http://live.iill.top/douyu.php?id=91227260$liv
-飞刀陷阱,http://live.iill.top/douyu.php?id=911576846$liv
-飞刀讲解,http://live.iill.top/douyu.php?id=910237088$liv
-飞刀谱,http://live.iill.top/douyu.php?id=911765935$liv
-小鹤求败,http://live.iill.top/douyu.php?id=93830820$liv
-旭宝斗地主,http://live.iill.top/douyu.php?id=99804176$liv
-欢乐斗地主,http://live.iill.top/douyu.php?id=98324074$liv
-斗地主冠军赛,http://live.iill.top/douyu.php?id=9488743$liv
-弈夫围棋,http://live.iill.top/douyu.php?id=96399350$liv
-
-八卦大师,http://159.75.85.63:35455/douyu/851040
-帽子象棋,http://159.75.85.63:35455/douyu/4487219
-象棋死神,http://159.75.85.63:35455/douyu/10226687
-大神象棋,http://159.75.85.63:35455/douyu/1227260
-飞刀陷阱,http://159.75.85.63:35455/douyu/11576846
-飞刀讲解,http://159.75.85.63:35455/douyu/10237088
-飞刀谱,http://159.75.85.63:35455/douyu/11765935
-小鹤求败,http://159.75.85.63:35455/douyu/3830820
-旭宝斗地主,http://159.75.85.63:35455/douyu/9804176
-欢乐斗地主,http://159.75.85.63:35455/douyu/8324074
-斗地主冠军赛,http://159.75.85.63:35455/douyu/488743
-弈夫围棋,http://159.75.85.63:35455/douyu/6399350
-
-八卦大师,http://43.138.170.29:35455/douyu/851040
-帽子象棋,http://43.138.170.29:35455/douyu/4487219
-笑笑象棋,http://43.138.170.29:35455/douyu/9969
-大神象棋,http://43.138.170.29:35455/douyu/1227260
-飞刀陷阱,http://43.138.170.29:35455/douyu/11576846
-飞刀讲解,http://43.138.170.29:35455/douyu/10237088
-飞刀谱,http://43.138.170.29:35455/douyu/11765935
-小鹤求败,http://43.138.170.29:35455/douyu/3830820
-旭宝斗地主,http://43.138.170.29:35455/douyu/9804176
-欢乐斗地主,http://43.138.170.29:35455/douyu/8324074
-斗地主冠军赛,http://43.138.170.29:35455/douyu/488743
-百事斗地主,http://171.213.140.54:8123/udp/239.93.42.56:5140$四川信#http://xeace.cn:8888/udp/239.93.1.135:5140$四川信
-
-陶老师围棋,http://43.138.170.29:35455/douyu/6586073
-弈夫围棋,http://43.138.170.29:35455/douyu/6399350
-
-八卦大师,http://124.248.69.76:35455/douyu/851040
 
 囲碁将棋,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 体育人物,http://zzy789.xyz/douyu1.php?id=8434598
-
-天元围棋,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$郑移
-天元围棋,http://bxny.667789.cn:88/hls/128/index.m3u8
 
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8$哈移s
 
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-福建文体,http://36.248.137.69:60033/tsfile/live/1006_1.m3u8?key=txiptv
-山西文体,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
@@ -394,6 +290,11 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$哈移
 北京少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$哈移s
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$哈移s
+
+哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
+猫和老鼠,http://www.52sw.top:678/play/huya.php?id=11352879
+喜羊羊与灰太狼,http://www.52sw.top:678/play/huya.php?id=23865080
+宠物小精灵,http://www.52sw.top:678/play/huya.php?id=23749096
 
 哆啦A梦,http://1.94.31.214:35455/huya/11601963
 猫和老鼠,http://1.94.31.214:35455/huya/11352879
@@ -838,18 +739,12 @@ CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000$山东�
 神乐1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
-淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
-淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
-淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
-淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
-淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
-淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
-淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
-淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
-淘电影,http://opdf.top:8088/udp/239.3.1.250:8001
-淘剧场,http://opdf.top:8088/udp/239.3.1.95:8001
-淘娱乐,http://opdf.top:8088/udp/239.3.1.100:8001
-淘精彩,http://opdf.top:8088/udp/239.3.1.178:8001
+
+黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+北京文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+北京生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
 
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$哈移
 东北热剧,http://39.134.65.179/PLTV/88888888/224/3221225679/1.m3u8$黑移
@@ -961,6 +856,96 @@ CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000$山东�
 
 虎牙轮播,#genre#
 
+//http://www.52sw.top:678/play/huya.php?id=
+科幻电影,http://www.52sw.top:678/play/huya.php?id=11602034
+死神来了,http://www.52sw.top:678/play/huya.php?id=11352903
+港台电影,http://www.52sw.top:678/play/huya.php?id=880261
+高分电影,http://www.52sw.top:678/play/huya.php?id=16615910
+命案十三宗,http://www.52sw.top:678/play/huya.php?id=11601981
+喜乐影院,http://www.52sw.top:678/play/huya.php?id=21059580
+贺岁片,http://www.52sw.top:678/play/huya.php?id=11601986
+怪兽电影,http://www.52sw.top:678/play/huya.php?id=21059577
+香港电影,http://www.52sw.top:678/play/huya.php?id=11601971
+玄幻电影,http://www.52sw.top:678/play/huya.php?id=11342414
+周星星,http://www.52sw.top:678/play/huya.php?id=24470631
+林正英,http://www.52sw.top:678/play/huya.php?id=11342421
+沈腾,http://www.52sw.top:678/play/huya.php?id=11601968
+成龙,http://www.52sw.top:678/play/huya.php?id=11342386
+李连杰,http://www.52sw.top:678/play/huya.php?id=11342390
+刘德华,http://www.52sw.top:678/play/huya.php?id=11342424
+王晶,http://www.52sw.top:678/play/huya.php?id=11602058
+星爷,http://www.52sw.top:678/play/huya.php?id=11342412
+中华小当家,http://www.52sw.top:678/play/huya.php?id=11342413
+杰森·斯坦森,http://www.52sw.top:678/play/huya.php?id=21059588
+喜剧专场,http://www.52sw.top:678/play/huya.php?id=11602044
+甄子丹,http://www.52sw.top:678/play/huya.php?id=11352935
+洪金宝,http://www.52sw.top:678/play/huya.php?id=11279251
+徐克,http://www.52sw.top:678/play/huya.php?id=11352909
+周润发,http://www.52sw.top:678/play/huya.php?id=11342387
+徐峥,http://www.52sw.top:678/play/huya.php?id=11602043
+许氏三杰,http://www.52sw.top:678/play/huya.php?id=11602033
+黄渤,http://www.52sw.top:678/play/huya.php?id=11352876
+喜剧电影,http://www.52sw.top:678/play/huya.php?id=11352877
+张卫健,http://www.52sw.top:678/play/huya.php?id=11342423
+倩女幽魂,http://www.52sw.top:678/play/huya.php?id=11601970
+日本电影,http://www.52sw.top:678/play/huya.php?id=23652317
+冯小刚,http://www.52sw.top:678/play/huya.php?id=11352906
+搞笑僵尸片,http://www.52sw.top:678/play/huya.php?id=11352963
+极限挑战],http://www.52sw.top:678/play/huya.php?id=11352914
+金庸武侠,http://www.52sw.top:678/play/huya.php?id=11342435
+金庸电影,http://www.52sw.top:678/play/huya.php?id=11352897
+经典武侠,http://www.52sw.top:678/play/huya.php?id=11342427
+欢笑影院,http://www.52sw.top:678/play/huya.php?id=11352894
+精彩不断,http://www.52sw.top:678/play/huya.php?id=24396428
+精忠岳飞南征北战,http://www.52sw.top:678/play/huya.php?id=11336578
+古墓系列,http://www.52sw.top:678/play/huya.php?id=11352913
+国产悬疑,http://www.52sw.top:678/play/huya.php?id=11342395
+天龙八部,http://www.52sw.top:678/play/huya.php?id=11602041
+盗墓电影,http://www.52sw.top:678/play/huya.php?id=21059552
+国产电影,http://www.52sw.top:678/play/huya.php?id=11352973
+蜘蛛侠,http://www.52sw.top:678/play/huya.php?id=21059599
+功夫片,http://www.52sw.top:678/play/huya.php?id=11352941
+丧尸片,http://www.52sw.top:678/play/huya.php?id=21059578
+高能反转,http://www.52sw.top:678/play/huya.php?id=11352887
+变形金刚,http://www.52sw.top:678/play/huya.php?id=21059596
+怪兽系列,http://www.52sw.top:678/play/huya.php?id=21059554
+动作电影,http://www.52sw.top:678/play/huya.php?id=11602077
+谍战片,http://www.52sw.top:678/play/huya.php?id=21059587
+海盗片,http://www.52sw.top:678/play/huya.php?id=21059595
+战争电影,http://www.52sw.top:678/play/huya.php?id=21059592
+枪战,http://www.52sw.top:678/play/huya.php?id=21059579
+速度激情,http://www.52sw.top:678/play/huya.php?id=21059556
+欧美黑白,http://www.52sw.top:678/play/huya.php?id=11352880
+战争片,http://www.52sw.top:678/play/huya.php?id=21059574
+警匪片,http://www.52sw.top:678/play/huya.php?id=11352886
+智商罪犯,http://www.52sw.top:678/play/huya.php?id=11352962
+巨石强森,http://www.52sw.top:678/play/huya.php?id=21059581
+詹姆斯邦德,http://www.52sw.top:678/play/huya.php?id=21059585
+救援电影,http://www.52sw.top:678/play/huya.php?id=21059594
+看救援,http://www.52sw.top:678/play/huya.php?id=21059586
+赛车片,http://www.52sw.top:678/play/huya.php?id=11279247
+灾难片,http://www.52sw.top:678/play/huya.php?id=11602075
+黑帮斗争,http://www.52sw.top:678/play/huya.php?id=11342419
+剧集_新水浒,http://www.52sw.top:678/play/huya.php?id=11342384
+剧集_老三国,http://www.52sw.top:678/play/huya.php?id=11602081
+剧集_新三国,http://www.52sw.top:678/play/huya.php?id=11352944
+剧集_庆余年,http://www.52sw.top:678/play/huya.php?id=11352960
+剧集_纪晓岚,http://www.52sw.top:678/play/huya.php?id=11342396
+剧集_地下交通站,http://www.52sw.top:678/play/huya.php?id=11342433
+剧集_士兵突击,http://www.52sw.top:678/play/huya.php?id=11342430
+剧集_爱情公寓,http://www.52sw.top:678/play/huya.php?id=11336726
+剧集_家有儿女,http://www.52sw.top:678/play/huya.php?id=11352872
+剧集_武林外传,http://www.52sw.top:678/play/huya.php?id=21059598
+剧集_邻里一家亲,http://www.52sw.top:678/play/huya.php?id=11342426
+百鸟朝凤,http://www.52sw.top:678/play/huya.php?id=15894162
+路飞,http://www.52sw.top:678/play/huya.php?id=16913382
+麻雀,http://www.52sw.top:678/play/huya.php?id=11352881
+陈翔六点半,http://www.52sw.top:678/play/huya.php?id=11274154
+生活大爆炸,http://www.52sw.top:678/play/huya.php?id=11342417
+天雷滚滚,http://www.52sw.top:678/play/huya.php?id=11352945
+文成公主,http://www.52sw.top:678/play/huya.php?id=11352974
+小鲤鱼,http://www.52sw.top:678/play/huya.php?id=11601961
+
 //http://43.138.170.29:35455http://1.94.31.214:35455
 科幻电影,http://1.94.31.214:35455/huya/11602034
 死神来了,http://1.94.31.214:35455/huya/11352903
@@ -1050,6 +1035,718 @@ CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000$山东�
 天雷滚滚,http://1.94.31.214:35455/huya/11352945
 文成公主,http://1.94.31.214:35455/huya/11352974
 小鲤鱼,http://1.94.31.214:35455/huya/11601961
+
+YY轮播,#genre#
+
+火线追凶,http://liushizupu.site:35455/yy/1382745090
+速度与激情,http://liushizupu.site:35455/yy/1382749892
+敢死队,http://liushizupu.site:35455/yy/1382735573
+国外战争,http://liushizupu.site:35455/yy/1382736857
+顶级动作,http://liushizupu.site:35455/yy/24923327
+暮光之城,http://liushizupu.site:35455/yy/1354930181
+变形金刚,http://liushizupu.site:35455/yy/1382736803
+金三角大营救,http://liushizupu.site:35455/yy/1354930924
+致命守护者,http://liushizupu.site:35455/yy/1382745095
+沙海,http://liushizupu.site:35455/yy/1355171357
+恐怖电影,http://liushizupu.site:35455/yy/24066336
+外国科幻,http://liushizupu.site:35455/yy/1382747628
+漫威十年,http://liushizupu.site:35455/yy/1354930233
+科幻Sci-Fi,http://liushizupu.site:35455/yy/1354930209
+港剧动作,http://liushizupu.site:35455/yy/1382736809
+成龙系列,http://liushizupu.site:35455/yy/1354888751
+天龙八部,http://liushizupu.site:35455/yy/1382736855
+苦乐村官,http://liushizupu.site:35455/yy/1382736864
+战火中的故事,http://liushizupu.site:35455/yy/1382735625
+憨豆先生,http://liushizupu.site:35455/yy/1354930189
+港片电影集,http://liushizupu.site:35455/yy/1455225203
+港片赌片 3000部,http://liushizupu.site:35455/yy/1355076627
+港片,http://liushizupu.site:35455/yy/1459901192
+香港院线大片,http://liushizupu.site:35455/yy/1354936242
+叶问全集,http://liushizupu.site:35455/yy/1382828771
+第一滴血全集,http://liushizupu.site:35455/yy/1354932355
+香港经典蓝光电影,http://liushizupu.site:35455/yy/1382627144
+奇缘39262港台影院,http://liushizupu.site:35455/yy/1354889234
+港剧悬疑破案,http://liushizupu.site:35455/yy/10425097
+末日系列-外国电影合集,http://liushizupu.site:35455/yy/1354889019
+李连杰,http://liushizupu.site:35455/yy/74613175
+李连杰,http://mtw.so/69HNaP
+洪金宝,http://liushizupu.site:35455/yy/1354924839
+鬼片.惊悚.港片,http://liushizupu.site:35455/yy/1355497884
+港片鬼片全集,http://liushizupu.site:35455/yy/1459869766
+动作武侠港片电影,http://liushizupu.site:35455/yy/1459801818
+经典港片电影,http://liushizupu.site:35455/yy/1382793140
+港片经典电影,http://liushizupu.site:35455/yy/1382633631
+林正英电影,http://liushizupu.site:35455/yy/1382841203
+超级吓人鬼片 恐怖片,http://liushizupu.site:35455/yy/1355641195
+鬼怪恐怖惊辣,http://liushizupu.site:35455/yy/1382748585
+林正英 僵尸 鬼片,http://liushizupu.site:35455/yy/1351505899
+电影电影,http://liushizupu.site:35455/yy/1458819360
+【成龙经典】动作,http://liushizupu.site:35455/yy/34460526
+电影 古惑仔全集,http://liushizupu.site:35455/yy/1354507447
+武林外传 超清,http://liushizupu.site:35455/yy/21092633
+狂飙,http://liushizupu.site:35455/yy/1355142167
+绝版电影 港片女鬼,http://liushizupu.site:35455/yy/1455988450
+雪豹,http://liushizupu.site:35455/yy/28099939
+绝版电影 港片女鬼,http://liushizupu.site:35455/yy/1461579859
+雪中悍刀行,http://liushizupu.site:35455/yy/1450496699
+【狂飙2老默】首播,http://liushizupu.site:35455/yy/1354790484
+【战狼4】吴京老师,http://liushizupu.site:35455/yy/1354784284
+古惑仔,http://liushizupu.site:35455/yy/1458015189
+封神榜,http://liushizupu.site:35455/yy/1353426319
+举起手来-惊险抗日,http://liushizupu.site:35455/yy/1382736877
+幸福满院,http://liushizupu.site:35455/yy/1382737886
+【新三国】蓝光版,http://liushizupu.site:35455/yy/1382705738
+豪哥带我们发财,http://liushizupu.site:35455/yy/23402146
+纪晓岚,http://liushizupu.site:35455/yy/1354143978
+赵本山《蓝光版》,http://liushizupu.site:35455/yy/32160832
+惊恐盗暮鬼怪,http://liushizupu.site:35455/yy/1382749525
+天龙八部,http://liushizupu.site:35455/yy/1351814644
+【鹿鼎记】金庸经典,http://liushizupu.site:35455/yy/28265277
+林正英-经典电影,http://liushizupu.site:35455/yy/34229877
+家花与野花,http://liushizupu.site:35455/yy/1354420982
+超喜剧地下交通站男神贾贵,http://liushizupu.site:35455/yy/1353428972
+济公游记,http://liushizupu.site:35455/yy/1355265814
+随便看看,http://liushizupu.site:35455/yy/37454459
+交友林正英女鬼电影,http://liushizupu.site:35455/yy/1453996620
+【赌神片 动作片 港片】,http://liushizupu.site:35455/yy/1355112116
+热度榜1.包青天,http://liushizupu.site:35455/yy/22701868
+武林外传,http://liushizupu.site:35455/yy/1355652820
+赵本山《超清版》,http://liushizupu.site:35455/yy/1382683959
+经典动漫,http://liushizupu.site:35455/yy/22777075
+燕双鹰,http://liushizupu.site:35455/yy/1352227153
+狂飙,http://liushizupu.site:35455/yy/1382764587
+【战狼3吴京】独播,http://liushizupu.site:35455/yy/37999586
+纪晓岚,http://liushizupu.site:35455/yy/1352227227
+宰相刘罗锅,http://liushizupu.site:35455/yy/1353892468
+斗罗斗破动漫,http://liushizupu.site:35455/yy/1420843376
+狂飙,http://liushizupu.site:35455/yy/1382754187
+兔牙妹吖正在直播,http://liushizupu.site:35455/yy/1353782648
+英叔僵尸 3000部,http://liushizupu.site:35455/yy/1353685311
+66车讯,http://liushizupu.site:35455/yy/1382571192
+真实案件系列,http://liushizupu.site:35455/yy/1382671124
+神医喜来乐,http://liushizupu.site:35455/yy/1382714119
+欢乐集结号-每天笑不停,http://liushizupu.site:35455/yy/1382741642
+情满四合院,http://liushizupu.site:35455/yy/1382851524
+鹿鼎记-周星驰版,http://liushizupu.site:35455/yy/1354658049
+正阳门下,http://liushizupu.site:35455/yy/1354931580
+情满四合院-高分电视剧,http://liushizupu.site:35455/yy/1382735541
+【盜暮笔记】24h,http://liushizupu.site:35455/yy/1382702247
+宋小宝小品合集,http://liushizupu.site:35455/yy/1354931577
+83射雕英雄传,http://liushizupu.site:35455/yy/1354210357
+星爷经典-百看不厌,http://liushizupu.site:35455/yy/1382736808
+经典鬼片3000部,http://liushizupu.site:35455/yy/29460894
+国产喜剧,http://liushizupu.site:35455/yy/1382736856
+火蓝刀锋,http://liushizupu.site:35455/yy/1382737892
+小沈阳春晚小品,http://liushizupu.site:35455/yy/1382749941
+丸子,http://liushizupu.site:35455/yy/1382851588
+少年包青天1~3蓝光版,http://liushizupu.site:35455/yy/38498680
+雪中悍刀行,http://liushizupu.site:35455/yy/1382660835
+电影百团大战,http://liushizupu.site:35455/yy/1382736871
+花儿开心吧,http://liushizupu.site:35455/yy/1354930984
+国内侦探电影大全,http://liushizupu.site:35455/yy/1354936134
+炊事班的故事II,http://liushizupu.site:35455/yy/1382736885
+地下交通站,http://liushizupu.site:35455/yy/1382736795
+德爷单挑荒野,http://liushizupu.site:35455/yy/27772604
+皮蛋影视 正在直播,http://liushizupu.site:35455/yy/23055599
+雍正王朝,http://liushizupu.site:35455/yy/23206872
+小蓉儿 正在直播,http://liushizupu.site:35455/yy/1351762426
+笑傲江湖 4K超清,http://liushizupu.site:35455/yy/1354282410
+【神雕侠侣】金庸经典,http://liushizupu.site:35455/yy/1382704651
+进来 陪你看动漫,http://liushizupu.site:35455/yy/1352866135
+小甜甜 闯关东,http://liushizupu.site:35455/yy/1382658790
+二龙湖浩哥【经典搞笑】,http://liushizupu.site:35455/yy/28205255
+金牌配角达叔系列,http://liushizupu.site:35455/yy/1354888728
+雯子：港剧影视厅,http://liushizupu.site:35455/yy/1456829119
+血色浪漫,http://liushizupu.site:35455/yy/1354926676
+【动漫】斗罗斗破,http://liushizupu.site:35455/yy/1353098382
+火凤凰之战狼七,http://liushizupu.site:35455/yy/1463088777
+鹿鼎记-高清全集,http://liushizupu.site:35455/yy/1382704650
+同桌的你,http://liushizupu.site:35455/yy/1382851477
+鬼片港片美女陪你看,http://liushizupu.site:35455/yy/1335509613
+泡芙陪你看电影,http://liushizupu.site:35455/yy/24407222
+24H国漫热播,http://liushizupu.site:35455/yy/1353937086
+【经典港片】佟瑶,http://liushizupu.site:35455/yy/23531261
+【新三国】萌儿陪看,http://liushizupu.site:35455/yy/29216766
+【港片】赌片 动作,http://liushizupu.site:35455/yy/24921161
+斗罗斗破精彩动漫,http://liushizupu.site:35455/yy/1507304388
+【少年歌行】,http://liushizupu.site:35455/yy/1354806550
+新白娘子传奇,http://liushizupu.site:35455/yy/1354490667
+燕双鹰专场,http://liushizupu.site:35455/yy/23026835
+神探狄仁杰,http://liushizupu.site:35455/yy/38338029
+【金超群】电视剧,http://liushizupu.site:35455/yy/1356158015
+丫头动漫 斗罗斗破,http://liushizupu.site:35455/yy/1458722520
+纪晓岚,http://liushizupu.site:35455/yy/22982216
+【新三国】吕布,http://liushizupu.site:35455/yy/1382851459
+倚天屠龙记,http://liushizupu.site:35455/yy/1449856066
+花千骨,http://liushizupu.site:35455/yy/1354943110
+隋唐英雄传,http://liushizupu.site:35455/yy/1352475619
+神探狄仁杰,http://liushizupu.site:35455/yy/1351755386
+小美美 正在直播,http://liushizupu.site:35455/yy/1354143966
+经典 绝版 恐怖3000,http://liushizupu.site:35455/yy/84238895
+鬼片3000,http://liushizupu.site:35455/yy/1460889796
+武侠港片电影,http://liushizupu.site:35455/yy/1451866697
+求照顾,http://liushizupu.site:35455/yy/29197808
+港片电影,http://liushizupu.site:35455/yy/33897188
+案发现场（1-3）,http://liushizupu.site:35455/yy/31368110
+康熙微服私访记,http://liushizupu.site:35455/yy/1352811698
+武林外传,http://liushizupu.site:35455/yy/1454629602
+鹊刀门,http://liushizupu.site:35455/yy/1355344777
+经典鬼片,http://liushizupu.site:35455/yy/1508828185
+妹子高分搞笑电影,http://liushizupu.site:35455/yy/33478222
+少年包青天,http://liushizupu.site:35455/yy/1356043677
+鹊刀门传奇,http://liushizupu.site:35455/yy/1382745997
+【动漫】斗罗斗破超清全屏,http://liushizupu.site:35455/yy/28796627
+天龙神雕经典回忆,http://liushizupu.site:35455/yy/68260522
+倚天屠龙记,http://liushizupu.site:35455/yy/33300793
+燕双鹰,http://liushizupu.site:35455/yy/1354143942
+雍正王朝,http://liushizupu.site:35455/yy/1356043620
+超清经典港片,http://liushizupu.site:35455/yy/1356180261
+东北一家人,http://liushizupu.site:35455/yy/1355273385
+封神榜,http://liushizupu.site:35455/yy/1382797534
+勇敢的心,http://liushizupu.site:35455/yy/1354744544
+摸金 盗暮,http://liushizupu.site:35455/yy/1459714870
+弹幕天团 下饭神剧,http://liushizupu.site:35455/yy/23512910
+(周星驰)超经典搞笑电影,http://liushizupu.site:35455/yy/29945997
+正阳门下 正在直播,http://liushizupu.site:35455/yy/1453059740
+新三国,http://liushizupu.site:35455/yy/26744898
+荒野求生德爷,http://liushizupu.site:35455/yy/36949900
+国漫 一起看正在直播,http://liushizupu.site:35455/yy/1351417866
+【案发现场】1-4部全集,http://liushizupu.site:35455/yy/33567888
+你不知道的汽车冷知识,http://liushizupu.site:35455/yy/1346966327
+大家车言论,http://liushizupu.site:35455/yy/1382570702
+24【动漫】正在直播,http://liushizupu.site:35455/yy/1350984033
+经典动漫,http://liushizupu.site:35455/yy/24180320
+动漫,http://liushizupu.site:35455/yy/25055036
+飞哥全集乐乐陪看】,http://liushizupu.site:35455/yy/1352946111
+无敌燕双鹰,http://liushizupu.site:35455/yy/1354825244
+送欢乐,http://liushizupu.site:35455/yy/34093016
+雨馨 正在直播,http://liushizupu.site:35455/yy/1354768828
+西游记后传 蓝光,http://liushizupu.site:35455/yy/1353392400
+小兵张嘎,http://liushizupu.site:35455/yy/1354930225
+新白娘子传奇-女神赵雅芝,http://liushizupu.site:35455/yy/1354930969
+赌神-发哥,http://liushizupu.site:35455/yy/1354889044
+西游记后传,http://liushizupu.site:35455/yy/1382736846
+杭小妞,http://liushizupu.site:35455/yy/1382851590
+神探狄仁杰1,http://liushizupu.site:35455/yy/1382851575
+初恋脸,http://liushizupu.site:35455/yy/1382851597
+澳门风云,http://liushizupu.site:35455/yy/1459243913
+国内喜剧,http://liushizupu.site:35455/yy/1382735563
+笑声传奇,http://liushizupu.site:35455/yy/1382736880
+神探狄仁杰2,http://liushizupu.site:35455/yy/1382828767
+双月之城-国漫,http://liushizupu.site:35455/yy/1382736907
+天道-9.2高分好剧,http://liushizupu.site:35455/yy/1382735574
+少年包青天第三部,http://liushizupu.site:35455/yy/1382736814
+父母爱情,http://liushizupu.site:35455/yy/1382746276
+父母爱情,http://liushizupu.site:35455/yy/1354926650
+法证先锋,http://liushizupu.site:35455/yy/1354930939
+宝莲灯前传,http://liushizupu.site:35455/yy/1354931631
+都挺好-电视剧,http://liushizupu.site:35455/yy/1382736892
+恋歌,http://liushizupu.site:35455/yy/1382851594
+三国演义,http://liushizupu.site:35455/yy/32788000
+神探狄仁杰1,http://liushizupu.site:35455/yy/1354930934
+我的体育老师,http://liushizupu.site:35455/yy/1382745169
+神探狄仁杰2,http://liushizupu.site:35455/yy/1382851146
+情满四合院,http://liushizupu.site:35455/yy/1382736848
+情满四合院,http://liushizupu.site:35455/yy/1382736888
+炊事班的故事III,http://liushizupu.site:35455/yy/1382736716
+颜值永远在线,http://liushizupu.site:35455/yy/1382851582
+风筝,http://liushizupu.site:35455/yy/1382828770
+速度与激情系列！-精彩大片,http://liushizupu.site:35455/yy/1382736911
+贾玲春晚小品,http://liushizupu.site:35455/yy/1382736720
+炊事班的故事,http://liushizupu.site:35455/yy/1382749901
+三国演义94年经典版,http://liushizupu.site:35455/yy/1354936241
+我的前半生,http://liushizupu.site:35455/yy/1382735564
+张国荣与周润发的兄弟情,http://liushizupu.site:35455/yy/1354930961
+康熙王朝,http://liushizupu.site:35455/yy/1382736818
+笑傲江湖,http://liushizupu.site:35455/yy/1354930909
+【杉杉来了】赵丽颖,http://liushizupu.site:35455/yy/23458682
+大话西游至尊宝,http://liushizupu.site:35455/yy/1382736910
+经典电影,http://liushizupu.site:35455/yy/1450556636
+【破案 悬疑 港剧】,http://liushizupu.site:35455/yy/1382800083
+《石敢当》六耳猕猴,http://liushizupu.site:35455/yy/1394156613
+鬼经典老片,http://liushizupu.site:35455/yy/1463783198
+《仙侠》开局无敌了,http://liushizupu.site:35455/yy/29600150
+【战狼3吴京】首播,http://liushizupu.site:35455/yy/1456668939
+盗暮惊悚妖魔,http://liushizupu.site:35455/yy/1382765507
+欧美经典惊悚灾难,http://liushizupu.site:35455/yy/1382656234
+寻秦记-穿越剧经典,http://liushizupu.site:35455/yy/1382749900
+破案港剧,http://liushizupu.site:35455/yy/1350670730
+2024盗幕鬼怪,http://liushizupu.site:35455/yy/1355171231
+震撼！国内功夫大片,http://liushizupu.site:35455/yy/1382736902
+【且试.护心】 ~,http://liushizupu.site:35455/yy/29067083
+僵尸女鬼电影,http://liushizupu.site:35455/yy/1457229809
+法海又来抓妖了,http://liushizupu.site:35455/yy/1356326727
+24h 我爱我家 纯音频,http://liushizupu.site:35455/yy/1356212303
+鬼片恐怖私人影院,http://liushizupu.site:35455/yy/1354952229
+【聚星】娜娜,http://liushizupu.site:35455/yy/1382851479
+林正英经典,http://liushizupu.site:35455/yy/1353312849
+《一剑开天门》,http://liushizupu.site:35455/yy/34313906
+精彩动漫斗罗斗破,http://liushizupu.site:35455/yy/76101626
+【动漫】斗罗斗破超清全屏,http://liushizupu.site:35455/yy/1382689904
+布丁-玄幻电影正在直播,http://liushizupu.site:35455/yy/1455460998
+武林外传,http://liushizupu.site:35455/yy/1353852605
+三国演义 超高清,http://liushizupu.site:35455/yy/1508901692
+全职高手,http://liushizupu.site:35455/yy/26870427
+薛元帅传奇,http://liushizupu.site:35455/yy/31313785
+24H地下交通站全,http://liushizupu.site:35455/yy/37880083
+【周星驰】搞笑电影,http://liushizupu.site:35455/yy/38670875
+影视剧场,http://liushizupu.site:35455/yy/1355260855
+【电影】超然巨作,http://liushizupu.site:35455/yy/26623173
+天龙八部黄日华,http://liushizupu.site:35455/yy/1461037999
+斗罗斗破,http://liushizupu.site:35455/yy/1354768831
+求照顾,http://liushizupu.site:35455/yy/1382690406
+精彩玄幻电影,http://liushizupu.site:35455/yy/1382688400
+雪中悍刀行,http://liushizupu.site:35455/yy/1460836818
+动漫,http://liushizupu.site:35455/yy/1382747970
+小宝 天龙 神雕金庸,http://liushizupu.site:35455/yy/1356043609
+【林正英】僵尸 鬼片,http://liushizupu.site:35455/yy/30668277
+少年包青天三,http://liushizupu.site:35455/yy/61318527
+火炬手,http://liushizupu.site:35455/yy/1382851618
+公主陪看老酒馆,http://liushizupu.site:35455/yy/1356254650
+军旅剧（回忆经典）,http://liushizupu.site:35455/yy/1356306672
+动漫,http://liushizupu.site:35455/yy/26664495
+放羊的星星,http://liushizupu.site:35455/yy/1355260662
+Ｔ.Ｓ.Ｌ.-东门仔,http://liushizupu.site:35455/yy/1382861117
+神探狄仁杰1—5部全集,http://liushizupu.site:35455/yy/1382705592
+奇领 铁山靠【Y 正在直播,http://liushizupu.site:35455/yy/41584371
+抗日奇侠,http://liushizupu.site:35455/yy/22089862
+斗破苍穹斗罗大玄幻修仙剧,http://liushizupu.site:35455/yy/1356051105
+24小时循环播电视剧,http://liushizupu.site:35455/yy/53320802
+【新三国】日版,http://liushizupu.site:35455/yy/1382851457
+二号交通站,http://liushizupu.site:35455/yy/1382735582
+雪儿 正在直播,http://liushizupu.site:35455/yy/1354143938
+动作大片-热血开打,http://liushizupu.site:35455/yy/1354936168
+士兵突击,http://liushizupu.site:35455/yy/1382851600
+你最爱的宋小宝,http://liushizupu.site:35455/yy/1354936198
+院线动作大片,http://liushizupu.site:35455/yy/1382736900
+宰相刘罗锅,http://liushizupu.site:35455/yy/1382745191
+燃爆动作片,http://liushizupu.site:35455/yy/1382736801
+萌萌爱追剧,http://liushizupu.site:35455/yy/1382745093
+今夜欢乐颂,http://liushizupu.site:35455/yy/1382735572
+雪中悍刀行,http://liushizupu.site:35455/yy/59719179
+魔幻手机,http://liushizupu.site:35455/yy/1382735544
+热血战争巨作,http://liushizupu.site:35455/yy/1382745087
+夏洛特烦恼-国内电影-喜剧,http://liushizupu.site:35455/yy/1354936201
+熊出没之探险日记S1-国漫,http://liushizupu.site:35455/yy/1354930977
+你是最美的风景,http://liushizupu.site:35455/yy/1382851599
+教画画了。,http://liushizupu.site:35455/yy/25696285
+读心神探,http://liushizupu.site:35455/yy/1382736875
+高分科幻动作片,http://liushizupu.site:35455/yy/1382749948
+人生必看的科幻片,http://liushizupu.site:35455/yy/1382745114
+毅哥说车,http://liushizupu.site:35455/yy/1339366360
+伪装者,http://liushizupu.site:35455/yy/1354936244
+欢天喜地七仙女,http://liushizupu.site:35455/yy/1382735553
+欢乐颂,http://liushizupu.site:35455/yy/1382851577
+小欢喜,http://liushizupu.site:35455/yy/1382737888
+纯纯纯儿,http://liushizupu.site:35455/yy/1382851589
+生逢灿烂的日子,http://liushizupu.site:35455/yy/1382745085
+时光的海,http://liushizupu.site:35455/yy/1382851579
+我爱我家,http://liushizupu.site:35455/yy/1382735557
+黑冰,http://liushizupu.site:35455/yy/1354932427
+传奇英雄,http://liushizupu.site:35455/yy/1382735578
+新水浒传,http://liushizupu.site:35455/yy/1353215589
+最美的青春,http://liushizupu.site:35455/yy/1382851530
+中国味道 第4季-美食纪录片,http://liushizupu.site:35455/yy/1382736845
+【盜暮笔记】24h,http://liushizupu.site:35455/yy/1356373644
+新世界,http://liushizupu.site:35455/yy/1382736850
+福贵,http://liushizupu.site:35455/yy/1354926537
+金婚,http://liushizupu.site:35455/yy/1382828768
+纪晓岚,http://liushizupu.site:35455/yy/1382781415
+【新三国】,http://liushizupu.site:35455/yy/1382851415
+神雕侠侣,http://liushizupu.site:35455/yy/1460913377
+妖神记之黑狱篇,http://liushizupu.site:35455/yy/1382745173
+体验另一种生活！,http://liushizupu.site:35455/yy/1354936229
+喜剧闹翻天,http://liushizupu.site:35455/yy/1382735548
+易中天品三国完整版,http://liushizupu.site:35455/yy/1461244449
+战狼7吴京退役,http://liushizupu.site:35455/yy/1382773714
+国内玄幻电影-林正英,http://liushizupu.site:35455/yy/1354932444
+欢乐颂,http://liushizupu.site:35455/yy/1382735624
+盗暮 老九门,http://liushizupu.site:35455/yy/1382763739
+牛大叔提干,http://liushizupu.site:35455/yy/1382851615
+神探包青天,http://liushizupu.site:35455/yy/1457622044
+【科幻】超炫特效,http://liushizupu.site:35455/yy/37988782
+冯巩 牛群,http://liushizupu.site:35455/yy/1382851476
+《武林外传》武侠,http://liushizupu.site:35455/yy/1394000563
+倚天屠龙记,http://liushizupu.site:35455/yy/1356043643
+案发现场全集,http://liushizupu.site:35455/yy/1354775242
+【电视剧】士兵突击,http://liushizupu.site:35455/yy/96731358
+探案！探案！,http://liushizupu.site:35455/yy/1382829413
+动漫,http://liushizupu.site:35455/yy/23993334
+花千骨,http://liushizupu.site:35455/yy/1508456184
+暖暖1999,http://liushizupu.site:35455/yy/1382851591
+非诚勿扰,http://liushizupu.site:35455/yy/1382735583
+西游记张卫健版,http://liushizupu.site:35455/yy/1354936155
+小宝让你乐翻天：6到9集,http://liushizupu.site:35455/yy/1354930971
+经典动作电影,http://liushizupu.site:35455/yy/1370293254
+欢乐集结号,http://liushizupu.site:35455/yy/1354931582
+野山鹰-影视剧,http://liushizupu.site:35455/yy/1354932395
+国产大片电影,http://liushizupu.site:35455/yy/1354926655
+热血抗日电影,http://liushizupu.site:35455/yy/1382749907
+大进军全集：红色系列电影,http://liushizupu.site:35455/yy/1382745083
+爆笑小品,http://liushizupu.site:35455/yy/1354931503
+金星脱口秀：我敢说你敢听吗,http://liushizupu.site:35455/yy/1382735552
+经典抗日电影,http://liushizupu.site:35455/yy/1354936141
+动物世界,http://liushizupu.site:35455/yy/1382749889
+天下第一,http://liushizupu.site:35455/yy/1382736838
+魔幻手机,http://liushizupu.site:35455/yy/1382851541
+国内科幻,http://liushizupu.site:35455/yy/1354936170
+法证先锋Ⅱ,http://liushizupu.site:35455/yy/1354888736
+欢乐集结号,http://liushizupu.site:35455/yy/1382735550
+仙剑奇侠传-神仙姐姐驾到,http://liushizupu.site:35455/yy/1382749903
+黑衣人1、2—动作喜剧大片,http://liushizupu.site:35455/yy/1354930936
+深夜惊悚大片,http://liushizupu.site:35455/yy/1382745110
+活力满满,http://liushizupu.site:35455/yy/1382851585
+超燃科幻大片：明日边缘,http://liushizupu.site:35455/yy/1382736835
+晨晨的影视小窝,http://liushizupu.site:35455/yy/1382851576
+超英集结,http://liushizupu.site:35455/yy/1382745091
+国内经典动作电影,http://liushizupu.site:35455/yy/1382851522
+深海利剑,http://liushizupu.site:35455/yy/1382736906
+小敏,http://liushizupu.site:35455/yy/1382736890
+红楼梦1987经典版,http://liushizupu.site:35455/yy/1382745084
+本山快乐营,http://liushizupu.site:35455/yy/1354933529
+国内战争电影,http://liushizupu.site:35455/yy/1382736865
+欢乐一起看,http://liushizupu.site:35455/yy/1354930926
+Blingbling,http://liushizupu.site:35455/yy/1382851598
+三国演义【1994】,http://liushizupu.site:35455/yy/1354930932
+非诚勿扰,http://liushizupu.site:35455/yy/1382745106
+国内科幻片来袭,http://liushizupu.site:35455/yy/1354930821
+动物世界-领略原始野性,http://liushizupu.site:35455/yy/1382743138
+亲爱的热爱的,http://liushizupu.site:35455/yy/1354932433
+国外黑色喜剧：冷幽默小剧场,http://liushizupu.site:35455/yy/1382745175
+国外科幻,http://liushizupu.site:35455/yy/1382736800
+特种兵归来-国产电影,http://liushizupu.site:35455/yy/1382735581
+笑傲帮,http://liushizupu.site:35455/yy/1382735555
+高分动作大片-热血出击,http://liushizupu.site:35455/yy/1382736909
+丛林敢死队-国内电影,http://liushizupu.site:35455/yy/1354936214
+少年包青天第三部,http://liushizupu.site:35455/yy/1382851540
+欢乐集结号2,http://liushizupu.site:35455/yy/1354930919
+法证先锋2,http://liushizupu.site:35455/yy/1382736870
+了不起的萝莉小玲,http://liushizupu.site:35455/yy/1382736799
+国产喜剧,http://liushizupu.site:35455/yy/1382735584
+漫威超级英雄系列,http://liushizupu.site:35455/yy/1354932402
+许多多,http://liushizupu.site:35455/yy/1382851583
+以家人之名,http://liushizupu.site:35455/yy/1382736908
+施公奇案1-欧阳震华,http://liushizupu.site:35455/yy/1382749918
+本山快乐营1,http://liushizupu.site:35455/yy/1354936209
+大明王朝,http://liushizupu.site:35455/yy/1382736879
+加勒比海盗系列,http://liushizupu.site:35455/yy/1382749914
+聊斋志异S1,http://liushizupu.site:35455/yy/1382736975
+巩汉林春晚小品合集,http://liushizupu.site:35455/yy/1354889035
+中国第一神探-狄仁杰,http://liushizupu.site:35455/yy/1354932438
+宋小宝春晚小品合集,http://liushizupu.site:35455/yy/1382736866
+�潘磕惺康谝患�-国产喜剧,http://liushizupu.site:35455/yy/1382741637
+小鬼当家-童年回忆,http://liushizupu.site:35455/yy/1382745104
+穿越时空的爱恋,http://liushizupu.site:35455/yy/1382735567
+国外高分大片,http://liushizupu.site:35455/yy/1382736867
+心中的白月光,http://liushizupu.site:35455/yy/1382851580
+吐槽大会 第1季,http://liushizupu.site:35455/yy/1354936210
+美国队长史蒂夫,http://liushizupu.site:35455/yy/1382736813
+机械战警1-3,http://liushizupu.site:35455/yy/1382736854
+法证先锋Ⅲ,http://liushizupu.site:35455/yy/1382736802
+洪大哥系列,http://liushizupu.site:35455/yy/1354888743
+吐槽大会 第2季,http://liushizupu.site:35455/yy/1354936145
+易中天品三国,http://liushizupu.site:35455/yy/1354931498
+叛逆者,http://liushizupu.site:35455/yy/1382736868
+X战警系列电影,http://liushizupu.site:35455/yy/1382736893
+探秘中华美食,http://liushizupu.site:35455/yy/1354930954
+平凡岁月,http://liushizupu.site:35455/yy/1382745117
+大唐双龙传,http://liushizupu.site:35455/yy/1354930979
+大汉贤后卫子夫,http://liushizupu.site:35455/yy/1382735569
+哈利波特全集,http://liushizupu.site:35455/yy/1382745105
+舌尖上的中国第2季,http://liushizupu.site:35455/yy/1354930943
+鹿鼎记-陈小春版,http://liushizupu.site:35455/yy/1382736920
+野性欧洲,http://liushizupu.site:35455/yy/1354926622
+香港动作大片,http://liushizupu.site:35455/yy/1382736816
+心理追凶-港剧,http://liushizupu.site:35455/yy/1354936207
+田园生活,http://liushizupu.site:35455/yy/1382736898
+漫画解说,http://liushizupu.site:35455/yy/1382735568
+飓风营救,http://liushizupu.site:35455/yy/1382735547
+河山,http://liushizupu.site:35455/yy/1382749952
+蜥蜴世界,http://liushizupu.site:35455/yy/1382735545
+神厨小福贵,http://liushizupu.site:35455/yy/1382736860
+白夜追凶第一季,http://liushizupu.site:35455/yy/1354932359
+非诚勿扰,http://liushizupu.site:35455/yy/1382745100
+开心小泡芙,http://liushizupu.site:35455/yy/1382851578
+精彩动作电影,http://liushizupu.site:35455/yy/1382736823
+忠烈杨家将,http://liushizupu.site:35455/yy/1382749909
+热门喜剧,http://liushizupu.site:35455/yy/1354931495
+笑傲江湖 第2季,http://liushizupu.site:35455/yy/1382736914
+无敌县令,http://liushizupu.site:35455/yy/1354932390
+降服魔女的手段-泰剧,http://liushizupu.site:35455/yy/1354932405
+我的父亲我的兵,http://liushizupu.site:35455/yy/1353413714
+宫心计,http://liushizupu.site:35455/yy/1382828769
+老广的味道 第3季-美食纪录片,http://liushizupu.site:35455/yy/1382735565
+大汉天子S2,http://liushizupu.site:35455/yy/1382736807
+岳云鹏宋小宝也来演电影了？,http://liushizupu.site:35455/yy/1354926612
+国外动作大片,http://liushizupu.site:35455/yy/1382735540
+迷,http://liushizupu.site:35455/yy/1382736719
+珍珠港-电影,http://liushizupu.site:35455/yy/1354936234
+钟馗传说,http://liushizupu.site:35455/yy/1382736839
+笑傲江湖 第1季,http://liushizupu.site:35455/yy/1382749896
+十大经典港剧之《大时代》,http://liushizupu.site:35455/yy/1354930891
+学生兵,http://liushizupu.site:35455/yy/1354658003
+粉红女郎,http://liushizupu.site:35455/yy/1354888671
+渴望,http://liushizupu.site:35455/yy/1354930963
+妖神记,http://liushizupu.site:35455/yy/1382745171
+大江大河-高分影视推荐,http://liushizupu.site:35455/yy/1382736806
+回家的诱惑,http://liushizupu.site:35455/yy/1354658043
+老司机带你开眼界,http://liushizupu.site:35455/yy/1349538007
+舌尖上的中国第一季,http://liushizupu.site:35455/yy/1354930952
+致敬星爷致敬经典,http://liushizupu.site:35455/yy/1354889048
+洪金宝福星系列,http://liushizupu.site:35455/yy/1382851602
+宫心计,http://liushizupu.site:35455/yy/1354932429
+农家小菜,http://liushizupu.site:35455/yy/1382736894
+欢乐集结号4,http://liushizupu.site:35455/yy/1382736889
+小米粒Mili,http://liushizupu.site:35455/yy/1382736842
+流金岁月-经典港剧,http://liushizupu.site:35455/yy/1382736891
+编辑部的故事,http://liushizupu.site:35455/yy/1354936120
+热血动作片合集,http://liushizupu.site:35455/yy/1382735627
+热播国内侦探片,http://liushizupu.site:35455/yy/1382736820
+本山快乐营-爆笑小品,http://liushizupu.site:35455/yy/1354930948
+欢乐集结号3,http://liushizupu.site:35455/yy/1382736822
+经典搞笑影片,http://liushizupu.site:35455/yy/1382749878
+赌神3之少年赌神,http://liushizupu.site:35455/yy/1382749912
+大汉天子S1,http://liushizupu.site:35455/yy/1382749902
+谈判专家,http://liushizupu.site:35455/yy/1382735560
+战争大片,http://liushizupu.site:35455/yy/1382736819
+华子系列,http://liushizupu.site:35455/yy/1354888726
+小小飞虎队,http://liushizupu.site:35455/yy/1382749888
+你最爱的小龙女-神雕侠侣,http://liushizupu.site:35455/yy/1354926637
+小公举,http://liushizupu.site:35455/yy/1382745124
+远去的飞鹰-影视剧,http://liushizupu.site:35455/yy/1354930912
+法外风云,http://liushizupu.site:35455/yy/1382736805
+解放：苏联战争巨片,http://liushizupu.site:35455/yy/1354936249
+最美的青春,http://liushizupu.site:35455/yy/1382745116
+真心想让你幸福,http://liushizupu.site:35455/yy/1382736876
+王朝-自然-纪录片,http://liushizupu.site:35455/yy/1354930927
+动作大片,http://liushizupu.site:35455/yy/1354930887
+国产喜剧大片,http://liushizupu.site:35455/yy/1382745113
+请回答1988,http://liushizupu.site:35455/yy/1354932362
+法证先锋Ⅳ,http://liushizupu.site:35455/yy/1354932426
+国外科幻片,http://liushizupu.site:35455/yy/1382735585
+烧脑悬疑电影,http://liushizupu.site:35455/yy/1382735571
+妖神记-全集,http://liushizupu.site:35455/yy/1382735551
+最后的狮子-探险纪录片,http://liushizupu.site:35455/yy/1382735577
+黄大妮-电视剧,http://liushizupu.site:35455/yy/1354930904
+巾帼枭雄之义海豪情,http://liushizupu.site:35455/yy/1382736859
+一起来笑吧,http://liushizupu.site:35455/yy/1454859415
+重生之超级赛亚人,http://liushizupu.site:35455/yy/1354936124
+脑洞大开的精彩科幻片,http://liushizupu.site:35455/yy/1382736723
+开心麻花街,http://liushizupu.site:35455/yy/1354926643
+单挑荒野第一季,http://liushizupu.site:35455/yy/1354933535
+憨豆先生-经典喜剧,http://liushizupu.site:35455/yy/1354936239
+馋哭了！川味来袭,http://liushizupu.site:35455/yy/1382736913
+百家讲坛-红楼梦篇,http://liushizupu.site:35455/yy/1382741639
+寻秦记,http://liushizupu.site:35455/yy/1354658048
+笑傲江湖-电视剧,http://liushizupu.site:35455/yy/1354936128
+笑到飞起！阿拉丁与神灯,http://liushizupu.site:35455/yy/1382749950
+赵本山爆笑小品2,http://liushizupu.site:35455/yy/1354936217
+大江大河2-高分影视推荐,http://liushizupu.site:35455/yy/1382736797
+大汉天子S3,http://liushizupu.site:35455/yy/1382736810
+外国战争大片,http://liushizupu.site:35455/yy/1382736872
+侏罗纪公园三部曲,http://liushizupu.site:35455/yy/1354936191
+去有风的地方,http://liushizupu.site:35455/yy/1382736874
+缺宅男女-精彩港剧,http://liushizupu.site:35455/yy/1382745088
+百家讲坛-之女皇武则天,http://liushizupu.site:35455/yy/1354889015
+本山快乐营,http://liushizupu.site:35455/yy/1382736852
+相声相声搜38528频道,http://liushizupu.site:35455/yy/34025318
+老夫少妻搞笑忘年恋,http://liushizupu.site:35455/yy/1354932391
+蒲松龄—经典港剧,http://liushizupu.site:35455/yy/1354889042
+一分钟学道菜,http://liushizupu.site:35455/yy/1382736901
+超激烈的猎食场面,http://liushizupu.site:35455/yy/1382749898
+羊羊扛狼亿少女的噩梦,http://liushizupu.site:35455/yy/1354921392
+最新喜剧电影,http://liushizupu.site:35455/yy/1354936136
+国外最强动作大片！,http://liushizupu.site:35455/yy/1354936157
+四大名捕2,http://liushizupu.site:35455/yy/1382736916
+金婚,http://liushizupu.site:35455/yy/1382736832
+悬疑破案！施公奇案全季,http://liushizupu.site:35455/yy/1382749905
+欢乐集结号58-70,http://liushizupu.site:35455/yy/1382745119
+小生物的故事,http://liushizupu.site:35455/yy/1382736834
+机场超燃警匪片,http://liushizupu.site:35455/yy/1382735576
+公主嫁到,http://liushizupu.site:35455/yy/1382736915
+无罪推定—经典律政港剧,http://liushizupu.site:35455/yy/1354936203
+永远的经典系列,http://liushizupu.site:35455/yy/1354930204
+机动步队,http://liushizupu.site:35455/yy/1354932371
+来自星星的你,http://liushizupu.site:35455/yy/1354930976
+飞虎之雷霆极战,http://liushizupu.site:35455/yy/1382736869
+超燃动作大片,http://liushizupu.site:35455/yy/1382749940
+银河护卫队-国外科幻巨作,http://liushizupu.site:35455/yy/1382736815
+超级英雄系列电影,http://liushizupu.site:35455/yy/1382736863
+宫心计-港剧-古装,http://liushizupu.site:35455/yy/1354933540
+怪医文三块-影视剧,http://liushizupu.site:35455/yy/1354936154
+重返校园电影合集,http://liushizupu.site:35455/yy/1354930965
+地球上的地狱,http://liushizupu.site:35455/yy/1382736918
+雷神系列,http://liushizupu.site:35455/yy/1354932441
+怀旧小品,http://liushizupu.site:35455/yy/1382736821
+卧虎藏龙-李安执导,http://liushizupu.site:35455/yy/1382736849
+空谷幽兰,http://liushizupu.site:35455/yy/1382745182
+惊险动作大片！挑战心脏,http://liushizupu.site:35455/yy/1354932407
+爆笑抗日！厨子戏子痞子,http://liushizupu.site:35455/yy/1354930816
+蜘蛛侠-院线大片,http://liushizupu.site:35455/yy/1354926671
+白鹿原,http://liushizupu.site:35455/yy/1354931488
+缺宅男女,http://liushizupu.site:35455/yy/1354930937
+国产动作电影,http://liushizupu.site:35455/yy/1382736858
+守望的天空-泪目电视剧,http://liushizupu.site:35455/yy/1382736843
+高分港剧合集,http://liushizupu.site:35455/yy/1382735542
+中国合伙人,http://liushizupu.site:35455/yy/1354658051
+名媛望族-精彩港剧,http://liushizupu.site:35455/yy/1354932431
+陈情令,http://liushizupu.site:35455/yy/1382745121
+蔡明春晚小品,http://liushizupu.site:35455/yy/1354936177
+欢乐集结号,http://liushizupu.site:35455/yy/1382749911
+尽享国内精彩战争片,http://liushizupu.site:35455/yy/1382745094
+【武林客栈】,http://liushizupu.site:35455/yy/1382773728
+金装四大才子,http://liushizupu.site:35455/yy/1354926600
+科幻大片,http://liushizupu.site:35455/yy/1382745181
+娘亲舅大,http://liushizupu.site:35455/yy/1354932360
+俺娘田小草,http://liushizupu.site:35455/yy/1382741638
+宇宙护卫队--国漫,http://liushizupu.site:35455/yy/1382736837
+喜乐街,http://liushizupu.site:35455/yy/1354936231
+强悍“杀猪婆”的励志人生,http://liushizupu.site:35455/yy/1354658062
+丈夫在外有人？真相竟然是！,http://liushizupu.site:35455/yy/1354932375
+家有九凤-影视剧,http://liushizupu.site:35455/yy/1354930894
+回家的诱惑-狗血剧巅峰,http://liushizupu.site:35455/yy/1382851148
+复仇者联盟4：终局之战,http://liushizupu.site:35455/yy/1354936167
+金玉满堂：精彩港剧,http://liushizupu.site:35455/yy/1382736881
+下饭喜剧电影,http://liushizupu.site:35455/yy/1382736844
+【科幻电影】,http://liushizupu.site:35455/yy/1355065896
+9.8分！这部纪录片封神了,http://liushizupu.site:35455/yy/1382736825
+飞虎之潜行极战,http://liushizupu.site:35455/yy/1354932420
+影视剧-林深见鹿,http://liushizupu.site:35455/yy/1345494225
+功夫婆媳-家庭剧,http://liushizupu.site:35455/yy/1382736883
+风靡全球的谍战片,http://liushizupu.site:35455/yy/1382736817
+007系列大片,http://liushizupu.site:35455/yy/1382736897
+超炫科幻大片,http://liushizupu.site:35455/yy/1382736840
+故事里的中国全季,http://liushizupu.site:35455/yy/1382736798
+发哥系列,http://liushizupu.site:35455/yy/1354888733
+国家宝藏 第二季,http://liushizupu.site:35455/yy/1382736853
+电视剧 狂飙,http://liushizupu.site:35455/yy/70163211
+三个臭皮匠顶一个诸葛亮,http://liushizupu.site:35455/yy/1354936221
+仙灵儿,http://liushizupu.site:35455/yy/1382736887
+雪中悍刀行,http://liushizupu.site:35455/yy/1462996362
+动作大片,http://liushizupu.site:35455/yy/1354888739
+玩命直播（普通话）,http://liushizupu.site:35455/yy/1382736841
+大家都在看的警匪片,http://liushizupu.site:35455/yy/1354930964
+第8号当铺,http://liushizupu.site:35455/yy/1382736905
+什么会让你快乐,http://liushizupu.site:35455/yy/54886912
+闲暇观看综艺,http://liushizupu.site:35455/yy/1354932379
+武侠电视剧,http://liushizupu.site:35455/yy/1459331991
+李三枪-抗战影视剧,http://liushizupu.site:35455/yy/1354936122
+拆弹专家-刘德华,http://liushizupu.site:35455/yy/1382745111
+男亲女爱-经典港剧,http://liushizupu.site:35455/yy/1382736715
+战狼10086,http://liushizupu.site:35455/yy/1382773686
+公公出宫-港剧,http://liushizupu.site:35455/yy/1354936208
+卖拐,http://liushizupu.site:35455/yy/1382851469
+萌鸡小队S1-国漫,http://liushizupu.site:35455/yy/1382736904
+国威影院 仙侠系列,http://liushizupu.site:35455/yy/1354866665
+岳云鹏-屌丝也能追到美女,http://liushizupu.site:35455/yy/1382736882
+大家都爱看的港剧,http://liushizupu.site:35455/yy/1382736861
+粟裕大将-影视,http://liushizupu.site:35455/yy/1354926542
+国内最新战争大片,http://liushizupu.site:35455/yy/1382745189
+国内动作大片,http://liushizupu.site:35455/yy/1382749917
+能耐大了第1季,http://liushizupu.site:35455/yy/1354930195
+哥斯拉1,http://liushizupu.site:35455/yy/1382736833
+铭记历史-甲午大海战,http://liushizupu.site:35455/yy/1354936195
+悬崖上的金鱼公主：宫崎骏系列,http://liushizupu.site:35455/yy/1354926666
+越哥说电影,http://liushizupu.site:35455/yy/1382745099
+狂飙,http://liushizupu.site:35455/yy/28298966
+传奇之王-影视剧,http://liushizupu.site:35455/yy/1354926735
+原始人大挑战,http://liushizupu.site:35455/yy/1382736884
+经典电影 电视剧,http://liushizupu.site:35455/yy/1354690927
+再向虎山行,http://liushizupu.site:35455/yy/1355823667
+请回答1988-高分韩剧,http://liushizupu.site:35455/yy/1354936228
+丁大命,http://liushizupu.site:35455/yy/1382735579
+恐怖鬼片嘎嘎好看,http://liushizupu.site:35455/yy/1355485328
+吐槽大会 第5季,http://liushizupu.site:35455/yy/1354889009
+风味原产地潮汕,http://liushizupu.site:35455/yy/1382745178
+太空生命？高分科幻电影开播,http://liushizupu.site:35455/yy/1382851586
+另类民兵葛二蛋,http://liushizupu.site:35455/yy/1382736895
+海王-院线大片,http://liushizupu.site:35455/yy/1354936142
+灌篮高手,http://liushizupu.site:35455/yy/1382735559
+少年包青天,http://liushizupu.site:35455/yy/1356331540
+动漫奥斯卡正在直播,http://liushizupu.site:35455/yy/1382626335
+心病,http://liushizupu.site:35455/yy/1382851474
+家族荣耀-精彩港剧,http://liushizupu.site:35455/yy/1382745103
+来看修牛蹄,http://liushizupu.site:35455/yy/1382749887
+七色小彩虹,http://liushizupu.site:35455/yy/1382851601
+迷失假期：少女香港寻身世,http://liushizupu.site:35455/yy/1382745089
+能耐大了！德云社演技爆棚,http://liushizupu.site:35455/yy/1354930915
+溏心风暴之家好月圆,http://liushizupu.site:35455/yy/1354888747
+小戏骨黄飞鸿,http://liushizupu.site:35455/yy/1354936181
+港片—两公婆八条心,http://liushizupu.site:35455/yy/1382736917
+饥饿游戏全季,http://liushizupu.site:35455/yy/1354932365
+本山快乐营2,http://liushizupu.site:35455/yy/1382736718
+宋小宝金星自拍玩“亲亲”-今夜百乐门,http://liushizupu.site:35455/yy/1382736912
+耀舞长安-港剧,http://liushizupu.site:35455/yy/1382741640
+拜年,http://liushizupu.site:35455/yy/1382851470
+【雍正王朝】历史巨作,http://liushizupu.site:35455/yy/1462895099
+变形金刚4、5,http://liushizupu.site:35455/yy/1354658064
+国外院线动作大片,http://liushizupu.site:35455/yy/1382735570
+【粤配动漫】,http://liushizupu.site:35455/yy/1356262523
+金星脱口秀-爆笑回归,http://liushizupu.site:35455/yy/1382749951
+国内动作电影,http://liushizupu.site:35455/yy/1382745176
+催眠视频合集,http://liushizupu.site:35455/yy/1354936178
+超精彩武打场景,http://liushizupu.site:35455/yy/1354936131
+我是特种兵利刃出鞘,http://liushizupu.site:35455/yy/1354127609
+战争大片,http://liushizupu.site:35455/yy/1382735556
+希魔撞正杀人狂,http://liushizupu.site:35455/yy/1382736903
+爱丽丝梦游仙境,http://liushizupu.site:35455/yy/1354931585
+动漫,http://liushizupu.site:35455/yy/1382788679
+内部测试频道请勿封禁,http://liushizupu.site:35455/yy/1352488363
+百家讲坛――之明太祖朱元璋,http://liushizupu.site:35455/yy/1354936149
+港片鬼片老电影,http://liushizupu.site:35455/yy/1355269576
+半妖四魂之玉之路,http://liushizupu.site:35455/yy/1509038705
+狂飙2,http://liushizupu.site:35455/yy/1456622512
+【康熙王朝】,http://liushizupu.site:35455/yy/37033366
+鲨卷风：鲨鱼市区作乱,http://liushizupu.site:35455/yy/1382736851
+胡歌不见不散,http://liushizupu.site:35455/yy/1356355983
+奥斯卡战争大片,http://liushizupu.site:35455/yy/1354932397
+的直播间,http://liushizupu.site:35455/yy/1354129442
+荒诞喜剧！钢的琴,http://liushizupu.site:35455/yy/1382736886
+电影电影电影电影电影电影,http://liushizupu.site:35455/yy/1351496216
+超体：高分科幻片,http://liushizupu.site:35455/yy/1354936116
+亲爱的味道：美食轻喜剧,http://liushizupu.site:35455/yy/1382735561
+丫鬟大联盟！笑个不停,http://liushizupu.site:35455/yy/1382749913
+【红球】不扯蛋,http://liushizupu.site:35455/yy/1355084841
+【小星星】斗罗斗破精彩动,http://liushizupu.site:35455/yy/1356362808
+我要成为贫民巨星！-全集,http://liushizupu.site:35455/yy/1382744423
+每走一步都要小心翼翼,http://liushizupu.site:35455/yy/1354936199
+我到家啦,http://liushizupu.site:35455/yy/1382851468
+狂飙老莫请你吃鱼,http://liushizupu.site:35455/yy/1382881866
+的士速递全季—爆笑犯罪大片,http://liushizupu.site:35455/yy/1382749910
+精彩影视轮番上映,http://liushizupu.site:35455/yy/1355336008
+2012：世界末日,http://liushizupu.site:35455/yy/1382736836
+深山吃货：云南臭菜你吃过吗？,http://liushizupu.site:35455/yy/1382745122
+本山小品 过年,http://liushizupu.site:35455/yy/1382881708
+施公奇案2-欧阳震华,http://liushizupu.site:35455/yy/1382736824
+一城一味（舌尖姐妹篇）,http://liushizupu.site:35455/yy/1382745179
+好笑又好看,http://liushizupu.site:35455/yy/1382851137
+买车前看一看 不然血亏,http://liushizupu.site:35455/yy/1349602814
+悦悦电影,http://liushizupu.site:35455/yy/1351537467
+呵呵❤正在直播,http://liushizupu.site:35455/yy/1382828963
+今生是第一次：高分韩剧,http://liushizupu.site:35455/yy/1382745190
+征服,http://liushizupu.site:35455/yy/1461655788
+你看与不看我都在,http://liushizupu.site:35455/yy/1353422557
+侦探烧脑电影-悬疑,http://liushizupu.site:35455/yy/1382735543
+TVB经典—九江十二坊,http://liushizupu.site:35455/yy/1382735566
+十诫—外国影史里程碑,http://liushizupu.site:35455/yy/1354930945
+修牛蹄,http://liushizupu.site:35455/yy/1353413683
+少林寺传奇,http://liushizupu.site:35455/yy/1356338181
+你爱看的国内战争大片合集,http://liushizupu.site:35455/yy/1354936160
+经典影视,http://liushizupu.site:35455/yy/1356364732
+美国超级英雄电影系列,http://liushizupu.site:35455/yy/1354933556
+霍比特人电影系列,http://liushizupu.site:35455/yy/1354930967
+喜剧大片—篮球冠军,http://liushizupu.site:35455/yy/1382749906
+筱威回来了！ 正在直播,http://liushizupu.site:35455/yy/37347905
+特种兵归来4,http://liushizupu.site:35455/yy/1382736896
+非遗真人秀？向往的国潮,http://liushizupu.site:35455/yy/1382749953
+男生女生向前冲,http://liushizupu.site:35455/yy/1354930957
+狂飙,http://liushizupu.site:35455/yy/1509095132
+失忆24小时：绑架失踪案,http://liushizupu.site:35455/yy/1382749890
+永远一家人：厂长夫人摆地摊,http://liushizupu.site:35455/yy/1382736873
+打狗棍,http://liushizupu.site:35455/yy/1507519895
+盗梦空间,http://liushizupu.site:35455/yy/1354930903
+我比你更懂车 你偏不信,http://liushizupu.site:35455/yy/85042287
+动画剧集电影-原声粤语国,http://liushizupu.site:35455/yy/1382859239
 
 自然纪实,#genre#
 
@@ -1352,6 +2049,8 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 
 美国ABC,http://143.244.60.30/ABC_EAST/index.m3u8
 
