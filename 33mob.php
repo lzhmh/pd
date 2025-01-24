@@ -2,7 +2,8 @@
 港澳H088,#genre#
 凤凰中文,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8$西安6
 凤凰资讯,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/223/3221226546/index.m3u8$西安6
-
+凤凰中文,http://113.64.94.175:9901/tsfile/live/1036_1.m3u8$粤信
+凤凰资讯,http://113.64.94.175:9901/tsfile/live/1037_1.m3u8$粤信
 凤凰资讯,http://223.10.214.222:6003/udp/239.1.1.127:8127$山西信#http://122.234.145.226:4022/udp/233.50.200.192:5140$浙江信#http://118.116.80.3:7788/udp/239.93.1.4:2191$四川信#http://118.116.80.3:7788/udp/239.93.0.118:2191$四川信#http://171.213.131.203:9100/udp/239.93.1.4:2191$四川信#http://171.213.131.203:9100/udp/239.93.0.118:2191$四川信#http://223.10.214.254:6008/udp/239.1.1.127:8127$山西信
 凤凰中文,http://223.10.214.222:6003/udp/239.1.1.126:8126$山西信#http://122.234.145.226:4022/udp/233.50.200.191:5140$浙江信#http://118.116.80.3:7788/udp/239.93.1.9:2192$四川信#http://118.116.80.3:7788/udp/239.93.0.162:2192$四川信#http://122.234.145.226:4022/udp/233.50.200.42:5140$浙江信#http://171.213.131.203:9100/udp/239.93.1.9:2192$四川信#http://171.213.131.203:9100/udp/239.93.0.162:2192$四川信#http://223.10.214.254:6008/udp/239.1.1.126:8126$山西信
 凤凰中文,http://nas.jc-hqp.cn:9999/udp/233.50.200.191:5140$浙江信#http://www.372583307.top:4022/udp/233.50.200.191:5140$浙江信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信
@@ -42,6 +43,8 @@ CCTV13,http://nas.jc-hqp.cn:9999/udp/233.50.200.97:5140$浙江信#http://nas.jc-
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
+翡翠台,http://113.64.94.175:9901/tsfile/live/1004_1.m3u8
+
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RTHK34,http://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
@@ -52,6 +55,8 @@ RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+
+日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 
 美国ABC,http://143.244.60.30/ABC_EAST/index.m3u8
 
@@ -129,6 +134,8 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
+
+广东体育,http://113.64.94.175:9901/tsfile/live/1010_1.m3u8
 
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6332a877c5f4cd0bee7b40bbed1983f8&txTime=192a274ca1d
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
@@ -342,7 +349,7 @@ DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8$61
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$61
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8$61
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
+AMC,http://61.221.215.25:8800/hls/43/index.m3u8$61
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8$61
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$61
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$61
@@ -795,7 +802,7 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$哈移
 
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$武联
+CHC影迷电影,http://113.64.94.175:9901/tsfile/live/1038_1.m3u8#http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$武联
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8$武联
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8$武联
 CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000$山东联
@@ -809,6 +816,8 @@ CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000$山东�
 第一剧场,http://180.102.250.10:8118/rtp/239.49.8.94:8000$江苏信
 怀旧剧场,http://180.102.250.10:8118/rtp/239.49.8.91:8000$江苏信
 风云剧场,http://180.102.250.10:8118/rtp/239.49.8.89:8000$江苏信
+
+外国电影,http://37.27.111.214:8080/live/8/hls.m3u8$全是
 
 超级电影,http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8$黑移
 黑莓电影,http://39.134.65.179/PLTV/88888888/224/3221225681/1.m3u8$黑移
