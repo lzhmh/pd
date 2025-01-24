@@ -353,10 +353,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 北京少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$哈移s
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$哈移s
 
-哆啦A梦,http://1.94.31.214:35455/huya/11601963
-猫和老鼠,http://1.94.31.214:35455/huya/11352879
-喜羊羊与灰太狼,http://1.94.31.214:35455/huya/23865080
-宠物小精灵,http://1.94.31.214:35455/huya/23749096
+哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
+猫和老鼠,http://www.52sw.top:678/play/huya.php?id=11352879
+喜羊羊与灰太狼,http://www.52sw.top:678/play/huya.php?id=23865080
+宠物小精灵,http://www.52sw.top:678/play/huya.php?id=23749096
 
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$哈移s
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
@@ -796,18 +796,8 @@ CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000$山东�
 神乐1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
-淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
-淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
-淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
-淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
-淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
-淘剧场,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
-淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
-淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
-淘电影,http://opdf.top:8088/udp/239.3.1.250:8001
-淘剧场,http://opdf.top:8088/udp/239.3.1.95:8001
-淘娱乐,http://opdf.top:8088/udp/239.3.1.100:8001
-淘精彩,http://opdf.top:8088/udp/239.3.1.178:8001
+
+北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
 
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$哈移
 东北热剧,http://39.134.65.179/PLTV/88888888/224/3221225679/1.m3u8$黑移
@@ -918,6 +908,96 @@ CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000$山东�
 荒野建造者,http://zzy789.xyz/douyu1.php?id=9611578
 
 虎牙轮播,#genre#
+
+//http://www.52sw.top:678/play/huya.php?id=
+科幻电影,http://www.52sw.top:678/play/huya.php?id=11602034
+死神来了,http://www.52sw.top:678/play/huya.php?id=11352903
+港台电影,http://www.52sw.top:678/play/huya.php?id=880261
+高分电影,http://www.52sw.top:678/play/huya.php?id=16615910
+命案十三宗,http://www.52sw.top:678/play/huya.php?id=11601981
+喜乐影院,http://www.52sw.top:678/play/huya.php?id=21059580
+贺岁片,http://www.52sw.top:678/play/huya.php?id=11601986
+怪兽电影,http://www.52sw.top:678/play/huya.php?id=21059577
+香港电影,http://www.52sw.top:678/play/huya.php?id=11601971
+玄幻电影,http://www.52sw.top:678/play/huya.php?id=11342414
+周星星,http://www.52sw.top:678/play/huya.php?id=24470631
+林正英,http://www.52sw.top:678/play/huya.php?id=11342421
+沈腾,http://www.52sw.top:678/play/huya.php?id=11601968
+成龙,http://www.52sw.top:678/play/huya.php?id=11342386
+李连杰,http://www.52sw.top:678/play/huya.php?id=11342390
+刘德华,http://www.52sw.top:678/play/huya.php?id=11342424
+王晶,http://www.52sw.top:678/play/huya.php?id=11602058
+星爷,http://www.52sw.top:678/play/huya.php?id=11342412
+中华小当家,http://www.52sw.top:678/play/huya.php?id=11342413
+杰森·斯坦森,http://www.52sw.top:678/play/huya.php?id=21059588
+喜剧专场,http://www.52sw.top:678/play/huya.php?id=11602044
+甄子丹,http://www.52sw.top:678/play/huya.php?id=11352935
+洪金宝,http://www.52sw.top:678/play/huya.php?id=11279251
+徐克,http://www.52sw.top:678/play/huya.php?id=11352909
+周润发,http://www.52sw.top:678/play/huya.php?id=11342387
+徐峥,http://www.52sw.top:678/play/huya.php?id=11602043
+许氏三杰,http://www.52sw.top:678/play/huya.php?id=11602033
+黄渤,http://www.52sw.top:678/play/huya.php?id=11352876
+喜剧电影,http://www.52sw.top:678/play/huya.php?id=11352877
+张卫健,http://www.52sw.top:678/play/huya.php?id=11342423
+倩女幽魂,http://www.52sw.top:678/play/huya.php?id=11601970
+日本电影,http://www.52sw.top:678/play/huya.php?id=23652317
+冯小刚,http://www.52sw.top:678/play/huya.php?id=11352906
+搞笑僵尸片,http://www.52sw.top:678/play/huya.php?id=11352963
+极限挑战],http://www.52sw.top:678/play/huya.php?id=11352914
+金庸武侠,http://www.52sw.top:678/play/huya.php?id=11342435
+金庸电影,http://www.52sw.top:678/play/huya.php?id=11352897
+经典武侠,http://www.52sw.top:678/play/huya.php?id=11342427
+欢笑影院,http://www.52sw.top:678/play/huya.php?id=11352894
+精彩不断,http://www.52sw.top:678/play/huya.php?id=24396428
+精忠岳飞南征北战,http://www.52sw.top:678/play/huya.php?id=11336578
+古墓系列,http://www.52sw.top:678/play/huya.php?id=11352913
+国产悬疑,http://www.52sw.top:678/play/huya.php?id=11342395
+天龙八部,http://www.52sw.top:678/play/huya.php?id=11602041
+盗墓电影,http://www.52sw.top:678/play/huya.php?id=21059552
+国产电影,http://www.52sw.top:678/play/huya.php?id=11352973
+蜘蛛侠,http://www.52sw.top:678/play/huya.php?id=21059599
+功夫片,http://www.52sw.top:678/play/huya.php?id=11352941
+丧尸片,http://www.52sw.top:678/play/huya.php?id=21059578
+高能反转,http://www.52sw.top:678/play/huya.php?id=11352887
+变形金刚,http://www.52sw.top:678/play/huya.php?id=21059596
+怪兽系列,http://www.52sw.top:678/play/huya.php?id=21059554
+动作电影,http://www.52sw.top:678/play/huya.php?id=11602077
+谍战片,http://www.52sw.top:678/play/huya.php?id=21059587
+海盗片,http://www.52sw.top:678/play/huya.php?id=21059595
+战争电影,http://www.52sw.top:678/play/huya.php?id=21059592
+枪战,http://www.52sw.top:678/play/huya.php?id=21059579
+速度激情,http://www.52sw.top:678/play/huya.php?id=21059556
+欧美黑白,http://www.52sw.top:678/play/huya.php?id=11352880
+战争片,http://www.52sw.top:678/play/huya.php?id=21059574
+警匪片,http://www.52sw.top:678/play/huya.php?id=11352886
+智商罪犯,http://www.52sw.top:678/play/huya.php?id=11352962
+巨石强森,http://www.52sw.top:678/play/huya.php?id=21059581
+詹姆斯邦德,http://www.52sw.top:678/play/huya.php?id=21059585
+救援电影,http://www.52sw.top:678/play/huya.php?id=21059594
+看救援,http://www.52sw.top:678/play/huya.php?id=21059586
+赛车片,http://www.52sw.top:678/play/huya.php?id=11279247
+灾难片,http://www.52sw.top:678/play/huya.php?id=11602075
+黑帮斗争,http://www.52sw.top:678/play/huya.php?id=11342419
+剧集_新水浒,http://www.52sw.top:678/play/huya.php?id=11342384
+剧集_老三国,http://www.52sw.top:678/play/huya.php?id=11602081
+剧集_新三国,http://www.52sw.top:678/play/huya.php?id=11352944
+剧集_庆余年,http://www.52sw.top:678/play/huya.php?id=11352960
+剧集_纪晓岚,http://www.52sw.top:678/play/huya.php?id=11342396
+剧集_地下交通站,http://www.52sw.top:678/play/huya.php?id=11342433
+剧集_士兵突击,http://www.52sw.top:678/play/huya.php?id=11342430
+剧集_爱情公寓,http://www.52sw.top:678/play/huya.php?id=11336726
+剧集_家有儿女,http://www.52sw.top:678/play/huya.php?id=11352872
+剧集_武林外传,http://www.52sw.top:678/play/huya.php?id=21059598
+剧集_邻里一家亲,http://www.52sw.top:678/play/huya.php?id=11342426
+百鸟朝凤,http://www.52sw.top:678/play/huya.php?id=15894162
+路飞,http://www.52sw.top:678/play/huya.php?id=16913382
+麻雀,http://www.52sw.top:678/play/huya.php?id=11352881
+陈翔六点半,http://www.52sw.top:678/play/huya.php?id=11274154
+生活大爆炸,http://www.52sw.top:678/play/huya.php?id=11342417
+天雷滚滚,http://www.52sw.top:678/play/huya.php?id=11352945
+文成公主,http://www.52sw.top:678/play/huya.php?id=11352974
+小鲤鱼,http://www.52sw.top:678/play/huya.php?id=11601961
 
 //http://43.138.170.29:35455http://1.94.31.214:35455
 科幻电影,http://1.94.31.214:35455/huya/11602034
