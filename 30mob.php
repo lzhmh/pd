@@ -1,9 +1,18 @@
 //Mobile频道数据收集自网络上的分享241030开通IPV6
-港澳H088,#genre#
+港澳H089,#genre#
 
+凤凰中文,http://extraott.com:80/live/6772191932/1654508883/473556.m3u8
+凤凰资讯,http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
+凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?id=123
 凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?id=124
 凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?id=125
+
+凤凰中文,http://xeace.cn:8888/udp/239.93.0.162:2192$四川信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://www.372583307.top:4022/udp/233.50.200.191:5140$浙江信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://nas.jc-hqp.cn:9999/udp/233.50.200.42:5140$浙江信#http://xeace.cn:8888/udp/239.93.1.9:2192$四川信#http://223.10.214.222:6003/udp/239.1.1.126:8126$山西信
+凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191$四川信#http://www.erbao1981.top:8188/udp/239.76.246.134:1234$湖南信#http://www.372583307.top:4022/udp/233.50.200.192:5140$浙江信#http://www.erbao1981.top:8188/udp/239.76.246.134:1234$湖南信#http://xeace.cn:8888/udp/239.93.1.4:2191$四川信#http://223.10.214.222:6003/udp/239.1.1.127:8127$山西信#http://171.213.131.203:9100/udp/239.93.0.118:2191$四川信
+
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$音频
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$音频
 
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8$郑移
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
