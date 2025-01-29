@@ -1,9 +1,9 @@
 //Mobile频道数据收集自网络上的分享241030开通IPV6
 港澳H089,#genre#
 
-凤凰中文,http://extraott.com:80/live/6772191932/1654508883/473556.m3u8
-凤凰资讯,http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
-凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
+凤凰中文,http://ttkx.cc:1389/公开源/fh.php?id=fhzw#http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8#http://extraott.com:80/live/6772191932/1654508883/473556.m3u8
+凤凰资讯,http://ttkx.cc:1389/公开源/fh.php?id=fhzx#http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8#http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
+凤凰香港,http://ttkx.cc:1389/公开源/fh.php?id=fhhk#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?id=123
 凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?id=124
 凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?id=125
@@ -20,6 +20,7 @@ CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8$牡丹移m
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8$郑移
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8$郑移
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8$郑移
+CCTV4,http://tvpull.careryun.com/tv/cctv4.m3u8$手机版
 
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$郑移
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$哈移
@@ -266,6 +267,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 猫和老鼠,http://www.52sw.top:678/play/huya.php?id=11352879
 喜羊羊与灰太狼,http://www.52sw.top:678/play/huya.php?id=23865080
 宠物小精灵,http://www.52sw.top:678/play/huya.php?id=23749096
+
+哆啦A梦,http://cdn.jdshipin.com:8880/huya.php?id=11601963
+猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 
 哆啦A梦,http://1.94.31.214:35455/huya/11601963
 猫和老鼠,http://1.94.31.214:35455/huya/11352879
@@ -653,13 +657,12 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$哈移
 
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
+
 超级电影,http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8$黑移
 黑莓电影,http://39.134.65.179/PLTV/88888888/224/3221225681/1.m3u8$黑移
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
-CHC影迷电影,http://113.64.94.175:9901/tsfile/live/1038_1.m3u8#http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$武联
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8$武联
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8$武联
 CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000$山东联
 CHC影迷电影,http://annaxi.lw-home.com:11111/udp/239.253.254.154:8000$山东联
 CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000$山东联
@@ -667,6 +670,11 @@ CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000$山东�
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+好莱坞电影2,http://zby.xjqxz.top/hlwdy1/live.m3u8
+成龙,http://zby.xjqxz.top/cldy/live.m3u8
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 
 第一剧场,http://58.215.3.254:8686/rtp/239.49.8.94:8000$江苏信
 怀旧剧场,http://58.215.3.254:8686/rtp/239.49.8.91:8000$江苏信
@@ -989,6 +997,38 @@ NOW爆谷,http://61.163.58.154:1321/ms/IPTV.php?id=136
 文成公主,http://1.94.31.214:35455/huya/11352974
 小鲤鱼,http://1.94.31.214:35455/huya/11601961
 
+科幻电影,http://cdn.jdshipin.com:8880/huya.php?id=11602034
+死神来了,http://cdn.jdshipin.com:8880/huya.php?id=11352903
+港台电影,http://cdn.jdshipin.com:8880/huya.php?id=880261
+高分电影,http://cdn.jdshipin.com:8880/huya.php?id=16615910
+命案十三宗,http://cdn.jdshipin.com:8880/huya.php?id=11601981
+喜乐影院,http://cdn.jdshipin.com:8880/huya.php?id=21059580
+贺岁片,http://cdn.jdshipin.com:8880/huya.php?id=11601986
+怪兽电影,http://cdn.jdshipin.com:8880/huya.php?id=21059577
+香港电影,http://cdn.jdshipin.com:8880/huya.php?id=11601971
+玄幻电影,http://cdn.jdshipin.com:8880/huya.php?id=11342414
+周星星,http://cdn.jdshipin.com:8880/huya.php?id=24470631
+林正英,http://cdn.jdshipin.com:8880/huya.php?id=11342421
+沈腾,http://cdn.jdshipin.com:8880/huya.php?id=11601968
+成龙,http://cdn.jdshipin.com:8880/huya.php?id=11342386
+李连杰,http://cdn.jdshipin.com:8880/huya.php?id=11342390
+刘德华,http://cdn.jdshipin.com:8880/huya.php?id=11342424
+王晶,http://cdn.jdshipin.com:8880/huya.php?id=11602058
+星爷,http://cdn.jdshipin.com:8880/huya.php?id=11342412
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
+杰森·斯坦森,http://cdn.jdshipin.com:8880/huya.php?id=21059588
+喜剧专场,http://cdn.jdshipin.com:8880/huya.php?id=11602044
+甄子丹,http://cdn.jdshipin.com:8880/huya.php?id=11352935
+洪金宝,http://cdn.jdshipin.com:8880/huya.php?id=11279251
+徐克,http://cdn.jdshipin.com:8880/huya.php?id=11352909
+周润发,http://cdn.jdshipin.com:8880/huya.php?id=11342387
+徐峥,http://cdn.jdshipin.com:8880/huya.php?id=11602043
+许氏三杰,http://cdn.jdshipin.com:8880/huya.php?id=11602033
+黄渤,http://cdn.jdshipin.com:8880/huya.php?id=11352876
+喜剧电影,http://cdn.jdshipin.com:8880/huya.php?id=11352877
+张卫健,http://cdn.jdshipin.com:8880/huya.php?id=11342423
+倩女幽魂,http://cdn.jdshipin.com:8880/huya.php?id=11601970
+
 YY轮播,#genre#
 
 火线追凶,http://liushizupu.site:35455/yy/1382745090
@@ -1001,6 +1041,7 @@ YY轮播,#genre#
 金三角大营救,http://liushizupu.site:35455/yy/1354930924
 致命守护者,http://liushizupu.site:35455/yy/1382745095
 沙海,http://liushizupu.site:35455/yy/1355171357
+奥斯卡战争大片,http://liushizupu.site:35455/yy/1354932397
 恐怖电影,http://liushizupu.site:35455/yy/24066336
 外国科幻,http://liushizupu.site:35455/yy/1382747628
 漫威十年,http://liushizupu.site:35455/yy/1354930233
@@ -1652,7 +1693,6 @@ X战警系列电影,http://liushizupu.site:35455/yy/1382736893
 【康熙王朝】,http://liushizupu.site:35455/yy/37033366
 鲨卷风：鲨鱼市区作乱,http://liushizupu.site:35455/yy/1382736851
 胡歌不见不散,http://liushizupu.site:35455/yy/1356355983
-奥斯卡战争大片,http://liushizupu.site:35455/yy/1354932397
 的直播间,http://liushizupu.site:35455/yy/1354129442
 荒诞喜剧！钢的琴,http://liushizupu.site:35455/yy/1382736886
 电影电影电影电影电影电影,http://liushizupu.site:35455/yy/1351496216
@@ -1701,6 +1741,24 @@ TVB经典—九江十二坊,http://liushizupu.site:35455/yy/1382735566
 我比你更懂车 你偏不信,http://liushizupu.site:35455/yy/85042287
 动画剧集电影-原声粤语国,http://liushizupu.site:35455/yy/1382859239
 
+火线追凶,http://jiaojirentv.top/2020/yy.php?id=1382745090
+速度与激情,http://jiaojirentv.top/2020/yy.php?id=1382749892
+敢死队,http://jiaojirentv.top/2020/yy.php?id=1382735573
+国外战争,http://jiaojirentv.top/2020/yy.php?id=1382736857
+顶级动作,http://jiaojirentv.top/2020/yy.php?id=24923327
+暮光之城,http://jiaojirentv.top/2020/yy.php?id=1354930181
+变形金刚,http://jiaojirentv.top/2020/yy.php?id=1382736803
+金三角大营救,http://jiaojirentv.top/2020/yy.php?id=1354930924
+致命守护者,http://jiaojirentv.top/2020/yy.php?id=1382745095
+沙海,http://jiaojirentv.top/2020/yy.php?id=1355171357
+恐怖电影,http://jiaojirentv.top/2020/yy.php?id=24066336
+外国科幻,http://jiaojirentv.top/2020/yy.php?id=1382747628
+漫威十年,http://jiaojirentv.top/2020/yy.php?id=1354930233
+科幻Sci-Fi,http://jiaojirentv.top/2020/yy.php?id=1354930209
+港剧动作,http://jiaojirentv.top/2020/yy.php?id=1382736809
+成龙系列,http://jiaojirentv.top/2020/yy.php?id=1354888751
+天龙八部,http://jiaojirentv.top/2020/yy.php?id=1382736855
+
 自然纪实,#genre#
 
 求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8$郑移4K
@@ -1732,6 +1790,10 @@ TVB经典—九江十二坊,http://liushizupu.site:35455/yy/1382735566
 CGTNDocumentary,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8$哈移
 CGTNDocumentary,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTNDocumentary,https://livedoc.cgtn.com/500d/prog_index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8$牡丹移
+
+DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$61
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
 
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$哈移
 
