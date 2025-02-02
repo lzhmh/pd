@@ -1,8 +1,8 @@
 //Mobile频道数据收集自网络上的分享241030开通IPV6
 港澳H089,#genre#
 
-凤凰中文,http://ttkx.cc:1389/公开源/fh.php?id=fhzw$ttkx#http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8$qu#http://extraott.com:80/live/6772191932/1654508883/473556.m3u8$ex
-凤凰资讯,http://ttkx.cc:1389/公开源/fh.php?id=fhzx$ttkx#http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8$qu#http://extraott.com:80/live/6772191932/1654508883/62829.m3u8$ex
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-16.ctv$ctv#http://ttkx.cc:1389/公开源/fh.php?id=fhzw$ttkx#http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8$qu#http://extraott.com:80/live/6772191932/1654508883/473556.m3u8$ex
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-6.ctv$ctv#http://ttkx.cc:1389/公开源/fh.php?id=fhzx$ttkx#http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8$qu#http://extraott.com:80/live/6772191932/1654508883/62829.m3u8$ex
 凤凰香港,http://ttkx.cc:1389/公开源/fh.php?id=fhhk$ttkx#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8$ex
 
 凤凰中文,http://xeace.cn:8888/udp/239.93.0.162:2192$四川信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://www.372583307.top:4022/udp/233.50.200.191:5140$浙江信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://nas.jc-hqp.cn:9999/udp/233.50.200.42:5140$浙江信#http://xeace.cn:8888/udp/239.93.1.9:2192$四川信#http://223.10.214.222:6003/udp/239.1.1.126:8126$山西信
@@ -213,12 +213,9 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 移动综合,#genre#
 
-凤凰美洲,http://extraott.com:80/live/6772191932/1654508883/473556.m3u8
-凤凰资讯,http://extraott.com:80/live/6772191932/1654508883/62829.m3u8
-
-凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?id=123
-凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?id=124
-凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?id=125
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-16.ctv$ctv#http://ttkx.cc:1389/公开源/fh.php?id=fhzw$ttkx#http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8$qu#http://extraott.com:80/live/6772191932/1654508883/473556.m3u8$ex
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-6.ctv$ctv#http://ttkx.cc:1389/公开源/fh.php?id=fhzx$ttkx#http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8$qu#http://extraott.com:80/live/6772191932/1654508883/62829.m3u8$ex
+凤凰香港,http://ttkx.cc:1389/公开源/fh.php?id=fhhk$ttkx#http://extraott.com:80/live/6772191932/1654508883/473557.m3u8$ex
 
 凤凰中文,http://113.64.94.175:9901/tsfile/live/1036_1.m3u8$粤信
 凤凰资讯,http://113.64.94.175:9901/tsfile/live/1037_1.m3u8$粤信
