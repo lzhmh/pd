@@ -13,6 +13,7 @@ CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8$牡丹移m
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8$郑移
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8$郑移
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8$郑移
+CCTV4,http://home.dzlove.top:35455/gaoma/cctv4.m3u8$gaoma
 CCTV4,http://tvpull.careryun.com/tv/cctv4.m3u8$手机版
 
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$郑移
@@ -22,6 +23,7 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8$郑移
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8$郑移
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8$牡丹移
+CCTV13,http://home.dzlove.top:35455/gaoma/cctv13.m3u8$gaoma
 CCTV13,http://tvpull.careryun.com/tv/cctv13.m3u8$手机版
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
@@ -41,6 +43,8 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/st
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+
+亚太第一,http://play2.one-tv.com/live/onetv.m3u8
 
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -67,6 +71,10 @@ CCTV5+,http://39.134.65.179/PLTV/88888888/224/3221225507/1.m3u8$黑移
 CCTV16,http://39.134.65.179/PLTV/88888888/224/3221225893/1.m3u8$黑移
 CCTV5,http://39.134.67.110/PLTV/88888888/224/3221225818/1.m3u8$黑移
 CCTV5+,http://39.134.67.110/PLTV/88888888/224/3221225507/1.m3u8$黑移
+
+CCTV5,http://home.dzlove.top:35455/gaoma/cctv5.m3u8$gaoma
+CCTV5+,http://home.dzlove.top:35455/gaoma/cctv5p.m3u8$gaoma
+CCTV16,http://home.dzlove.top:35455/gaoma/cctv16.m3u8$gaoma
 
 CCTV5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
 CCTV5+,http://220.170.241.204:9901/tsfile/live/0016_1.m3u8
@@ -143,7 +151,6 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$郑移
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8$郑移
-风云足球,http://58.215.3.254:8686/rtp/239.49.8.85:8000$江苏信
 央视台球,http://58.215.3.254:8686/rtp/239.49.8.32:8000$江苏信
 武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
 武术世界,http://majian.ixiaobai.net:5540/udp/239.37.0.227:5540
@@ -169,6 +176,20 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 陶老师围棋,http://zzy789.xyz/douyu1.php?id=6586073
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
 
+八卦大师,http://www.52sw.top:678/play/douyu.php?id=851040
+帽子象棋,http://www.52sw.top:678/play/douyu.php?id=4487219
+笑笑象棋,http://www.52sw.top:678/play/douyu.php?id=9969
+大神象棋,http://www.52sw.top:678/play/douyu.php?id=1227260
+飞刀陷阱,http://www.52sw.top:678/play/douyu.php?id=11576846
+飞刀讲解,http://www.52sw.top:678/play/douyu.php?id=10237088
+飞刀谱,http://www.52sw.top:678/play/douyu.php?id=11765935
+小鹤求败,http://www.52sw.top:678/play/douyu.php?id=3830820
+旭宝斗地主,http://www.52sw.top:678/play/douyu.php?id=9804176
+欢乐斗地主,http://www.52sw.top:678/play/douyu.php?id=8324074
+斗地主冠军赛,http://www.52sw.top:678/play/douyu.php?id=488743
+陶老师围棋,http://www.52sw.top:678/play/douyu.php?id=6586073
+弈夫围棋,http://www.52sw.top:678/play/douyu.php?id=6399350
+
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8$郑移
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8$郑移
 
@@ -182,6 +203,9 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 囲碁将棋,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 体育人物,http://zzy789.xyz/douyu1.php?id=8434598
+体育人物,http://www.52sw.top:678/play/douyu.php?id=8434598
+斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
+斗鱼体育,http://www.52sw.top:678/play/douyu.php?id=9170147
 
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
 黑龙江文体,http://39.134.67.108/PLTV/88888888/224/3221225965/1.m3u8$牡丹移
@@ -190,8 +214,6 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-
-斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
 
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
 睛彩广场舞,http://39.134.65.179/PLTV/88888888/224/3221226046/1.m3u8$黑移
@@ -404,6 +426,18 @@ inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 斗鱼历史1,http://zzy789.xyz/douyu1.php?id=9738854
 斗鱼历史2,http://zzy789.xyz/douyu1.php?id=10102281
 
+科学放映厅,http://www.52sw.top:678/play/douyu.php?id=9439712
+纪录片之家,http://www.52sw.top:678/play/douyu.php?id=8834003
+未解之谜,http://www.52sw.top:678/play/douyu.php?id=9369468
+科技发明,http://www.52sw.top:678/play/douyu.php?id=9317739
+宇宙科普,http://www.52sw.top:678/play/douyu.php?id=9412981
+观察宇宙,http://www.52sw.top:678/play/douyu.php?id=8667001
+杰瑞生活,http://www.52sw.top:678/play/douyu.php?id=7357786
+理论科普,http://www.52sw.top:678/play/douyu.php?id=9385288
+林超科普,http://www.52sw.top:678/play/douyu.php?id=9447974
+斗鱼历史1,http://www.52sw.top:678/play/douyu.php?id=9738854
+斗鱼历史2,http://www.52sw.top:678/play/douyu.php?id=10102281
+
 欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8$郑移
 欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8$郑移
 
@@ -508,6 +542,22 @@ CCTV12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8$牡丹移
 CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8$牡丹移
 CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8$牡丹移m
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8$牡丹移
+
+CCTV1,http://home.dzlove.top:35455/gaoma/cctv1.m3u8$gaoma
+CCTV2,http://home.dzlove.top:35455/gaoma/cctv2.m3u8$gaoma
+CCTV3,http://home.dzlove.top:35455/gaoma/cctv3.m3u8$gaoma
+CCTV7,http://home.dzlove.top:35455/gaoma/cctv7.m3u8$gaoma
+CCTV8,http://home.dzlove.top:35455/gaoma/cctv8.m3u8$gaoma
+CCTV9,http://home.dzlove.top:35455/gaoma/cctv9.m3u8$gaoma
+CCTV10,http://home.dzlove.top:35455/gaoma/cctv10.m3u8$gaoma
+CCTV11,http://home.dzlove.top:35455/gaoma/cctv11.m3u8$gaoma
+CCTV12,http://home.dzlove.top:35455/gaoma/cctv12.m3u8$gaoma
+CCTV14,http://home.dzlove.top:35455/gaoma/cctv14.m3u8$gaoma
+CCTV15,http://home.dzlove.top:35455/gaoma/cctv15.m3u8$gaoma
+CCTV17,http://home.dzlove.top:35455/gaoma/cctv17.m3u8$gaoma
+
+CCTV4k,http://home.dzlove.top:35455/gaoma/cctv4k.m3u8$gaoma
+CCTV8k,http://home.dzlove.top:35455/gaoma/cctv8k_36m.m3u8$gaoma
 
 CCTV1,http://tvpull.careryun.com/tv/cctv1.m3u8$手机版
 CCTV2,http://tvpull.careryun.com/tv/cctv2.m3u8$手机版
@@ -745,7 +795,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 
 亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
-邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+邵氏影院,http://www.52sw.top:678/play/douyu.php?id=4246519
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 神乐1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
@@ -866,6 +916,28 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 怀旧90,http://zzy789.xyz/douyu1.php?id=9275635
 麓山迷踪,http://zzy789.xyz/douyu1.php?id=4505431
 荒野建造者,http://zzy789.xyz/douyu1.php?id=9611578
+
+//http://www.52sw.top:678/play/douyu.php?id=
+犯罪片,http://www.52sw.top:678/play/douyu.php?id=747764
+漫威科幻,http://www.52sw.top:678/play/douyu.php?id=6140589
+苹果影院,http://www.52sw.top:678/play/douyu.php?id=2793084
+桃花影院,http://www.52sw.top:678/play/douyu.php?id=7305938
+邦德影院,http://www.52sw.top:678/play/douyu.php?id=9292499
+粤语电影,http://www.52sw.top:678/play/douyu.php?id=6566671
+4K影院,http://www.52sw.top:678/play/douyu.php?id=9249162
+科幻动作灾难,http://www.52sw.top:678/play/douyu.php?id=248753
+平安夜快乐,http://www.52sw.top:678/play/douyu.php?id=6863367
+看经典,http://www.52sw.top:678/play/douyu.php?id=7314294
+林正英1,http://www.52sw.top:678/play/douyu.php?id=218859
+小黛兮影,http://www.52sw.top:678/play/douyu.php?id=11553944
+林正英2,http://www.52sw.top:678/play/douyu.php?id=7356023
+宇哥经典,http://www.52sw.top:678/play/douyu.php?id=413573
+高分影厅,http://www.52sw.top:678/play/douyu.php?id=2535105
+花卷陪看,http://www.52sw.top:678/play/douyu.php?id=52787
+喜剧电影,http://www.52sw.top:678/play/douyu.php?id=9292492
+佳佳越狱,http://www.52sw.top:678/play/douyu.php?id=7575350
+
+漫威科幻,http://tc-tct.douyucdn2.cn/dyliveflv1a/6140589rgrFgOuC2_2000.xs?wsAuth=e37467c9c16f3ed51fd05e9f353262fb&token=web-h5-0-6140589-8c9f814ba60c86af38ec889149e3cc8dde209f36624645fd&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
 
 虎牙轮播,#genre#
 
@@ -1081,6 +1153,38 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 张卫健,http://cdn.jdshipin.com:8880/huya.php?id=11342423
 倩女幽魂,http://cdn.jdshipin.com:8880/huya.php?id=11601970
 
+
+科幻电影,http://rihou.cc:555/huyad.php?id=11602034
+死神来了,http://rihou.cc:555/huyad.php?id=11352903
+港台电影,http://rihou.cc:555/huyad.php?id=880261
+高分电影,http://rihou.cc:555/huyad.php?id=16615910
+命案十三宗,http://rihou.cc:555/huyad.php?id=11601981
+喜乐影院,http://rihou.cc:555/huyad.php?id=21059580
+贺岁片,http://rihou.cc:555/huyad.php?id=11601986
+怪兽电影,http://rihou.cc:555/huyad.php?id=21059577
+香港电影,http://rihou.cc:555/huyad.php?id=11601971
+玄幻电影,http://rihou.cc:555/huyad.php?id=11342414
+周星星,http://rihou.cc:555/huyad.php?id=24470631
+林正英,http://rihou.cc:555/huyad.php?id=11342421
+沈腾,http://rihou.cc:555/huyad.php?id=11601968
+成龙,http://rihou.cc:555/huyad.php?id=11342386
+李连杰,http://rihou.cc:555/huyad.php?id=11342390
+刘德华,http://rihou.cc:555/huyad.php?id=11342424
+王晶,http://rihou.cc:555/huyad.php?id=11602058
+星爷,http://rihou.cc:555/huyad.php?id=11342412
+中华小当家,http://rihou.cc:555/huyad.php?id=11342413
+杰森·斯坦森,http://rihou.cc:555/huyad.php?id=21059588
+喜剧专场,http://rihou.cc:555/huyad.php?id=11602044
+甄子丹,http://rihou.cc:555/huyad.php?id=11352935
+洪金宝,http://rihou.cc:555/huyad.php?id=11279251
+徐克,http://rihou.cc:555/huyad.php?id=11352909
+周润发,http://rihou.cc:555/huyad.php?id=11342387
+徐峥,http://rihou.cc:555/huyad.php?id=11602043
+许氏三杰,http://rihou.cc:555/huyad.php?id=11602033
+黄渤,http://rihou.cc:555/huyad.php?id=11352876
+喜剧电影,http://rihou.cc:555/huyad.php?id=11352877
+张卫健,http://rihou.cc:555/huyad.php?id=11342423
+倩女幽魂,http://rihou.cc:555/huyad.php?id=11601970
 剧集_新三国,http://182.40.120.195/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
 剧集_新水浒,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
 林正英,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
@@ -1873,6 +1977,7 @@ DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
 世界地理,http://58.215.3.254:8686/rtp/239.49.8.87:8000$江苏信
 
 斗鱼纪录,http://zzy789.xyz/douyu1.php?id=3485629
+斗鱼纪录,http://www.52sw.top:678/play/douyu.php?id=3485629
 
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -2534,21 +2639,14 @@ CNTV自然,#genre#
 
 小品汇,#genre#
 
-本山小品,http://maomao.kandiantv.cn/douyu1.php?id=9817716
-吐槽大会,http://maomao.kandiantv.cn/douyu1.php?id=9236042
-辽宁小品,http://maomao.kandiantv.cn/douyu1.php?id=9322175
-
 本山小品,http://zzy789.xyz/douyu1.php?id=9817716
-本山小品,http://159.75.85.63:35455/douyu/9817716
-本山小品,http://43.138.170.29:35455/douyu/9817716
+本山小品,http://www.52sw.top:678/play/douyu.php?id=9817716
 
 吐槽大会,http://zzy789.xyz/douyu1.php?id=9236042
-吐槽大会,http://159.75.85.63:35455/douyu/9236042
-吐槽大会,http://43.138.170.29:35455/douyu/9236042
+吐槽大会,http://www.52sw.top:678/play/douyu.php?id=9236042
 
 辽宁小品,http://zzy789.xyz/douyu1.php?id=9322175
-辽宁小品,http://159.75.85.63:35455/douyu/9322175
-辽宁小品,http://43.138.170.29:35455/douyu/9322175
+辽宁小品,http://www.52sw.top:678/play/douyu.php?id=9322175
 
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
