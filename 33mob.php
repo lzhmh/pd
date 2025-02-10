@@ -261,22 +261,26 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
-中天亚洲,http://extraott.com:80/live/6772191932/1654508883/29615.m3u8
-中天亚洲,http://extraott.com:80/live/6772191932/1654508883/191911.m3u8
-TVBS亚洲,http://extraott.com:80/live/6772191932/1654508883/33015.m3u8
-
-寰宇新闻,http://v.189910.xyz:8900/live.m3u8?c=1$6v
-寰宇新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=26$or
-中天新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=23$or
-中视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=6$or
-TVBS新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=1$or
-LIVE三立,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=9$or
-台视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=7$or
-民视新闻,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=10$or
-TVBSHD,http://oracleamsterdamamd.frankfwang.com:9500/live.m3u8?c=2$or
-
-民视新闻,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8$ex
-
+TVBS新聞,http://211.75.171.121:8574/http/61.67.128.137:8081/hls/75/817/ch059.m3u8
+寰宇新聞,http://211.75.171.121:8520/http/61.67.128.137:8081/hls/76/818/ch062.m3u8
+東森新聞,http://211.75.171.121:8533/http/61.67.128.137:8081/hls/63/805/ch010.m3u8
+中天新聞,http://211.75.171.121:8534/http/61.67.128.137:8081/hls/78/80/ch063max.m3u8
+年代新聞,http://211.75.171.121:8544/http/61.67.128.137:8081/hls/67/809/ch027.m3u8
+三立新聞,http://211.75.171.121:8537/http/61.67.128.137:8081/hls/65/807/ch018.m3u8
+非凡新聞,http://211.75.171.121:8623/http/61.67.128.137:8081/hls/75/817/ch057.m3u8
+民視新聞,http://211.75.171.121:8535/http/61.67.128.137:8081/hls/85/80/FtvNews4max.m3u8
+壹電視新聞,http://211.75.171.121:8549/http/61.67.128.137:8081/hls/66/808/ch024.m3u8
+鏡電視新聞,http://211.75.171.121:8554/http/61.67.128.137:8092/upload/114/MNEWS_TS-1111_1.m3u8
+華視電視,http://211.75.171.121:8536/http/61.67.128.137:8081/hls/89/80/Cts4max.m3u8
+中視電視,http://211.75.171.121:8539/http/61.67.128.137:8081/hls/88/80/Ctv4max.m3u8
+民視電視,http://211.75.171.121:8567/http/61.67.128.137:8081/hls/85/80/Ftv4max.m3u8
+公視電視,http://211.75.171.121:8583/http/61.67.128.137:8081/hls/87/80/Pts4max.m3u8
+東風衛視,http://211.75.171.121:8523/http/61.67.128.137:8081/hls/68/810/ch031.m3u8
+年代綜合,http://211.75.171.121:8565/http/61.67.128.137:8081/hls/72/814/ch045.m3u8
+非凡商業,http://211.75.171.121:8545/http/61.67.128.137:8081/hls/74/816/ch056.m3u8
+彭博財經,http://211.75.171.121:8552/http/61.67.128.137:8078/hls/43/80/bloomber.m3u8
+鳯凰資訊,http://211.75.171.121:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
+鳯凰中文,http://211.75.171.121:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
 少儿动漫,#genre#
