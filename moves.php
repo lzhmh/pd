@@ -1,4 +1,61 @@
 
+电影欣赏,#genre#
+热辣滚烫TH,https://ikcdn01.ikzybf.com/20240213/qeySwP3F/2000kb/hls/index.m3u8
+暴走财神5HD,https://v.cdnlz12.com/20240214/11569_e1ddc734/2000k/hls/mixed.m3u8
+金手指HD粤,https://v.cdnlz12.com/20240213/11556_3642faee/2000k/hls/mixed.m3u8
+龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+黄飞鸿之狮王争霸,https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4
+黄飞鸿之铁鸡斗蜈蚣,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
+黄飞鸿之铁鸡斗蜈蚣,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
+黄飞鸿之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
+义胆雄心,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
+东方三侠,http://jsmov2.a.yximgs.com/bs3/video-hls/5222205346628851891_hlsb.m3u8
+人在囧途,http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+A计划,http://jsmov2.a.yximgs.com/bs3/video-hls/5240501212096709355_hlsb.m3u8
+九一神雕侠侣,http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
+九二神雕之痴心情长剑,http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
+刀剑笑,http://jsmov2.a.yximgs.com/bs3/video-hls/5215168447635500734_hlsb.m3u8
+天若有情,http://jsmov2.a.yximgs.com/bs3/video-hls/5246412168297899387_hlsb.m3u8
+龙兄虎弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
+东方秃鹰,http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
+投名状,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
+中南海保镖,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
+杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
+太极张三丰,https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
+黄飞鸿之一:壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
+黄飞鸿之二:男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4#https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
+冒险王,https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
+精武英雄,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
+少林寺,https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
+方世玉,https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
+南北少林,https://cdn2.yzzy-tv-cdn.com/20220428/16621_c12279b7/index.m3u8
+给爸爸的信,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
+花木兰,https://cdn2.yzzy-tv-cdn.com/20220405/7667_13f7046c/index.m3u8
+龙在天涯,https://cdn2.yzzy-tv-cdn.com/20220331/4882_d282e1a0/index.m3u8
+笑傲江湖2：东方不败,https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
+警察故事,https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
+刁手怪招,https://cdn7.yzzy-tv-cdn.com/20220625/561_337bba55/index.m3u8
+无间道2,https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
+监狱风云2,https://vip.lz-cdn3.com/20230114/17169_e351e7c8/index.m3u8
+澳门风云2,https://vip.lz-cdn8.com/20220903/25590_a12ec6f7/index.m3u8
+澳门风云3,https://vip.lz-cdn8.com/20220903/25592_5fdbb860/index.m3u8
+赌神2,https://vip.lz-cdn.com/20220622/20003_820596d4/index.m3u8
+投名📡,https://cdn13.yzzy-tv-cdn.com/20230128/9592_3d21d729/index.m3u8
+杀手之📡,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
+太极张三📡,https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
+黄飞鸿之一:壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
+黄飞鸿之📡:男儿当自📡,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
+黄飞鸿之铁鸡斗蜈📡,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
+冒险📡,https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
+精武英雄,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
+少林📡,https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
+少林小子,https://vip.ffzy-play7.com/20230216/14926_434969e4/index.m3u8
+方世📡,https://cdn4.yzzy-tv-cdn.com/20220606/17350_39c4425b/index.m3u8
+方世玉续📡,https://vip.ffzy-play6.com/20221129/9315_1d7ec0af/index.m3u8
+南北少林,https://cdn2.yzzy-tv-cdn.com/20220428/16621_c12279b7/index.m3u8
+给爸爸的📡,https://cdn2.yzzy-tv-cdn.com/20220414/13070_86734093/index.m3u8
+花木📡,https://cdn2.yzzy-tv-cdn.com/20220405/7667_13f7046c/index.m3u8
+
 国语电影,#genre#
 
 碟中谍5_神秘国度,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2020/0716/video/5927638d24d84597ba4ecc8575f74f03.m3u8
@@ -316,7 +373,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 咸鱼翻身,https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/index.m3u8
 消失的女人,https://vip.ffzy-online2.com/20230521/37660_a7ca3135/index.m3u8
 笑傲江湖1,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
-笑傲江湖2:东方不败,https://cdn2.yzzy-tv-cdn.com/20220331/4843_724c1ac5/index.m3u8
 笑拳怪招,https://vip.ffzy-play6.com/20221128/9213_05050bb8/index.m3u8
 心花路放,https://vip.ffzy-play6.com/20221027/2366_e83b4d22/index.m3u8
 辛亥革命,https://vip.ffzy-play6.com/20221021/591_72533d75/index.m3u8
@@ -365,6 +421,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 中环英雄,https://vip.ffzy-play7.com/20221129/7743_4656dd25/index.m3u8
 钟馗嫁妹,https://vip.ffzy-play7.com/20221129/7746_6b5ae2e8/index.m3u8
 追龙,https://vip.ffzy-play7.com/20221104/1464_ed9d6c5d/index.m3u8
+醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
 醉拳1,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
 醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
 醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
