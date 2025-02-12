@@ -1,9 +1,9 @@
 //Mobile频道数据收集自网络上的分享241030开通IPV6
 港澳H089,#genre#
 
-凤凰中文,http://ttkx.cc:1380/公开源/fh.php?id=fhzw$ttkx#http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$广电#http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476962.m3u8$hotel
-凤凰资讯,http://ttkx.cc:1380/公开源/fh.php?id=fhzx$ttkx#http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476961.m3u8$hotel
-凤凰香港,http://ttkx.cc:1380/公开源/fh.php?id=fhhk$ttkx#http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8$hotel#http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476963.m3u8$hotel
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw$dns#http://ttkx.cc:1380/公开源/fh.php?id=fhzw$ttkx#http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$广电#http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476962.m3u8$hotel
+凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx$dns#http://ttkx.cc:1380/公开源/fh.php?id=fhzx$ttkx#http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476961.m3u8$hotel
+凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk$dns#http://ttkx.cc:1380/公开源/fh.php?id=fhhk$ttkx#http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476923.m3u8$hotel#http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476963.m3u8$hotel
 
 凤凰中文,http://125.119.236.209:4022/rtp/233.50.200.191:5140$浙江信#http://xeace.cn:8888/udp/239.93.0.162:2192$四川信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://nas.jc-hqp.cn:9999/udp/233.50.200.42:5140$浙江信#http://xeace.cn:8888/udp/239.93.1.9:2192$四川信#http://223.10.214.222:6003/udp/239.1.1.126:8126$山西信
 凤凰资讯,http://125.119.236.209:4022/rtp/233.50.200.192:5140$浙江信#http://xeace.cn:8888/udp/239.93.0.118:2191$四川信#http://www.erbao1981.top:8188/udp/239.76.246.134:1234$湖南信#http://www.erbao1981.top:8188/udp/239.76.246.134:1234$湖南信#http://xeace.cn:8888/udp/239.93.1.4:2191$四川信#http://223.10.214.222:6003/udp/239.1.1.127:8127$山西信#http://171.213.193.65:8818/udp/239.93.0.118:2191$四川信
@@ -405,6 +405,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 喜羊羊与灰太狼,http://www.52sw.top:678/play/huya.php?id=23865080
 宠物小精灵,http://www.52sw.top:678/play/huya.php?id=23749096
 
+名侦探柯南,http://zzy789.xyz/douyu1.php?id=6484910
+名侦探柯南,http://dns.yiandrive.com:15907/douyu/6484910
+名侦探柯南,http://wab201.win:35455/douyu/6484910
+
 哆啦A梦,http://cdn.jdshipin.com:8880/huya.php?id=11601963
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 
@@ -446,7 +450,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 咪咕赛事05,http://36.105.100.208:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
 咪咕赛事06,http://36.105.100.208:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
 咪咕赛事07,http://36.105.100.208:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-咪咕赛事08,http://36.105.100.208:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
+咪咕赛事4,http://36.105.100.208:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
 咪咕赛事10,http://36.105.100.208:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
 咪咕赛事11,http://36.105.100.208:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
 咪咕赛事12,http://36.105.100.208:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
@@ -983,6 +987,28 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 佳佳越狱,http://wab201.win:35455/douyu/7575350
 经典港剧,http://wab201.win:35455/douyu/9548850
 
+//http://dns.yiandrive.com:15907/douyu/
+译制国语,http://dns.yiandrive.com:15907/douyu/2436390
+犯罪片,http://dns.yiandrive.com:15907/douyu/747764
+漫威科幻,http://dns.yiandrive.com:15907/douyu/6140589
+苹果影院,http://dns.yiandrive.com:15907/douyu/2793084
+桃花影院,http://dns.yiandrive.com:15907/douyu/7305938
+邦德影院,http://dns.yiandrive.com:15907/douyu/9292499
+粤语电影,http://dns.yiandrive.com:15907/douyu/6566671
+4K影院,http://dns.yiandrive.com:15907/douyu/9249162
+科幻动作灾难,http://dns.yiandrive.com:15907/douyu/248753
+平安夜快乐,http://dns.yiandrive.com:15907/douyu/6863367
+看经典,http://dns.yiandrive.com:15907/douyu/7314294
+林正英1,http://dns.yiandrive.com:15907/douyu/218859
+小黛兮影,http://dns.yiandrive.com:15907/douyu/11553944
+林正英2,http://dns.yiandrive.com:15907/douyu/7356023
+宇哥经典,http://dns.yiandrive.com:15907/douyu/413573
+高分影厅,http://dns.yiandrive.com:15907/douyu/2535105
+花卷陪看,http://dns.yiandrive.com:15907/douyu/52787
+喜剧电影,http://dns.yiandrive.com:15907/douyu/9292492
+佳佳越狱,http://dns.yiandrive.com:15907/douyu/7575350
+经典港剧,http://dns.yiandrive.com:15907/douyu/9548850
+
 //http://zzy789.xyz
 译制国语,http://zzy789.xyz/douyu1.php?id=2436390
 犯罪片,http://zzy789.xyz/douyu1.php?id=747764
@@ -1083,6 +1109,19 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 怀旧90,http://zzy789.xyz/douyu1.php?id=9275635
 麓山迷踪,http://zzy789.xyz/douyu1.php?id=4505431
 荒野建造者,http://zzy789.xyz/douyu1.php?id=9611578
+卖女孩滴小姑凉,http://zzy789.xyz/douyu1.php?id=922564
+懒猫,http://zzy789.xyz/douyu1.php?id=260322
+爱情公寓,http://zzy789.xyz/douyu1.php?id=6863367
+香港鬼片,http://zzy789.xyz/douyu1.php?id=8009547
+开心锤锤动漫,http://zzy789.xyz/douyu1.php?id=9018297
+爱笑会议室,http://zzy789.xyz/douyu1.php?id=9375430
+动漫轮播,http://zzy789.xyz/douyu1.php?id=426517
+家有儿女,http://zzy789.xyz/douyu1.php?id=11827530
+动漫cym,http://zzy789.xyz/douyu1.php?id=8231658
+狄仁杰1-4,http://zzy789.xyz/douyu1.php?id=6027991
+宋江,http://zzy789.xyz/douyu1.php?id=9487003
+动漫Zei,http://zzy789.xyz/douyu1.php?id=1174353
+疯狂小潴潴,http://zzy789.xyz/douyu1.php?id=5522351
 
 //http://www.52sw.top:678/play/douyu.php?id=
 译制国语,http://www.52sw.top:678/play/douyu.php?id=2436390
@@ -1322,6 +1361,25 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 张卫健,http://cdn.jdshipin.com:8880/huya.php?id=11342423
 倩女幽魂,http://cdn.jdshipin.com:8880/huya.php?id=11601970
 
+科幻电影,http://dns.yiandrive.com:15907/huya/11602034
+死神来了,http://dns.yiandrive.com:15907/huya/11352903
+港台电影,http://dns.yiandrive.com:15907/huya/880261
+高分电影,http://dns.yiandrive.com:15907/huya/16615910
+命案十三宗,http://dns.yiandrive.com:15907/huya/11601981
+喜乐影院,http://dns.yiandrive.com:15907/huya/21059580
+贺岁片,http://dns.yiandrive.com:15907/huya/11601986
+怪兽电影,http://dns.yiandrive.com:15907/huya/21059577
+香港电影,http://dns.yiandrive.com:15907/huya/11601971
+玄幻电影,http://dns.yiandrive.com:15907/huya/11342414
+周星星,http://dns.yiandrive.com:15907/huya/24470631
+林正英,http://dns.yiandrive.com:15907/huya/11342421
+沈腾,http://dns.yiandrive.com:15907/huya/11601968
+成龙,http://dns.yiandrive.com:15907/huya/11342386
+李连杰,http://dns.yiandrive.com:15907/huya/11342390
+刘德华,http://dns.yiandrive.com:15907/huya/11342424
+王晶,http://dns.yiandrive.com:15907/huya/11602058
+星爷,http://dns.yiandrive.com:15907/huya/11342412
+
 科幻电影,http://rihou.cc:555/huyad.php?id=11602034
 死神来了,http://rihou.cc:555/huyad.php?id=11352903
 港台电影,http://rihou.cc:555/huyad.php?id=880261
@@ -1474,7 +1532,7 @@ YY轮播,#genre#
 超喜剧地下交通站男神贾贵,http://liushizupu.site:35455/yy/1353428972
 济公游记,http://liushizupu.site:35455/yy/1355265814
 随便看看,http://liushizupu.site:35455/yy/37454459
-交友林正英女鬼电影,http://liushizupu.site:35455/yy/1453996620
+林正英女鬼,http://liushizupu.site:35455/yy/1453996620
 【赌神片 动作片 港片】,http://liushizupu.site:35455/yy/1355112116
 热度榜1.包青天,http://liushizupu.site:35455/yy/22701868
 武林外传,http://liushizupu.site:35455/yy/1355652820
@@ -2877,14 +2935,23 @@ CNTV自然,#genre#
 
 小品汇,#genre#
 
+贾玲小品,http://zzy789.xyz/douyu1.php?id=10419541
+贾玲小品,http://dns.yiandrive.com:15907/douyu/10419541
+
+宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729
+宋小宝小品,http://dns.yiandrive.com:15907/douyu/9817729
+
 本山小品,http://zzy789.xyz/douyu1.php?id=9817716
-本山小品,http://www.52sw.top:678/play/douyu.php?id=9817716
+本山小品,http://dns.yiandrive.com:15907/douyu/9817716
 
 吐槽大会,http://zzy789.xyz/douyu1.php?id=9236042
-吐槽大会,http://www.52sw.top:678/play/douyu.php?id=9236042
+吐槽大会,http://dns.yiandrive.com:15907/douyu/9236042
 
 辽宁小品,http://zzy789.xyz/douyu1.php?id=9322175
-辽宁小品,http://www.52sw.top:678/play/douyu.php?id=9322175
+辽宁小品,http://dns.yiandrive.com:15907/douyu/9322175
+
+相声小品,http://zzy789.xyz/douyu1.php?id=9273031
+相声小品,http://dns.yiandrive.com:15907/douyu/9273031
 
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
