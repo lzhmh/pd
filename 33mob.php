@@ -1,11 +1,13 @@
 //Mobile频道数据收集自网络上的分享241030开通IPV6
 港澳H089,#genre#
-
+凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2$凤凰秀
+凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$凤凰秀
+凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$凤凰秀
 凤凰中文,http://ttkx.cc:1380/公开源/fh.php?id=fhzw$ttkx
-凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw$dn
 凤凰资讯,http://ttkx.cc:1380/公开源/fh.php?id=fhzx$ttkx
-凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx$dn
 凤凰香港,http://ttkx.cc:1380/公开源/fh.php?id=fhhk$ttkx
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw$dn
+凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx$dn
 凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk$dn
 
 凤凰中文,http://115.221.91.68:7777/rtp/233.50.200.191:5140$浙江信#http://125.119.236.209:4022/rtp/233.50.200.191:5140$浙江信#http://xeace.cn:8888/udp/239.93.0.162:2192$四川信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://nas.jc-hqp.cn:9999/udp/233.50.200.191:5140$浙江信#http://xeace.cn:8888/udp/239.93.1.9:2192$四川信#http://223.10.214.222:6003/udp/239.1.1.126:8126$山西信
@@ -209,19 +211,20 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 陶老师围棋,http://zzy789.xyz/douyu1.php?id=6586073
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
 
-八卦大师,http://www.52sw.top:678/play/douyu.php?id=851040
-帽子象棋,http://www.52sw.top:678/play/douyu.php?id=4487219
-笑笑象棋,http://www.52sw.top:678/play/douyu.php?id=9969
-大神象棋,http://www.52sw.top:678/play/douyu.php?id=1227260
-飞刀陷阱,http://www.52sw.top:678/play/douyu.php?id=11576846
-飞刀讲解,http://www.52sw.top:678/play/douyu.php?id=10237088
-飞刀谱,http://www.52sw.top:678/play/douyu.php?id=11765935
-小鹤求败,http://www.52sw.top:678/play/douyu.php?id=3830820
-旭宝斗地主,http://www.52sw.top:678/play/douyu.php?id=9804176
-欢乐斗地主,http://www.52sw.top:678/play/douyu.php?id=8324074
-斗地主冠军赛,http://www.52sw.top:678/play/douyu.php?id=488743
-陶老师围棋,http://www.52sw.top:678/play/douyu.php?id=6586073
-弈夫围棋,http://www.52sw.top:678/play/douyu.php?id=6399350
+//http://huanqiuzhibo.cn/manifest/douyu.php?id=
+八卦大师,http://huanqiuzhibo.cn/manifest/douyu.php?id=851040
+帽子象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=4487219
+笑笑象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=9969
+大神象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=1227260
+飞刀陷阱,http://huanqiuzhibo.cn/manifest/douyu.php?id=11576846
+飞刀讲解,http://huanqiuzhibo.cn/manifest/douyu.php?id=10237088
+飞刀谱,http://huanqiuzhibo.cn/manifest/douyu.php?id=11765935
+小鹤求败,http://huanqiuzhibo.cn/manifest/douyu.php?id=3830820
+旭宝斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=9804176
+欢乐斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=8324074
+斗地主冠军赛,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+陶老师围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6586073
+弈夫围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=63993505350
 
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8$郑移
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8$郑移
@@ -238,9 +241,9 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 囲碁将棋,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 体育人物,http://zzy789.xyz/douyu1.php?id=8434598
-体育人物,http://www.52sw.top:678/play/douyu.php?id=8434598
+体育人物,http://huanqiuzhibo.cn/manifest/douyu.php?id=8434598
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
-斗鱼体育,http://www.52sw.top:678/play/douyu.php?id=9170147
+斗鱼体育,http://huanqiuzhibo.cn/manifest/douyu.php?id=9170147
 
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
 黑龙江文体,http://39.134.67.108/PLTV/88888888/224/3221225965/1.m3u8$牡丹移
@@ -352,6 +355,11 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 喜羊羊与灰太狼,http://1.94.31.214:35455/huya/23865080
 宠物小精灵,http://1.94.31.214:35455/huya/23749096
 
+哆啦A梦,https://live.metshop.top/huya/11601963
+猫和老鼠,https://live.metshop.top/huya/11352879
+喜羊羊与灰太狼,https://live.metshop.top/huya/23865080
+宠物小精灵,https://live.metshop.top/huya/23749096
+
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$哈移s
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
@@ -425,6 +433,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
 Fight,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+Fight,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 
 ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
@@ -473,17 +482,17 @@ inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 斗鱼历史1,http://zzy789.xyz/douyu1.php?id=9738854
 斗鱼历史2,http://zzy789.xyz/douyu1.php?id=10102281
 
-科学放映厅,http://www.52sw.top:678/play/douyu.php?id=9439712
-纪录片之家,http://www.52sw.top:678/play/douyu.php?id=8834003
-未解之谜,http://www.52sw.top:678/play/douyu.php?id=9369468
-科技发明,http://www.52sw.top:678/play/douyu.php?id=9317739
-宇宙科普,http://www.52sw.top:678/play/douyu.php?id=9412981
-观察宇宙,http://www.52sw.top:678/play/douyu.php?id=8667001
-杰瑞生活,http://www.52sw.top:678/play/douyu.php?id=7357786
-理论科普,http://www.52sw.top:678/play/douyu.php?id=9385288
-林超科普,http://www.52sw.top:678/play/douyu.php?id=9447974
-斗鱼历史1,http://www.52sw.top:678/play/douyu.php?id=9738854
-斗鱼历史2,http://www.52sw.top:678/play/douyu.php?id=10102281
+科学放映厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=9439712
+纪录片之家,http://huanqiuzhibo.cn/manifest/douyu.php?id=8834003
+未解之谜,http://huanqiuzhibo.cn/manifest/douyu.php?id=9369468
+科技发明,http://huanqiuzhibo.cn/manifest/douyu.php?id=9317739
+宇宙科普,http://huanqiuzhibo.cn/manifest/douyu.php?id=9412981
+观察宇宙,http://huanqiuzhibo.cn/manifest/douyu.php?id=8667001
+杰瑞生活,http://huanqiuzhibo.cn/manifest/douyu.php?id=7357786
+理论科普,http://huanqiuzhibo.cn/manifest/douyu.php?id=9385288
+林超科普,http://huanqiuzhibo.cn/manifest/douyu.php?id=9447974
+斗鱼历史1,http://huanqiuzhibo.cn/manifest/douyu.php?id=9738854
+斗鱼历史2,http://huanqiuzhibo.cn/manifest/douyu.php?id=10102281
 
 欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8$郑移
 欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8$郑移
@@ -823,7 +832,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 
 亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
-邵氏影院,http://www.52sw.top:678/play/douyu.php?id=4246519
+邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 女神影院,https://pull.kktv8.com/livekktv/99350550.flv
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 神乐1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
@@ -1003,31 +1012,69 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 动漫Zei,http://zzy789.xyz/douyu1.php?id=1174353
 疯狂小潴潴,http://zzy789.xyz/douyu1.php?id=5522351
 
-//http://www.52sw.top:678/play/douyu.php?id=
-译制国语,http://www.52sw.top:678/play/douyu.php?id=2436390
-犯罪片,http://www.52sw.top:678/play/douyu.php?id=747764
-漫威科幻,http://www.52sw.top:678/play/douyu.php?id=6140589
-苹果影院,http://www.52sw.top:678/play/douyu.php?id=2793084
-桃花影院,http://www.52sw.top:678/play/douyu.php?id=7305938
-邦德影院,http://www.52sw.top:678/play/douyu.php?id=9292499
-粤语电影,http://www.52sw.top:678/play/douyu.php?id=6566671
-4K影院,http://www.52sw.top:678/play/douyu.php?id=9249162
-科幻动作灾难,http://www.52sw.top:678/play/douyu.php?id=248753
-平安夜快乐,http://www.52sw.top:678/play/douyu.php?id=6863367
-看经典,http://www.52sw.top:678/play/douyu.php?id=7314294
-林正英1,http://www.52sw.top:678/play/douyu.php?id=218859
-小黛兮影,http://www.52sw.top:678/play/douyu.php?id=11553944
-林正英2,http://www.52sw.top:678/play/douyu.php?id=7356023
-宇哥经典,http://www.52sw.top:678/play/douyu.php?id=413573
-高分影厅,http://www.52sw.top:678/play/douyu.php?id=2535105
-花卷陪看,http://www.52sw.top:678/play/douyu.php?id=52787
-喜剧电影,http://www.52sw.top:678/play/douyu.php?id=9292492
-佳佳越狱,http://www.52sw.top:678/play/douyu.php?id=7575350
-经典港剧,http://www.52sw.top:678/play/douyu.php?id=9548850
+//http://huanqiuzhibo.cn/manifest/douyu.php?id=
+译制国语,http://huanqiuzhibo.cn/manifest/douyu.php?id=2436390
+犯罪片,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
+漫威科幻,http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589
+苹果影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=2793084
+桃花影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=7305938
+邦德影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
+粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
+4K影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=9249162
+科幻动作灾难,http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
+平安夜快乐,http://huanqiuzhibo.cn/manifest/douyu.php?id=6863367
+看经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=7314294
+林正英1,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
+小黛兮影,http://huanqiuzhibo.cn/manifest/douyu.php?id=11553944
+林正英2,http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
+宇哥经典,http://huanqiuzhibo.cn/manifest/douyu.php?id=413573
+高分影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=2535105
+花卷陪看,http://huanqiuzhibo.cn/manifest/douyu.php?id=52787
+喜剧电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=9292492
+佳佳越狱,http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
+经典港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
 
 漫威科幻,http://tc-tct.douyucdn2.cn/dyliveflv1a/6140589rgrFgOuC2_2000.xs?wsAuth=e37467c9c16f3ed51fd05e9f353262fb&token=web-h5-0-6140589-8c9f814ba60c86af38ec889149e3cc8dde209f36624645fd&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
 
 虎牙轮播,#genre#
+
+科幻电影,http://dns.yiandrive.com:15907/huya/11602034
+死神来了,http://dns.yiandrive.com:15907/huya/11352903
+港台电影,http://dns.yiandrive.com:15907/huya/880261
+高分电影,http://dns.yiandrive.com:15907/huya/16615910
+命案十三宗,http://dns.yiandrive.com:15907/huya/11601981
+喜乐影院,http://dns.yiandrive.com:15907/huya/21059580
+贺岁片,http://dns.yiandrive.com:15907/huya/11601986
+怪兽电影,http://dns.yiandrive.com:15907/huya/21059577
+香港电影,http://dns.yiandrive.com:15907/huya/11601971
+玄幻电影,http://dns.yiandrive.com:15907/huya/11342414
+周星星,http://dns.yiandrive.com:15907/huya/24470631
+林正英,http://dns.yiandrive.com:15907/huya/11342421
+沈腾,http://dns.yiandrive.com:15907/huya/11601968
+成龙,http://dns.yiandrive.com:15907/huya/11342386
+李连杰,http://dns.yiandrive.com:15907/huya/11342390
+刘德华,http://dns.yiandrive.com:15907/huya/11342424
+王晶,http://dns.yiandrive.com:15907/huya/11602058
+星爷,http://dns.yiandrive.com:15907/huya/11342412
+
+科幻电影,https://live.metshop.top/huya/11602034
+死神来了,https://live.metshop.top/huya/11352903
+港台电影,https://live.metshop.top/huya/880261
+高分电影,https://live.metshop.top/huya/16615910
+命案十三宗,https://live.metshop.top/huya/11601981
+喜乐影院,https://live.metshop.top/huya/21059580
+贺岁片,https://live.metshop.top/huya/11601986
+怪兽电影,https://live.metshop.top/huya/21059577
+香港电影,https://live.metshop.top/huya/11601971
+玄幻电影,https://live.metshop.top/huya/11342414
+周星星,https://live.metshop.top/huya/24470631
+林正英,https://live.metshop.top/huya/11342421
+沈腾,https://live.metshop.top/huya/11601968
+成龙,https://live.metshop.top/huya/11342386
+李连杰,https://live.metshop.top/huya/11342390
+刘德华,https://live.metshop.top/huya/11342424
+王晶,https://live.metshop.top/huya/11602058
+星爷,https://live.metshop.top/huya/11342412
 
 //http://www.52sw.top:678/play/huya.php?id=
 科幻电影,http://www.52sw.top:678/play/huya.php?id=11602034
@@ -1240,25 +1287,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 喜剧电影,http://cdn.jdshipin.com:8880/huya.php?id=11352877
 张卫健,http://cdn.jdshipin.com:8880/huya.php?id=11342423
 倩女幽魂,http://cdn.jdshipin.com:8880/huya.php?id=11601970
-
-科幻电影,http://dns.yiandrive.com:15907/huya/11602034
-死神来了,http://dns.yiandrive.com:15907/huya/11352903
-港台电影,http://dns.yiandrive.com:15907/huya/880261
-高分电影,http://dns.yiandrive.com:15907/huya/16615910
-命案十三宗,http://dns.yiandrive.com:15907/huya/11601981
-喜乐影院,http://dns.yiandrive.com:15907/huya/21059580
-贺岁片,http://dns.yiandrive.com:15907/huya/11601986
-怪兽电影,http://dns.yiandrive.com:15907/huya/21059577
-香港电影,http://dns.yiandrive.com:15907/huya/11601971
-玄幻电影,http://dns.yiandrive.com:15907/huya/11342414
-周星星,http://dns.yiandrive.com:15907/huya/24470631
-林正英,http://dns.yiandrive.com:15907/huya/11342421
-沈腾,http://dns.yiandrive.com:15907/huya/11601968
-成龙,http://dns.yiandrive.com:15907/huya/11342386
-李连杰,http://dns.yiandrive.com:15907/huya/11342390
-刘德华,http://dns.yiandrive.com:15907/huya/11342424
-王晶,http://dns.yiandrive.com:15907/huya/11602058
-星爷,http://dns.yiandrive.com:15907/huya/11342412
 
 科幻电影,http://rihou.cc:555/huyad.php?id=11602034
 死神来了,http://rihou.cc:555/huyad.php?id=11352903
@@ -2139,7 +2167,7 @@ DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
 世界地理,http://58.215.3.254:8686/rtp/239.49.8.87:8000$江苏信
 
 斗鱼纪录,http://zzy789.xyz/douyu1.php?id=3485629
-斗鱼纪录,http://www.52sw.top:678/play/douyu.php?id=3485629
+斗鱼纪录,http://huanqiuzhibo.cn/manifest/douyu.php?id=3485629
 
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
