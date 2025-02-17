@@ -10,6 +10,7 @@
 凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx$dn
 凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk$dn
 
+凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$广电
 凤凰中文,http://115.221.91.68:7777/rtp/233.50.200.191:5140$浙江信#http://125.119.236.209:4022/rtp/233.50.200.191:5140$浙江信#http://xeace.cn:8888/udp/239.93.0.162:2192$四川信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://nas.jc-hqp.cn:9999/udp/233.50.200.191:5140$浙江信#http://xeace.cn:8888/udp/239.93.1.9:2192$四川信#http://223.10.214.222:6003/udp/239.1.1.126:8126$山西信
 凤凰资讯,http://115.221.91.68:7777/rtp/233.50.200.192:5140$浙江信#http://125.119.236.209:4022/rtp/233.50.200.192:5140$浙江信#http://xeace.cn:8888/udp/239.93.0.118:2191$四川信#http://www.erbao1981.top:8188/udp/239.76.246.134:1234$湖南信#http://www.erbao1981.top:8188/udp/239.76.246.134:1234$湖南信#http://xeace.cn:8888/udp/239.93.1.4:2191$四川信#http://223.10.214.222:6003/udp/239.1.1.127:8127$山西信#http://171.213.193.65:8818/udp/239.93.0.118:2191$四川信
 
@@ -55,6 +56,16 @@ RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111$广电
 澳亚卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111$广电
 
+凤凰中文,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
+凤凰资讯,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
+凤凰香港,https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
+有线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
+无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
+无线翡翠,https://haoyunlai.serv00.net/Smartv-1.php?id=jade_twn
+无线华丽,https://haoyunlai.serv00.net/Smartv-1.php?id=Wlt
+无线华丽,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbjade
+无线明珠,https://haoyunlai.serv00.net/Smartv-1.php?id=pearl_twn
+无线娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbentertainment
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
@@ -292,6 +303,68 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv$ali
+
+中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
+东森新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvnews
+Tvbs新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbs_n
+寰宇新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
+非凡新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=feifannews_twn
+民视新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvnew_taiwan
+公视闽南,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv_taiwan
+民视闽南,https://haoyunlai.serv00.net/Smartv-1.php?id=ftvhd_taiwan
+台视闽南,https://haoyunlai.serv00.net/Smartv-1.php?id=ttv_taiwan
+台视综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ttvzhonghe
+八大第一,https://haoyunlai.serv00.net/Smartv-1.php?id=badafirst
+八大综合,https://haoyunlai.serv00.net/Smartv-1.php?id=badazhonghe
+八大戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=badadrama
+中天综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ctizhonghe
+中天娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=ctient
+东森综合,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvzhonghe
+东森戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvdrama
+东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+东森洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvwestern
+东森财经,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvcaijing_twn
+龙祥电影,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+龙华戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaxiju_twn
+龙华电影,https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+龙华偶像,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuaidol_twn
+龙华洋片,https://haoyunlai.serv00.net/Smartv-1.php?id=lunghuawestern_twn
+纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
+纬来日本,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandjapan
+三立闽南,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlitaiwan
+三立戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlixiju_twn
+三立综合,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlizhonghe
+EYE-戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
+ELTa影剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
+Tvbs欢乐,https://haoyunlai.serv00.net/Smartv-1.php?id=tvbshuanle_twn
+寰宇财经,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyutaiwan_twn
+
+Plus综合,https://haoyunlai.serv00.net/Smartv-1.php?id=j2_twn
+凤凰中文,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
+凤凰资讯,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
+凤凰香港,https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
+有线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
+无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
+无线翡翠,https://haoyunlai.serv00.net/Smartv-1.php?id=jade_twn
+无线华丽,https://haoyunlai.serv00.net/Smartv-1.php?id=Wlt
+无线华丽,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbjade
+无线明珠,https://haoyunlai.serv00.net/Smartv-1.php?id=pearl_twn
+无线娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbentertainment
+千禧经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbclassic
+VIUTV英,https://haoyunlai.serv00.net/Smartv-1.php?id=viusix_twn
+RTHK-31,https://haoyunlai.serv00.net/Smartv-1.php?id=rhk31_twn
+RTHK-32,https://haoyunlai.serv00.net/Smartv-1.php?id=rhk32_twn
+美亚电影,https://haoyunlai.serv00.net/Smartv-1.php?id=meiyamovie_twn
+天映频道马特,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestialindo
+天映频道闽特,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial
+天映经典,https://haoyunlai.serv00.net/Smartv-1.php?id=Celestial2
+龙华电影,https://haoyunlai.serv00.net/Smartv-1.php?id=xingwei_movie
+龙祥电影,https://haoyunlai.serv00.net/Smartv-1.php?id=lungxiangtime_twn
+纬来电影,https://haoyunlai.serv00.net/Smartv-1.php?id=videolandmovie
+东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie
+Astr爱奇,https://haoyunlai.serv00.net/Smartv-1.php?id=Qiyi
+AstrQJ国,https://haoyunlai.serv00.net/Smartv-1.php?id=Quanjia
+Astr欢喜,https://haoyunlai.serv00.net/Smartv-1.php?id=Huahee
 
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8$61
 
