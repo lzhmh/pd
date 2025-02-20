@@ -437,6 +437,7 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 猫和老鼠,http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
 蜡笔小新,http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
+蜡笔小新,http://1.94.31.214:35455/huya/11352970
 哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
 猫和老鼠,http://www.52sw.top:678/play/huya.php?id=11352879
 喜羊羊与灰太狼,http://www.52sw.top:678/play/huya.php?id=23865080
@@ -1404,7 +1405,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 文成公主,http://www.52sw.top:678/play/huya.php?id=11352974
 小鲤鱼,http://www.52sw.top:678/play/huya.php?id=11601961
 
-//http://43.138.170.29:35455http://1.94.31.214:35455
+//http://1.94.31.214:35455/huya/
 科幻电影,http://1.94.31.214:35455/huya/11602034
 死神来了,http://1.94.31.214:35455/huya/11352903
 港台电影,http://1.94.31.214:35455/huya/880261
@@ -1668,7 +1669,6 @@ YY轮播,#genre#
 【新三国】蓝光版,http://liushizupu.site:35455/yy/1382705738
 豪哥带我们发财,http://liushizupu.site:35455/yy/23402146
 纪晓岚,http://liushizupu.site:35455/yy/1354143978
-赵本山《蓝光版》,http://liushizupu.site:35455/yy/32160832
 惊恐盗暮鬼怪,http://liushizupu.site:35455/yy/1382749525
 天龙八部,http://liushizupu.site:35455/yy/1351814644
 【鹿鼎记】金庸经典,http://liushizupu.site:35455/yy/28265277
@@ -1681,7 +1681,6 @@ YY轮播,#genre#
 【赌神片 动作片 港片】,http://liushizupu.site:35455/yy/1355112116
 热度榜1.包青天,http://liushizupu.site:35455/yy/22701868
 武林外传,http://liushizupu.site:35455/yy/1355652820
-赵本山《超清版》,http://liushizupu.site:35455/yy/1382683959
 经典动漫,http://liushizupu.site:35455/yy/22777075
 燕双鹰,http://liushizupu.site:35455/yy/1352227153
 狂飙,http://liushizupu.site:35455/yy/1382764587
@@ -1701,18 +1700,15 @@ YY轮播,#genre#
 正阳门下,http://liushizupu.site:35455/yy/1354931580
 情满四合院-高分电视剧,http://liushizupu.site:35455/yy/1382735541
 【盜暮笔记】24h,http://liushizupu.site:35455/yy/1382702247
-宋小宝小品合集,http://liushizupu.site:35455/yy/1354931577
 83射雕英雄传,http://liushizupu.site:35455/yy/1354210357
 星爷经典-百看不厌,http://liushizupu.site:35455/yy/1382736808
 经典鬼片3000部,http://liushizupu.site:35455/yy/29460894
 国产喜剧,http://liushizupu.site:35455/yy/1382736856
 火蓝刀锋,http://liushizupu.site:35455/yy/1382737892
-小沈阳春晚小品,http://liushizupu.site:35455/yy/1382749941
 丸子,http://liushizupu.site:35455/yy/1382851588
 少年包青天1~3蓝光版,http://liushizupu.site:35455/yy/38498680
 雪中悍刀行,http://liushizupu.site:35455/yy/1382660835
 电影百团大战,http://liushizupu.site:35455/yy/1382736871
-花儿开心吧,http://liushizupu.site:35455/yy/1354930984
 国内侦探电影大全,http://liushizupu.site:35455/yy/1354936134
 炊事班的故事II,http://liushizupu.site:35455/yy/1382736885
 地下交通站,http://liushizupu.site:35455/yy/1382736795
@@ -1819,7 +1815,6 @@ YY轮播,#genre#
 颜值永远在线,http://liushizupu.site:35455/yy/1382851582
 风筝,http://liushizupu.site:35455/yy/1382828770
 速度与激情系列！-精彩大片,http://liushizupu.site:35455/yy/1382736911
-贾玲春晚小品,http://liushizupu.site:35455/yy/1382736720
 炊事班的故事,http://liushizupu.site:35455/yy/1382749901
 三国演义94年经典版,http://liushizupu.site:35455/yy/1354936241
 我的前半生,http://liushizupu.site:35455/yy/1382735564
@@ -1884,7 +1879,6 @@ YY轮播,#genre#
 雪儿 正在直播,http://liushizupu.site:35455/yy/1354143938
 动作大片-热血开打,http://liushizupu.site:35455/yy/1354936168
 士兵突击,http://liushizupu.site:35455/yy/1382851600
-你最爱的宋小宝,http://liushizupu.site:35455/yy/1354936198
 院线动作大片,http://liushizupu.site:35455/yy/1382736900
 宰相刘罗锅,http://liushizupu.site:35455/yy/1382745191
 燃爆动作片,http://liushizupu.site:35455/yy/1382736801
@@ -1932,7 +1926,6 @@ YY轮播,#genre#
 牛大叔提干,http://liushizupu.site:35455/yy/1382851615
 神探包青天,http://liushizupu.site:35455/yy/1457622044
 【科幻】超炫特效,http://liushizupu.site:35455/yy/37988782
-冯巩 牛群,http://liushizupu.site:35455/yy/1382851476
 《武林外传》武侠,http://liushizupu.site:35455/yy/1394000563
 倚天屠龙记,http://liushizupu.site:35455/yy/1356043643
 案发现场全集,http://liushizupu.site:35455/yy/1354775242
@@ -1943,7 +1936,6 @@ YY轮播,#genre#
 暖暖1999,http://liushizupu.site:35455/yy/1382851591
 非诚勿扰,http://liushizupu.site:35455/yy/1382735583
 西游记张卫健版,http://liushizupu.site:35455/yy/1354936155
-小宝让你乐翻天：6到9集,http://liushizupu.site:35455/yy/1354930971
 经典动作电影,http://liushizupu.site:35455/yy/1370293254
 欢乐集结号,http://liushizupu.site:35455/yy/1354931582
 野山鹰-影视剧,http://liushizupu.site:35455/yy/1354932395
@@ -1994,13 +1986,10 @@ Blingbling,http://liushizupu.site:35455/yy/1382851598
 许多多,http://liushizupu.site:35455/yy/1382851583
 以家人之名,http://liushizupu.site:35455/yy/1382736908
 施公奇案1-欧阳震华,http://liushizupu.site:35455/yy/1382749918
-本山快乐营1,http://liushizupu.site:35455/yy/1354936209
 大明王朝,http://liushizupu.site:35455/yy/1382736879
 加勒比海盗系列,http://liushizupu.site:35455/yy/1382749914
 聊斋志异S1,http://liushizupu.site:35455/yy/1382736975
-巩汉林春晚小品合集,http://liushizupu.site:35455/yy/1354889035
 中国第一神探-狄仁杰,http://liushizupu.site:35455/yy/1354932438
-宋小宝春晚小品合集,http://liushizupu.site:35455/yy/1382736866
 �潘磕惺康谝患�-国产喜剧,http://liushizupu.site:35455/yy/1382741637
 小鬼当家-童年回忆,http://liushizupu.site:35455/yy/1382745104
 穿越时空的爱恋,http://liushizupu.site:35455/yy/1382735567
@@ -2069,7 +2058,6 @@ X战警系列电影,http://liushizupu.site:35455/yy/1382736893
 编辑部的故事,http://liushizupu.site:35455/yy/1354936120
 热血动作片合集,http://liushizupu.site:35455/yy/1382735627
 热播国内侦探片,http://liushizupu.site:35455/yy/1382736820
-本山快乐营-爆笑小品,http://liushizupu.site:35455/yy/1354930948
 欢乐集结号3,http://liushizupu.site:35455/yy/1382736822
 经典搞笑影片,http://liushizupu.site:35455/yy/1382749878
 赌神3之少年赌神,http://liushizupu.site:35455/yy/1382749912
@@ -2107,7 +2095,6 @@ X战警系列电影,http://liushizupu.site:35455/yy/1382736893
 寻秦记,http://liushizupu.site:35455/yy/1354658048
 笑傲江湖-电视剧,http://liushizupu.site:35455/yy/1354936128
 笑到飞起！阿拉丁与神灯,http://liushizupu.site:35455/yy/1382749950
-赵本山爆笑小品2,http://liushizupu.site:35455/yy/1354936217
 大江大河2-高分影视推荐,http://liushizupu.site:35455/yy/1382736797
 大汉天子S3,http://liushizupu.site:35455/yy/1382736810
 外国战争大片,http://liushizupu.site:35455/yy/1382736872
@@ -2115,8 +2102,6 @@ X战警系列电影,http://liushizupu.site:35455/yy/1382736893
 去有风的地方,http://liushizupu.site:35455/yy/1382736874
 缺宅男女-精彩港剧,http://liushizupu.site:35455/yy/1382745088
 百家讲坛-之女皇武则天,http://liushizupu.site:35455/yy/1354889015
-本山快乐营,http://liushizupu.site:35455/yy/1382736852
-相声相声搜38528频道,http://liushizupu.site:35455/yy/34025318
 老夫少妻搞笑忘年恋,http://liushizupu.site:35455/yy/1354932391
 蒲松龄—经典港剧,http://liushizupu.site:35455/yy/1354889042
 一分钟学道菜,http://liushizupu.site:35455/yy/1382736901
@@ -2144,7 +2129,6 @@ X战警系列电影,http://liushizupu.site:35455/yy/1382736893
 重返校园电影合集,http://liushizupu.site:35455/yy/1354930965
 地球上的地狱,http://liushizupu.site:35455/yy/1382736918
 雷神系列,http://liushizupu.site:35455/yy/1354932441
-怀旧小品,http://liushizupu.site:35455/yy/1382736821
 卧虎藏龙-李安执导,http://liushizupu.site:35455/yy/1382736849
 空谷幽兰,http://liushizupu.site:35455/yy/1382745182
 惊险动作大片！挑战心脏,http://liushizupu.site:35455/yy/1354932407
@@ -3097,6 +3081,24 @@ CNTV自然,#genre#
 
 相声小品,http://zzy789.xyz/douyu1.php?id=9273031
 相声小品,http://dns.yiandrive.com:15907/douyu/9273031
+
+花儿开心吧,http://liushizupu.site:35455/yy/1354930984
+赵本山《蓝光版》,http://liushizupu.site:35455/yy/32160832
+赵本山《超清版》,http://liushizupu.site:35455/yy/1382683959
+宋小宝小品合集,http://liushizupu.site:35455/yy/1354931577
+小沈阳春晚小品,http://liushizupu.site:35455/yy/1382749941
+贾玲春晚小品,http://liushizupu.site:35455/yy/1382736720
+你最爱的宋小宝,http://liushizupu.site:35455/yy/1354936198
+冯巩 牛群,http://liushizupu.site:35455/yy/1382851476
+小宝让你乐翻天：6到9集,http://liushizupu.site:35455/yy/1354930971
+宋小宝春晚小品合集,http://liushizupu.site:35455/yy/1382736866
+本山快乐营1,http://liushizupu.site:35455/yy/1354936209
+巩汉林春晚小品合集,http://liushizupu.site:35455/yy/1354889035
+本山快乐营-爆笑小品,http://liushizupu.site:35455/yy/1354930948
+赵本山爆笑小品2,http://liushizupu.site:35455/yy/1354936217
+本山快乐营,http://liushizupu.site:35455/yy/1382736852
+相声相声搜38528频道,http://liushizupu.site:35455/yy/34025318
+怀旧小品,http://liushizupu.site:35455/yy/1382736821
 
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
