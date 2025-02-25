@@ -114,7 +114,7 @@ CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111$广电
 先锋乒羽,http://180.140.153.15:5432/udp/239.81.0.236:4056$广西信#http://58.215.3.254:8686/rtp/239.49.0.145:8000$江苏信#http://ds920.dsmynas.net:5555/udp/226.0.2.121:8880$山西联#http://61.172.208.243:4022/udp/239.45.3.43:5140$上海信#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://www.erbao1981.top:8188/udp/239.76.253.51:9000$湖南信#http://222.95.92.12:4000/udp/239.49.0.145:8000$江苏信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://171.105.201.164:4022/udp/239.81.0.236:4056$广西信#http://wouu.net:9977/udp/239.93.42.56:5140$四川信#http://180.117.235.50:8012/udp/239.49.0.145:8000$江苏信
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
-麻辣体育,http://171.213.133.195:19999/udp/239.93.42.2:5140$四川信#http://wouu.net:9977/udp/239.93.42.2:5140$四川信#http://171.213.193.65:8818/udp/239.93.42.2:5140$四川信#http://xeace.cn:8888/udp/239.93.42.2:5140$四川信
+麻辣体育,http://psp94525.iask.in:6688/udp/239.93.42.2:5140$四川信#http://171.213.133.195:19999/udp/239.93.42.2:5140$四川信#http://wouu.net:9977/udp/239.93.42.2:5140$四川信#http://171.213.193.65:8818/udp/239.93.42.2:5140$四川信#http://xeace.cn:8888/udp/239.93.42.2:5140$四川信
 
 爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联#http://ha.xushining.com:50000/udp/225.1.2.1:5002$天津联#http://www.lebaobei.top:6868/udp/239.255.29.31:8231$甘肃信
 
@@ -435,7 +435,7 @@ ImpactWrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 军事评论,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 军事评论,http://36.105.100.208:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 
-兵器科技,http://171.213.133.195:19999/udp/239.93.1.235:5140$四川信#http://58.215.3.254:8686/rtp/239.49.8.88:8000$江苏信#http://171.213.193.65:8818/udp/239.93.1.235:5140$四川信#http://dms.yryyj.site:8188/udp/239.76.254.59:9000$湖南信
+兵器科技,http://psp94525.iask.in:6688/udp/239.93.1.235:5140$四川信#http://171.213.133.195:19999/udp/239.93.1.235:5140$四川信#http://58.215.3.254:8686/rtp/239.49.8.88:8000$江苏信#http://171.213.193.65:8818/udp/239.93.1.235:5140$四川信#http://dms.yryyj.site:8188/udp/239.76.254.59:9000$湖南信
 
 美食汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8$郑移
 美食汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$郑移
@@ -825,7 +825,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 神乐1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193$四川信
+星空卫视,http://psp94525.iask.in:6688/udp/239.93.0.156:2193$四川信#http://wouu.net:9977/udp/239.93.0.156:2193$四川信
 功夫台,http://data.3g.yy.com/live/hls/1507716299/1507716299
 
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
