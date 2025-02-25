@@ -34,7 +34,7 @@ CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8$牡丹移
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
-先锋乒羽,http://wouu.net:9977/udp/239.93.42.56:5140$四川信
+先锋乒羽,http://psp94525.iask.in:6688/udp/239.93.42.56:5140$四川信#http://wouu.net:9977/udp/239.93.42.56:5140$四川信
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -110,7 +110,7 @@ CCTV5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111$广电
 CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111$广电
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
-先锋乒羽,http://115.60.241.249:2000/udp/225.1.4.210:1263$河南联#http://120.76.248.139/live/bfgd/4200000349.m3u8$深圳
+先锋乒羽,http://psp94525.iask.in:6688/udp/239.93.42.56:5140$四川信#http://115.60.241.249:2000/udp/225.1.4.210:1263$河南联#http://120.76.248.139/live/bfgd/4200000349.m3u8$深圳
 先锋乒羽,http://180.140.153.15:5432/udp/239.81.0.236:4056$广西信#http://58.215.3.254:8686/rtp/239.49.0.145:8000$江苏信#http://ds920.dsmynas.net:5555/udp/226.0.2.121:8880$山西联#http://61.172.208.243:4022/udp/239.45.3.43:5140$上海信#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://www.erbao1981.top:8188/udp/239.76.253.51:9000$湖南信#http://222.95.92.12:4000/udp/239.49.0.145:8000$江苏信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://171.105.201.164:4022/udp/239.81.0.236:4056$广西信#http://wouu.net:9977/udp/239.93.42.56:5140$四川信#http://180.117.235.50:8012/udp/239.49.0.145:8000$江苏信
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
@@ -934,7 +934,7 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$61
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 神乐1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193$四川信
+星空卫视,http://psp94525.iask.in:6688/udp/239.93.0.156:2193$四川信#http://wouu.net:9977/udp/239.93.0.156:2193$四川信
 功夫台,http://data.3g.yy.com/live/hls/1507716299/1507716299
 
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
