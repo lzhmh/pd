@@ -1,8 +1,25 @@
 //Mobile频道数据收集自网络上的分享250219开通IPV6
-港澳H090,#genre#
+港澳H091,#genre#
+
+凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv$701
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv$701
+凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv$701
+
 凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2$凤凰秀
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$凤凰秀
 凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$凤凰秀
+
+凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$122
+凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$122
+凤凰中文,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzw$哈哈
+凤凰资讯,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx$哈哈
+凤凰香港,http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk$哈哈
+凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
+
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$php#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$php
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$php#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$php#http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$php
+
 凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw$dn
 凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx$dn
 凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk$dn
@@ -46,23 +63,35 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 
-无线翡翠,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111$广电
-无线翡翠,http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111$广电
-无线明珠,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111$广电
-无线明珠,http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111$广电
-星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111$广电
-澳亚卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111$广电
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://vallest.uk/livehttpplay?channel_id=20123$vall
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
-凤凰中文,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
-凤凰资讯,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixinfo_hd
-凤凰香港,https://haoyunlai.serv00.net/Smartv-1.php?id=hkphoenix_twn
-有线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
-无线新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=inews_twn
-无线翡翠,https://haoyunlai.serv00.net/Smartv-1.php?id=jade_twn
-无线华丽,https://haoyunlai.serv00.net/Smartv-1.php?id=Wlt
-无线华丽,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbjade
-无线明珠,https://haoyunlai.serv00.net/Smartv-1.php?id=pearl_twn
-无线娱乐,https://haoyunlai.serv00.net/Smartv-1.php?id=Tvbentertainment
+Now新闻,http://live4play.uk/livehttpplay?channel_id=20041$live
+HOY78,http://live4play.uk/livehttpplay?channel_id=20191$live
+
+无线翡翠,http://vallest.uk/livehttpplay?channel_id=30025
+
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111$广电
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111$广电
+翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT$深联
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$php4
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$php3
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade$php
+翡翠台,http://php.jdshipin.com:8880/xsj.php?id=feicui
+
+明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111$广电
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111$广电
+明珠台,http://zsntlqj.xicp.net:8896/bysid/2$中山信
+明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
+
+Now爆谷,http://hkenlive.uk/livehttpplay?channel_id=13002
+Now星影,http://hkenlive.uk/livehttpplay?channel_id=13003
+
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
@@ -111,7 +140,7 @@ CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.25:11111$广电
 先锋乒羽,http://180.140.153.15:5432/udp/239.81.0.236:4056$广西信#http://58.215.3.254:8686/rtp/239.49.0.145:8000$江苏信#http://ds920.dsmynas.net:5555/udp/226.0.2.121:8880$山西联#http://61.172.208.243:4022/udp/239.45.3.43:5140$上海信#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://www.erbao1981.top:8188/udp/239.76.253.51:9000$湖南信#http://222.95.92.12:4000/udp/239.49.0.145:8000$江苏信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://171.105.201.164:4022/udp/239.81.0.236:4056$广西信#http://wouu.net:9977/udp/239.93.42.56:5140$四川信#http://180.117.235.50:8012/udp/239.49.0.145:8000$江苏信
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
-麻辣体育,http://psp94525.iask.in:6688/udp/239.93.42.2:5140$四川信#http://wouu.net:9977/udp/239.93.42.2:5140$四川信#http://171.213.193.65:8818/udp/239.93.42.2:5140$四川信#http://xeace.cn:8888/udp/239.93.42.2:5140$四川信
+麻辣体育,http://wouu.net:9977/udp/239.93.42.2:5140$四川信#http://xeace.cn:8888/udp/239.93.42.2:5140$四川信#http://psp94525.iask.in:6688/udp/239.93.42.2:5140$四川信#http://171.213.193.65:8818/udp/239.93.42.2:5140$四川信
 
 爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联#http://ha.xushining.com:50000/udp/225.1.2.1:5002$天津联#http://www.lebaobei.top:6868/udp/239.255.29.31:8231$甘肃信
 
@@ -121,8 +150,8 @@ CETV4,http://39.134.65.179/PLTV/88888888/224/3221225750/1.m3u8$黑移
 CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8$牡丹移s
 CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8$郑移
 
-百事乒羽1,http://115.221.91.68:7777/udp/233.50.200.236:5140$浙江信#http://61.172.208.243:4022/udp/239.45.3.139:5140$上海信#http://majian.ixiaobai.net:5540/udp/239.37.0.253:5540$辽宁信#http://nas.jc-hqp.cn:9999/udp/233.50.200.236:5140$浙江信#http://www.lebaobei.top:6868/udp/239.255.30.170:8231$甘肃信#http://14.135.72.70:8888/udp/239.121.4.130:8762$宁夏信#http://14.135.72.70:8888/udp/239.121.4.131:8768$宁夏信
-百事乒羽2,http://115.221.91.68:7777/udp/233.50.200.237:5140$浙江信#http://61.172.208.243:4022/udp/239.45.3.140:5140$上海信3#http://majian.ixiaobai.net:5540/udp/239.37.0.214:5540$辽宁信
+百事乒羽1,http://nas.jc-hqp.cn:9999/udp/233.50.200.236:5140$浙江信#http://nas.jc-hqp.cn:9999/udp/233.50.200.234:5140$浙江信#http://nas.jc-hqp.cn:9999/udp/233.50.200.235:5140$浙江信#http://majian.ixiaobai.net:5540/udp/239.37.0.253:5540$辽宁信#http://www.baopiqi.top:4022/udp/239.45.3.139:5140$上海信#http://60.164.128.167:8029/udp/239.255.30.170:8231$甘肃信#http://www.lnlee.top:10000/udp/239.81.0.181:4056$广西信#http://www.lebaobei.top:6868/udp/239.255.30.170:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.170:8231$甘肃信#http://101.68.81.44:9999/udp/233.50.201.204:5140$浙江联#http://14.135.72.70:8888/udp/239.121.4.130:8762$宁夏信4#http://114.83.223.132:9999/udp/239.45.3.139:5140$上海信#http://14.135.72.70:8888/udp/239.121.4.131:8768$宁夏信5
+百事乒羽2,http://nas.jc-hqp.cn:9999/udp/233.50.200.237:5140$浙江信3#http://majian.ixiaobai.net:5540/udp/239.37.0.214:5540$辽宁信2#http://www.baopiqi.top:4022/udp/239.45.3.140:5140$上海信6
 
 HOT爱体育,http://36.105.100.208:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
 
@@ -186,9 +215,10 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 武术世界,http://majian.ixiaobai.net:5540/udp/239.37.0.227:5540
 武术世界,http://183.66.51.205:4022/udp/235.254.198.107:7980
 
-百事,http://115.221.91.68:7777/udp/233.50.200.233:5140$浙江信1#http://115.221.91.68:7777/udp/233.50.200.234:5140$浙江信2#http://115.221.91.68:7777/udp/233.50.200.244:5140$浙江信4#http://115.221.91.68:7777/udp/233.50.200.245:5140$浙江信5#http://115.221.91.68:7777/udp/233.50.200.246:5140$浙江信6#http://115.221.91.68:7777/udp/233.50.201.201:5140$浙江信9#http://115.221.91.68:7777/udp/233.50.201.203:5140$浙江信1#http://115.221.91.68:7777/udp/233.50.201.205:5140$浙江信2#http://115.221.91.68:7777/udp/233.50.201.207:5140$浙江信#http://61.172.208.243:4022/udp/239.45.3.53:5140$上海信1#http://61.172.208.243:4022/udp/239.45.3.54:5140$上海信2#http://61.172.208.243:4022/udp/239.45.3.55:5140$上海信3#http://61.172.208.243:4022/udp/239.45.3.137:5140$上海信4#http://61.172.208.243:4022/udp/239.45.3.157:5140$上海信7#http://61.172.208.243:4022/udp/239.45.3.216:5140$上海信3#http://majian.ixiaobai.net:5540/udp/239.37.0.88:5540$辽宁信#http://majian.ixiaobai.net:5540/udp/239.37.0.142:5540$辽宁信8#http://majian.ixiaobai.net:5540/udp/239.37.0.211:5540$辽宁信9#http://majian.ixiaobai.net:5540/udp/239.37.0.237:5540$辽宁信3#http://majian.ixiaobai.net:5540/udp/239.37.0.254:5540$辽宁信五#http://180.140.153.15:5432/udp/239.81.0.181:4056$广西信1#http://180.140.153.15:5432/udp/239.81.0.184:4056$广西信2#http://180.140.153.15:5432/udp/239.81.0.178:4056$广西信3#http://180.140.153.15:5432/udp/239.81.0.179:4056$广西信4#http://180.140.153.15:5432/udp/239.81.0.180:4056$广西信5#http://180.140.153.15:5432/udp/239.81.0.182:4056$广西信6#http://180.140.153.15:5432/udp/239.81.0.183:4056$广西信7#http://180.140.153.15:5432/udp/239.81.0.185:4056$广西信8#http://180.140.153.15:5432/udp/239.81.0.186:4056$广西信9#http://14.135.72.70:8888/udp/239.121.4.127:8744$宁夏信1#http://14.135.72.70:8888/udp/239.121.4.128:8750$宁夏信2#http://14.135.72.70:8888/udp/239.121.4.129:8756$宁夏信3#http://14.135.72.70:8888/udp/239.121.4.132:8774$宁夏信6#http://14.135.72.70:8888/udp/239.121.4.133:8780$宁夏信7#http://14.135.72.70:8888/udp/239.121.4.146:8858$宁夏信8#http://14.135.72.70:8888/udp/239.121.4.147:8864$宁夏信#http://14.135.72.70:8888/udp/239.121.4.148:8870$宁夏信1#http://14.135.72.70:8888/udp/239.121.4.149:8876$宁夏信
+百事,http://nas.jc-hqp.cn:9999/udp/233.50.200.233:5140$浙江信1#http://nas.jc-hqp.cn:9999/udp/233.50.200.234:5140$浙江信2#http://nas.jc-hqp.cn:9999/udp/233.50.200.244:5140$浙江信4#http://nas.jc-hqp.cn:9999/udp/233.50.200.245:5140$浙江信5#http://nas.jc-hqp.cn:9999/udp/233.50.200.246:5140$浙江信6#http://nas.jc-hqp.cn:9999/udp/233.50.201.201:5140$浙江信9#http://nas.jc-hqp.cn:9999/udp/233.50.201.203:5140$浙江信1#http://nas.jc-hqp.cn:9999/udp/233.50.201.205:5140$浙江信2#http://nas.jc-hqp.cn:9999/udp/233.50.201.207:5140$浙江信3#http://www.baopiqi.top:4022/udp/239.45.3.53:5140$上海信1#http://www.baopiqi.top:4022/udp/239.45.3.54:5140$上海信2#http://www.baopiqi.top:4022/udp/239.45.3.55:5140$上海信3#http://www.baopiqi.top:4022/udp/239.45.3.137:5140$上海信4#http://www.baopiqi.top:4022/udp/239.45.3.157:5140$上海信7#http://www.baopiqi.top:4022/udp/239.45.3.216:5140$上海信五星#http://majian.ixiaobai.net:5540/udp/239.37.0.88:5540$辽宁信1#http://majian.ixiaobai.net:5540/udp/239.37.0.142:5540$辽宁信8#http://majian.ixiaobai.net:5540/udp/239.37.0.211:5540$辽宁信9#http://majian.ixiaobai.net:5540/udp/239.37.0.237:5540$辽宁信3#http://majian.ixiaobai.net:5540/udp/239.37.0.254:5540$辽宁信五#http://14.135.72.70:8888/udp/239.121.4.127:8744$宁夏信1#http://14.135.72.70:8888/udp/239.121.4.128:8750$宁夏信2#http://14.135.72.70:8888/udp/239.121.4.129:8756$宁夏信3#http://14.135.72.70:8888/udp/239.121.4.132:8774$宁夏信6#http://14.135.72.70:8888/udp/239.121.4.133:8780$宁夏信7#http://14.135.72.70:8888/udp/239.121.4.146:8858$宁夏信8#http://14.135.72.70:8888/udp/239.121.4.147:8864$宁夏信9#http://14.135.72.70:8888/udp/239.121.4.148:8870$宁夏信1#http://14.135.72.70:8888/udp/239.121.4.149:8876$宁夏信2#http://60.164.128.167:8029/udp/239.255.30.167:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.168:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.169:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.172:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.173:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.198:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.199:8231$甘肃信#http://60.164.128.167:8029/udp/239.255.30.200:8231$甘肃信#http://101.68.81.44:9999/udp/233.50.200.233:5140$浙江联1#http://101.68.81.44:9999/udp/233.50.200.234:5140$浙江联2#http://101.68.81.44:9999/udp/233.50.200.237:5140$浙江联3#http://101.68.81.44:9999/udp/233.50.200.244:5140$浙江联4#http://101.68.81.44:9999/udp/233.50.200.245:5140$浙江联5#http://101.68.81.44:9999/udp/233.50.200.246:5140$浙江联6#http://101.68.81.44:9999/udp/233.50.201.201:5140$浙江联9#http://101.68.81.44:9999/udp/233.50.201.203:5140$浙江联1#http://101.68.81.44:9999/udp/233.50.201.205:5140$浙江联2#http://101.68.81.44:9999/udp/233.50.201.207:5140$浙江联3
+
 百事,http://220.174.36.41:8888/udp/239.253.64.184:5140$海南02#http://220.174.36.41:8888/udp/239.253.64.185:5140$海南03#http://220.174.36.41:8888/udp/239.253.64.186:5140$海南04#http://220.174.36.41:8888/udp/239.253.64.187:5140$海南05#http://220.174.36.41:8888/udp/239.253.64.188:5140$海南06#http://220.174.36.41:8888/udp/239.253.64.189:5140$海南07#http://220.174.36.41:8888/udp/239.253.64.190:5140$海南08#http://220.174.36.41:8888/udp/239.253.64.191:5140$海南09#http://220.174.36.41:8888/udp/239.253.64.192:5140$海南10#http://220.174.36.41:8888/udp/239.253.64.193:5140$海南1#http://220.174.36.41:8888/udp/239.253.64.130:5140$海南2#http://220.174.36.41:8888/udp/239.253.64.131:5140$海南3#http://220.174.36.41:8888/udp/239.253.64.132:5140$海南4#http://220.174.36.41:8888/udp/239.253.64.133:5140$海南5#http://220.174.36.41:8888/udp/239.253.64.134:5140$海南6#http://220.174.36.41:8888/udp/239.253.64.135:5140$海南7#http://220.174.36.41:8888/udp/239.253.64.136:5140$海南8#http://220.174.36.41:8888/udp/239.253.64.180:5140$海南9#http://220.174.36.41:8888/udp/239.253.64.181:5140$海南10#http://220.174.36.41:8888/udp/239.253.64.182:5140$海南11#http://220.174.36.41:8888/udp/239.253.64.183:5140$海南
-百事美足,http://nas.jc-hqp.cn:9999/udp/233.50.200.31:5140
+百事美足,http://nas.jc-hqp.cn:9999/udp/233.50.200.31:5140$浙江信#http://101.68.81.44:9999/udp/233.50.200.31:5140$浙江联
 
 棋牌娱乐,#genre#
 
@@ -206,20 +236,20 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 陶老师围棋,http://zzy789.xyz/douyu1.php?id=6586073
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
 
-//http://wab201.win:35455/douyu/
-八卦大师,http://wab201.win:35455/douyu/851040
-帽子象棋,http://wab201.win:35455/douyu/4487219
-笑笑象棋,http://wab201.win:35455/douyu/9969
-大神象棋,http://wab201.win:35455/douyu/1227260
-飞刀陷阱,http://wab201.win:35455/douyu/11576846
-飞刀讲解,http://wab201.win:35455/douyu/10237088
-飞刀谱,http://wab201.win:35455/douyu/11765935
-小鹤求败,http://wab201.win:35455/douyu/3830820
-旭宝斗地主,http://wab201.win:35455/douyu/9804176
-欢乐斗地主,http://wab201.win:35455/douyu/8324074
-斗地主冠军赛,http://wab201.win:35455/douyu/488743
-陶老师围棋,http://wab201.win:35455/douyu/6586073
-弈夫围棋,http://wab201.win:35455/douyu/63993505350
+//http://dns.yiandrive.com:15907/douyu/
+八卦大师,http://dns.yiandrive.com:15907/douyu/851040
+帽子象棋,http://dns.yiandrive.com:15907/douyu/4487219
+笑笑象棋,http://dns.yiandrive.com:15907/douyu/9969
+大神象棋,http://dns.yiandrive.com:15907/douyu/1227260
+飞刀陷阱,http://dns.yiandrive.com:15907/douyu/11576846
+飞刀讲解,http://dns.yiandrive.com:15907/douyu/10237088
+飞刀谱,http://dns.yiandrive.com:15907/douyu/11765935
+小鹤求败,http://dns.yiandrive.com:15907/douyu/3830820
+旭宝斗地主,http://dns.yiandrive.com:15907/douyu/9804176
+欢乐斗地主,http://dns.yiandrive.com:15907/douyu/8324074
+斗地主冠军赛,http://dns.yiandrive.com:15907/douyu/488743
+陶老师围棋,http://dns.yiandrive.com:15907/douyu/6586073
+弈夫围棋,http://dns.yiandrive.com:15907/douyu/6399350
 
 //http://huanqiuzhibo.cn/manifest/douyu.php?id=
 八卦大师,http://huanqiuzhibo.cn/manifest/douyu.php?id=851040
@@ -234,7 +264,36 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 欢乐斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=8324074
 斗地主冠军赛,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 陶老师围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6586073
-弈夫围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=63993505350
+弈夫围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6399350
+
+八卦大师,https://www.goodiptv.club/douyu/851040
+帽子象棋,https://www.goodiptv.club/douyu/4487219
+笑笑象棋,https://www.goodiptv.club/douyu/9969
+大神象棋,https://www.goodiptv.club/douyu/1227260
+飞刀陷阱,https://www.goodiptv.club/douyu/11576846
+飞刀讲解,https://www.goodiptv.club/douyu/10237088
+飞刀谱,https://www.goodiptv.club/douyu/11765935
+小鹤求败,https://www.goodiptv.club/douyu/3830820
+旭宝斗地主,https://www.goodiptv.club/douyu/9804176
+欢乐斗地主,https://www.goodiptv.club/douyu/8324074
+斗地主冠军赛,https://www.goodiptv.club/douyu/488743
+陶老师围棋,https://www.goodiptv.club/douyu/6586073
+弈夫围棋,https://www.goodiptv.club/douyu/6399350
+
+//http://wab201.win:35455/douyu/
+八卦大师,http://wab201.win:35455/douyu/851040
+帽子象棋,http://wab201.win:35455/douyu/4487219
+笑笑象棋,http://wab201.win:35455/douyu/9969
+大神象棋,http://wab201.win:35455/douyu/1227260
+飞刀陷阱,http://wab201.win:35455/douyu/11576846
+飞刀讲解,http://wab201.win:35455/douyu/10237088
+飞刀谱,http://wab201.win:35455/douyu/11765935
+小鹤求败,http://wab201.win:35455/douyu/3830820
+旭宝斗地主,http://wab201.win:35455/douyu/9804176
+欢乐斗地主,http://wab201.win:35455/douyu/8324074
+斗地主冠军赛,http://wab201.win:35455/douyu/488743
+陶老师围棋,http://wab201.win:35455/douyu/6586073
+弈夫围棋,http://wab201.win:35455/douyu/63993505350
 
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8$郑移
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8$郑移
@@ -2784,23 +2843,35 @@ CNTV自然,#genre#
 
 小品汇,#genre#
 
-宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729
-宋小宝小品,http://dns.yiandrive.com:15907/douyu/9817729
-
 本山小品,http://zzy789.xyz/douyu1.php?id=9817716
+本山小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9817716
+本山小品,https://www.goodiptv.club/douyu/9817716
 本山小品,http://dns.yiandrive.com:15907/douyu/9817716
 
 吐槽大会,http://zzy789.xyz/douyu1.php?id=9236042
+吐槽大会,http://huanqiuzhibo.cn/manifest/douyu.php?id=9236042
 吐槽大会,http://dns.yiandrive.com:15907/douyu/9236042
+吐槽大会,https://www.goodiptv.club/douyu/9236042
 
 辽宁小品,http://zzy789.xyz/douyu1.php?id=9322175
+辽宁小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9322175
 辽宁小品,http://dns.yiandrive.com:15907/douyu/9322175
+辽宁小品,https://www.goodiptv.club/douyu/9322175
+
+宋小宝小品,http://zzy789.xyz/douyu1.php?id=9817729
+宋小宝小品,http://dns.yiandrive.com:15907/douyu/9817729
+宋小宝小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9817729
+宋小宝小品,https://www.goodiptv.club/douyu/9817729
 
 相声小品,http://zzy789.xyz/douyu1.php?id=9273031
 相声小品,http://dns.yiandrive.com:15907/douyu/9273031
+相声小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=9273031
+相声小品,https://www.goodiptv.club/douyu/9273031
 
 贾玲小品,http://zzy789.xyz/douyu1.php?id=10419541
 贾玲小品,http://dns.yiandrive.com:15907/douyu/10419541
+贾玲小品,http://huanqiuzhibo.cn/manifest/douyu.php?id=10419541
+贾玲小品,https://www.goodiptv.club/douyu/10419541
 
 本山快乐营2,http://1.94.31.214:35455/yy/1382736718
 宋小宝金星百乐门,http://1.94.31.214:35455/yy/1382736912
@@ -2820,6 +2891,25 @@ CNTV自然,#genre#
 本山快乐营,http://1.94.31.214:35455/yy/1382736852
 相声搜,http://1.94.31.214:35455/yy/34025318
 怀旧小品,http://1.94.31.214:35455/yy/1382736821
+
+本山快乐营2,http://www.douzhicloud.site:35455/yy/1382736718
+宋小宝金星百乐门,http://www.douzhicloud.site:35455/yy/1382736912
+赵本山《蓝光版》,http://www.douzhicloud.site:35455/yy/32160832
+赵本山《超清版》,http://www.douzhicloud.site:35455/yy/1382683959
+宋小宝小品合集,http://www.douzhicloud.site:35455/yy/1354931577
+小沈阳春晚小品,http://www.douzhicloud.site:35455/yy/1382749941
+贾玲春晚小品,http://www.douzhicloud.site:35455/yy/1382736720
+你最爱的宋小宝,http://www.douzhicloud.site:35455/yy/1354936198
+冯巩 牛群,http://www.douzhicloud.site:35455/yy/1382851476
+小宝让你乐翻天：6到9集,http://www.douzhicloud.site:35455/yy/1354930971
+宋小宝春晚小品合集,http://www.douzhicloud.site:35455/yy/1382736866
+本山快乐营1,http://www.douzhicloud.site:35455/yy/1354936209
+巩汉林小品合集,http://www.douzhicloud.site:35455/yy/1354889035
+本山快乐营,http://www.douzhicloud.site:35455/yy/1354930948
+赵本山爆笑小品2,http://www.douzhicloud.site:35455/yy/1354936217
+本山快乐营,http://www.douzhicloud.site:35455/yy/1382736852
+相声搜,http://www.douzhicloud.site:35455/yy/34025318
+怀旧小品,http://www.douzhicloud.site:35455/yy/1382736821
 
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
