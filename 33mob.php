@@ -5,12 +5,11 @@
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$凤凰秀
 凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$凤凰秀
 
-凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$122
-凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8$122
 凤凰中文,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzw$哈哈
 凤凰资讯,http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx$哈哈
 凤凰香港,http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk$哈哈
-凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
+
+凤凰中文,http://119.32.12.32:2901/udp/224.1.100.3:11111$广电
 
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$php#http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$php
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$php#http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$php
@@ -24,7 +23,6 @@
 
 凤凰中文,http://171.212.170.81:8088/udp/239.93.0.162:2192$四川信#http://1.70.32.27:8084/udp/239.1.1.126:8126$山西信#http://171.213.140.54:8123/udp/239.93.0.162:2192$四川信#http://prettyalan.vicp.cc:8888/udp/239.61.2.184:9092$厦门信#http://www.372583307.top:4022/udp/233.50.200.191:5140$浙江信#http://www.erbao1981.top:8188/udp/239.76.246.135:1234$湖南信#http://ycsj.aguihome.com:4022/udp/233.50.200.42:5140$浙江信#http://171.212.170.81:8088/udp/239.93.1.9:2192$四川信#http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140$浙江信#http://ycsj.aguihome.com:4022/udp/233.50.200.42:5140$浙江信#http://eyfs.vicp.net:8888/udp/239.76.246.134:1234$湖南信
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT$深联
-凤凰中文,http://119.32.12.32:2901/udp/224.1.100.3:11111$广电
 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$音频
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$音频
