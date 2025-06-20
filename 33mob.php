@@ -1,6 +1,31 @@
 //Mobile频道数据收集自网络上的分享250219开通IPV6
-港澳H092,#genre#
+港澳H096,#genre#
 
+凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8$701
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv$aliq
+凤凰中文,https://ali.hlspull.yximgs.com/live/167_fhzw.flv$ali1
+凤凰中文,http://ali.hlspull.yximgs.com/live/awei_fhzw.flv$alia
+凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$北海联
+凤凰中文,http://hbhyjq.ufyct.com:1088/hls/72/index.m3u8$邯郸联
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv$701
+
+凤凰资讯,http://ali.hlspull.yximgs.com/live/awei_fhzx.flv$alia
+凤凰资讯,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8$701
+凤凰资讯,http://hbhyjq.ufyct.com:1088/hls/73/index.m3u8$邯郸联
+凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8$北海联
+凤凰资讯,https://ali.hlspull.yximgs.com/live/167_fhzx.flv$ali1
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$php
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv$701
+
+凤凰香港,https://ali.hlspull.yximgs.com/live/167_fhxg.flv$ali1
+凤凰香港,http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701phk72.m3u8$701
+凤凰香港,http://ali.hlspull.yximgs.com/live/awei_fhxg.flv$alia
+凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand
+凤凰香港,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$php
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$php
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$php
 凤凰中文,http://www.jxnklgb.cloudns.org/php/fhx.php?id=2$凤凰秀
 凤凰资讯,http://www.jxnklgb.cloudns.org/php/fhx.php?id=1$凤凰秀
 凤凰香港,http://www.jxnklgb.cloudns.org/php/fhx.php?id=3$凤凰秀
@@ -40,7 +65,7 @@ CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8$牡丹移
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
-先锋乒羽,http://114.233.64.70:4022/udp/239.49.0.145:8000$江苏信#http://58.214.196.216:8800/udp/239.49.0.145:8000$江苏信#http://49.84.88.231:8800/udp/239.49.0.145:8000$江苏信#http://nas.hssvm.com:8888/udp/225.1.1.219:5002$天津联#http://180.158.201.25:1024/udp/239.45.3.43:5140$上海信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://218.67.174.165:8888/udp/225.1.1.219:5002$天津联#http://171.213.204.14:18888/udp/239.93.42.56:5140$四川信#http://home.yulei.online:9999/udp/226.0.2.121:8880$山西联#http://eyfs.vicp.net:8888/udp/239.76.253.51:9000$湖南信#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://ik6.iptv8.net:8888/udp/225.1.4.210:1263$河南联#http://115.60.241.249:2000/udp/225.1.4.210:1263$河南联#http://49.67.84.54:8848/udp/239.49.0.145:8000$江苏信#http://prettyalan.vicp.cc:8888/udp/239.61.3.17:9622$厦门信#http://101.31.59.131:4022/udp/239.253.93.219:6397$河北联#http://enlen.vip:4022/udp/239.200.201.33:4120$云南信#http://171.105.201.164:4022/udp/239.81.0.236:4056$桂林信#http://116.11.199.48:5432/udp/239.81.0.236:4056$广西信
+先锋乒羽,http://tv.dahailisea.cn:4022/udp/239.10.0.90:5140$四川联#http://tv.dahaili.cn:4022/udp/239.10.0.90:5140$四川联#http://home.yulei.online:9999/udp/226.0.2.121:8880$山西联#http://www.745612.xyz:7788/udp/235.254.198.106:7980$重庆信#http://ik6.iptv8.net:8888/udp/225.1.4.210:1263$河南联#http://www.jiaocj.xyz:4000/udp/239.49.0.145:8000$江苏信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://tv.dahaili.cn:4022/udp/239.93.42.56:5140$四川信#http://nas.hssvm.com:8888/udp/225.1.1.219:5002$天津联#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://www.huakangyaoye.cn:8800/udp/225.1.2.213:11416$商丘联#http://180.165.24.227:4022/udp/239.45.3.43:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.43:5140$上海信#http://222.218.122.114:8188/udp/239.81.0.236:4056$广西信#http://e2.woc.iiiya.cn:28888/udp/239.61.4.168:1025$福建信
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -112,17 +137,16 @@ CCTV5,http://119.32.12.17:2901/udp/224.1.100.82:11111$广电
 CCTV5+,http://119.32.12.17:2901/udp/224.1.100.25:11111$广电
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
-先锋乒羽,http://180.119.195.121:4022/udp/239.49.0.145:8000$江苏信#http://125.69.145.72:4022/udp/239.93.42.56:5140$四川信#http://nas.hssvm.com:8888/udp/225.1.1.219:5002$天津联#http://180.158.201.25:1024/udp/239.45.3.43:5140$上海信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://wouu.net:9977/udp/239.93.42.56:5140$四川信#http://home.yulei.online:9999/udp/226.0.2.121:8880$山西联#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://ik6.iptv8.net:8888/udp/225.1.4.210:1263$河南联#http://115.60.241.249:2000/udp/225.1.4.210:1263$河南联#http://171.105.201.164:4022/udp/239.81.0.236:4056$广西信x#http://123.168.202.78:4020/udp/239.21.2.98:5002$山东信x#http://eyfs.vicp.net:8888/udp/239.76.253.51:9000$湖南信x#http://prettyalan.vicp.cc:8888/udp/239.61.3.17:9622$厦门信x#http://enlen.vip:4022/udp/239.200.201.33:4120$云南信x
+先锋乒羽,http://tv.dahailisea.cn:4022/udp/239.10.0.90:5140$四川联#http://tv.dahaili.cn:4022/udp/239.10.0.90:5140$四川联#http://home.yulei.online:9999/udp/226.0.2.121:8880$山西联#http://www.745612.xyz:7788/udp/235.254.198.106:7980$重庆信#http://ik6.iptv8.net:8888/udp/225.1.4.210:1263$河南联#http://www.jiaocj.xyz:4000/udp/239.49.0.145:8000$江苏信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://tv.dahaili.cn:4022/udp/239.93.42.56:5140$四川信#http://nas.hssvm.com:8888/udp/225.1.1.219:5002$天津联#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://www.huakangyaoye.cn:8800/udp/225.1.2.213:11416$商丘联#http://180.165.24.227:4022/udp/239.45.3.43:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.43:5140$上海信#http://222.218.122.114:8188/udp/239.81.0.236:4056$广西信#http://e2.woc.iiiya.cn:28888/udp/239.61.4.168:1025$福建信
 先锋乒羽,http://113.195.172.192:808/hls/122/index.m3u8$宜春联
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
-麻辣体育,http://125.69.145.72:4022/udp/239.93.42.2:5140$四川信#http://wouu.net:9977/udp/239.93.42.2:5140$四川信#http://182.149.98.135:55555/rtp/239.93.42.2:5140$四川信#http://171.213.215.157:5555/rtp/239.93.42.2:5140$四川信#http://171.213.197.71:8096/rtp/239.93.42.2:5140$四川信#
+麻辣体育,http://tv.dahaili.cn:4022/udp/239.93.42.2:5140$四川信
 
-爱羽客,http://60.7.56.33:4000/udp/239.253.93.202:6380$河北联#http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联#http://60.164.128.167:8029/udp/239.255.29.31:8231$甘肃信
+爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联
 
-百事乒羽1,http://ycsj.aguihome.com:4022/udp/233.50.200.236:5140$浙江信1#http://www.flyskyman.cn:4022/udp/233.50.200.236:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.139:5140$上海信#http://www.jeremyoto.com:82/udp/233.50.200.236:5140$浙江信3#http://nas.tuyuannet.cn:8800/udp/239.37.0.253:5540$辽宁信#http://60.164.128.167:8029/udp/239.255.30.170:8231$甘肃信#http://www.lnlee.top:10000/udp/239.81.0.181:4056$广西信#http://ycsj.aguihome.com:4022/udp/233.50.200.234:5140$浙江信4#http://ycsj.aguihome.com:4022/udp/233.50.200.235:5140$浙江信5#http://115.204.248.3:8888/rtp/233.50.200.236:5140$浙江信8#http://125.126.14.191:4022/rtp/233.50.200.236:5140$浙江信1#http://123.97.74.222:5555/rtp/233.50.200.236:5140$浙江信2#http://115.239.82.110:9999/rtp/233.50.200.236:5140$浙江信
-#http://101.68.81.44:9999/udp/233.50.201.204:5140$浙江联#http://14.135.72.70:8888/udp/239.121.4.130:8762$宁夏信#http://14.135.72.70:8888/udp/239.121.4.131:8768$宁夏信5
-百事乒羽2,http://ycsj.aguihome.com:4022/udp/233.50.200.237:5140$浙江信3#http://www.flyskyman.cn:4022/udp/233.50.200.237:5140$浙江信2#http://180.158.201.25:1024/udp/239.45.3.140:5140$上海信#http://www.jeremyoto.com:82/udp/233.50.200.237:5140$浙江信1#http://115.204.248.3:8888/rtp/233.50.200.237:5140$浙江信#http://125.126.14.191:4022/rtp/233.50.200.237:5140$浙江信#http://123.97.74.222:5555/rtp/233.50.200.237:5140$浙江信#http://115.239.82.110:9999/rtp/233.50.200.237:5140$浙江信#http://nas.tuyuannet.cn:8800/udp/239.37.0.214:5540$辽宁信2
+百事乒羽1,http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://zqh2333.top:2222/udp/239.93.25.183:5140$雅安信4#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://180.165.24.227:4022/udp/239.45.3.139:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.139:5140$上海信#http://222.218.122.114:8188/udp/239.81.0.181:4056$广西信#http://www.jiaocj.xyz:4000/udp/239.49.0.132:9048$江苏信
+百事乒羽2,http://180.165.24.227:4022/udp/239.45.3.140:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.140:5140$上海信
 
 CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8$郑移
 CETV4,http://39.134.65.179/PLTV/88888888/224/3221225750/1.m3u8$黑移
