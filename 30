@@ -7,7 +7,7 @@
 
 //---------------以下复制---------30Mobile--github-----------
 //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0ucGhw"]}]}],
-  "lives": [{"name":"30", "type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/30mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+  "lives": [{"name":"30", "type":0,"url":"https://raw.githubusercontent.com/lzhmh/pd/main/30mob.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ,{"name":"Mtv", "type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/Mtv.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[{"key":"csp_DouDou","name":"豆瓣M30H40","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 //--------以上复制-------20250210---------------------
