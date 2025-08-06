@@ -1,19 +1,19 @@
-//Mobile频道数据收集自网络上的分享250408开通IPV6
-港澳H097,#genre#
-凤凰中文,http://hbhyjq.ufyct.com:1088/hls/72/index.m3u8$邯郸联
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联
-凤凰资讯,http://hbhyjq.ufyct.com:1088/hls/73/index.m3u8$邯郸联
-凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联
-凤凰香港,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1
-凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand
-凤凰中文,http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=cn$139
+//Mobile频道数据收集自网络上的分享250806开通IPV6
+港澳H098,#genre#
+
+凤凰中文,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cn
+凤凰资讯,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=info
+凤凰香港,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=hk
+
+凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联#http://hbhyjq.ufyct.com:1088/hls/72/index.m3u8$邯郸联
+凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联#http://hbhyjq.ufyct.com:1088/hls/73/index.m3u8$邯郸联
+凤凰香港,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1#http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand
 凤凰中文,http://218.15.183.23:9901/tsfile/live/23037_1.m3u8$梅州信
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$音频
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$音频
 
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8$郑移
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
-CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8$牡丹移m
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8$郑移
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8$郑移
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8$郑移
@@ -24,28 +24,36 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$哈移
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8$郑移
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8$郑移
-CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8$牡丹移
+
+CCTV4,http://36.129.204.115:8243/hls/1004/index.m3u8$辽阳移
+CCTV13,http://36.129.204.115:8243/hls/1013/index.m3u8$辽阳移
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
+先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
-先锋乒羽,http://114.233.64.70:4022/udp/239.49.0.145:8000$江苏信#http://58.214.196.216:8800/udp/239.49.0.145:8000$江苏信#http://49.84.88.231:8800/udp/239.49.0.145:8000$江苏信#http://nas.hssvm.com:8888/udp/225.1.1.219:5002$天津联#http://180.158.201.25:1024/udp/239.45.3.43:5140$上海信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://218.67.174.165:8888/udp/225.1.1.219:5002$天津联#http://171.213.204.14:18888/udp/239.93.42.56:5140$四川信#http://home.yulei.online:9999/udp/226.0.2.121:8880$山西联#http://eyfs.vicp.net:8888/udp/239.76.253.51:9000$湖南信#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://ik6.iptv8.net:8888/udp/225.1.4.210:1263$河南联#http://115.60.241.249:2000/udp/225.1.4.210:1263$河南联#http://49.67.84.54:8848/udp/239.49.0.145:8000$江苏信#http://prettyalan.vicp.cc:8888/udp/239.61.3.17:9622$厦门信#http://101.31.59.131:4022/udp/239.253.93.219:6397$河北联#http://enlen.vip:4022/udp/239.200.201.33:4120$云南信#http://171.105.201.164:4022/udp/239.81.0.236:4056$桂林信#http://116.11.199.48:5432/udp/239.81.0.236:4056$广西信
+
+先锋乒羽,http://111.226.232.106:10010/udp/239.253.93.219:6397$河北联#http://113.128.128.140:8688/udp/239.21.2.98:5002$山东信#http://121.226.125.7:7777/udp/239.49.0.145:8000$江苏信
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8#http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8#http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 
+Hoy77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
+Hoy78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
+
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
@@ -71,22 +79,14 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8$郑移
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$郑移
 
-CCTV5,http://39.134.65.179/PLTV/88888888/224/3221225818/1.m3u8$黑移
-CCTV5+,http://39.134.65.179/PLTV/88888888/224/3221225507/1.m3u8$黑移
-CCTV16,http://39.134.65.179/PLTV/88888888/224/3221225893/1.m3u8$黑移
-CCTV5,http://39.134.67.110/PLTV/88888888/224/3221225818/1.m3u8$黑移
-CCTV5+,http://39.134.67.110/PLTV/88888888/224/3221225507/1.m3u8$黑移
+CCTV5,http://36.129.204.115:8243/hls/1005/index.m3u8$辽阳移
+CCTV5+,http://36.129.204.115:8243/hls/1018/index.m3u8$辽阳移
+CCTV16,http://36.129.204.115:8243/hls/1016/index.m3u8$辽阳移
+CCTV16,http://110.177.144.14:9003/hls/17/index.m3u8$太原信
 
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈移
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈移
-
-CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8$牡丹移
-CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8$牡丹移
-CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8$牡丹移
-
-CCTV16,http://180.140.153.15:5432/udp/239.81.0.142:4056$广西信
-CCTV16,http://180.140.153.15:5432/udp/239.81.0.144:4056$广西信4K
 
 CCTV5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
 CCTV5+,http://220.170.241.204:9901/tsfile/live/0016_1.m3u8
@@ -100,30 +100,24 @@ CCTV5,http://119.32.12.17:2901/udp/224.1.100.82:11111$广电
 CCTV5+,http://119.32.12.17:2901/udp/224.1.100.25:11111$广电
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
-先锋乒羽,http://tv.dahailisea.cn:4022/udp/239.10.0.90:5140$四川联#http://tv.dahaili.cn:4022/udp/239.10.0.90:5140$四川联#http://home.yulei.online:9999/udp/226.0.2.121:8880$山西联#http://www.745612.xyz:7788/udp/235.254.198.106:7980$重庆信#http://ik6.iptv8.net:8888/udp/225.1.4.210:1263$河南联#http://www.jiaocj.xyz:4000/udp/239.49.0.145:8000$江苏信#http://183.66.51.205:4022/udp/235.254.198.106:7980$重庆信#http://tv.dahaili.cn:4022/udp/239.93.42.56:5140$四川信#http://nas.hssvm.com:8888/udp/225.1.1.219:5002$天津联#http://60.2.190.206:4000/udp/239.253.93.219:6397$河北联#http://www.huakangyaoye.cn:8800/udp/225.1.2.213:11416$商丘联#http://180.165.24.227:4022/udp/239.45.3.43:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.43:5140$上海信#http://222.218.122.114:8188/udp/239.81.0.236:4056$广西信#http://e2.woc.iiiya.cn:28888/udp/239.61.4.168:1025$福建信
-先锋乒羽,http://113.195.172.192:808/hls/122/index.m3u8$宜春联
+
+先锋乒羽,http://118.251.96.200:8188/udp/239.76.253.51:9000$湖南信#http://171.213.152.144:1880/udp/239.93.42.56:5140$四川信#http://111.226.232.106:10010/udp/239.253.93.219:6397$河北联#http://113.128.128.140:8688/udp/239.21.2.98:5002$山东信#http://114.226.73.17:8095/udp/239.49.0.145:8000$江苏信#http://121.226.125.7:7777/udp/239.49.0.145:8000$江苏信
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
-麻辣体育,http://tv.dahaili.cn:4022/udp/239.93.42.2:5140$四川信
+麻辣体育,http://171.213.152.144:1880/udp/239.93.42.2:5140$四川信
 
-爱羽客,http://nas.hssvm.com:8888/udp/225.1.2.1:5002$天津联
-
-百事乒羽1,http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://zqh2333.top:2222/udp/239.93.25.183:5140$雅安信4#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4#http://180.165.24.227:4022/udp/239.45.3.139:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.139:5140$上海信#http://222.218.122.114:8188/udp/239.81.0.181:4056$广西信#http://www.jiaocj.xyz:4000/udp/239.49.0.132:9048$江苏信
+百事乒羽1,http://106.45.2.14:4000/udp/239.121.4.130:8762$宁夏信#http://106.45.2.14:4000/udp/239.121.4.131:8768$宁夏信
+百事乒羽1,http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://zqh2333.top:2222/udp/239.93.25.183:5140$雅安信4#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4
 百事乒羽2,http://180.165.24.227:4022/udp/239.45.3.140:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.140:5140$上海信
 
 CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8$郑移
-CETV4,http://39.134.65.179/PLTV/88888888/224/3221225750/1.m3u8$黑移
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$哈移s
-CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8$牡丹移s
 CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8$郑移
 
-睛彩青少,http://39.134.65.179/PLTV/88888888/224/3221226053/1.m3u8$黑移
 睛彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
 睛彩青少,http://drive.mxmy.net:8888/udp/239.3.1.127:8001$北京联#http://114.252.236.205:8000/udp/239.3.1.127:8001$北京联#http://114.254.21.127:10000/udp/239.3.1.127:8001$北京联#http://14.19.168.64:4022/udp/239.77.1.22:5146$广东信#http://ycsj.aguihome.com:4022/udp/233.50.202.28:5140$浙江信#http://14.112.86.85:4022/udp/239.77.1.22:5146$广东信#http://61.145.208.25:9090/udp/239.77.1.22:5146$广东信#http://113.94.58.16:10010/udp/239.77.1.22:5146$广东信#http://14.112.86.101:4022/udp/239.77.1.22:5146$广东信
 
-睛彩竞技,http://39.134.65.179/PLTV/88888888/224/3221225897/1.m3u8$黑移
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
-睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8$牡丹移
 睛彩竞技,http://ycsj.aguihome.com:4022/udp/233.50.202.26:5140$浙江信#http://drive.mxmy.net:8888/udp/239.3.1.125:8001$北京联#http://114.252.236.205:8000/udp/239.3.1.125:8001$北京联#http://joyznm.i234.me:20000/udp/239.3.1.125:8001$北京联#
 
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8$郑移
@@ -136,10 +130,12 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 EURO1网球,http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
 EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
-睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8$牡丹移#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
-睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221226027/1.m3u8$牡丹移#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
+睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
+睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
 睛彩篮球,http://ycsj.aguihome.com:4022/udp/233.50.202.27:5140$浙江信#http://drive.mxmy.net:8888/udp/239.3.1.126:8001$北京联#http://14.19.168.64:4022/udp/239.77.1.21:5146$广东信#http://61.145.208.25:9090/udp/239.77.1.21:5146$广东信#hhttp://114.252.236.205:8000/udp/239.3.1.126:8001$北京联#http://113.94.58.16:10010/udp/239.77.1.21:5146$广东信
 
+广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv$push
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty&replay=1&days=7$php
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty&replay=1&days=7$php
 广东体育,http://120.234.5.29:6000/udp/239.20.0.114:2026$广东移
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$梅州信
@@ -163,16 +159,26 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 骑牛大赛,http://1.94.31.214:35455/yy/1355313481
 摩托挑战,http://1.94.31.214:35455/yy/1354946983
 
+精品体育,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$3哈移
+精品体育,http://39.135.133.157:80/PLTV/88888888/224/3221225547/1.m3u8$3哈移
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
 
 劲爆体育,http://119.32.12.17:2901/udp/224.1.100.129:11111$广电
 
+超级体育,http://39.135.133.154:80/PLTV/88888888/224/3221225526/1.m3u8$3哈移
+超级体育,http://39.135.133.155:80/PLTV/88888888/224/3221225526/1.m3u8$3哈移
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$哈移
 武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$哈移
 
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$郑移
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8$郑移
 
+中国功夫,http://39.135.133.157:80/PLTV/88888888/224/3221225571/1.m3u8$3哈移
+中国功夫,http://39.135.133.157:80/PLTV/88888888/224/3221225679/1.m3u8$3哈移
+中国功夫,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$3哈移
+中国功夫,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$3哈移
+中国功夫,http://39.135.133.177:80/wh7f454c46tw2070901039_123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$3哈移
+中国功夫,http://39.135.135.28:80/PLTV/88888888/224/3221225679/1.m3u8$3哈移
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 
 央视台球,http://58.215.3.254:8686/rtp/239.49.8.32:8000$江苏信
@@ -283,7 +289,6 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
 斗鱼体育,http://huanqiuzhibo.cn/manifest/douyu.php?id=9170147
 
-黑龙江文体,http://39.134.67.108/PLTV/88888888/224/3221225965/1.m3u8$牡丹移
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8$哈移s
@@ -291,9 +296,7 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 
-睛彩广场舞,http://39.134.65.179/PLTV/88888888/224/3221226046/1.m3u8$黑移
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
-睛彩广场舞,http://39.134.67.108/PLTV/88888888/224/3221226046/1.m3u8$牡丹移
 
 八段锦1,https://vd4.bdstatic.com/mda-phs3ky6piyqt1fn2/sc/cae_h264/1693230067699248200/mda-phs3ky6piyqt1fn2.mp4
 八段锦2,https://sns-video-al.xhscdn.com/01e38d67512b8a510183700384e05fd171_259.mp4
@@ -305,6 +308,16 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 邱慧芳24太极拳,https://vd3.bdstatic.com/mda-pct748r1egmk3c8x/sc/cae_h264/1680067740751400060/mda-pct748r1egmk3c8x.mp4
 
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$哈移
+
+移动新闻,#genre#
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+
+东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
+无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+新唐人美东台,https://ntd02.akamaized.net/HD-NY/index.m3u8
+VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 少儿动漫,#genre#
 
@@ -338,6 +351,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226596/index.m3u8$郑移
 哈哈炫动,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8$郑移
 
+金鹰卡通,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
+
 乐龄学堂,http://171.213.136.144:8886/udp/239.93.1.179:5140$四川信#http://171.213.204.14:18888/udp/239.93.1.179:5140$四川信
 中录动漫,http://171.213.136.144:8886/udp/239.93.1.188:5140$四川信#http://171.213.204.14:18888/udp/239.93.1.188:5140$四川信
 亲子趣学,http://171.213.136.144:8886/udp/239.93.1.191:5140$四川信#http://171.213.204.14:18888/udp/239.93.1.191:5140$四川信
@@ -345,18 +360,15 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 津津悦读4K,http://171.213.136.144:8886/udp/239.93.1.197:5140$四川信
 动画番剧,http://171.213.136.144:8886/udp/239.93.1.177:5140$四川信
 
-黑莓动画,http://39.134.65.179/PLTV/88888888/224/3221225529/1.m3u8$黑移
-优漫卡通,http://39.134.65.179/PLTV/88888888/224/3221225556/1.m3u8$黑移
-哒啵赛事,http://39.134.65.179/PLTV/88888888/224/3221225559/1.m3u8$黑移
-金鹰卡通,http://39.134.65.179/PLTV/88888888/224/3221225561/1.m3u8$黑移
-北京少儿,http://39.134.65.179/PLTV/88888888/224/3221225562/1.m3u8$黑移
-
+黑莓动画,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$3哈移
+黑莓动画,http://39.135.133.167:80/TVOD/88888888/224/3221225529/main.m3u8$3哈移
+黑莓动画,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$3哈移
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$哈移
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$哈移
 北京少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$哈移s
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8$哈移s
-北京少儿,http://39.134.67.108/PLTV/88888888/224/3221225562/1.m3u8$牡丹移s
 
+猫和老鼠,http://azxq.cc:80/553171356820/69451376489/157424.ts
 蜡笔小新,http://1.94.31.214:35455/huya/11352970
 哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
 猫和老鼠,http://www.52sw.top:678/play/huya.php?id=11352879
@@ -392,19 +404,9 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 大头儿子03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a86eb58a9e04c34a87f8c883932cfa2/1200.m3u8
 大头儿子04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/46e4d00d85fe4287b54c8015de46e102/1200.m3u8
 
-精品萌宠,http://39.134.65.179/PLTV/88888888/224/3221226051/1.m3u8$黑移
 精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8$哈移
 
 环球赛事,#genre#
-
-咪咕赛事1,http://39.134.65.179/PLTV/88888888/224/3221225620/1.m3u8$黑移
-咪咕赛事2,http://39.134.65.179/PLTV/88888888/224/3221225653/1.m3u8$黑移
-咪咕赛事3,http://39.134.65.179/PLTV/88888888/224/3221225901/1.m3u8$黑移
-咪咕赛事4,http://39.134.65.179/PLTV/88888888/224/3221225905/1.m3u8$黑移
-咪咕赛事5,http://39.134.65.179/PLTV/88888888/224/3221225910/1.m3u8$黑移
-咪咕赛事6,http://39.134.65.179/PLTV/88888888/224/3221225914/1.m3u8$黑移
-咪咕直播2,http://39.134.67.108/PLTV/88888888/224/3221225649/1.m3u8$牡丹移
-咪咕直播3,http://39.134.67.108/PLTV/88888888/224/3221226031/1.m3u8$牡丹移
 
 咪咕赛事01,http://111.22.153.159:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive$邵阳移
 咪咕赛事02,http://111.22.153.159:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive$邵阳移
@@ -444,7 +446,8 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
+户外运动,https://outsidetv-firetv.amagi.tv/playlist.m3u8
+近海钓鱼,https://30a-tv.com/feeds/720p/40.m3u8
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 曼联官方MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 Dubaisport,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
@@ -485,6 +488,11 @@ DAZN1,http://108.181.20.197/livehttpplay?channel_id=10104$108#http://108.181.21.
 
 财经综合,#genre#
 
+军事评论,http://39.135.133.154:80/PLTV/88888888/224/3221225535/1.m3u8$3哈移
+军事评论,http://39.135.133.155:80/PLTV/88888888/224/3221225535/1.m3u8$3哈移
+军事评论,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$3哈移
+军事评论,http://39.135.133.157:80/PLTV/88888888/224/3221225535/1.m3u8$3哈移
+军事评论,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$3哈移
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$哈移
 军事评论,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/1.m3u8
 
@@ -535,6 +543,18 @@ inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 林超科普,http://huanqiuzhibo.cn/manifest/douyu.php?id=9447974
 斗鱼历史1,http://huanqiuzhibo.cn/manifest/douyu.php?id=9738854
 斗鱼历史2,http://huanqiuzhibo.cn/manifest/douyu.php?id=10102281
+国际少儿,https://livesec.mudu.tv/watch/bk8coj.m3u8
+相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
+中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
+世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
+传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
+经典传奇,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
+纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
+第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
+金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
+养生堂,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1032_720P_t10/c60_fast_1032_720P_t10.m3u8?d
+健康大问诊,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1035_720P_t10/c60_fast_1035_720P_t10.m3u8?d
+健康养生,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1046_720P_t10/c59_fast_1046_720P_t10.m3u8?d
 
 欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8$郑移
 欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8$郑移
@@ -546,12 +566,53 @@ inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8$郑移
 怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8$哈移
 
+超级综艺,http://39.135.133.157:80/PLTV/88888888/224/3221225642/1.m3u8$3哈移
+超级电视剧,http://39.135.133.157:80/PLTV/88888888/224/3221225545/1.m3u8$3哈移
+超级电视剧,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/1.m3u8$3哈移
+东北热剧,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$3哈移
+海外剧场,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$3哈移
+古装剧场,http://39.135.133.154:80/PLTV/88888888/224/3221225524/1.m3u8$3哈移
+古装剧场,http://39.135.133.154:80/TVOD/88888888/224/3221225524/main.m3u8$3哈移
+古装剧场,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$3哈移
+古装剧场,http://39.135.133.154:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$3哈移
+古装剧场,http://39.135.133.155:80/PLTV/88888888/224/3221225524/1.m3u8$3哈移
+古装剧场,http://39.135.133.155:80/TVOD/88888888/224/3221225524/main.m3u8$3哈移
+古装剧场,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$3哈移
+古装剧场,http://39.135.133.155:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$3哈移
+古装剧场,http://39.135.133.157:80/PLTV/88888888/224/3221225524/1.m3u8$3哈移
+古装剧场,http://39.135.133.174:80/PLTV/88888888/224/3221225524/1.m3u8$3哈移
+古装剧场,http://39.135.133.174:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$3哈移
+军旅剧场,http://39.135.133.154:80/PLTV/88888888/224/3221225644/1.m3u8$3哈移
+军旅剧场,http://39.135.133.155:80/PLTV/88888888/224/3221225644/1.m3u8$3哈移
+军旅剧场,http://39.135.133.157:80/PLTV/88888888/224/3221225560/1.m3u8$3哈移
+军旅剧场,http://39.135.133.157:80/PLTV/88888888/224/3221225644/1.m3u8$3哈移
+军旅剧场,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8$3哈移
+潮妈辣婆,http://39.135.133.154:80/TVOD/88888888/224/3221225542/main.m3u8$3哈移
+潮妈辣婆,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$3哈移
+潮妈辣婆,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$3哈移
+潮妈辣婆,http://39.135.133.157:80/PLTV/88888888/224/3221225521/1.m3u8$3哈移
+精品大剧,http://39.135.133.154:80/PLTV/88888888/224/3221225542/1.m3u8$3哈移
+精品大剧,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$3哈移
+精品大剧,http://39.135.133.155:80/PLTV/88888888/224/3221225542/1.m3u8$3哈移
+精品大剧,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8$3哈移
+精品大剧,http://39.135.133.157:80/PLTV/88888888/224/3221225542/1.m3u8$3哈移
+
+欢乐剧场,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$3哈移
+欢乐剧场,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$3哈移
+超级综艺,http://39.135.133.157:80/PLTV/88888888/224/3221225550/1.m3u8$3哈移
+超级综艺,http://39.135.133.174:80/PLTV/88888888/224/3221225550/1.m3u8$3哈移
+金牌综艺,http://39.135.133.154:80/TVOD/88888888/224/3221225525/main.m3u8$3哈移
+金牌综艺,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$3哈移
+金牌综艺,http://39.135.133.155:80/TVOD/88888888/224/3221225525/main.m3u8$3哈移
+金牌综艺,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$3哈移
+金牌综艺,http://39.135.133.157:80/PLTV/88888888/224/3221225635/1.m3u8$3哈移
+金牌综艺,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$3哈移
+哒啵赛事,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$3哈移
+
+欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$哈移
+东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$哈移
 超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8$哈移
-
-金牌综艺,http://39.134.65.179/PLTV/88888888/224/3221225525/1.m3u8$黑移
 金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8$哈移
-金牌综艺,http://39.134.67.226/PLTV/88888888/224/3221225525/index.m3u8$黑移
-
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$哈移
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8$哈移
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$哈移
@@ -562,8 +623,6 @@ inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 华宇剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8$哈移
 电视剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$哈移
 爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$哈移
-
-超级电视剧,http://39.134.65.179/PLTV/88888888/224/3221225637/1.m3u8$黑移
 
 游戏风云,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8$郑移
 游戏风云,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226548/index.m3u8$郑移
@@ -608,6 +667,20 @@ CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8$郑移
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8$郑移
 
+CCTV1,http://36.129.204.115:8243/hls/1001/index.m3u8$辽阳移
+CCTV2,http://36.129.204.115:8243/hls/1002/index.m3u8$辽阳移
+CCTV3,http://36.129.204.115:8243/hls/1003/index.m3u8$辽阳移
+CCTV6,http://36.129.204.115:8243/hls/1006/index.m3u8$辽阳移
+CCTV7,http://36.129.204.115:8243/hls/1007/index.m3u8$辽阳移
+CCTV8,http://36.129.204.115:8243/hls/1008/index.m3u8$辽阳移
+CCTV9,http://36.129.204.115:8243/hls/1009/index.m3u8$辽阳移
+CCTV10,http://36.129.204.115:8243/hls/1010/index.m3u8$辽阳移
+CCTV11,http://36.129.204.115:8243/hls/1011/index.m3u8$辽阳移
+CCTV12,http://36.129.204.115:8243/hls/1012/index.m3u8$辽阳移
+CCTV14,http://36.129.204.115:8243/hls/1014/index.m3u8$辽阳移
+CCTV15,http://36.129.204.115:8243/hls/1015/index.m3u8$辽阳移
+CCTV17,http://36.129.204.115:8243/hls/1017/index.m3u8$辽阳移
+
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$哈移
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$哈移
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$哈移
@@ -627,22 +700,6 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$哈移
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$哈移
 
-CCTV9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8$牡丹移#http://39.134.65.181/PLTV/88888888/224/3221225676/1.m3u8$同牡丹
-CCTV10,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8$牡丹移#http://39.134.65.181/PLTV/88888888/224/3221225677/1.m3u8$同牡丹
-CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8$牡丹移
-CCTV1,http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8$牡丹移
-CCTV3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8$牡丹移
-CCTV6,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8$牡丹移
-CCTV7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8$牡丹移
-CCTV8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8$牡丹移
-CCTV11,http://39.134.67.108/PLTV/88888888/224/3221226123/1.m3u8$牡丹移
-CCTV12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8$牡丹移
-CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8$牡丹移
-CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8$牡丹移m
-CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8$牡丹移
-
-风云音乐,http://58.215.3.254:8686/rtp/239.49.8.92:8000$江苏信
-女性时尚,http://58.215.3.254:8686/rtp/239.49.8.93:8000$江苏信
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
 炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8$哈移
@@ -726,6 +783,25 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8$郑移
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8$郑移
 
+东方卫视,http://36.129.204.115:8243/hls/1026/index.m3u8$辽阳移
+北京卫视,http://36.129.204.115:8243/hls/1020/index.m3u8$辽阳移
+江苏卫视,http://36.129.204.115:8243/hls/1024/index.m3u8$辽阳移
+浙江卫视,http://36.129.204.115:8243/hls/1023/index.m3u8$辽阳移
+湖南卫视,http://36.129.204.115:8243/hls/1022/index.m3u8$辽阳移
+深圳卫视,http://36.129.204.115:8243/hls/1049/index.m3u8$辽阳移
+辽宁卫视,http://36.129.204.115:8243/hls/1019/index.m3u8$辽阳移
+湖北卫视,http://36.129.204.115:8243/hls/1033/index.m3u8$辽阳移
+吉林卫视,http://36.129.204.115:8243/hls/1028/index.m3u8$辽阳移
+山东卫视,http://36.129.204.115:8243/hls/1029/index.m3u8$辽阳移
+河南卫视,http://36.129.204.115:8243/hls/1035/index.m3u8$辽阳移
+天津卫视,http://36.129.204.115:8243/hls/1021/index.m3u8$辽阳移
+安徽卫视,http://36.129.204.115:8243/hls/1025/index.m3u8$辽阳移
+广东卫视,http://36.129.204.115:8243/hls/1031/index.m3u8$辽阳移
+四川卫视,http://36.129.204.115:8243/hls/1036/index.m3u8$辽阳移
+河北卫视,http://36.129.204.115:8243/hls/1050/index.m3u8$辽阳移
+重庆卫视,http://36.129.204.115:8243/hls/1037/index.m3u8$辽阳移
+黑龙江卫视,http://36.129.204.115:8243/hls/1027/index.m3u8$辽阳移
+
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$哈移
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$哈移
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8$哈移
@@ -766,24 +842,6 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 三沙卫视,http://118.254.203.236:8888/rtp/239.76.253.74:9000
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$原
 
-安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8$牡丹移
-北京卫视,http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8$牡丹移#http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8$同牡丹
-江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8$牡丹移
-江苏卫视,http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8$牡丹移
-东方卫视,http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8$牡丹移
-深圳卫视,http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8$牡丹移
-东南卫视,http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8$牡丹移
-山东卫视,http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8$牡丹移
-浙江卫视,http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8$牡丹移
-河北卫视,http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8$牡丹移
-重庆卫视,http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8$牡丹移
-广东卫视,http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8$牡丹移
-四川卫视,http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8$牡丹移
-天津卫视,http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8$牡丹移
-贵州卫视,http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8$牡丹移
-湖北卫视,http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8$牡丹移
-陕西卫视,http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8$牡丹移s
-
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$哈移 
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$哈移
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$哈移
@@ -803,17 +861,40 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 
 电影频道,#genre#
 
+黑莓电影,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$3哈移
+黑莓电影,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$3哈移
+动作电影,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$3哈移
+动作电影,http://39.135.133.167:80/TVOD/88888888/224/3221225555/main.m3u8$3哈移
+动作电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$3哈移
+超级电影,http://39.135.133.154:80/PLTV/88888888/224/3221225536/1.m3u8$3哈移
+超级电影,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$3哈移
+超级电影,http://39.135.133.155:80/PLTV/88888888/224/3221225536/1.m3u8$3哈移
+超级电影,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$3哈移
+惊悚悬疑,http://39.135.133.154:80/PLTV/88888888/224/3221225525/1.m3u8$3哈移
+惊悚悬疑,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$3哈移
+惊悚悬疑,http://39.135.133.155:80/PLTV/88888888/224/3221225525/1.m3u8$3哈移
+惊悚悬疑,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$3哈移
+惊悚悬疑,http://39.135.133.157:80/PLTV/88888888/224/3221225525/1.m3u8$3哈移
+惊悚悬疑,http://39.135.133.157:80/PLTV/88888888/224/3221225555/1.m3u8$3哈移
+惊悚悬疑,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$3哈移
+惊悚悬疑,http://39.135.133.167:80/PLTV/88888888/224/3221225555/1.m3u8$3哈移
+惊悚悬疑,http://39.135.135.28:80/PLTV/88888888/224/3221225525/1.m3u8$3哈移
+明星大片,http://39.135.133.157:80/PLTV/88888888/224/3221225682/1.m3u8$3哈移
+明星大片,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$3哈移
+明星大片,http://39.135.135.28:80/PLTV/88888888/224/3221225682/1.m3u8$3哈移
+
+chc动作电影,http://k.061899.xyz/m.php?id=dzdy$k
+chc家庭影院,http://k.061899.xyz/m.php?id=jtyy$k
+chc影迷电影,http://k.061899.xyz/m.php?id=ymdy$k
+
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$哈移
 动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$哈移
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$哈移
-超级电影,http://39.134.67.108/PLTV/88888888/224/3221225644/1.m3u8$牡丹移
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$哈移
 
 动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111$广电
 
-超级电影,http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8$黑移
-黑莓电影,http://39.134.65.179/PLTV/88888888/224/3221225681/1.m3u8$黑移
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://120.76.248.139/live/bfgd/4200000635.m3u8
@@ -835,11 +916,15 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 星空卫视,http://171.213.136.144:8886/udp/239.93.0.156:2193$四川信#http://wouu.net:9977/udp/239.93.0.156:2193$四川信
 
-东北热剧,http://39.134.65.179/PLTV/88888888/224/3221225679/1.m3u8$黑移
-东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$哈移
+纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
+好莱电影,http://61.216.11.93:49981/stream/channelid/286389561.m3u8
+CINeMax,http://61.216.11.93:49981/stream/channelid/207378916.m3u8
 
-欢乐剧场,http://39.134.65.179/PLTV/88888888/224/3221225682/1.m3u8$黑移
-欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$哈移
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 
 斗鱼轮播,#genre#
 
@@ -1024,6 +1109,15 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 经典港剧,http://dns.yiandrive.com:15907/douyu/9548850
 
 漫威科幻,http://tc-tct.douyucdn2.cn/dyliveflv1a/6140589rgrFgOuC2_2000.xs?wsAuth=e37467c9c16f3ed51fd05e9f353262fb&token=web-h5-0-6140589-8c9f814ba60c86af38ec889149e3cc8dde209f36624645fd&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
+
+警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
+古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
+抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
+谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
+欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
+经典老剧,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
+乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
+电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
 
 虎牙轮播,#genre#
 
@@ -1337,45 +1431,24 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 
 YY轮播,#genre#
 
-// http://jiaojirentv.top/2020/yy.php?id=
-火线追凶,http://jiaojirentv.top/2020/yy.php?id=1382745090
-速度与激情,http://jiaojirentv.top/2020/yy.php?id=1382749892
-敢死队,http://jiaojirentv.top/2020/yy.php?id=1382735573
-国外战争,http://jiaojirentv.top/2020/yy.php?id=1382736857
-行动与枪战,http://jiaojirentv.top/2020/yy.php?id=29170933
-顶级动作,http://jiaojirentv.top/2020/yy.php?id=24923327
-暮光之城,http://jiaojirentv.top/2020/yy.php?id=1354930181
-变形金刚,http://jiaojirentv.top/2020/yy.php?id=1382736803
-金三角大营救,http://jiaojirentv.top/2020/yy.php?id=1354930924
-致命守护者,http://jiaojirentv.top/2020/yy.php?id=1382745095
-速度与激情,http://jiaojirentv.top/2020/yy.php?id=1382736911
-哈利波特全集,http://jiaojirentv.top/2020/yy.php?id=1382745105
-哥斯拉1,http://jiaojirentv.top/2020/yy.php?id=1382736833
-机械战警1-3,http://jiaojirentv.top/2020/yy.php?id=1382736854
-古惑仔,http://jiaojirentv.top/2020/yy.php?id=1458015189
-黑衣人,http://jiaojirentv.top/2020/yy.php?id=1354930936
-国外动作片,http://jiaojirentv.top/2020/yy.php?id=1382735570
-
-// http://1.94.31.214:35455/yy/
-火线追凶,http://1.94.31.214:35455/yy/1382745090
-速度与激情,http://1.94.31.214:35455/yy/1382749892
-敢死队,http://1.94.31.214:35455/yy/1382735573
-国外战争,http://1.94.31.214:35455/yy/1382736857
-行动与枪战,http://1.94.31.214:35455/yy/29170933
-顶级动作,http://1.94.31.214:35455/yy/24923327
-暮光之城,http://1.94.31.214:35455/yy/1354930181
-变形金刚,http://1.94.31.214:35455/yy/1382736803
-金三角大营救,http://1.94.31.214:35455/yy/1354930924
-致命守护者,http://1.94.31.214:35455/yy/1382745095
-速度与激情,http://1.94.31.214:35455/yy/1382736911
-哈利波特全集,http://1.94.31.214:35455/yy/1382745105
-哥斯拉1,http://1.94.31.214:35455/yy/1382736833
-机械战警1-3,http://1.94.31.214:35455/yy/1382736854
-古惑仔,http://1.94.31.214:35455/yy/1458015189
-黑衣人,http://1.94.31.214:35455/yy/1354930936
-国外动作片,http://1.94.31.214:35455/yy/1382735570
-
 // http://www.douzhicloud.site:35455/yy/
+侦探悬疑,http://www.douzhicloud.site:35455/yy/1382735543
+TVB经典—九江十二坊,http://www.douzhicloud.site:35455/yy/1382735566
+十诫—外国影史里程碑,http://www.douzhicloud.site:35455/yy/1354930945
+修牛蹄,http://www.douzhicloud.site:35455/yy/1353413683
+你爱看的国内战争大片合集,http://www.douzhicloud.site:35455/yy/1354936160
+美国超级英雄电影系列,http://www.douzhicloud.site:35455/yy/1354933556
+霍比特人电影系列,http://www.douzhicloud.site:35455/yy/1354930967
+喜剧大片—篮球冠军,http://www.douzhicloud.site:35455/yy/1382749906
+特种兵归来4,http://www.douzhicloud.site:35455/yy/1382736896
+科幻电影,http://www.douzhicloud.site:35455/yy/1355065896
+纪录片封神,http://www.douzhicloud.site:35455/yy/1382736825
+飞虎之潜行极战,http://www.douzhicloud.site:35455/yy/1354932420
+影视剧-林深见鹿,http://www.douzhicloud.site:35455/yy/1345494225
+功夫婆媳-家庭剧,http://www.douzhicloud.site:35455/yy/1382736883
+风靡全球的谍战片,http://www.douzhicloud.site:35455/yy/1382736817
+007系列大片,http://www.douzhicloud.site:35455/yy/1382736897
+超炫科幻大片,http://www.douzhicloud.site:35455/yy/1382736840
 火线追凶,http://www.douzhicloud.site:35455/yy/1382745090
 速度与激情,http://www.douzhicloud.site:35455/yy/1382749892
 敢死队,http://www.douzhicloud.site:35455/yy/1382735573
@@ -1950,14 +2023,6 @@ X战警系列电影,http://www.douzhicloud.site:35455/yy/1382736893
 复仇者联盟4：终局之战,http://www.douzhicloud.site:35455/yy/1354936167
 金玉满堂：精彩港剧,http://www.douzhicloud.site:35455/yy/1382736881
 下饭喜剧电影,http://www.douzhicloud.site:35455/yy/1382736844
-【科幻电影】,http://www.douzhicloud.site:35455/yy/1355065896
-9.8分！这部纪录片封神了,http://www.douzhicloud.site:35455/yy/1382736825
-飞虎之潜行极战,http://www.douzhicloud.site:35455/yy/1354932420
-影视剧-林深见鹿,http://www.douzhicloud.site:35455/yy/1345494225
-功夫婆媳-家庭剧,http://www.douzhicloud.site:35455/yy/1382736883
-风靡全球的谍战片,http://www.douzhicloud.site:35455/yy/1382736817
-007系列大片,http://www.douzhicloud.site:35455/yy/1382736897
-超炫科幻大片,http://www.douzhicloud.site:35455/yy/1382736840
 故事里的中国全季,http://www.douzhicloud.site:35455/yy/1382736798
 发哥系列,http://www.douzhicloud.site:35455/yy/1354888733
 国家宝藏 第二季,http://www.douzhicloud.site:35455/yy/1382736853
@@ -2066,18 +2131,6 @@ X战警系列电影,http://www.douzhicloud.site:35455/yy/1382736893
 今生是第一次：高分韩剧,http://www.douzhicloud.site:35455/yy/1382745190
 征服,http://www.douzhicloud.site:35455/yy/1461655788
 你看与不看我都在,http://www.douzhicloud.site:35455/yy/1353422557
-侦探烧脑电影-悬疑,http://www.douzhicloud.site:35455/yy/1382735543
-TVB经典—九江十二坊,http://www.douzhicloud.site:35455/yy/1382735566
-十诫—外国影史里程碑,http://www.douzhicloud.site:35455/yy/1354930945
-修牛蹄,http://www.douzhicloud.site:35455/yy/1353413683
-少林寺传奇,http://www.douzhicloud.site:35455/yy/1356338181
-你爱看的国内战争大片合集,http://www.douzhicloud.site:35455/yy/1354936160
-经典影视,http://www.douzhicloud.site:35455/yy/1356364732
-美国超级英雄电影系列,http://www.douzhicloud.site:35455/yy/1354933556
-霍比特人电影系列,http://www.douzhicloud.site:35455/yy/1354930967
-喜剧大片—篮球冠军,http://www.douzhicloud.site:35455/yy/1382749906
-筱威回来了！ 正在直播,http://www.douzhicloud.site:35455/yy/37347905
-特种兵归来4,http://www.douzhicloud.site:35455/yy/1382736896
 非遗真人秀？向往的国潮,http://www.douzhicloud.site:35455/yy/1382749953
 男生女生向前冲,http://www.douzhicloud.site:35455/yy/1354930957
 狂飙,http://www.douzhicloud.site:35455/yy/1509095132
@@ -2087,8 +2140,58 @@ TVB经典—九江十二坊,http://www.douzhicloud.site:35455/yy/1382735566
 盗梦空间！悬疑烧脑！,http://www.douzhicloud.site:35455/yy/1354930903
 我比你更懂车 你偏不信,http://www.douzhicloud.site:35455/yy/85042287
 动画剧集电影-原声粤语国,http://www.douzhicloud.site:35455/yy/1382859239
+少林寺传奇,http://www.douzhicloud.site:35455/yy/1356338181
+经典影视,http://www.douzhicloud.site:35455/yy/1356364732
+筱威回来了,http://www.douzhicloud.site:35455/yy/37347905
 
-//https://lunbo.freetv.top
+// http://jiaojirentv.top/2020/yy.php?id=
+侦探悬疑,http://jiaojirentv.top/2020/yy.php?id=1382735543
+TVB经典—九江十二坊,http://jiaojirentv.top/2020/yy.php?id=1382735566
+十诫—外国影史里程碑,http://jiaojirentv.top/2020/yy.php?id=1354930945
+修牛蹄,http://jiaojirentv.top/2020/yy.php?id=1353413683
+你爱看的国内战争大片合集,http://jiaojirentv.top/2020/yy.php?id=1354936160
+美国超级英雄电影系列,http://jiaojirentv.top/2020/yy.php?id=1354933556
+霍比特人电影系列,http://jiaojirentv.top/2020/yy.php?id=1354930967
+喜剧大片—篮球冠军,http://jiaojirentv.top/2020/yy.php?id=1382749906
+特种兵归来4,http://jiaojirentv.top/2020/yy.php?id=1382736896
+科幻电影,http://jiaojirentv.top/2020/yy.php?id=1355065896
+纪录片封神,http://jiaojirentv.top/2020/yy.php?id=1382736825
+飞虎之潜行极战,http://jiaojirentv.top/2020/yy.php?id=1354932420
+影视剧-林深见鹿,http://jiaojirentv.top/2020/yy.php?id=1345494225
+功夫婆媳-家庭剧,http://jiaojirentv.top/2020/yy.php?id=1382736883
+风靡全球的谍战片,http://jiaojirentv.top/2020/yy.php?id=1382736817
+007系列大片,http://jiaojirentv.top/2020/yy.php?id=1382736897
+超炫科幻大片,http://jiaojirentv.top/2020/yy.php?id=1382736840
+火线追凶,http://jiaojirentv.top/2020/yy.php?id=1382745090
+速度与激情,http://jiaojirentv.top/2020/yy.php?id=1382749892
+敢死队,http://jiaojirentv.top/2020/yy.php?id=1382735573
+国外战争,http://jiaojirentv.top/2020/yy.php?id=1382736857
+行动与枪战,http://jiaojirentv.top/2020/yy.php?id=29170933
+顶级动作,http://jiaojirentv.top/2020/yy.php?id=24923327
+暮光之城,http://jiaojirentv.top/2020/yy.php?id=1354930181
+变形金刚,http://jiaojirentv.top/2020/yy.php?id=1382736803
+金三角大营救,http://jiaojirentv.top/2020/yy.php?id=1354930924
+致命守护者,http://jiaojirentv.top/2020/yy.php?id=1382745095
+沙海,http://jiaojirentv.top/2020/yy.php?id=1355171357
+
+// https://lunbo.freetv.top/yy/
+侦探悬疑,https://lunbo.freetv.top/yy/1382735543
+TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
+十诫—外国影史里程碑,https://lunbo.freetv.top/yy/1354930945
+修牛蹄,https://lunbo.freetv.top/yy/1353413683
+你爱看的国内战争大片合集,https://lunbo.freetv.top/yy/1354936160
+美国超级英雄电影系列,https://lunbo.freetv.top/yy/1354933556
+霍比特人电影系列,https://lunbo.freetv.top/yy/1354930967
+喜剧大片—篮球冠军,https://lunbo.freetv.top/yy/1382749906
+特种兵归来4,https://lunbo.freetv.top/yy/1382736896
+科幻电影,https://lunbo.freetv.top/yy/1355065896
+纪录片封神,https://lunbo.freetv.top/yy/1382736825
+飞虎之潜行极战,https://lunbo.freetv.top/yy/1354932420
+影视剧-林深见鹿,https://lunbo.freetv.top/yy/1345494225
+功夫婆媳-家庭剧,https://lunbo.freetv.top/yy/1382736883
+风靡全球的谍战片,https://lunbo.freetv.top/yy/1382736817
+007系列大片,https://lunbo.freetv.top/yy/1382736897
+超炫科幻大片,https://lunbo.freetv.top/yy/1382736840
 火线追凶,https://lunbo.freetv.top/yy/1382745090
 速度与激情,https://lunbo.freetv.top/yy/1382749892
 敢死队,https://lunbo.freetv.top/yy/1382735573
@@ -2100,723 +2203,6 @@ TVB经典—九江十二坊,http://www.douzhicloud.site:35455/yy/1382735566
 金三角大营救,https://lunbo.freetv.top/yy/1354930924
 致命守护者,https://lunbo.freetv.top/yy/1382745095
 沙海,https://lunbo.freetv.top/yy/1355171357
-恐怖电影,https://lunbo.freetv.top/yy/24066336
-外国科幻,https://lunbo.freetv.top/yy/1382747628
-漫威十年,https://lunbo.freetv.top/yy/1354930233
-科幻Sci-Fi,https://lunbo.freetv.top/yy/1354930209
-史诗级战争,https://lunbo.freetv.top/yy/1382745092
-港剧动作,https://lunbo.freetv.top/yy/1382736809
-成龙系列,https://lunbo.freetv.top/yy/1354888751
-天龙八部,https://lunbo.freetv.top/yy/1382736855
-苦乐村官,https://lunbo.freetv.top/yy/1382736864
-战火中的故事,https://lunbo.freetv.top/yy/1382735625
-憨豆先生,https://lunbo.freetv.top/yy/1354930189 
-港片电影集,https://lunbo.freetv.top/yy/1455225203
-港片赌片 3000部,https://lunbo.freetv.top/yy/1355076627
-港片,https://lunbo.freetv.top/yy/1459901192
-香港院线大片-最新,https://lunbo.freetv.top/yy/1354936242 
-叶问全集,https://lunbo.freetv.top/yy/1382828771
-第一滴血全集,https://lunbo.freetv.top/yy/1354932355 
-香港经典蓝光电影,https://lunbo.freetv.top/yy/1382627144 
-奇缘39262港台影院,https://lunbo.freetv.top/yy/1354889234
-港剧悬疑破案,https://lunbo.freetv.top/yy/10425097
-末日系列-外国电影合集,https://lunbo.freetv.top/yy/1354889019
-鬼片.惊悚.港片,https://lunbo.freetv.top/yy/1355497884 
-港片鬼片全集,https://lunbo.freetv.top/yy/1459869766 
-动作武侠港片电影,https://lunbo.freetv.top/yy/1459801818
-经典港片电影,https://lunbo.freetv.top/yy/1382793140
-港片经典电影,https://lunbo.freetv.top/yy/1382633631
-林正英电影,https://lunbo.freetv.top/yy/1382841203
-超级吓人鬼片 恐怖片,https://lunbo.freetv.top/yy/1355641195
-鬼怪恐怖惊辣,https://lunbo.freetv.top/yy/1382748585
-林正英 僵尸 鬼片,https://lunbo.freetv.top/yy/1351505899
-电影电影,https://lunbo.freetv.top/yy/1458819360
-【成龙经典】动作,https://lunbo.freetv.top/yy/34460526
-古惑仔全集,https://lunbo.freetv.top/yy/1354507447
-武林外传 超清,https://lunbo.freetv.top/yy/21092633
-狂飙,https://lunbo.freetv.top/yy/1355142167
-绝版电影 港片女鬼,https://lunbo.freetv.top/yy/1455988450
-雪豹,https://lunbo.freetv.top/yy/28099939
-绝版电影 港片女鬼,https://lunbo.freetv.top/yy/1461579859
-雪中悍刀行,https://lunbo.freetv.top/yy/1450496699
-【狂飙2老默】首播,https://lunbo.freetv.top/yy/1354790484
-【战狼4】吴京老师,https://lunbo.freetv.top/yy/1354784284
-港片 喜剧 动作,https://lunbo.freetv.top/yy/1355480591
-古惑仔,https://lunbo.freetv.top/yy/1458015189
-封神榜,https://lunbo.freetv.top/yy/1353426319
-举起手来-惊险抗日,https://lunbo.freetv.top/yy/1382736877
-幸福满院,https://lunbo.freetv.top/yy/1382737886
-【新三国】蓝光版,https://lunbo.freetv.top/yy/1382705738
-豪哥带我们发财,https://lunbo.freetv.top/yy/23402146
-纪晓岚,https://lunbo.freetv.top/yy/1354143978
-赵本山《蓝光版》,https://lunbo.freetv.top/yy/32160832
-惊恐盗暮鬼怪,https://lunbo.freetv.top/yy/1382749525
-天龙八部,https://lunbo.freetv.top/yy/1351814644
-【鹿鼎记】金庸经典,https://lunbo.freetv.top/yy/28265277
-林正英-经典电影,https://lunbo.freetv.top/yy/34229877
-家花与野花,https://lunbo.freetv.top/yy/1354420982
-超喜剧地下交通站男神贾贵,https://lunbo.freetv.top/yy/1353428972
-济公游记,https://lunbo.freetv.top/yy/1355265814
-随便看看,https://lunbo.freetv.top/yy/37454459
-交友林正英女鬼电影,https://lunbo.freetv.top/yy/1453996620
-【赌神片 动作片 港片】,https://lunbo.freetv.top/yy/1355112116
-热度榜1.包青天,https://lunbo.freetv.top/yy/22701868
-武林外传,https://lunbo.freetv.top/yy/1355652820
-赵本山《超清版》,https://lunbo.freetv.top/yy/1382683959
-经典动漫,https://lunbo.freetv.top/yy/22777075
-燕双鹰,https://lunbo.freetv.top/yy/1352227153
-狂飙,https://lunbo.freetv.top/yy/1382764587
-【战狼3吴京】独播,https://lunbo.freetv.top/yy/37999586
-纪晓岚,https://lunbo.freetv.top/yy/1352227227
-宰相刘罗锅,https://lunbo.freetv.top/yy/1353892468
-斗罗斗破动漫,https://lunbo.freetv.top/yy/1420843376
-狂飙,https://lunbo.freetv.top/yy/1382754187
-兔牙妹吖正在直播,https://lunbo.freetv.top/yy/1353782648
-英叔僵尸 3000部,https://lunbo.freetv.top/yy/1353685311
-66车讯,https://lunbo.freetv.top/yy/1382571192
-真实案件系列,https://lunbo.freetv.top/yy/1382671124
-神医喜来乐,https://lunbo.freetv.top/yy/1382714119
-欢乐集结号-每天笑不停,https://lunbo.freetv.top/yy/1382741642
-情满四合院,https://lunbo.freetv.top/yy/1382851524
-鹿鼎记-周星驰版,https://lunbo.freetv.top/yy/1354658049
-正阳门下,https://lunbo.freetv.top/yy/1354931580
-情满四合院-高分电视剧,https://lunbo.freetv.top/yy/1382735541
-【盜暮笔记】24h,https://lunbo.freetv.top/yy/1382702247
-宋小宝小品合集,https://lunbo.freetv.top/yy/1354931577
-83射雕英雄传,https://lunbo.freetv.top/yy/1354210357
-星爷经典-百看不厌,https://lunbo.freetv.top/yy/1382736808 
-经典鬼片3000部,https://lunbo.freetv.top/yy/29460894
-国产喜剧,https://lunbo.freetv.top/yy/1382736856
-火蓝刀锋,https://lunbo.freetv.top/yy/1382737892
-小沈阳春晚小品,https://lunbo.freetv.top/yy/1382749941
-丸子,https://lunbo.freetv.top/yy/1382851588
-少年包青天1~3蓝光版,https://lunbo.freetv.top/yy/38498680
-雪中悍刀行,https://lunbo.freetv.top/yy/1382660835
-电影百团大战,https://lunbo.freetv.top/yy/1382736871
-花儿开心吧,https://lunbo.freetv.top/yy/1354930984
-国内侦探电影大全,https://lunbo.freetv.top/yy/1354936134
-炊事班的故事II,https://lunbo.freetv.top/yy/1382736885
-地下交通站,https://lunbo.freetv.top/yy/1382736795
-德爷单挑荒野,https://lunbo.freetv.top/yy/27772604
-皮蛋影视 正在直播,https://lunbo.freetv.top/yy/23055599
-雍正王朝,https://lunbo.freetv.top/yy/23206872
-小蓉儿 正在直播,https://lunbo.freetv.top/yy/1351762426
-笑傲江湖 4K超清,https://lunbo.freetv.top/yy/1354282410
-【神雕侠侣】金庸经典,https://lunbo.freetv.top/yy/1382704651
-进来 陪你看动漫,https://lunbo.freetv.top/yy/1352866135 
-小甜甜 闯关东,https://lunbo.freetv.top/yy/1382658790
-二龙湖浩哥【经典搞笑】,https://lunbo.freetv.top/yy/28205255
-金牌配角达叔系列,https://lunbo.freetv.top/yy/1354888728
-雯子：港剧影视厅,https://lunbo.freetv.top/yy/1456829119
-血色浪漫,https://lunbo.freetv.top/yy/1354926676
-【动漫】斗罗斗破,https://lunbo.freetv.top/yy/1353098382
-火凤凰之战狼七,https://lunbo.freetv.top/yy/1463088777
-鹿鼎记-高清全集,https://lunbo.freetv.top/yy/1382704650
-同桌的你,https://lunbo.freetv.top/yy/1382851477
-鬼片港片美女陪你看,https://lunbo.freetv.top/yy/1335509613
-泡芙陪你看电影,https://lunbo.freetv.top/yy/24407222
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-【经典港片】佟瑶,https://lunbo.freetv.top/yy/23531261
-【新三国】萌儿陪看,https://lunbo.freetv.top/yy/29216766
-【港片】赌片 动作,https://lunbo.freetv.top/yy/24921161
-斗罗斗破精彩动漫,https://lunbo.freetv.top/yy/1507304388
-【少年歌行】,https://lunbo.freetv.top/yy/1354806550
-新白娘子传奇,https://lunbo.freetv.top/yy/1354490667
-燕双鹰专场,https://lunbo.freetv.top/yy/23026835
-神探狄仁杰,https://lunbo.freetv.top/yy/38338029
-【金超群】电视剧,https://lunbo.freetv.top/yy/1356158015
-丫头动漫 斗罗斗破,https://lunbo.freetv.top/yy/1458722520
-喜欢的小哥哥点点关注,https://lunbo.freetv.top/yy/98544634
-纪晓岚,https://lunbo.freetv.top/yy/22982216
-【新三国】吕布,https://lunbo.freetv.top/yy/1382851459
-倚天屠龙记,https://lunbo.freetv.top/yy/1449856066
-花千骨,https://lunbo.freetv.top/yy/1354943110
-隋唐英雄传,https://lunbo.freetv.top/yy/1352475619
-【港台】鬼片 惊悚 喜剧,https://lunbo.freetv.top/yy/1351030377
-神探狄仁杰,https://lunbo.freetv.top/yy/1351755386
-小美美 正在直播,https://lunbo.freetv.top/yy/1354143966
-经典 绝版 恐怖3000,https://lunbo.freetv.top/yy/84238895
-鬼片3000,https://lunbo.freetv.top/yy/1460889796
-武侠港片电影,https://lunbo.freetv.top/yy/1451866697
-新主播求照顾,https://lunbo.freetv.top/yy/29197808
-港片电影,https://lunbo.freetv.top/yy/33897188
-案发现场（1-3）,https://lunbo.freetv.top/yy/31368110
-康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
-武林外传,https://lunbo.freetv.top/yy/1454629602
-鹊刀门,https://lunbo.freetv.top/yy/1355344777
-经典鬼片,https://lunbo.freetv.top/yy/1508828185
-妹子高分搞笑电影,https://lunbo.freetv.top/yy/33478222
-少年包青天,https://lunbo.freetv.top/yy/1356043677
-鹊刀门传奇,https://lunbo.freetv.top/yy/1382745997
-【动漫】斗罗斗破超清全屏,https://lunbo.freetv.top/yy/28796627
-天龙神雕经典回忆,https://lunbo.freetv.top/yy/68260522
-倚天屠龙记,https://lunbo.freetv.top/yy/33300793
-燕双鹰,https://lunbo.freetv.top/yy/1354143942
-雍正王朝,https://lunbo.freetv.top/yy/1356043620
-超清经典港片,https://lunbo.freetv.top/yy/1356180261
-东北一家人,https://lunbo.freetv.top/yy/1355273385
-封神榜,https://lunbo.freetv.top/yy/1382797534
-勇敢的心,https://lunbo.freetv.top/yy/1354744544
-摸金 盗暮,https://lunbo.freetv.top/yy/1459714870
-弹幕天团 下饭神剧,https://lunbo.freetv.top/yy/23512910
-(周星驰)超经典搞笑电影,https://lunbo.freetv.top/yy/29945997
-正阳门下 正在直播,https://lunbo.freetv.top/yy/1453059740
-新三国,https://lunbo.freetv.top/yy/26744898
-荒野求生德爷,https://lunbo.freetv.top/yy/36949900
-国漫 一起看正在直播,https://lunbo.freetv.top/yy/1351417866
-【案发现场】1-4部全集,https://lunbo.freetv.top/yy/33567888
-你不知道的汽车冷知识,https://lunbo.freetv.top/yy/1346966327
-大家车言论,https://lunbo.freetv.top/yy/1382570702
-24【动漫】正在直播,https://lunbo.freetv.top/yy/1350984033
-经典动漫,https://lunbo.freetv.top/yy/24180320
-动漫,https://lunbo.freetv.top/yy/25055036
-飞哥全集乐乐陪看】,https://lunbo.freetv.top/yy/1352946111
-鬼片 恐怖片,https://lunbo.freetv.top/yy/1455891197
-无敌燕双鹰,https://lunbo.freetv.top/yy/1354825244
-送欢乐,https://lunbo.freetv.top/yy/34093016
-雨馨 正在直播,https://lunbo.freetv.top/yy/1354768828
-西游记后传 蓝光,https://lunbo.freetv.top/yy/1353392400
-小兵张嘎,https://lunbo.freetv.top/yy/1354930225
-新白娘子传奇-女神赵雅芝,https://lunbo.freetv.top/yy/1354930969
-赌神-发哥,https://lunbo.freetv.top/yy/1354889044
-西游记后传,https://lunbo.freetv.top/yy/1382736846
-杭小妞,https://lunbo.freetv.top/yy/1382851590
-神探狄仁杰1,https://lunbo.freetv.top/yy/1382851575
-初恋脸,https://lunbo.freetv.top/yy/1382851597
-澳门风云,https://lunbo.freetv.top/yy/1459243913
-国内喜剧,https://lunbo.freetv.top/yy/1382735563
-笑声传奇,https://lunbo.freetv.top/yy/1382736880
-神探狄仁杰2,https://lunbo.freetv.top/yy/1382828767
-双月之城-国漫,https://lunbo.freetv.top/yy/1382736907
-天道-9.2高分好剧,https://lunbo.freetv.top/yy/1382735574
-少年包青天第三部,https://lunbo.freetv.top/yy/1382736814
-父母爱情,https://lunbo.freetv.top/yy/1382746276
-父母爱情,https://lunbo.freetv.top/yy/1354926650
-法证先锋,https://lunbo.freetv.top/yy/1354930939
-宝莲灯前传,https://lunbo.freetv.top/yy/1354931631
-都挺好-电视剧,https://lunbo.freetv.top/yy/1382736892
-恋歌,https://lunbo.freetv.top/yy/1382851594
-三国演义,https://lunbo.freetv.top/yy/32788000
-神探狄仁杰1,https://lunbo.freetv.top/yy/1354930934
-我的体育老师,https://lunbo.freetv.top/yy/1382745169
-神探狄仁杰2,https://lunbo.freetv.top/yy/1382851146
-情满四合院,https://lunbo.freetv.top/yy/1382736848
-情满四合院,https://lunbo.freetv.top/yy/1382736888
-炊事班的故事III,https://lunbo.freetv.top/yy/1382736716
-颜值永远在线,https://lunbo.freetv.top/yy/1382851582
-风筝,https://lunbo.freetv.top/yy/1382828770
-速度与激情系列！-精彩大片,https://lunbo.freetv.top/yy/1382736911
-贾玲春晚小品,https://lunbo.freetv.top/yy/1382736720
-炊事班的故事,https://lunbo.freetv.top/yy/1382749901
-绝版鬼片电影,https://lunbo.freetv.top/yy/1382743247
-三国演义94年经典版,https://lunbo.freetv.top/yy/1354936241
-我的前半生,https://lunbo.freetv.top/yy/1382735564
-张国荣与周润发的兄弟情,https://lunbo.freetv.top/yy/1354930961
-康熙王朝,https://lunbo.freetv.top/yy/1382736818
-笑傲江湖,https://lunbo.freetv.top/yy/1354930909
-【杉杉来了】赵丽颖,https://lunbo.freetv.top/yy/23458682
-大话西游至尊宝,https://lunbo.freetv.top/yy/1382736910
-经典电影,https://lunbo.freetv.top/yy/1450556636
-【破案 悬疑 港剧】,https://lunbo.freetv.top/yy/1382800083
-《石敢当》六耳猕猴,https://lunbo.freetv.top/yy/1394156613
-鬼经典老片,https://lunbo.freetv.top/yy/1463783198
-《仙侠》开局无敌了,https://lunbo.freetv.top/yy/29600150
-【战狼3吴京】首播,https://lunbo.freetv.top/yy/1456668939
-盗暮惊悚妖魔,https://lunbo.freetv.top/yy/1382765507
-欧美经典惊悚灾难,https://lunbo.freetv.top/yy/1382656234
-寻秦记-穿越剧经典,https://lunbo.freetv.top/yy/1382749900
-破案港剧,https://lunbo.freetv.top/yy/1350670730
-2024盗幕鬼怪,https://lunbo.freetv.top/yy/1355171231
-震撼！国内功夫大片,https://lunbo.freetv.top/yy/1382736902
-【且试.护心】 ~,https://lunbo.freetv.top/yy/29067083
-僵尸女鬼电影,https://lunbo.freetv.top/yy/1457229809
-法海又来抓妖了,https://lunbo.freetv.top/yy/1356326727
-24h 我爱我家 纯音频,https://lunbo.freetv.top/yy/1356212303
-狄仁杰等你哦,https://lunbo.freetv.top/yy/1457579747
-鬼片恐怖私人影院,https://lunbo.freetv.top/yy/1354952229
-【聚星】娜娜,https://lunbo.freetv.top/yy/1382851479
-林正英经典,https://lunbo.freetv.top/yy/1353312849
-《一剑开天门》,https://lunbo.freetv.top/yy/34313906
-精彩动漫斗罗斗破,https://lunbo.freetv.top/yy/76101626
-【动漫】斗罗斗破超清全屏,https://lunbo.freetv.top/yy/1382689904
-布丁-玄幻电影正在直播,https://lunbo.freetv.top/yy/1455460998
-武林外传,https://lunbo.freetv.top/yy/1353852605
-三国演义 超,https://lunbo.freetv.top/yy/1508901692
-全职高手,https://lunbo.freetv.top/yy/26870427
-薛元帅传奇,https://lunbo.freetv.top/yy/31313785
-24H地下交通站全,https://lunbo.freetv.top/yy/37880083
-【周星驰】搞笑电影,https://lunbo.freetv.top/yy/38670875
-影视剧场,https://lunbo.freetv.top/yy/1355260855
-【电影】超然巨作,https://lunbo.freetv.top/yy/26623173
-天龙八部黄日华,https://lunbo.freetv.top/yy/1461037999
-斗罗斗破,https://lunbo.freetv.top/yy/1354768831
-新主播求照顾,https://lunbo.freetv.top/yy/1382690406
-【陪你看】金刚葫芦娃,https://lunbo.freetv.top/yy/1353323999
-精彩玄幻电影,https://lunbo.freetv.top/yy/1382688400
-雪中悍刀行,https://lunbo.freetv.top/yy/1460836818
-动漫,https://lunbo.freetv.top/yy/1382747970
-小宝 天龙 神雕金庸,https://lunbo.freetv.top/yy/1356043609
-【林正英】僵尸 鬼片,https://lunbo.freetv.top/yy/30668277
-少年包青天三,https://lunbo.freetv.top/yy/61318527
-火炬手,https://lunbo.freetv.top/yy/1382851618
-公主陪看老酒馆,https://lunbo.freetv.top/yy/1356254650
-军旅剧（回忆经典）,https://lunbo.freetv.top/yy/1356306672
-动漫,https://lunbo.freetv.top/yy/26664495
-放羊的星星,https://lunbo.freetv.top/yy/1355260662
-Ｔ.Ｓ.Ｌ.-东门仔,https://lunbo.freetv.top/yy/1382861117
-神探狄仁杰1—5部全集,https://lunbo.freetv.top/yy/1382705592
-奇领 铁山靠【Y 正在直播,https://lunbo.freetv.top/yy/41584371
-抗日奇侠,https://lunbo.freetv.top/yy/22089862
-斗破苍穹斗罗大玄幻修仙剧,https://lunbo.freetv.top/yy/1356051105
-24小时循环播电视剧,https://lunbo.freetv.top/yy/53320802
-【新三国】日版,https://lunbo.freetv.top/yy/1382851457
-枕上书正在直播,https://lunbo.freetv.top/yy/1351844200
-超精彩！系列动作电影,https://lunbo.freetv.top/yy/1382745096
-二号交通站,https://lunbo.freetv.top/yy/1382735582
-洪金宝福星系列,https://lunbo.freetv.top/yy/1354924839
-雪儿 正在直播,https://lunbo.freetv.top/yy/1354143938
-动作大片-热血开打,https://lunbo.freetv.top/yy/1354936168
-士兵突击,https://lunbo.freetv.top/yy/1382851600
-国内喜剧,https://lunbo.freetv.top/yy/1382736862
-你最爱的宋小宝,https://lunbo.freetv.top/yy/1354936198
-院线动作大片,https://lunbo.freetv.top/yy/1382736900
-宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
-燃爆动作片,https://lunbo.freetv.top/yy/1382736801
-萌萌爱追剧,https://lunbo.freetv.top/yy/1382745093
-木乃伊全集,https://lunbo.freetv.top/yy/1354889024
-今夜欢乐颂,https://lunbo.freetv.top/yy/1382735572
-雪中悍刀行,https://lunbo.freetv.top/yy/59719179
-魔幻手机,https://lunbo.freetv.top/yy/1382735544
-热血战争巨作,https://lunbo.freetv.top/yy/1382745087
-夏洛特烦恼-国内电影-喜剧,https://lunbo.freetv.top/yy/1354936201
-熊出没之探险日记S1-国漫,https://lunbo.freetv.top/yy/1354930977
-你是最美的风景,https://lunbo.freetv.top/yy/1382851599
-教画画了。,https://lunbo.freetv.top/yy/25696285
-读心神探,https://lunbo.freetv.top/yy/1382736875
-高分科幻动作片,https://lunbo.freetv.top/yy/1382749948
-人生必看的科幻片,https://lunbo.freetv.top/yy/1382745114
-毅哥说车,https://lunbo.freetv.top/yy/1339366360
-伪装者,https://lunbo.freetv.top/yy/1354936244
-欢天喜地七仙女,https://lunbo.freetv.top/yy/1382735553
-军旅电视剧,https://lunbo.freetv.top/yy/1352575322
-欢乐颂,https://lunbo.freetv.top/yy/1382851577
-小欢喜,https://lunbo.freetv.top/yy/1382737888
-纯纯纯儿,https://lunbo.freetv.top/yy/1382851589
-生逢灿烂的日子,https://lunbo.freetv.top/yy/1382745085
-热血动作电影,https://lunbo.freetv.top/yy/1382736804
-时光的海,https://lunbo.freetv.top/yy/1382851579
-李连杰功夫 经典武侠,https://lunbo.freetv.top/yy/74613175
-我爱我家,https://lunbo.freetv.top/yy/1382735557
-黑冰,https://lunbo.freetv.top/yy/1354932427
-传奇英雄,https://lunbo.freetv.top/yy/1382735578
-新水浒传,https://lunbo.freetv.top/yy/1353215589
-最美的青春,https://lunbo.freetv.top/yy/1382851530
-中国味道 第4季-美食纪录片,https://lunbo.freetv.top/yy/1382736845
-【盜暮笔记】24h,https://lunbo.freetv.top/yy/1356373644
-新世界,https://lunbo.freetv.top/yy/1382736850
-福贵,https://lunbo.freetv.top/yy/1354926537
-金婚,https://lunbo.freetv.top/yy/1382828768
-纪晓岚,https://lunbo.freetv.top/yy/1382781415
-【新三国】,https://lunbo.freetv.top/yy/1382851415
-神雕侠侣,https://lunbo.freetv.top/yy/1460913377
-霹雳火,https://lunbo.freetv.top/yy/1356326459
-妖神记之黑狱篇,https://lunbo.freetv.top/yy/1382745173
-体验另一种生活！,https://lunbo.freetv.top/yy/1354936229
-喜剧闹翻天,https://lunbo.freetv.top/yy/1382735548
-易中天品三国完整版,https://lunbo.freetv.top/yy/1461244449
-战狼7吴京退役,https://lunbo.freetv.top/yy/1382773714
-国内玄幻电影-林正英,https://lunbo.freetv.top/yy/1354932444
-欢乐颂,https://lunbo.freetv.top/yy/1382735624
-盗暮 老九门,https://lunbo.freetv.top/yy/1382763739
-牛大叔提干,https://lunbo.freetv.top/yy/1382851615
-神探包青天,https://lunbo.freetv.top/yy/1457622044
-【科幻】超炫特效,https://lunbo.freetv.top/yy/37988782
-冯巩 牛群,https://lunbo.freetv.top/yy/1382851476
-《武林外传》武侠,https://lunbo.freetv.top/yy/1394000563
-【天龙八部】蓝光超清,https://lunbo.freetv.top/yy/28996058
-倚天屠龙记,https://lunbo.freetv.top/yy/1356043643
-案发现场全集,https://lunbo.freetv.top/yy/1354775242
-【电视剧】士兵突击,https://lunbo.freetv.top/yy/96731358
-探案！探案！,https://lunbo.freetv.top/yy/1382829413
-动漫,https://lunbo.freetv.top/yy/23993334
-花千骨,https://lunbo.freetv.top/yy/1508456184
-暖暖1999,https://lunbo.freetv.top/yy/1382851591
-非诚勿扰,https://lunbo.freetv.top/yy/1382735583
-西游记张卫健版,https://lunbo.freetv.top/yy/1354936155
-小宝让你乐翻天：6到9集,https://lunbo.freetv.top/yy/1354930971
-经典动作电影,https://lunbo.freetv.top/yy/1370293254
-欢乐集结号,https://lunbo.freetv.top/yy/1354931582
-野山鹰-影视剧,https://lunbo.freetv.top/yy/1354932395
-国产大片电影,https://lunbo.freetv.top/yy/1354926655
-热血抗日电影,https://lunbo.freetv.top/yy/1382749907
-大进军全集：红色系列电影,https://lunbo.freetv.top/yy/1382745083
-爆笑小品,https://lunbo.freetv.top/yy/1354931503
-金星脱口秀：我敢说你敢听吗,https://lunbo.freetv.top/yy/1382735552
-经典抗日电影,https://lunbo.freetv.top/yy/1354936141
-动物世界,https://lunbo.freetv.top/yy/1382749889
-天下第一,https://lunbo.freetv.top/yy/1382736838
-魔幻手机,https://lunbo.freetv.top/yy/1382851541
-国内科幻,https://lunbo.freetv.top/yy/1354936170
-法证先锋Ⅱ,https://lunbo.freetv.top/yy/1354888736
-欢乐集结号,https://lunbo.freetv.top/yy/1382735550
-仙剑奇侠传-神仙姐姐驾到,https://lunbo.freetv.top/yy/1382749903
-黑衣人1、2—动作喜剧大片,https://lunbo.freetv.top/yy/1354930936
-深夜惊悚大片,https://lunbo.freetv.top/yy/1382745110
-活力满满,https://lunbo.freetv.top/yy/1382851585
-超燃科幻大片：明日边缘,https://lunbo.freetv.top/yy/1382736835
-晨晨的影视小窝,https://lunbo.freetv.top/yy/1382851576
-超英集结,https://lunbo.freetv.top/yy/1382745091
-国内经典动作电影,https://lunbo.freetv.top/yy/1382851522
-深海利剑,https://lunbo.freetv.top/yy/1382736906
-小敏,https://lunbo.freetv.top/yy/1382736890
-红楼梦1987经典版,https://lunbo.freetv.top/yy/1382745084
-本山快乐营,https://lunbo.freetv.top/yy/1354933529
-国内战争电影,https://lunbo.freetv.top/yy/1382736865
-欢乐一起看,https://lunbo.freetv.top/yy/1354930926
-Blingbling,https://lunbo.freetv.top/yy/1382851598
-三国演义【1994】,https://lunbo.freetv.top/yy/1354930932
-非诚勿扰,https://lunbo.freetv.top/yy/1382745106
-国内科幻片来袭,https://lunbo.freetv.top/yy/1354930821
-动物世界-领略原始野性,https://lunbo.freetv.top/yy/1382743138
-亲爱的热爱的,https://lunbo.freetv.top/yy/1354932433
-国外黑色喜剧：冷幽默小剧场,https://lunbo.freetv.top/yy/1382745175
-国外科幻,https://lunbo.freetv.top/yy/1382736800
-特种兵归来-国产电影,https://lunbo.freetv.top/yy/1382735581
-笑傲帮,https://lunbo.freetv.top/yy/1382735555
-高分动作大片-热血出击,https://lunbo.freetv.top/yy/1382736909
-丛林敢死队-国内电影,https://lunbo.freetv.top/yy/1354936214
-少年包青天第三部,https://lunbo.freetv.top/yy/1382851540
-欢乐集结号2,https://lunbo.freetv.top/yy/1354930919
-法证先锋2,https://lunbo.freetv.top/yy/1382736870
-了不起的萝莉小玲,https://lunbo.freetv.top/yy/1382736799
-国产喜剧,https://lunbo.freetv.top/yy/1382735584
-漫威超级英雄系列,https://lunbo.freetv.top/yy/1354932402
-许多多,https://lunbo.freetv.top/yy/1382851583
-以家人之名,https://lunbo.freetv.top/yy/1382736908
-施公奇案1-欧阳震华,https://lunbo.freetv.top/yy/1382749918
-本山快乐营1,https://lunbo.freetv.top/yy/1354936209
-大明王朝,https://lunbo.freetv.top/yy/1382736879
-加勒比海盗系列,https://lunbo.freetv.top/yy/1382749914
-聊斋志异S1,https://lunbo.freetv.top/yy/1382736975
-巩汉林春晚小品合集,https://lunbo.freetv.top/yy/1354889035
-中国第一神探-狄仁杰,https://lunbo.freetv.top/yy/1354932438
-宋小宝春晚小品合集,https://lunbo.freetv.top/yy/1382736866
-�潘磕惺康谝患�-国产喜剧,https://lunbo.freetv.top/yy/1382741637
-小鬼当家-童年回忆,https://lunbo.freetv.top/yy/1382745104
-穿越时空的爱恋,https://lunbo.freetv.top/yy/1382735567
-国外高分大片,https://lunbo.freetv.top/yy/1382736867
-心中的白月光,https://lunbo.freetv.top/yy/1382851580
-吐槽大会 第1季,https://lunbo.freetv.top/yy/1354936210
-美国队长史蒂夫,https://lunbo.freetv.top/yy/1382736813
-机械战警1-3,https://lunbo.freetv.top/yy/1382736854
-法证先锋Ⅲ,https://lunbo.freetv.top/yy/1382736802
-洪大哥系列,https://lunbo.freetv.top/yy/1354888743
-吐槽大会 第2季,https://lunbo.freetv.top/yy/1354936145
-易中天品三国,https://lunbo.freetv.top/yy/1354931498
-叛逆者,https://lunbo.freetv.top/yy/1382736868
-X战警系列电影,https://lunbo.freetv.top/yy/1382736893
-探秘中华美食,https://lunbo.freetv.top/yy/1354930954
-平凡岁月,https://lunbo.freetv.top/yy/1382745117
-大唐双龙传,https://lunbo.freetv.top/yy/1354930979
-大汉贤后卫子夫,https://lunbo.freetv.top/yy/1382735569
-哈利波特全集,https://lunbo.freetv.top/yy/1382745105
-舌尖上的中国第2季,https://lunbo.freetv.top/yy/1354930943
-鹿鼎记-陈小春版,https://lunbo.freetv.top/yy/1382736920
-野性欧洲,https://lunbo.freetv.top/yy/1354926622
-经典大片合集,https://lunbo.freetv.top/yy/1382749895
-香港动作大片,https://lunbo.freetv.top/yy/1382736816
-心理追凶-港剧,https://lunbo.freetv.top/yy/1354936207
-田园生活,https://lunbo.freetv.top/yy/1382736898
-漫画解说,https://lunbo.freetv.top/yy/1382735568
-飓风营救,https://lunbo.freetv.top/yy/1382735547
-河山,https://lunbo.freetv.top/yy/1382749952
-蜥蜴世界,https://lunbo.freetv.top/yy/1382735545
-神厨小福贵,https://lunbo.freetv.top/yy/1382736860
-白夜追凶第一季,https://lunbo.freetv.top/yy/1354932359
-非诚勿扰,https://lunbo.freetv.top/yy/1382745100
-开心小泡芙,https://lunbo.freetv.top/yy/1382851578
-精彩动作电影,https://lunbo.freetv.top/yy/1382736823
-忠烈杨家将,https://lunbo.freetv.top/yy/1382749909
-热门喜剧,https://lunbo.freetv.top/yy/1354931495
-笑傲江湖 第2季,https://lunbo.freetv.top/yy/1382736914
-无敌县令,https://lunbo.freetv.top/yy/1354932390
-降服魔女的手段-泰剧,https://lunbo.freetv.top/yy/1354932405
-我的父亲我的兵,https://lunbo.freetv.top/yy/1353413714
-宫心计,https://lunbo.freetv.top/yy/1382828769
-老广的味道 第3季-美食纪录片,https://lunbo.freetv.top/yy/1382735565
-大汉天子S2,https://lunbo.freetv.top/yy/1382736807
-岳云鹏宋小宝也来演电影了？,https://lunbo.freetv.top/yy/1354926612
-国外动作大片,https://lunbo.freetv.top/yy/1382735540
-科幻片：来看神奇的地球,https://lunbo.freetv.top/yy/1354930897
-迷,https://lunbo.freetv.top/yy/1382736719
-珍珠港-电影,https://lunbo.freetv.top/yy/1354936234
-钟馗传说,https://lunbo.freetv.top/yy/1382736839
-笑傲江湖 第1季,https://lunbo.freetv.top/yy/1382749896
-十大经典港剧之《大时代》,https://lunbo.freetv.top/yy/1354930891
-学生兵,https://lunbo.freetv.top/yy/1354658003
-粉红女郎,https://lunbo.freetv.top/yy/1354888671
-渴望,https://lunbo.freetv.top/yy/1354930963
-妖神记,https://lunbo.freetv.top/yy/1382745171
-大江大河-高分影视推荐,https://lunbo.freetv.top/yy/1382736806
-回家的诱惑,https://lunbo.freetv.top/yy/1354658043
-老司机带你开眼界,https://lunbo.freetv.top/yy/1349538007
-舌尖上的中国第一季,https://lunbo.freetv.top/yy/1354930952
-致敬星爷致敬经典,https://lunbo.freetv.top/yy/1354889048
-洪金宝福星系列,https://lunbo.freetv.top/yy/1382851602
-宫心计,https://lunbo.freetv.top/yy/1354932429
-农家小菜,https://lunbo.freetv.top/yy/1382736894
-欢乐集结号4,https://lunbo.freetv.top/yy/1382736889
-小米粒Mili,https://lunbo.freetv.top/yy/1382736842
-流金岁月-经典港剧,https://lunbo.freetv.top/yy/1382736891
-编辑部的故事,https://lunbo.freetv.top/yy/1354936120
-热血动作片合集,https://lunbo.freetv.top/yy/1382735627
-热播国内侦探片,https://lunbo.freetv.top/yy/1382736820
-本山快乐营-爆笑小品,https://lunbo.freetv.top/yy/1354930948
-欢乐集结号3,https://lunbo.freetv.top/yy/1382736822
-经典搞笑影片,https://lunbo.freetv.top/yy/1382749878
-赌神3之少年赌神,https://lunbo.freetv.top/yy/1382749912
-大汉天子S1,https://lunbo.freetv.top/yy/1382749902
-谈判专家,https://lunbo.freetv.top/yy/1382735560
-战争大片,https://lunbo.freetv.top/yy/1382736819
-华子系列,https://lunbo.freetv.top/yy/1354888726
-小小飞虎队,https://lunbo.freetv.top/yy/1382749888
-你最爱的小龙女-神雕侠侣,https://lunbo.freetv.top/yy/1354926637
-小公举,https://lunbo.freetv.top/yy/1382745124
-远去的飞鹰-影视剧,https://lunbo.freetv.top/yy/1354930912
-法外风云,https://lunbo.freetv.top/yy/1382736805
-解放：苏联战争巨片,https://lunbo.freetv.top/yy/1354936249
-最美的青春,https://lunbo.freetv.top/yy/1382745116
-真心想让你幸福,https://lunbo.freetv.top/yy/1382736876
-王朝-自然-纪录片,https://lunbo.freetv.top/yy/1354930927
-动作大片,https://lunbo.freetv.top/yy/1354930887
-国产喜剧大片,https://lunbo.freetv.top/yy/1382745113
-请回答1988,https://lunbo.freetv.top/yy/1354932362
-法证先锋Ⅳ,https://lunbo.freetv.top/yy/1354932426
-国外科幻片,https://lunbo.freetv.top/yy/1382735585
-烧脑悬疑电影,https://lunbo.freetv.top/yy/1382735571
-妖神记-全集,https://lunbo.freetv.top/yy/1382735551
-最后的狮子-探险纪录片,https://lunbo.freetv.top/yy/1382735577
-黄大妮-电视剧,https://lunbo.freetv.top/yy/1354930904
-巾帼枭雄之义海豪情,https://lunbo.freetv.top/yy/1382736859
-一起来笑吧,https://lunbo.freetv.top/yy/1454859415
-重生之超级赛亚人,https://lunbo.freetv.top/yy/1354936124
-脑洞大开的精彩科幻片,https://lunbo.freetv.top/yy/1382736723
-开心麻花街,https://lunbo.freetv.top/yy/1354926643
-单挑荒野第一季,https://lunbo.freetv.top/yy/1354933535
-憨豆先生-经典喜剧,https://lunbo.freetv.top/yy/1354936239
-馋哭了！川味来袭,https://lunbo.freetv.top/yy/1382736913
-百家讲坛-红楼梦篇,https://lunbo.freetv.top/yy/1382741639
-寻秦记,https://lunbo.freetv.top/yy/1354658048
-笑傲江湖-电视剧,https://lunbo.freetv.top/yy/1354936128
-笑到飞起！阿拉丁与神灯,https://lunbo.freetv.top/yy/1382749950
-赵本山爆笑小品2,https://lunbo.freetv.top/yy/1354936217
-大江大河2-高分影视推荐,https://lunbo.freetv.top/yy/1382736797
-大汉天子S3,https://lunbo.freetv.top/yy/1382736810
-外国战争大片,https://lunbo.freetv.top/yy/1382736872
-侏罗纪公园三部曲,https://lunbo.freetv.top/yy/1354936191
-去有风的地方,https://lunbo.freetv.top/yy/1382736874
-缺宅男女-精彩港剧,https://lunbo.freetv.top/yy/1382745088
-百家讲坛-之女皇武则天,https://lunbo.freetv.top/yy/1354889015
-本山快乐营,https://lunbo.freetv.top/yy/1382736852
-相声相声搜38528频道,https://lunbo.freetv.top/yy/34025318
-老夫少妻搞笑忘年恋,https://lunbo.freetv.top/yy/1354932391
-蒲松龄—经典港剧,https://lunbo.freetv.top/yy/1354889042
-一分钟学道菜,https://lunbo.freetv.top/yy/1382736901
-超激烈的猎食场面,https://lunbo.freetv.top/yy/1382749898
-羊羊扛狼亿少女的噩梦,https://lunbo.freetv.top/yy/1354921392
-最新喜剧电影,https://lunbo.freetv.top/yy/1354936136
-国外最强动作大片！,https://lunbo.freetv.top/yy/1354936157
-四大名捕2,https://lunbo.freetv.top/yy/1382736916
-金婚,https://lunbo.freetv.top/yy/1382736832
-悬疑破案！施公奇案全季,https://lunbo.freetv.top/yy/1382749905
-欢乐集结号58-70,https://lunbo.freetv.top/yy/1382745119
-热血战争片,https://lunbo.freetv.top/yy/1354932409
-小生物的故事,https://lunbo.freetv.top/yy/1382736834
-机场超燃警匪片,https://lunbo.freetv.top/yy/1382735576
-公主嫁到,https://lunbo.freetv.top/yy/1382736915
-无罪推定—经典律政港剧,https://lunbo.freetv.top/yy/1354936203
-永远的经典系列,https://lunbo.freetv.top/yy/1354930204
-机动步队,https://lunbo.freetv.top/yy/1354932371
-来自星星的你,https://lunbo.freetv.top/yy/1354930976
-飞虎之雷霆极战,https://lunbo.freetv.top/yy/1382736869
-超燃动作大片,https://lunbo.freetv.top/yy/1382749940
-银河护卫队-国外科幻巨作,https://lunbo.freetv.top/yy/1382736815
-超级英雄系列电影,https://lunbo.freetv.top/yy/1382736863
-宫心计-港剧-古装,https://lunbo.freetv.top/yy/1354933540
-怪医文三块-影视剧,https://lunbo.freetv.top/yy/1354936154
-重返校园电影合集,https://lunbo.freetv.top/yy/1354930965
-地球上的地狱,https://lunbo.freetv.top/yy/1382736918
-雷神系列,https://lunbo.freetv.top/yy/1354932441
-怀旧小品,https://lunbo.freetv.top/yy/1382736821
-卧虎藏龙-李安执导,https://lunbo.freetv.top/yy/1382736849
-空谷幽兰,https://lunbo.freetv.top/yy/1382745182
-惊险动作大片！挑战心脏,https://lunbo.freetv.top/yy/1354932407
-爆笑抗日！厨子戏子痞子,https://lunbo.freetv.top/yy/1354930816
-蜘蛛侠-院线大片,https://lunbo.freetv.top/yy/1354926671
-白鹿原,https://lunbo.freetv.top/yy/1354931488
-缺宅男女,https://lunbo.freetv.top/yy/1354930937
-国产动作电影,https://lunbo.freetv.top/yy/1382736858
-守望的天空-泪目电视剧,https://lunbo.freetv.top/yy/1382736843
-高分港剧合集,https://lunbo.freetv.top/yy/1382735542
-中国合伙人,https://lunbo.freetv.top/yy/1354658051
-名媛望族-精彩港剧,https://lunbo.freetv.top/yy/1354932431
-陈情令,https://lunbo.freetv.top/yy/1382745121
-蔡明春晚小品,https://lunbo.freetv.top/yy/1354936177
-欢乐集结号,https://lunbo.freetv.top/yy/1382749911
-尽享国内精彩战争片,https://lunbo.freetv.top/yy/1382745094
-【武林客栈】,https://lunbo.freetv.top/yy/1382773728
-金装四大才子,https://lunbo.freetv.top/yy/1354926600
-科幻大片,https://lunbo.freetv.top/yy/1382745181
-娘亲舅大,https://lunbo.freetv.top/yy/1354932360
-俺娘田小草,https://lunbo.freetv.top/yy/1382741638
-宇宙护卫队--国漫,https://lunbo.freetv.top/yy/1382736837
-喜乐街,https://lunbo.freetv.top/yy/1354936231
-强悍“杀猪婆”的励志人生,https://lunbo.freetv.top/yy/1354658062
-丈夫在外有人？真相竟然是！,https://lunbo.freetv.top/yy/1354932375
-家有九凤-影视剧,https://lunbo.freetv.top/yy/1354930894
-回家的诱惑-狗血剧巅峰,https://lunbo.freetv.top/yy/1382851148
-复仇者联盟4：终局之战,https://lunbo.freetv.top/yy/1354936167
-金玉满堂：精彩港剧,https://lunbo.freetv.top/yy/1382736881
-下饭喜剧电影,https://lunbo.freetv.top/yy/1382736844
-【科幻电影】,https://lunbo.freetv.top/yy/1355065896
-9.8分！这部纪录片封神了,https://lunbo.freetv.top/yy/1382736825
-飞虎之潜行极战,https://lunbo.freetv.top/yy/1354932420
-影视剧-林深见鹿,https://lunbo.freetv.top/yy/1345494225
-功夫婆媳-家庭剧,https://lunbo.freetv.top/yy/1382736883
-风靡全球的谍战片,https://lunbo.freetv.top/yy/1382736817
-007系列大片,https://lunbo.freetv.top/yy/1382736897
-超炫科幻大片,https://lunbo.freetv.top/yy/1382736840
-故事里的中国全季,https://lunbo.freetv.top/yy/1382736798
-发哥系列,https://lunbo.freetv.top/yy/1354888733
-国家宝藏 第二季,https://lunbo.freetv.top/yy/1382736853
-电视剧 狂飙,https://lunbo.freetv.top/yy/70163211
-三个臭皮匠顶一个诸葛亮,https://lunbo.freetv.top/yy/1354936221
-仙灵儿,https://lunbo.freetv.top/yy/1382736887
-雪中悍刀行,https://lunbo.freetv.top/yy/1462996362
-动作大片,https://lunbo.freetv.top/yy/1354888739
-玩命直播（普通话）,https://lunbo.freetv.top/yy/1382736841
-大家都在看的警匪片,https://lunbo.freetv.top/yy/1354930964
-第8号当铺,https://lunbo.freetv.top/yy/1382736905
-什么会让你快乐,https://lunbo.freetv.top/yy/54886912
-闲暇观看综艺,https://lunbo.freetv.top/yy/1354932379
-武侠电视剧,https://lunbo.freetv.top/yy/1459331991
-李三枪-抗战影视剧,https://lunbo.freetv.top/yy/1354936122
-拆弹专家-刘德华,https://lunbo.freetv.top/yy/1382745111
-男亲女爱-经典港剧,https://lunbo.freetv.top/yy/1382736715
-战狼10086,https://lunbo.freetv.top/yy/1382773686
-公公出宫-港剧,https://lunbo.freetv.top/yy/1354936208
-卖拐,https://lunbo.freetv.top/yy/1382851469
-萌鸡小队S1-国漫,https://lunbo.freetv.top/yy/1382736904
-国威影院 仙侠系列,https://lunbo.freetv.top/yy/1354866665
-岳云鹏-屌丝也能追到美女,https://lunbo.freetv.top/yy/1382736882
-大家都爱看的港剧,https://lunbo.freetv.top/yy/1382736861
-粟裕大将-影视,https://lunbo.freetv.top/yy/1354926542
-国内最新战争大片,https://lunbo.freetv.top/yy/1382745189
-国内动作大片,https://lunbo.freetv.top/yy/1382749917
-能耐大了第1季,https://lunbo.freetv.top/yy/1354930195
-哥斯拉1,https://lunbo.freetv.top/yy/1382736833
-铭记历史-甲午大海战,https://lunbo.freetv.top/yy/1354936195
-悬崖上的金鱼公主：宫崎骏系列,https://lunbo.freetv.top/yy/1354926666
-越哥说电影,https://lunbo.freetv.top/yy/1382745099
-狂飙,https://lunbo.freetv.top/yy/28298966
-传奇之王-影视剧,https://lunbo.freetv.top/yy/1354926735
-原始人大挑战,https://lunbo.freetv.top/yy/1382736884
-经典电影 电视剧,https://lunbo.freetv.top/yy/1354690927
-再向虎山行,https://lunbo.freetv.top/yy/1355823667
-请回答1988-高分韩剧,https://lunbo.freetv.top/yy/1354936228
-丁大命,https://lunbo.freetv.top/yy/1382735579
-恐怖鬼片嘎嘎好看,https://lunbo.freetv.top/yy/1355485328
-吐槽大会 第5季,https://lunbo.freetv.top/yy/1354889009
-风味原产地潮汕,https://lunbo.freetv.top/yy/1382745178
-太空生命？高分科幻电影开播,https://lunbo.freetv.top/yy/1382851586
-另类民兵葛二蛋,https://lunbo.freetv.top/yy/1382736895
-海王-院线大片,https://lunbo.freetv.top/yy/1354936142
-灌篮高手,https://lunbo.freetv.top/yy/1382735559
-少年包青天,https://lunbo.freetv.top/yy/1356331540
-动漫奥斯卡正在直播,https://lunbo.freetv.top/yy/1382626335
-心病,https://lunbo.freetv.top/yy/1382851474
-家族荣耀-精彩港剧,https://lunbo.freetv.top/yy/1382745103
-来看修牛蹄,https://lunbo.freetv.top/yy/1382749887
-七色小彩虹,https://lunbo.freetv.top/yy/1382851601
-迷失假期：少女香港寻身世,https://lunbo.freetv.top/yy/1382745089
-能耐大了！德云社演技爆棚,https://lunbo.freetv.top/yy/1354930915
-溏心风暴之家好月圆,https://lunbo.freetv.top/yy/1354888747
-小戏骨黄飞鸿,https://lunbo.freetv.top/yy/1354936181
-港片—两公婆八条心,https://lunbo.freetv.top/yy/1382736917
-饥饿游戏全季,https://lunbo.freetv.top/yy/1354932365
-本山快乐营2,https://lunbo.freetv.top/yy/1382736718
-宋小宝金星自拍玩“亲亲”-今夜百乐门,https://lunbo.freetv.top/yy/1382736912
-耀舞长安-港剧,https://lunbo.freetv.top/yy/1382741640
-拜年,https://lunbo.freetv.top/yy/1382851470
-【雍正王朝】历史巨作,https://lunbo.freetv.top/yy/1462895099
-变形金刚4、5,https://lunbo.freetv.top/yy/1354658064
-国外院线动作大片,https://lunbo.freetv.top/yy/1382735570
-【粤配动漫】,https://lunbo.freetv.top/yy/1356262523
-金星脱口秀-爆笑回归,https://lunbo.freetv.top/yy/1382749951
-国内动作电影,https://lunbo.freetv.top/yy/1382745176
-催眠视频合集,https://lunbo.freetv.top/yy/1354936178
-超精彩武打场景,https://lunbo.freetv.top/yy/1354936131
-我是特种兵利刃出鞘,https://lunbo.freetv.top/yy/1354127609
-战争大片,https://lunbo.freetv.top/yy/1382735556
-希魔撞正杀人狂,https://lunbo.freetv.top/yy/1382736903
-爱丽丝梦游仙境,https://lunbo.freetv.top/yy/1354931585
-动漫,https://lunbo.freetv.top/yy/1382788679
-内部测试频道请勿封禁,https://lunbo.freetv.top/yy/1352488363
-百家讲坛――之明太祖朱元璋,https://lunbo.freetv.top/yy/1354936149
-港片鬼片老电影,https://lunbo.freetv.top/yy/1355269576
-国内喜剧电影合集,半妖四魂之玉之路,https://lunbo.freetv.top/yy/1509038705
-狂飙2,https://lunbo.freetv.top/yy/1456622512
-【康熙王朝】,https://lunbo.freetv.top/yy/37033366
-鲨卷风：鲨鱼市区作乱,https://lunbo.freetv.top/yy/1382736851
-胡歌不见不散,https://lunbo.freetv.top/yy/1356355983
-奥斯卡战争大片,https://lunbo.freetv.top/yy/1354932397
-的直播间,https://lunbo.freetv.top/yy/1354129442
-荒诞喜剧！钢的琴,https://lunbo.freetv.top/yy/1382736886
-电影电影电影电影电影电影,https://lunbo.freetv.top/yy/1351496216
-超体：高分科幻片,https://lunbo.freetv.top/yy/1354936116
-亲爱的味道：美食轻喜剧,https://lunbo.freetv.top/yy/1382735561
-丫鬟大联盟！笑个不停,https://lunbo.freetv.top/yy/1382749913
-【红球】不扯蛋,https://lunbo.freetv.top/yy/1355084841
-【小星星】斗罗斗破精彩动,https://lunbo.freetv.top/yy/1356362808
-我要成为贫民巨星！-全集,https://lunbo.freetv.top/yy/1382744423
-每走一步都要小心翼翼,https://lunbo.freetv.top/yy/1354936199
-我到家啦,https://lunbo.freetv.top/yy/1382851468
-狂飙老莫请你吃鱼,https://lunbo.freetv.top/yy/1382881866
-的士速递全季—爆笑犯罪大片,https://lunbo.freetv.top/yy/1382749910
-精彩影视轮番上映,https://lunbo.freetv.top/yy/1355336008
-2012：世界末日,https://lunbo.freetv.top/yy/1382736836
-深山吃货：云南臭菜你吃过吗？,https://lunbo.freetv.top/yy/1382745122
-本山小品 过年,https://lunbo.freetv.top/yy/1382881708
-施公奇案2-欧阳震华,https://lunbo.freetv.top/yy/1382736824
-一城一味（舌尖姐妹篇）,https://lunbo.freetv.top/yy/1382745179
-国内喜剧电影合集,https://lunbo.freetv.top/yy/1382851137
-买车前看一看 不然血亏,https://lunbo.freetv.top/yy/1349602814
-悦悦电影,https://lunbo.freetv.top/yy/1351537467
-呵呵❤正在直播,https://lunbo.freetv.top/yy/1382828963
-今生是第一次：高分韩剧,https://lunbo.freetv.top/yy/1382745190
-征服,https://lunbo.freetv.top/yy/1461655788
-你看与不看我都在,https://lunbo.freetv.top/yy/1353422557
-侦探烧脑电影-悬疑,https://lunbo.freetv.top/yy/1382735543
-TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
-十诫—外国影史里程碑,https://lunbo.freetv.top/yy/1354930945
-修牛蹄,https://lunbo.freetv.top/yy/1353413683
-少林寺传奇,https://lunbo.freetv.top/yy/1356338181
-你爱看的国内战争大片合集,https://lunbo.freetv.top/yy/1354936160
-经典影视,https://lunbo.freetv.top/yy/1356364732
-美国超级英雄电影系列,https://lunbo.freetv.top/yy/1354933556
-霍比特人电影系列,https://lunbo.freetv.top/yy/1354930967
-喜剧大片—篮球冠军,https://lunbo.freetv.top/yy/1382749906
-筱威回来了！ 正在直播,https://lunbo.freetv.top/yy/37347905
-特种兵归来4,https://lunbo.freetv.top/yy/1382736896
-非遗真人秀？向往的国潮,https://lunbo.freetv.top/yy/1382749953
-男生女生向前冲,https://lunbo.freetv.top/yy/1354930957
-狂飙,https://lunbo.freetv.top/yy/1509095132
-失忆24小时：绑架失踪案,https://lunbo.freetv.top/yy/1382749890
-永远一家人：厂长夫人摆地摊,https://lunbo.freetv.top/yy/1382736873
-打狗棍,https://lunbo.freetv.top/yy/1507519895
-盗梦空间！悬疑烧脑！,https://lunbo.freetv.top/yy/1354930903
-我比你更懂车 你偏不信,https://lunbo.freetv.top/yy/85042287
-动画剧集电影-原声粤语国,https://lunbo.freetv.top/yy/1382859239
 
 自然纪实,#genre#
 
@@ -2837,6 +2223,9 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$郑移
 中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8$郑移
 
+快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
+真实历史,https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_1280x720.m3u8
+
 北京纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8$郑移
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8$哈移
 北京纪实科教,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8$8K
@@ -2844,6 +2233,8 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 北京纪实科教,http://nas.jdshipin.com:8801/bst.php?id=bjjskj
 北京纪实科教,http://39.134.65.164/PLTV/88888888/224/3221225670/1.m3u8$七台河移
 
+求索纪录,http://39.135.133.154:80/000000001000/6000000002000032052/index.m3u8$3哈移
+求索动物,http://39.135.133.154:80/000000001000/6000000002000010046/index.m3u8$3哈移
 求索纪录,http://180.140.153.15:5432/udp/239.81.0.153:4056$广西信
 北京纪实科教,http://180.140.153.15:5432/udp/239.81.0.195:4056$广西信
 
@@ -2851,12 +2242,13 @@ TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
 
 CGTNDocumentary,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8$哈移
 CGTNDocumentary,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-CGTNDocumentary,https://livedoc.cgtn.com/500d/prog_index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8$牡丹移
 
 DW,http://61.221.215.25:8800/hls/1/index.m3u8$61
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$61
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61
 
+精品纪录,http://39.135.133.157:80/PLTV/88888888/224/3221225646/1.m3u8$3哈移
+精品纪录,http://39.135.133.177:80/PLTV/88888888/224/3221225646/1.m3u8$3哈移
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8$哈移
 
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
@@ -2907,12 +2299,9 @@ CETV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
 CETV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227329/index.m3u8$郑移
 CETV3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8$郑移
 
-CETV1,http://39.134.65.179/PLTV/88888888/224/3221225563/1.m3u8$黑移
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$哈移s
-CETV1,http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8$牡丹移s
 
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$哈移s
-CETV2,http://39.134.65.179/PLTV/88888888/224/3221226064/1.m3u8$黑移
 CETV2,http://183.11.239.36:808/hls/78/index.m3u8
 
 CETV3,http://111.20.35.103:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
@@ -3124,7 +2513,6 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 中国国际CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8$哈移
 中国国际CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$郑移
 中国国际CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
-中国国际CGTN,http://live.cgtn.com/500/prog_index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225510/1.m3u8$牡丹移
 中国国际CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8$郑移
 中国国际CGTN,http://news.cgtn.com/resource/live/english/cgtn-news.m3u8#https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
@@ -3134,9 +2522,10 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+NHKNews,https://nhk4.mov3.co/hls/nhk.m3u8
 
+联合国,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 美国ABC,http://143.244.60.30/ABC_EAST/index.m3u8
 
@@ -3159,6 +2548,7 @@ NASA 空间站,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_
 韩国SBS,http://1.245.74.5:1935/live/tv/.m3u8
 NINETTUNOUNIVERSITYTV,http://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 今日印度,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+印度新德里NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 ANTV越南,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 
 CNTV自然,#genre#
