@@ -312,16 +312,6 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$哈移
 
-移动新闻,#genre#
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
-
-东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
-爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
-民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-新唐人美东台,https://ntd02.akamaized.net/HD-NY/index.m3u8
-VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-
 少儿动漫,#genre#
 
 ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
