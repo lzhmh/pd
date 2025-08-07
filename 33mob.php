@@ -27,6 +27,8 @@ CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u
 
 CCTV4,http://36.129.204.115:8243/hls/1004/index.m3u8$辽阳移
 CCTV13,http://36.129.204.115:8243/hls/1013/index.m3u8$辽阳移
+CCTV4,http://110.177.144.14:9003/hls/4/index.m3u8$太原信
+CCTV13,http://110.177.144.14:9003/hls/14/index.m3u8$太原信
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移
@@ -69,10 +71,9 @@ Hoy78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
 
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-
-美国ABC,http://143.244.60.30/ABC_EAST/index.m3u8
 
 体育频道,#genre#
 
@@ -82,6 +83,8 @@ CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u
 CCTV5,http://36.129.204.115:8243/hls/1005/index.m3u8$辽阳移
 CCTV5+,http://36.129.204.115:8243/hls/1018/index.m3u8$辽阳移
 CCTV16,http://36.129.204.115:8243/hls/1016/index.m3u8$辽阳移
+CCTV5,http://110.177.144.14:9003/hls/5/index.m3u8$太原信
+CCTV5+,http://110.177.144.14:9003/hls/6/index.m3u8$太原信
 CCTV16,http://110.177.144.14:9003/hls/17/index.m3u8$太原信
 
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈移
@@ -681,6 +684,20 @@ CCTV14,http://36.129.204.115:8243/hls/1014/index.m3u8$辽阳移
 CCTV15,http://36.129.204.115:8243/hls/1015/index.m3u8$辽阳移
 CCTV17,http://36.129.204.115:8243/hls/1017/index.m3u8$辽阳移
 
+CCTV1,http://110.177.144.14:9003/hls/1/index.m3u8$太原信
+CCTV2,http://110.177.144.14:9003/hls/2/index.m3u8$太原信
+CCTV3,http://110.177.144.14:9003/hls/3/index.m3u8$太原信
+CCTV6,http://110.177.144.14:9003/hls/7/index.m3u8$太原信
+CCTV7,http://110.177.144.14:9003/hls/8/index.m3u8$太原信
+CCTV8,http://110.177.144.14:9003/hls/9/index.m3u8$太原信
+CCTV9,http://110.177.144.14:9003/hls/10/index.m3u8$太原信
+CCTV10,http://110.177.144.14:9003/hls/11/index.m3u8$太原信
+CCTV11,http://110.177.144.14:9003/hls/12/index.m3u8$太原信
+CCTV12,http://110.177.144.14:9003/hls/13/index.m3u8$太原信
+CCTV14,http://110.177.144.14:9003/hls/15/index.m3u8$太原信
+CCTV15,http://110.177.144.14:9003/hls/16/index.m3u8$太原信
+CCTV17,http://110.177.144.14:9003/hls/18/index.m3u8$太原信
+
 CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$哈移
 CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$哈移
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$哈移
@@ -801,6 +818,28 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 河北卫视,http://36.129.204.115:8243/hls/1050/index.m3u8$辽阳移
 重庆卫视,http://36.129.204.115:8243/hls/1037/index.m3u8$辽阳移
 黑龙江卫视,http://36.129.204.115:8243/hls/1027/index.m3u8$辽阳移
+
+山西卫视,http://110.177.144.14:9003/hls/19/index.m3u8$太原信
+北京卫视,http://110.177.144.14:9003/hls/20/index.m3u8$太原信
+安徽卫视,http://110.177.144.14:9003/hls/21/index.m3u8$太原信
+重庆卫视,http://110.177.144.14:9003/hls/22/index.m3u8$太原信
+东南卫视,http://110.177.144.14:9003/hls/24/index.m3u8$太原信
+甘肃卫视,http://110.177.144.14:9003/hls/25/index.m3u8$太原信
+广东卫视,http://110.177.144.14:9003/hls/26/index.m3u8$太原信
+广西卫视,http://110.177.144.14:9003/hls/27/index.m3u8$太原信
+海南卫视,http://110.177.144.14:9003/hls/28/index.m3u8$太原信
+河北卫视,http://110.177.144.14:9003/hls/29/index.m3u8$太原信
+河南卫视,http://110.177.144.14:9003/hls/30/index.m3u8$太原信
+黑龙江卫视,http://110.177.144.14:9003/hls/31/index.m3u8$太原信
+湖北卫视,http://110.177.144.14:9003/hls/32/index.m3u8$太原信
+湖南卫视,http://110.177.144.14:9003/hls/33/index.m3u8$太原信
+吉林卫视,http://110.177.144.14:9003/hls/34/index.m3u8$太原信
+江苏卫视,http://110.177.144.14:9003/hls/35/index.m3u8$太原信
+江西卫视,http://110.177.144.14:9003/hls/36/index.m3u8$太原信
+辽宁卫视,http://110.177.144.14:9003/hls/37/index.m3u8$太原信
+内蒙古卫视,http://110.177.144.14:9003/hls/38/index.m3u8$太原信
+宁夏卫视,http://110.177.144.14:9003/hls/39/index.m3u8$太原信
+青海卫视,http://110.177.144.14:9003/hls/40/index.m3u8$太原信
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8$哈移
 深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$哈移
@@ -2510,9 +2549,9 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 外语新闻,#genre#
 
+中国国际CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
 中国国际CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8$哈移
 中国国际CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$郑移
-中国国际CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
 中国国际CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8$郑移
 中国国际CGTN,http://news.cgtn.com/resource/live/english/cgtn-news.m3u8#https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
