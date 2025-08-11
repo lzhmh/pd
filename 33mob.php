@@ -1,13 +1,13 @@
 //Mobile频道数据收集自网络上的分享250806开通IPV6
-港澳H098,#genre#
+港澳098,#genre#
+
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv$push
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv$push
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv$push
 
 凤凰中文,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cn
 凤凰资讯,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=info
 凤凰香港,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=hk
-
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv$push
-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv$push
-香港香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv$push
 
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联#http://hbhyjq.ufyct.com:1088/hls/72/index.m3u8$邯郸联
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联#http://hbhyjq.ufyct.com:1088/hls/73/index.m3u8$邯郸联
@@ -111,8 +111,6 @@ CCTV5+,http://119.32.12.17:2901/udp/224.1.100.25:11111$广电
 先锋乒羽,http://118.251.96.200:8188/udp/239.76.253.51:9000$湖南信#http://171.213.152.144:1880/udp/239.93.42.56:5140$四川信#http://111.226.232.106:10010/udp/239.253.93.219:6397$河北联#http://113.128.128.140:8688/udp/239.21.2.98:5002$山东信#http://114.226.73.17:8095/udp/239.49.0.145:8000$江苏信#http://121.226.125.7:7777/udp/239.49.0.145:8000$江苏信
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
-麻辣体育,http://171.213.152.144:1880/udp/239.93.42.2:5140$四川信
-
 百事乒羽1,http://106.45.2.14:4000/udp/239.121.4.130:8762$宁夏信#http://106.45.2.14:4000/udp/239.121.4.131:8768$宁夏信
 百事乒羽1,http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://zqh2333.top:2222/udp/239.93.25.183:5140$雅安信4#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4
 百事乒羽2,http://180.165.24.227:4022/udp/239.45.3.140:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.140:5140$上海信
@@ -203,6 +201,36 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 
 棋牌娱乐,#genre#
 
+//https://mursor.ottiptv.cc/douyu/
+八卦大师,https://mursor.ottiptv.cc/douyu/851040
+帽子象棋,https://mursor.ottiptv.cc/douyu/4487219
+笑笑象棋,https://mursor.ottiptv.cc/douyu/9969
+大神象棋,https://mursor.ottiptv.cc/douyu/1227260
+飞刀陷阱,https://mursor.ottiptv.cc/douyu/11576846
+飞刀讲解,https://mursor.ottiptv.cc/douyu/10237088
+飞刀谱,https://mursor.ottiptv.cc/douyu/11765935
+小鹤求败,https://mursor.ottiptv.cc/douyu/3830820
+旭宝斗地主,https://mursor.ottiptv.cc/douyu/9804176
+欢乐斗地主,https://mursor.ottiptv.cc/douyu/8324074
+斗地主冠军赛,https://mursor.ottiptv.cc/douyu/488743
+陶老师围棋,https://mursor.ottiptv.cc/douyu/6586073
+弈夫围棋,https://mursor.ottiptv.cc/douyu/63993505350
+
+//http://huanqiuzhibo.cn/manifest/douyu.php?id=
+八卦大师,http://huanqiuzhibo.cn/manifest/douyu.php?id=851040
+帽子象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=4487219
+笑笑象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=9969
+大神象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=1227260
+飞刀陷阱,http://huanqiuzhibo.cn/manifest/douyu.php?id=11576846
+飞刀讲解,http://huanqiuzhibo.cn/manifest/douyu.php?id=10237088
+飞刀谱,http://huanqiuzhibo.cn/manifest/douyu.php?id=11765935
+小鹤求败,http://huanqiuzhibo.cn/manifest/douyu.php?id=3830820
+旭宝斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=9804176
+欢乐斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=8324074
+斗地主冠军赛,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+陶老师围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6586073
+弈夫围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6399350
+
 八卦大师,http://zzy789.xyz/douyu1.php?id=851040
 帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
 笑笑象棋,http://zzy789.xyz/douyu1.php?id=9969
@@ -231,21 +259,6 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 斗地主冠军赛,http://dns.yiandrive.com:15907/douyu/488743
 陶老师围棋,http://dns.yiandrive.com:15907/douyu/6586073
 弈夫围棋,http://dns.yiandrive.com:15907/douyu/6399350
-
-//http://huanqiuzhibo.cn/manifest/douyu.php?id=
-八卦大师,http://huanqiuzhibo.cn/manifest/douyu.php?id=851040
-帽子象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=4487219
-笑笑象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=9969
-大神象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=1227260
-飞刀陷阱,http://huanqiuzhibo.cn/manifest/douyu.php?id=11576846
-飞刀讲解,http://huanqiuzhibo.cn/manifest/douyu.php?id=10237088
-飞刀谱,http://huanqiuzhibo.cn/manifest/douyu.php?id=11765935
-小鹤求败,http://huanqiuzhibo.cn/manifest/douyu.php?id=3830820
-旭宝斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=9804176
-欢乐斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=8324074
-斗地主冠军赛,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-陶老师围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6586073
-弈夫围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6399350
 
 八卦大师,https://www.goodiptv.club/douyu/851040
 帽子象棋,https://www.goodiptv.club/douyu/4487219
