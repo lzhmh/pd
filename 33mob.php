@@ -1,13 +1,17 @@
 //Mobile频道数据收集自网络上的分享250806开通IPV6
-港澳098,#genre#
+//http://www.kaniptv.cn/douying.php?id=后面直播间号
 
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv$push
-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv$push
-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv$push
+港澳H099,#genre#
 
-凤凰中文,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cn
-凤凰资讯,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=info
-凤凰香港,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=hk
+凤凰中文,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cn$tvb
+凤凰资讯,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=info$tvb
+凤凰香港,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=hk$tvb
+
+凤凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8$s1
+凤凰资讯,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8$s1
+凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8$s1
+
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8$v40
 
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联#http://hbhyjq.ufyct.com:1088/hls/72/index.m3u8$邯郸联
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联#http://hbhyjq.ufyct.com:1088/hls/73/index.m3u8$邯郸联
@@ -15,6 +19,10 @@
 凤凰中文,http://218.15.183.23:9901/tsfile/live/23037_1.m3u8$梅州信
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$音频
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$音频
+
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv$push
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv$push
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv$push
 
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8$郑移
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
@@ -37,22 +45,14 @@ CCTV13,http://110.177.144.14:9003/hls/14/index.m3u8$太原信
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
-
-先锋乒羽,http://111.226.232.106:10010/udp/239.253.93.219:6397$河北联#http://113.128.128.140:8688/udp/239.21.2.98:5002$山东信#http://121.226.125.7:7777/udp/239.49.0.145:8000$江苏信
+先锋乒羽,http://111.162.205.163:8686/udp/225.1.1.219:5002$天津联#http://121.29.169.179:7777/udp/239.253.93.219:6397$河北联
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$720P
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8#https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8#http://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8#http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-
-Hoy77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
-Hoy78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
 
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
@@ -63,21 +63,14 @@ Hoy78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
-翡翠台,http://119.32.12.17:2901/udp/224.1.100.121:11111$广电
-翡翠台,http://119.32.12.17:2901/udp/224.1.100.1:11111$广电
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$php4
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$php3
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade$php
+翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
 
-明珠台,http://119.32.12.17:2901/udp/224.1.100.123:11111$广电
 明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
-明珠台,http://119.32.12.17:2901/udp/224.1.100.2:11111$广电
 
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
-
-日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 
 体育频道,#genre#
 
@@ -87,6 +80,9 @@ CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u
 CCTV5,http://36.129.204.115:8243/hls/1005/index.m3u8$辽阳移
 CCTV5+,http://36.129.204.115:8243/hls/1018/index.m3u8$辽阳移
 CCTV16,http://36.129.204.115:8243/hls/1016/index.m3u8$辽阳移
+
+CCTV16,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=16023_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV5,http://110.177.144.14:9003/hls/5/index.m3u8$太原信
 CCTV5+,http://110.177.144.14:9003/hls/6/index.m3u8$太原信
 CCTV16,http://110.177.144.14:9003/hls/17/index.m3u8$太原信
@@ -95,100 +91,65 @@ CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$�
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈移
 
-CCTV5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
-CCTV5+,http://220.170.241.204:9901/tsfile/live/0016_1.m3u8
-CCTV5,http://42.49.148.241:9901/tsfile/live/0005_1.m3u8
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8$郑移
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8$郑移
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8$郑移
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8$郑移
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8$郑移
-CCTV5,http://119.32.12.17:2901/udp/224.1.100.82:11111$广电
-CCTV5+,http://119.32.12.17:2901/udp/224.1.100.25:11111$广电
 
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 先锋乒羽,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移
-先锋乒羽,http://118.251.96.200:8188/udp/239.76.253.51:9000$湖南信#http://171.213.152.144:1880/udp/239.93.42.56:5140$四川信#http://111.226.232.106:10010/udp/239.253.93.219:6397$河北联#http://113.128.128.140:8688/udp/239.21.2.98:5002$山东信#http://114.226.73.17:8095/udp/239.49.0.145:8000$江苏信#http://121.226.125.7:7777/udp/239.49.0.145:8000$江苏信
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
+先锋乒羽,http://111.162.205.163:8686/udp/225.1.1.219:5002$天津联#http://121.29.169.179:7777/udp/239.253.93.219:6397$河北联
 
-百事乒羽1,http://106.45.2.14:4000/udp/239.121.4.130:8762$宁夏信#http://106.45.2.14:4000/udp/239.121.4.131:8768$宁夏信
-百事乒羽1,http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://zqh2333.top:2222/udp/239.93.25.183:5140$雅安信4#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4
-百事乒羽2,http://180.165.24.227:4022/udp/239.45.3.140:5140$上海信#http://180.165.13.18:4022/udp/239.45.3.140:5140$上海信
+爱羽客,http://111.162.205.163:8686/udp/225.1.2.1:5002$天津联#http://121.29.169.179:7777/udp/239.253.93.202:6380$河北联
+
+百事乒羽1,http://e2.woc.iiiya.cn:28888/udp/239.61.5.12:1025$福建信4#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信4
+
+AstroSporUHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8$s1
+AstroFootball,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8$s1
+EuroSport1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8$s1
+EuroSport2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8$s1
+TNTSPORTS1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8$s1
+TNTSPORTS2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8$s1
+TNTSPORTS3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8$s1
 
 CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8$郑移
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$哈移s
 CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8$郑移
 
+睛彩青少,http://drive.mxmy.net:8888/udp/239.3.1.127:8001$北京联
 睛彩青少,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8$哈移
-睛彩青少,http://drive.mxmy.net:8888/udp/239.3.1.127:8001$北京联#http://114.252.236.205:8000/udp/239.3.1.127:8001$北京联#http://114.254.21.127:10000/udp/239.3.1.127:8001$北京联#http://14.19.168.64:4022/udp/239.77.1.22:5146$广东信#http://ycsj.aguihome.com:4022/udp/233.50.202.28:5140$浙江信#http://14.112.86.85:4022/udp/239.77.1.22:5146$广东信#http://61.145.208.25:9090/udp/239.77.1.22:5146$广东信#http://113.94.58.16:10010/udp/239.77.1.22:5146$广东信#http://14.112.86.101:4022/udp/239.77.1.22:5146$广东信
 
+睛彩竞技,http://drive.mxmy.net:8888/udp/239.3.1.125:8001$北京联
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8$哈移
-睛彩竞技,http://ycsj.aguihome.com:4022/udp/233.50.202.26:5140$浙江信#http://drive.mxmy.net:8888/udp/239.3.1.125:8001$北京联#http://114.252.236.205:8000/udp/239.3.1.125:8001$北京联#http://joyznm.i234.me:20000/udp/239.3.1.125:8001$北京联#
 
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8$郑移
 魅力足球,http://ycsj.aguihome.com:4022/udp/233.50.200.176:5140$浙江信#http://60.164.128.167:8029/udp/239.255.30.147:8231$甘肃信#http://101.68.81.44:9999/udp/233.50.200.176:5140$浙江联
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8$郑移
 
-风云足球,http://14.112.86.85:4022/udp/239.253.43.20:5146$广东信#http://14.112.86.85:4022/udp/239.253.43.14:5146$广东信#http://110.179.80.171:8083/udp/239.1.1.101:8101#http://171.124.48.100:8083/udp/226.0.2.225:9712$山西联#http://180.158.201.25:1024/udp/239.45.0.43:5140$上海信#http://121.29.215.124:888/udp/239.253.93.254:6432$河北联#http://www.akw323.com:9527/udp/238.255.2.29:5999$贵阳信#http://majian.ixiaobai.net:5540/udp/239.37.0.80:5540$辽宁信#http://enlen.vip:4022/udp/239.200.200.88:8020$云南信#http://www.lizhinas.top:1009/udp/239.252.219.96:5140$江西信#http://home.yulei.online:9999/udp/226.0.2.225:9712$山西联
+风云足球,http://www.lizhinas.top:1009/udp/239.252.219.96:5140$江西信#http://home.yulei.online:9999/udp/226.0.2.225:9712$山西联
 
-EURO1网球,http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-EURO1网球,http://iptv-hls.idc.md:8200/hls/78/live1.m3u8
-EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
-
+睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001$北京联
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8$哈移
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$哈移
-睛彩篮球,http://ycsj.aguihome.com:4022/udp/233.50.202.27:5140$浙江信#http://drive.mxmy.net:8888/udp/239.3.1.126:8001$北京联#http://14.19.168.64:4022/udp/239.77.1.21:5146$广东信#http://61.145.208.25:9090/udp/239.77.1.21:5146$广东信#hhttp://114.252.236.205:8000/udp/239.3.1.126:8001$北京联#http://113.94.58.16:10010/udp/239.77.1.21:5146$广东信
 
-广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv$push
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty&replay=1&days=7$php
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty&replay=1&days=7$php
-广东体育,http://120.234.5.29:6000/udp/239.20.0.114:2026$广东移
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$梅州信
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移
 广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8$梅州移
-广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111$广电
-广东体育,http://119.32.12.32:2901/udp/224.1.100.34:11111$广电
 广东体育,http://58.250.155.2:8180/TV00000000000000000030@HHZT$深联
-广东体育,http://125.89.163.44:8888/udp/239.77.0.112:5146$广东信
 
 南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6332a877c5f4cd0bee7b40bbed1983f8&txTime=192a274ca1d
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 
-骑牛大赛,https://lunbo.freetv.top/yy/1355313481#http://146.235.213.45:35455/yy/1355313481
-摩托挑战,https://lunbo.freetv.top/yy/1354946983#http://146.235.213.45:35455/yy/1354946983
 骑牛大赛,http://jiaojirentv.top/2020/yy.php?id=1355313481
 摩托挑战,http://jiaojirentv.top/2020/yy.php?id=1354946983
-骑牛大赛,http://wab201.win:35455/yy/1355313481
-摩托挑战,http://wab201.win:35455/yy/1354946983
-骑牛大赛,http://1.94.31.214:35455/yy/1355313481
-摩托挑战,http://1.94.31.214:35455/yy/1354946983
-
-精品体育,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$3哈移
-精品体育,http://39.135.133.157:80/PLTV/88888888/224/3221225547/1.m3u8$3哈移
-精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8$哈移
-
-劲爆体育,http://119.32.12.17:2901/udp/224.1.100.129:11111$广电
-
-超级体育,http://39.135.133.154:80/PLTV/88888888/224/3221225526/1.m3u8$3哈移
-超级体育,http://39.135.133.155:80/PLTV/88888888/224/3221225526/1.m3u8$3哈移
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8$哈移
-武搏世界,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$哈移
 
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$郑移
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8$郑移
-
-中国功夫,http://39.135.133.157:80/PLTV/88888888/224/3221225571/1.m3u8$3哈移
-中国功夫,http://39.135.133.157:80/PLTV/88888888/224/3221225679/1.m3u8$3哈移
-中国功夫,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$3哈移
-中国功夫,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$3哈移
-中国功夫,http://39.135.133.177:80/wh7f454c46tw2070901039_123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$3哈移
-中国功夫,http://39.135.135.28:80/PLTV/88888888/224/3221225679/1.m3u8$3哈移
-中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
-
-央视台球,http://58.215.3.254:8686/rtp/239.49.8.32:8000$江苏信
-武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
-武术世界,http://www.745612.xyz:7788/udp/235.254.198.107:7980$重庆信#http://183.66.51.205:4022/udp/235.254.198.107:7980$重庆信#http://121.29.215.124:888/udp/239.253.93.46:6434$河北联#http://118.79.112.27:6001/udp/226.0.2.97:8688$山西联#http://125.82.168.238:8888/udp/235.254.198.107:7980$重庆信#http://125.82.171.210:8888/udp/235.254.198.107:7980$重庆信#http://majian.ixiaobai.net:5540/udp/239.37.0.227:5540$辽宁信#http://enlen.vip:4022/udp/239.200.200.90:8064$云南信
 
 百事,http://180.158.201.25:1024/udp/239.45.3.53:5140$上海信1#http://180.158.201.25:1024/udp/239.45.3.54:5140$上海信2#http://180.158.201.25:1024/udp/239.45.3.55:5140$上海信3#http://180.158.201.25:1024/udp/239.45.3.157:5140$上海信#http://180.158.201.25:1024/udp/239.45.3.216:5140$上海信五星
 百事,http://ycsj.aguihome.com:4022/udp/233.50.200.233:5140$浙江信1#http://ycsj.aguihome.com:4022/udp/233.50.200.244:5140$浙江信4#http://ycsj.aguihome.com:4022/udp/233.50.200.245:5140$浙江信5#http://ycsj.aguihome.com:4022/udp/233.50.200.246:5140$浙江信6#http://ycsj.aguihome.com:4022/udp/233.50.201.201:5140$浙江信9#http://ycsj.aguihome.com:4022/udp/233.50.201.203:5140$浙江信1#http://ycsj.aguihome.com:4022/udp/233.50.201.205:5140$浙江信2#http://ycsj.aguihome.com:4022/udp/233.50.201.207:5140$浙江信3
@@ -274,38 +235,38 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 陶老师围棋,https://www.goodiptv.club/douyu/6586073
 弈夫围棋,https://www.goodiptv.club/douyu/6399350
 
-//http://wab201.win:35455/douyu/
-八卦大师,http://wab201.win:35455/douyu/851040
-帽子象棋,http://wab201.win:35455/douyu/4487219
-笑笑象棋,http://wab201.win:35455/douyu/9969
-大神象棋,http://wab201.win:35455/douyu/1227260
-飞刀陷阱,http://wab201.win:35455/douyu/11576846
-飞刀讲解,http://wab201.win:35455/douyu/10237088
-飞刀谱,http://wab201.win:35455/douyu/11765935
-小鹤求败,http://wab201.win:35455/douyu/3830820
-旭宝斗地主,http://wab201.win:35455/douyu/9804176
-欢乐斗地主,http://wab201.win:35455/douyu/8324074
-斗地主冠军赛,http://wab201.win:35455/douyu/488743
-陶老师围棋,http://wab201.win:35455/douyu/6586073
-弈夫围棋,http://wab201.win:35455/douyu/63993505350
+//https://mursor.ottiptv.cc/douyu/
+八卦大师,https://mursor.ottiptv.cc/douyu/851040
+帽子象棋,https://mursor.ottiptv.cc/douyu/4487219
+笑笑象棋,https://mursor.ottiptv.cc/douyu/9969
+大神象棋,https://mursor.ottiptv.cc/douyu/1227260
+飞刀陷阱,https://mursor.ottiptv.cc/douyu/11576846
+飞刀讲解,https://mursor.ottiptv.cc/douyu/10237088
+飞刀谱,https://mursor.ottiptv.cc/douyu/11765935
+小鹤求败,https://mursor.ottiptv.cc/douyu/3830820
+旭宝斗地主,https://mursor.ottiptv.cc/douyu/9804176
+欢乐斗地主,https://mursor.ottiptv.cc/douyu/8324074
+斗地主冠军赛,https://mursor.ottiptv.cc/douyu/488743
+陶老师围棋,https://mursor.ottiptv.cc/douyu/6586073
+弈夫围棋,https://mursor.ottiptv.cc/douyu/63993505350
 
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8$郑移
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8$郑移
 
-爱体育,http://113.101.245.67:9988/udp/239.77.0.176:5146$广东信#http://180.140.153.15:5432/udp/239.81.0.133:4056$广西信
+
+掼蛋精英赛,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdjys
 
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
 
-天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$深圳#http://171.212.170.81:8088/udp/239.93.42.56:5140$四川信#http://121.29.215.124:888/udp/239.253.93.211:6389$河北联#http://www.akw323.com:9527/udp/238.255.2.7:5999$贵阳信#http://171.213.140.54:8123/udp/239.93.42.55:5140$四川信
-
-辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8$深圳
-
 囲碁将棋,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-体育人物,http://zzy789.xyz/douyu1.php?id=8434598
+体育人物,https://mursor.ottiptv.cc/douyu/8434598
 体育人物,http://huanqiuzhibo.cn/manifest/douyu.php?id=8434598
+体育人物,http://zzy789.xyz/douyu1.php?id=8434598
+
+斗鱼体育,https://mursor.ottiptv.cc/douyu/9170147
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
 斗鱼体育,http://huanqiuzhibo.cn/manifest/douyu.php?id=9170147
 
@@ -330,7 +291,15 @@ EURO1网球,http://iptv-hls.idc.md:8200/hls/261/live1.m3u8
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$哈移
 
 移动新闻,#genre#
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv#http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+TVBSHD,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+
+TVBS新聞,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+
+东森电影,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+ChannelUHD,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
 
 东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
 爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
@@ -397,19 +366,19 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 猫和老鼠,http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
 蜡笔小新,http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8
 
+名侦探柯南,https://mursor.ottiptv.cc/douyu/6484910
 名侦探柯南,http://zzy789.xyz/douyu1.php?id=6484910
 名侦探柯南,http://dns.yiandrive.com:15907/douyu/6484910
-名侦探柯南,http://wab201.win:35455/douyu/6484910
 
 哆啦A梦,http://1.94.31.214:35455/huya/11601963
 猫和老鼠,http://1.94.31.214:35455/huya/11352879
 喜羊羊与灰太狼,http://1.94.31.214:35455/huya/23865080
 宠物小精灵,http://1.94.31.214:35455/huya/23749096
 
-哆啦A梦,https://live.metshop.top/huya/11601963
-猫和老鼠,https://live.metshop.top/huya/11352879
-喜羊羊与灰太狼,https://live.metshop.top/huya/23865080
-宠物小精灵,https://live.metshop.top/huya/23749096
+哆啦A梦,http://iptv.jxpan.vip:18888/aio/huya/11601963
+猫和老鼠,http://iptv.jxpan.vip:18888/aio/huya/11352879
+喜羊羊与灰太狼,http://iptv.jxpan.vip:18888/aio/huya/23865080
+宠物小精灵,http://iptv.jxpan.vip:18888/aio/huya/23749096
 
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8$哈移s
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
@@ -539,6 +508,18 @@ DAZN1,http://108.181.20.197/livehttpplay?channel_id=10104$108#http://108.181.21.
 inwonder,https://inwonder-samsungau.amagi.tv/playlist.m3u8
 
 法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8$郑移
+
+科学放映厅,https://mursor.ottiptv.cc/douyu/9439712
+纪录片之家,https://mursor.ottiptv.cc/douyu/8834003
+未解之谜,https://mursor.ottiptv.cc/douyu/9369468
+科技发明,https://mursor.ottiptv.cc/douyu/9317739
+宇宙科普,https://mursor.ottiptv.cc/douyu/9412981
+观察宇宙,https://mursor.ottiptv.cc/douyu/8667001
+杰瑞生活,https://mursor.ottiptv.cc/douyu/7357786
+理论科普,https://mursor.ottiptv.cc/douyu/9385288
+林超科普,https://mursor.ottiptv.cc/douyu/9447974
+斗鱼历史1,https://mursor.ottiptv.cc/douyu/9738854
+斗鱼历史2,https://mursor.ottiptv.cc/douyu/10102281
 
 科学放映厅,http://zzy789.xyz/douyu1.php?id=9439712
 纪录片之家,http://zzy789.xyz/douyu1.php?id=8834003
@@ -917,41 +898,31 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 
 电影频道,#genre#
 
-黑莓电影,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$3哈移
-黑莓电影,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$3哈移
-动作电影,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$3哈移
-动作电影,http://39.135.133.167:80/TVOD/88888888/224/3221225555/main.m3u8$3哈移
-动作电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$3哈移
-超级电影,http://39.135.133.154:80/PLTV/88888888/224/3221225536/1.m3u8$3哈移
-超级电影,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$3哈移
-超级电影,http://39.135.133.155:80/PLTV/88888888/224/3221225536/1.m3u8$3哈移
-超级电影,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$3哈移
-惊悚悬疑,http://39.135.133.154:80/PLTV/88888888/224/3221225525/1.m3u8$3哈移
-惊悚悬疑,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$3哈移
-惊悚悬疑,http://39.135.133.155:80/PLTV/88888888/224/3221225525/1.m3u8$3哈移
-惊悚悬疑,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$3哈移
-惊悚悬疑,http://39.135.133.157:80/PLTV/88888888/224/3221225525/1.m3u8$3哈移
-惊悚悬疑,http://39.135.133.157:80/PLTV/88888888/224/3221225555/1.m3u8$3哈移
-惊悚悬疑,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$3哈移
-惊悚悬疑,http://39.135.133.167:80/PLTV/88888888/224/3221225555/1.m3u8$3哈移
-惊悚悬疑,http://39.135.135.28:80/PLTV/88888888/224/3221225525/1.m3u8$3哈移
-明星大片,http://39.135.133.157:80/PLTV/88888888/224/3221225682/1.m3u8$3哈移
-明星大片,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$3哈移
-明星大片,http://39.135.135.28:80/PLTV/88888888/224/3221225682/1.m3u8$3哈移
+老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$郑移
+老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8$郑移
+
+邵氏影院,https://mursor.ottiptv.cc/douyu/4246519
+邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
+邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+女神影院,https://pull.kktv8.com/livekktv/99350550.flv
+金马影院,https://pull.kktv8.com/livekktv/128600025.flv
+星空卫视,http://171.213.136.144:8886/udp/239.93.0.156:2193$四川信#http://wouu.net:9977/udp/239.93.0.156:2193$四川信
+
+高清大片,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gqdp
+红色轮播台,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=hslbt
+新片放映厅,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=xpfyt
+
+美亚电影,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+天映经典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+ASTROAOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 
 chc动作电影,http://k.061899.xyz/m.php?id=dzdy$k
 chc家庭影院,http://k.061899.xyz/m.php?id=jtyy$k
 chc影迷电影,http://k.061899.xyz/m.php?id=ymdy$k
-
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$哈移
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$哈移
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$哈移
-中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
-惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$哈移
-
-动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111$广电
-
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://120.76.248.139/live/bfgd/4200000635.m3u8
 好莱坞电影2,http://zby.xjqxz.top/hlwdy1/live.m3u8
@@ -963,26 +934,39 @@ chc影迷电影,http://k.061899.xyz/m.php?id=ymdy$k
 
 外国电影,http://37.27.111.214:8080/live/8/hls.m3u8$全是
 
-老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$郑移
-老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8$郑移
-
-邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-女神影院,https://pull.kktv8.com/livekktv/99350550.flv
-金马影院,https://pull.kktv8.com/livekktv/128600025.flv
-星空卫视,http://171.213.136.144:8886/udp/239.93.0.156:2193$四川信#http://wouu.net:9977/udp/239.93.0.156:2193$四川信
-
 纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
 好莱电影,http://61.216.11.93:49981/stream/channelid/286389561.m3u8
 CINeMax,http://61.216.11.93:49981/stream/channelid/207378916.m3u8
 
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$哈移
+动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$哈移
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$哈移
+中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8$哈移
+惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$哈移
 
 斗鱼轮播,#genre#
+
+//https://mursor.ottiptv.cc/douyu/
+犯罪片,https://mursor.ottiptv.cc/douyu/747764
+漫威科幻,https://mursor.ottiptv.cc/douyu/6140589
+苹果影院,https://mursor.ottiptv.cc/douyu/2793084
+桃花影院,https://mursor.ottiptv.cc/douyu/7305938
+邦德影院,https://mursor.ottiptv.cc/douyu/9292499
+粤语电影,https://mursor.ottiptv.cc/douyu/6566671
+4K影院,https://mursor.ottiptv.cc/douyu/9249162
+科幻动作灾难,https://mursor.ottiptv.cc/douyu/248753
+平安夜快乐,https://mursor.ottiptv.cc/douyu/6863367
+看经典,https://mursor.ottiptv.cc/douyu/7314294
+林正英1,https://mursor.ottiptv.cc/douyu/218859
+小黛兮影,https://mursor.ottiptv.cc/douyu/11553944
+林正英2,https://mursor.ottiptv.cc/douyu/7356023
+宇哥经典,https://mursor.ottiptv.cc/douyu/413573
+高分影厅,https://mursor.ottiptv.cc/douyu/2535105
+花卷陪看,https://mursor.ottiptv.cc/douyu/52787
+喜剧电影,https://mursor.ottiptv.cc/douyu/9292492
+佳佳越狱,https://mursor.ottiptv.cc/douyu/7575350
+经典港剧,https://mursor.ottiptv.cc/douyu/9548850
+译制国语,https://mursor.ottiptv.cc/douyu/2436390
 
 //http://zzy789.xyz
 译制国语,http://zzy789.xyz/douyu1.php?id=2436390
@@ -1120,28 +1104,6 @@ ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 佳佳越狱,http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 经典港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
 
-//http://wab201.win:35455/douyu/
-译制国语,http://wab201.win:35455/douyu/2436390
-犯罪片,http://wab201.win:35455/douyu/747764
-漫威科幻,http://wab201.win:35455/douyu/6140589
-苹果影院,http://wab201.win:35455/douyu/2793084
-桃花影院,http://wab201.win:35455/douyu/7305938
-邦德影院,http://wab201.win:35455/douyu/9292499
-粤语电影,http://wab201.win:35455/douyu/6566671
-4K影院,http://wab201.win:35455/douyu/9249162
-科幻动作灾难,http://wab201.win:35455/douyu/248753
-平安夜快乐,http://wab201.win:35455/douyu/6863367
-看经典,http://wab201.win:35455/douyu/7314294
-林正英1,http://wab201.win:35455/douyu/218859
-小黛兮影,http://wab201.win:35455/douyu/11553944
-林正英2,http://wab201.win:35455/douyu/7356023
-宇哥经典,http://wab201.win:35455/douyu/413573
-高分影厅,http://wab201.win:35455/douyu/2535105
-花卷陪看,http://wab201.win:35455/douyu/52787
-喜剧电影,http://wab201.win:35455/douyu/9292492
-佳佳越狱,http://wab201.win:35455/douyu/7575350
-经典港剧,http://wab201.win:35455/douyu/9548850
-
 //http://dns.yiandrive.com:15907/douyu/
 译制国语,http://dns.yiandrive.com:15907/douyu/2436390
 犯罪片,http://dns.yiandrive.com:15907/douyu/747764
@@ -1177,187 +1139,97 @@ ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 
 虎牙轮播,#genre#
 
-//https://live.metshop.top/huya/
-怪兽系列,https://live.metshop.top/huya/21059554
-动作电影,https://live.metshop.top/huya/11602077
-谍战片,https://live.metshop.top/huya/21059587
-海盗片,https://live.metshop.top/huya/21059595
-战争电影,https://live.metshop.top/huya/21059592
-枪战,https://live.metshop.top/huya/21059579
-速度激情,https://live.metshop.top/huya/21059556
-欧美黑白,https://live.metshop.top/huya/11352880
-战争片,https://live.metshop.top/huya/21059574
-警匪片,https://live.metshop.top/huya/11352886
-智商罪犯,https://live.metshop.top/huya/11352962
-巨石强森,https://live.metshop.top/huya/21059581
-詹姆斯邦德,https://live.metshop.top/huya/21059585
-救援电影,https://live.metshop.top/huya/21059594
-看救援,https://live.metshop.top/huya/21059586
-赛车片,https://live.metshop.top/huya/11279247
-灾难片,https://live.metshop.top/huya/11602075
-黑帮斗争,https://live.metshop.top/huya/11342419
-科幻电影,https://live.metshop.top/huya/11602034
-死神来了,https://live.metshop.top/huya/11352903
-港台电影,https://live.metshop.top/huya/880261
-高分电影,https://live.metshop.top/huya/16615910
-命案十三宗,https://live.metshop.top/huya/11601981
-喜乐影院,https://live.metshop.top/huya/21059580
-贺岁片,https://live.metshop.top/huya/11601986
-怪兽电影,https://live.metshop.top/huya/21059577
-香港电影,https://live.metshop.top/huya/11601971
-玄幻电影,https://live.metshop.top/huya/11342414
-周星驰,https://live.metshop.top/huya/24470631
-周星驰,https://live.metshop.top/huya/11336587
+//http://iptv.jxpan.vip:18888/aio/huya/
+怪兽系列,http://iptv.jxpan.vip:18888/aio/huya/21059554
+动作电影,http://iptv.jxpan.vip:18888/aio/huya/11602077
+谍战片,http://iptv.jxpan.vip:18888/aio/huya/21059587
+海盗片,http://iptv.jxpan.vip:18888/aio/huya/21059595
+战争电影,http://iptv.jxpan.vip:18888/aio/huya/21059592
+枪战,http://iptv.jxpan.vip:18888/aio/huya/21059579
+速度激情,http://iptv.jxpan.vip:18888/aio/huya/21059556
+欧美黑白,http://iptv.jxpan.vip:18888/aio/huya/11352880
+战争片,http://iptv.jxpan.vip:18888/aio/huya/21059574
+警匪片,http://iptv.jxpan.vip:18888/aio/huya/11352886
+智商罪犯,http://iptv.jxpan.vip:18888/aio/huya/11352962
+巨石强森,http://iptv.jxpan.vip:18888/aio/huya/21059581
+詹姆斯邦德,http://iptv.jxpan.vip:18888/aio/huya/21059585
+救援电影,http://iptv.jxpan.vip:18888/aio/huya/21059594
+看救援,http://iptv.jxpan.vip:18888/aio/huya/21059586
+赛车片,http://iptv.jxpan.vip:18888/aio/huya/11279247
+灾难片,http://iptv.jxpan.vip:18888/aio/huya/11602075
+黑帮斗争,http://iptv.jxpan.vip:18888/aio/huya/11342419
+科幻电影,http://iptv.jxpan.vip:18888/aio/huya/11602034
+死神来了,http://iptv.jxpan.vip:18888/aio/huya/11352903
+港台电影,http://iptv.jxpan.vip:18888/aio/huya/880261
+高分电影,http://iptv.jxpan.vip:18888/aio/huya/16615910
+命案十三宗,http://iptv.jxpan.vip:18888/aio/huya/11601981
+喜乐影院,http://iptv.jxpan.vip:18888/aio/huya/21059580
+贺岁片,http://iptv.jxpan.vip:18888/aio/huya/11601986
+怪兽电影,http://iptv.jxpan.vip:18888/aio/huya/21059577
+香港电影,http://iptv.jxpan.vip:18888/aio/huya/11601971
+玄幻电影,http://iptv.jxpan.vip:18888/aio/huya/11342414
+周星驰,http://iptv.jxpan.vip:18888/aio/huya/24470631
+周星驰,http://iptv.jxpan.vip:18888/aio/huya/11336587
 周星星,http://live.iill.top/huya.php?id=24470631
-林正英,https://live.metshop.top/huya/11342421
-沈腾,https://live.metshop.top/huya/11601968
-成龙,https://live.metshop.top/huya/11342386
-李连杰,https://live.metshop.top/huya/11342390
-刘德华,https://live.metshop.top/huya/11342424
-王晶,https://live.metshop.top/huya/11602058
-星爷,https://live.metshop.top/huya/11342412
-中华小当家,https://live.metshop.top/huya/11342413
-杰森•斯坦森,https://live.metshop.top/huya/21059588
-喜剧专场,https://live.metshop.top/huya/11602044
-甄子丹,https://live.metshop.top/huya/11352935
-洪金宝,https://live.metshop.top/huya/11279251
-徐克,https://live.metshop.top/huya/11352909
-周润发,https://live.metshop.top/huya/11342387
-徐峥,https://live.metshop.top/huya/11602043
-许氏三杰,https://live.metshop.top/huya/11602033
-黄渤,https://live.metshop.top/huya/11352876
-喜剧电影,https://live.metshop.top/huya/11352877
-张卫健,https://live.metshop.top/huya/11342423
-倩女幽魂,https://live.metshop.top/huya/11601970
-日本电影,https://live.metshop.top/huya/23652317
-冯小刚,https://live.metshop.top/huya/11352906
-搞笑僵尸片,https://live.metshop.top/huya/11352963
-极限挑战],https://live.metshop.top/huya/11352914
-金庸武侠,https://live.metshop.top/huya/11342435
-金庸电影,https://live.metshop.top/huya/11352897
-经典武侠,https://live.metshop.top/huya/11342427
-欢笑影院,https://live.metshop.top/huya/11352894
-精彩不断,https://live.metshop.top/huya/24396428
-精忠岳飞南征北战,https://live.metshop.top/huya/11336578
-古墓系列,https://live.metshop.top/huya/11352913
-国产悬疑,https://live.metshop.top/huya/11342395
-天龙八部,https://live.metshop.top/huya/11602041
-盗墓电影,https://live.metshop.top/huya/21059552
-国产电影,https://live.metshop.top/huya/11352973
-蜘蛛侠,https://live.metshop.top/huya/21059599
-功夫片,https://live.metshop.top/huya/11352941
-丧尸片,https://live.metshop.top/huya/21059578
-高能反转,https://live.metshop.top/huya/11352887
-变形金刚,https://live.metshop.top/huya/21059596
-剧集_新水浒,https://live.metshop.top/huya/11342384
-剧集_老三国,https://live.metshop.top/huya/11602081
-剧集_新三国,https://live.metshop.top/huya/11352944
-剧集_庆余年,https://live.metshop.top/huya/11352960
-剧集_纪晓岚,https://live.metshop.top/huya/11342396
-剧集_地下交通站,https://live.metshop.top/huya/11342433
-剧集_士兵突击,https://live.metshop.top/huya/11342430
-剧集_爱情公寓,https://live.metshop.top/huya/11336726
-剧集_家有儿女,https://live.metshop.top/huya/11352872
-剧集_武林外传,https://live.metshop.top/huya/21059598
-剧集_邻里一家亲,https://live.metshop.top/huya/11342426
-百鸟朝凤,https://live.metshop.top/huya/15894162
-路飞,https://live.metshop.top/huya/16913382
-麻雀,https://live.metshop.top/huya/11352881
-陈翔六点半,https://live.metshop.top/huya/11274154
-生活大爆炸,https://live.metshop.top/huya/11342417
-天雷滚滚,https://live.metshop.top/huya/11352945
-文成公主,https://live.metshop.top/huya/11352974
-小鲤鱼,https://live.metshop.top/huya/11601961
-
-//http://124.248.69.76:26781/huya/
-怪兽系列,http://124.248.69.76:26781/huya/21059554
-动作电影,http://124.248.69.76:26781/huya/11602077
-谍战片,http://124.248.69.76:26781/huya/21059587
-海盗片,http://124.248.69.76:26781/huya/21059595
-战争电影,http://124.248.69.76:26781/huya/21059592
-枪战,http://124.248.69.76:26781/huya/21059579
-速度激情,http://124.248.69.76:26781/huya/21059556
-欧美黑白,http://124.248.69.76:26781/huya/11352880
-战争片,http://124.248.69.76:26781/huya/21059574
-警匪片,http://124.248.69.76:26781/huya/11352886
-智商罪犯,http://124.248.69.76:26781/huya/11352962
-巨石强森,http://124.248.69.76:26781/huya/21059581
-詹姆斯邦德,http://124.248.69.76:26781/huya/21059585
-救援电影,http://124.248.69.76:26781/huya/21059594
-看救援,http://124.248.69.76:26781/huya/21059586
-赛车片,http://124.248.69.76:26781/huya/11279247
-灾难片,http://124.248.69.76:26781/huya/11602075
-黑帮斗争,http://124.248.69.76:26781/huya/11342419
-科幻电影,http://124.248.69.76:26781/huya/11602034
-死神来了,http://124.248.69.76:26781/huya/11352903
-港台电影,http://124.248.69.76:26781/huya/880261
-高分电影,http://124.248.69.76:26781/huya/16615910
-命案十三宗,http://124.248.69.76:26781/huya/11601981
-喜乐影院,http://124.248.69.76:26781/huya/21059580
-贺岁片,http://124.248.69.76:26781/huya/11601986
-怪兽电影,http://124.248.69.76:26781/huya/21059577
-香港电影,http://124.248.69.76:26781/huya/11601971
-玄幻电影,http://124.248.69.76:26781/huya/11342414
-周星星,http://124.248.69.76:26781/huya/24470631
-林正英,http://124.248.69.76:26781/huya/11342421
-沈腾,http://124.248.69.76:26781/huya/11601968
-成龙,http://124.248.69.76:26781/huya/11342386
-李连杰,http://124.248.69.76:26781/huya/11342390
-刘德华,http://124.248.69.76:26781/huya/11342424
-王晶,http://124.248.69.76:26781/huya/11602058
-星爷,http://124.248.69.76:26781/huya/11342412
-中华小当家,http://124.248.69.76:26781/huya/11342413
-杰森•斯坦森,http://124.248.69.76:26781/huya/21059588
-喜剧专场,http://124.248.69.76:26781/huya/11602044
-甄子丹,http://124.248.69.76:26781/huya/11352935
-洪金宝,http://124.248.69.76:26781/huya/11279251
-徐克,http://124.248.69.76:26781/huya/11352909
-周润发,http://124.248.69.76:26781/huya/11342387
-徐峥,http://124.248.69.76:26781/huya/11602043
-许氏三杰,http://124.248.69.76:26781/huya/11602033
-黄渤,http://124.248.69.76:26781/huya/11352876
-喜剧电影,http://124.248.69.76:26781/huya/11352877
-张卫健,http://124.248.69.76:26781/huya/11342423
-倩女幽魂,http://124.248.69.76:26781/huya/11601970
-日本电影,http://124.248.69.76:26781/huya/23652317
-冯小刚,http://124.248.69.76:26781/huya/11352906
-搞笑僵尸片,http://124.248.69.76:26781/huya/11352963
-极限挑战],http://124.248.69.76:26781/huya/11352914
-金庸武侠,http://124.248.69.76:26781/huya/11342435
-金庸电影,http://124.248.69.76:26781/huya/11352897
-经典武侠,http://124.248.69.76:26781/huya/11342427
-欢笑影院,http://124.248.69.76:26781/huya/11352894
-精彩不断,http://124.248.69.76:26781/huya/24396428
-精忠岳飞南征北战,http://124.248.69.76:26781/huya/11336578
-古墓系列,http://124.248.69.76:26781/huya/11352913
-国产悬疑,http://124.248.69.76:26781/huya/11342395
-天龙八部,http://124.248.69.76:26781/huya/11602041
-盗墓电影,http://124.248.69.76:26781/huya/21059552
-国产电影,http://124.248.69.76:26781/huya/11352973
-蜘蛛侠,http://124.248.69.76:26781/huya/21059599
-功夫片,http://124.248.69.76:26781/huya/11352941
-丧尸片,http://124.248.69.76:26781/huya/21059578
-高能反转,http://124.248.69.76:26781/huya/11352887
-变形金刚,http://124.248.69.76:26781/huya/21059596
-剧集_新水浒,http://124.248.69.76:26781/huya/11342384
-剧集_老三国,http://124.248.69.76:26781/huya/11602081
-剧集_新三国,http://124.248.69.76:26781/huya/11352944
-剧集_庆余年,http://124.248.69.76:26781/huya/11352960
-剧集_纪晓岚,http://124.248.69.76:26781/huya/11342396
-剧集_地下交通站,http://124.248.69.76:26781/huya/11342433
-剧集_士兵突击,http://124.248.69.76:26781/huya/11342430
-剧集_爱情公寓,http://124.248.69.76:26781/huya/11336726
-剧集_家有儿女,http://124.248.69.76:26781/huya/11352872
-剧集_武林外传,http://124.248.69.76:26781/huya/21059598
-剧集_邻里一家亲,http://124.248.69.76:26781/huya/11342426
-百鸟朝凤,http://124.248.69.76:26781/huya/15894162
-路飞,http://124.248.69.76:26781/huya/16913382
-麻雀,http://124.248.69.76:26781/huya/11352881
-陈翔六点半,http://124.248.69.76:26781/huya/11274154
-生活大爆炸,http://124.248.69.76:26781/huya/11342417
-天雷滚滚,http://124.248.69.76:26781/huya/11352945
-文成公主,http://124.248.69.76:26781/huya/11352974
-小鲤鱼,http://124.248.69.76:26781/huya/11601961
+林正英,http://iptv.jxpan.vip:18888/aio/huya/11342421
+沈腾,http://iptv.jxpan.vip:18888/aio/huya/11601968
+成龙,http://iptv.jxpan.vip:18888/aio/huya/11342386
+李连杰,http://iptv.jxpan.vip:18888/aio/huya/11342390
+刘德华,http://iptv.jxpan.vip:18888/aio/huya/11342424
+王晶,http://iptv.jxpan.vip:18888/aio/huya/11602058
+星爷,http://iptv.jxpan.vip:18888/aio/huya/11342412
+中华小当家,http://iptv.jxpan.vip:18888/aio/huya/11342413
+杰森•斯坦森,http://iptv.jxpan.vip:18888/aio/huya/21059588
+喜剧专场,http://iptv.jxpan.vip:18888/aio/huya/11602044
+甄子丹,http://iptv.jxpan.vip:18888/aio/huya/11352935
+洪金宝,http://iptv.jxpan.vip:18888/aio/huya/11279251
+徐克,http://iptv.jxpan.vip:18888/aio/huya/11352909
+周润发,http://iptv.jxpan.vip:18888/aio/huya/11342387
+徐峥,http://iptv.jxpan.vip:18888/aio/huya/11602043
+许氏三杰,http://iptv.jxpan.vip:18888/aio/huya/11602033
+黄渤,http://iptv.jxpan.vip:18888/aio/huya/11352876
+喜剧电影,http://iptv.jxpan.vip:18888/aio/huya/11352877
+张卫健,http://iptv.jxpan.vip:18888/aio/huya/11342423
+倩女幽魂,http://iptv.jxpan.vip:18888/aio/huya/11601970
+日本电影,http://iptv.jxpan.vip:18888/aio/huya/23652317
+冯小刚,http://iptv.jxpan.vip:18888/aio/huya/11352906
+搞笑僵尸片,http://iptv.jxpan.vip:18888/aio/huya/11352963
+极限挑战],http://iptv.jxpan.vip:18888/aio/huya/11352914
+金庸武侠,http://iptv.jxpan.vip:18888/aio/huya/11342435
+金庸电影,http://iptv.jxpan.vip:18888/aio/huya/11352897
+经典武侠,http://iptv.jxpan.vip:18888/aio/huya/11342427
+欢笑影院,http://iptv.jxpan.vip:18888/aio/huya/11352894
+精彩不断,http://iptv.jxpan.vip:18888/aio/huya/24396428
+精忠岳飞南征北战,http://iptv.jxpan.vip:18888/aio/huya/11336578
+古墓系列,http://iptv.jxpan.vip:18888/aio/huya/11352913
+国产悬疑,http://iptv.jxpan.vip:18888/aio/huya/11342395
+天龙八部,http://iptv.jxpan.vip:18888/aio/huya/11602041
+盗墓电影,http://iptv.jxpan.vip:18888/aio/huya/21059552
+国产电影,http://iptv.jxpan.vip:18888/aio/huya/11352973
+蜘蛛侠,http://iptv.jxpan.vip:18888/aio/huya/21059599
+功夫片,http://iptv.jxpan.vip:18888/aio/huya/11352941
+丧尸片,http://iptv.jxpan.vip:18888/aio/huya/21059578
+高能反转,http://iptv.jxpan.vip:18888/aio/huya/11352887
+变形金刚,http://iptv.jxpan.vip:18888/aio/huya/21059596
+剧集_新水浒,http://iptv.jxpan.vip:18888/aio/huya/11342384
+剧集_老三国,http://iptv.jxpan.vip:18888/aio/huya/11602081
+剧集_新三国,http://iptv.jxpan.vip:18888/aio/huya/11352944
+剧集_庆余年,http://iptv.jxpan.vip:18888/aio/huya/11352960
+剧集_纪晓岚,http://iptv.jxpan.vip:18888/aio/huya/11342396
+剧集_地下交通站,http://iptv.jxpan.vip:18888/aio/huya/11342433
+剧集_士兵突击,http://iptv.jxpan.vip:18888/aio/huya/11342430
+剧集_爱情公寓,http://iptv.jxpan.vip:18888/aio/huya/11336726
+剧集_家有儿女,http://iptv.jxpan.vip:18888/aio/huya/11352872
+剧集_武林外传,http://iptv.jxpan.vip:18888/aio/huya/21059598
+剧集_邻里一家亲,http://iptv.jxpan.vip:18888/aio/huya/11342426
+百鸟朝凤,http://iptv.jxpan.vip:18888/aio/huya/15894162
+路飞,http://iptv.jxpan.vip:18888/aio/huya/16913382
+麻雀,http://iptv.jxpan.vip:18888/aio/huya/11352881
+陈翔六点半,http://iptv.jxpan.vip:18888/aio/huya/11274154
+生活大爆炸,http://iptv.jxpan.vip:18888/aio/huya/11342417
+天雷滚滚,http://iptv.jxpan.vip:18888/aio/huya/11352945
+文成公主,http://iptv.jxpan.vip:18888/aio/huya/11352974
+小鲤鱼,http://iptv.jxpan.vip:18888/aio/huya/11601961
 
 //http://live.iill.top/huya.php?id=
 怪兽系列,http://live.iill.top/huya.php?id=21059554
@@ -1487,719 +1359,6 @@ ASTRO AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 
 YY轮播,#genre#
 
-// http://www.douzhicloud.site:35455/yy/
-侦探悬疑,http://www.douzhicloud.site:35455/yy/1382735543
-TVB经典—九江十二坊,http://www.douzhicloud.site:35455/yy/1382735566
-十诫—外国影史里程碑,http://www.douzhicloud.site:35455/yy/1354930945
-修牛蹄,http://www.douzhicloud.site:35455/yy/1353413683
-你爱看的国内战争大片合集,http://www.douzhicloud.site:35455/yy/1354936160
-美国超级英雄电影系列,http://www.douzhicloud.site:35455/yy/1354933556
-霍比特人电影系列,http://www.douzhicloud.site:35455/yy/1354930967
-喜剧大片—篮球冠军,http://www.douzhicloud.site:35455/yy/1382749906
-特种兵归来4,http://www.douzhicloud.site:35455/yy/1382736896
-科幻电影,http://www.douzhicloud.site:35455/yy/1355065896
-纪录片封神,http://www.douzhicloud.site:35455/yy/1382736825
-飞虎之潜行极战,http://www.douzhicloud.site:35455/yy/1354932420
-影视剧-林深见鹿,http://www.douzhicloud.site:35455/yy/1345494225
-功夫婆媳-家庭剧,http://www.douzhicloud.site:35455/yy/1382736883
-风靡全球的谍战片,http://www.douzhicloud.site:35455/yy/1382736817
-007系列大片,http://www.douzhicloud.site:35455/yy/1382736897
-超炫科幻大片,http://www.douzhicloud.site:35455/yy/1382736840
-火线追凶,http://www.douzhicloud.site:35455/yy/1382745090
-速度与激情,http://www.douzhicloud.site:35455/yy/1382749892
-敢死队,http://www.douzhicloud.site:35455/yy/1382735573
-国外战争,http://www.douzhicloud.site:35455/yy/1382736857
-行动与枪战,http://www.douzhicloud.site:35455/yy/29170933
-顶级动作,http://www.douzhicloud.site:35455/yy/24923327
-暮光之城,http://www.douzhicloud.site:35455/yy/1354930181
-变形金刚,http://www.douzhicloud.site:35455/yy/1382736803
-金三角大营救,http://www.douzhicloud.site:35455/yy/1354930924
-致命守护者,http://www.douzhicloud.site:35455/yy/1382745095
-沙海,http://www.douzhicloud.site:35455/yy/1355171357
-恐怖电影,http://www.douzhicloud.site:35455/yy/24066336
-外国科幻,http://www.douzhicloud.site:35455/yy/1382747628
-漫威十年,http://www.douzhicloud.site:35455/yy/1354930233
-科幻Sci-Fi,http://www.douzhicloud.site:35455/yy/1354930209
-史诗级战争,http://www.douzhicloud.site:35455/yy/1382745092
-港剧动作,http://www.douzhicloud.site:35455/yy/1382736809
-成龙系列,http://www.douzhicloud.site:35455/yy/1354888751
-天龙八部,http://www.douzhicloud.site:35455/yy/1382736855
-苦乐村官,http://www.douzhicloud.site:35455/yy/1382736864
-战火中的故事,http://www.douzhicloud.site:35455/yy/1382735625
-憨豆先生,http://www.douzhicloud.site:35455/yy/1354930189 
-港片电影集,http://www.douzhicloud.site:35455/yy/1455225203
-港片赌片 3000部,http://www.douzhicloud.site:35455/yy/1355076627
-港片,http://www.douzhicloud.site:35455/yy/1459901192
-香港院线大片,http://www.douzhicloud.site:35455/yy/1354936242 
-叶问全集,http://www.douzhicloud.site:35455/yy/1382828771
-第一滴血全集,http://www.douzhicloud.site:35455/yy/1354932355 
-香港经典蓝光电影,http://www.douzhicloud.site:35455/yy/1382627144 
-奇缘39262港台影院,http://www.douzhicloud.site:35455/yy/1354889234
-港剧悬疑破案,http://www.douzhicloud.site:35455/yy/10425097
-末日系列-外国电影合集,http://www.douzhicloud.site:35455/yy/1354889019
-李连杰,http://www.douzhicloud.site:35455/yy/74613175
-李连杰,http://mtw.so/69HNaP
-洪金宝,http://www.douzhicloud.site:35455/yy/1354924839
-鬼片.惊悚.港片,http://www.douzhicloud.site:35455/yy/1355497884 
-港片鬼片全集,http://www.douzhicloud.site:35455/yy/1459869766 
-动作武侠港片电影,http://www.douzhicloud.site:35455/yy/1459801818
-经典港片电影,http://www.douzhicloud.site:35455/yy/1382793140
-港片经典电影,http://www.douzhicloud.site:35455/yy/1382633631
-林正英电影,http://www.douzhicloud.site:35455/yy/1382841203
-超级吓人鬼片 恐怖片,http://www.douzhicloud.site:35455/yy/1355641195
-鬼怪恐怖惊辣,http://www.douzhicloud.site:35455/yy/1382748585
-林正英 僵尸 鬼片,http://www.douzhicloud.site:35455/yy/1351505899
-电影电影,http://www.douzhicloud.site:35455/yy/1458819360
-【成龙经典】动作,http://www.douzhicloud.site:35455/yy/34460526
-古惑仔全集,http://www.douzhicloud.site:35455/yy/1354507447
-武林外传 超清,http://www.douzhicloud.site:35455/yy/21092633
-狂飙,http://www.douzhicloud.site:35455/yy/1355142167
-绝版电影 港片女鬼,http://www.douzhicloud.site:35455/yy/1455988450
-雪豹,http://www.douzhicloud.site:35455/yy/28099939
-绝版电影 港片女鬼,http://www.douzhicloud.site:35455/yy/1461579859
-雪中悍刀行,http://www.douzhicloud.site:35455/yy/1450496699
-【狂飙2老默】首播,http://www.douzhicloud.site:35455/yy/1354790484
-【战狼4】吴京老师,http://www.douzhicloud.site:35455/yy/1354784284
-港片 喜剧 动作,http://www.douzhicloud.site:35455/yy/1355480591
-古惑仔,http://www.douzhicloud.site:35455/yy/1458015189
-封神榜,http://www.douzhicloud.site:35455/yy/1353426319
-举起手来-惊险抗日,http://www.douzhicloud.site:35455/yy/1382736877
-幸福满院,http://www.douzhicloud.site:35455/yy/1382737886
-【新三国】蓝光版,http://www.douzhicloud.site:35455/yy/1382705738
-豪哥带我们发财,http://www.douzhicloud.site:35455/yy/23402146
-纪晓岚,http://www.douzhicloud.site:35455/yy/1354143978
-惊恐盗暮鬼怪,http://www.douzhicloud.site:35455/yy/1382749525
-天龙八部,http://www.douzhicloud.site:35455/yy/1351814644
-【鹿鼎记】金庸经典,http://www.douzhicloud.site:35455/yy/28265277
-林正英-经典电影,http://www.douzhicloud.site:35455/yy/34229877
-家花与野花,http://www.douzhicloud.site:35455/yy/1354420982
-超喜剧地下交通站男神贾贵,http://www.douzhicloud.site:35455/yy/1353428972
-济公游记,http://www.douzhicloud.site:35455/yy/1355265814
-随便看看,http://www.douzhicloud.site:35455/yy/37454459
-交友林正英女鬼电影,http://www.douzhicloud.site:35455/yy/1453996620
-【赌神片 动作片 港片】,http://www.douzhicloud.site:35455/yy/1355112116
-热度榜1.包青天,http://www.douzhicloud.site:35455/yy/22701868
-武林外传,http://www.douzhicloud.site:35455/yy/1355652820
-经典动漫,http://www.douzhicloud.site:35455/yy/22777075
-燕双鹰,http://www.douzhicloud.site:35455/yy/1352227153
-狂飙,http://www.douzhicloud.site:35455/yy/1382764587
-【战狼3吴京】独播,http://www.douzhicloud.site:35455/yy/37999586
-纪晓岚,http://www.douzhicloud.site:35455/yy/1352227227
-宰相刘罗锅,http://www.douzhicloud.site:35455/yy/1353892468
-斗罗斗破动漫,http://www.douzhicloud.site:35455/yy/1420843376
-狂飙,http://www.douzhicloud.site:35455/yy/1382754187
-兔牙妹吖正在直播,http://www.douzhicloud.site:35455/yy/1353782648
-英叔僵尸 3000部,http://www.douzhicloud.site:35455/yy/1353685311
-66车讯,http://www.douzhicloud.site:35455/yy/1382571192
-真实案件系列,http://www.douzhicloud.site:35455/yy/1382671124
-神医喜来乐,http://www.douzhicloud.site:35455/yy/1382714119
-欢乐集结号-每天笑不停,http://www.douzhicloud.site:35455/yy/1382741642
-情满四合院,http://www.douzhicloud.site:35455/yy/1382851524
-鹿鼎记-周星驰版,http://www.douzhicloud.site:35455/yy/1354658049
-正阳门下,http://www.douzhicloud.site:35455/yy/1354931580
-情满四合院-高分电视剧,http://www.douzhicloud.site:35455/yy/1382735541
-【盜暮笔记】24h,http://www.douzhicloud.site:35455/yy/1382702247
-83射雕英雄传,http://www.douzhicloud.site:35455/yy/1354210357
-星爷经典-百看不厌,http://www.douzhicloud.site:35455/yy/1382736808 
-经典鬼片3000部,http://www.douzhicloud.site:35455/yy/29460894
-国产喜剧,http://www.douzhicloud.site:35455/yy/1382736856
-火蓝刀锋,http://www.douzhicloud.site:35455/yy/1382737892
-丸子,http://www.douzhicloud.site:35455/yy/1382851588
-少年包青天1~3蓝光版,http://www.douzhicloud.site:35455/yy/38498680
-雪中悍刀行,http://www.douzhicloud.site:35455/yy/1382660835
-电影百团大战,http://www.douzhicloud.site:35455/yy/1382736871
-花儿开心吧,http://www.douzhicloud.site:35455/yy/1354930984
-国内侦探电影大全,http://www.douzhicloud.site:35455/yy/1354936134
-炊事班的故事II,http://www.douzhicloud.site:35455/yy/1382736885
-地下交通站,http://www.douzhicloud.site:35455/yy/1382736795
-德爷单挑荒野,http://www.douzhicloud.site:35455/yy/27772604
-皮蛋影视 正在直播,http://www.douzhicloud.site:35455/yy/23055599
-雍正王朝,http://www.douzhicloud.site:35455/yy/23206872
-小蓉儿 正在直播,http://www.douzhicloud.site:35455/yy/1351762426
-笑傲江湖 4K超清,http://www.douzhicloud.site:35455/yy/1354282410
-【神雕侠侣】金庸经典,http://www.douzhicloud.site:35455/yy/1382704651
-进来 陪你看动漫,http://www.douzhicloud.site:35455/yy/1352866135 
-小甜甜 闯关东,http://www.douzhicloud.site:35455/yy/1382658790
-二龙湖浩哥【经典搞笑】,http://www.douzhicloud.site:35455/yy/28205255
-金牌配角达叔系列,http://www.douzhicloud.site:35455/yy/1354888728
-雯子：港剧影视厅,http://www.douzhicloud.site:35455/yy/1456829119
-血色浪漫,http://www.douzhicloud.site:35455/yy/1354926676
-【动漫】斗罗斗破,http://www.douzhicloud.site:35455/yy/1353098382
-火凤凰之战狼七,http://www.douzhicloud.site:35455/yy/1463088777
-鹿鼎记-高清全集,http://www.douzhicloud.site:35455/yy/1382704650
-同桌的你,http://www.douzhicloud.site:35455/yy/1382851477
-鬼片港片美女陪你看,http://www.douzhicloud.site:35455/yy/1335509613
-泡芙陪你看电影,http://www.douzhicloud.site:35455/yy/24407222
-24H国漫热播,http://www.douzhicloud.site:35455/yy/1353937086
-【经典港片】佟瑶,http://www.douzhicloud.site:35455/yy/23531261
-【新三国】萌儿陪看,http://www.douzhicloud.site:35455/yy/29216766
-【港片】赌片 动作,http://www.douzhicloud.site:35455/yy/24921161
-斗罗斗破精彩动漫,http://www.douzhicloud.site:35455/yy/1507304388
-【少年歌行】,http://www.douzhicloud.site:35455/yy/1354806550
-新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667
-燕双鹰专场,http://www.douzhicloud.site:35455/yy/23026835
-神探狄仁杰,http://www.douzhicloud.site:35455/yy/38338029
-【金超群】电视剧,http://www.douzhicloud.site:35455/yy/1356158015
-丫头动漫 斗罗斗破,http://www.douzhicloud.site:35455/yy/1458722520
-喜欢的小哥哥点点关注,http://www.douzhicloud.site:35455/yy/98544634
-纪晓岚,http://www.douzhicloud.site:35455/yy/22982216
-【新三国】吕布,http://www.douzhicloud.site:35455/yy/1382851459
-倚天屠龙记,http://www.douzhicloud.site:35455/yy/1449856066
-花千骨,http://www.douzhicloud.site:35455/yy/1354943110
-隋唐英雄传,http://www.douzhicloud.site:35455/yy/1352475619
-【港台】鬼片 惊悚 喜剧,http://www.douzhicloud.site:35455/yy/1351030377
-神探狄仁杰,http://www.douzhicloud.site:35455/yy/1351755386
-小美美 正在直播,http://www.douzhicloud.site:35455/yy/1354143966
-经典 绝版 恐怖3000,http://www.douzhicloud.site:35455/yy/84238895
-鬼片3000,http://www.douzhicloud.site:35455/yy/1460889796
-武侠港片电影,http://www.douzhicloud.site:35455/yy/1451866697
-新主播求照顾,http://www.douzhicloud.site:35455/yy/29197808
-港片电影,http://www.douzhicloud.site:35455/yy/33897188
-案发现场（1-3）,http://www.douzhicloud.site:35455/yy/31368110
-康熙微服私访记,http://www.douzhicloud.site:35455/yy/1352811698
-武林外传,http://www.douzhicloud.site:35455/yy/1454629602
-鹊刀门,http://www.douzhicloud.site:35455/yy/1355344777
-经典鬼片,http://www.douzhicloud.site:35455/yy/1508828185
-妹子高分搞笑电影,http://www.douzhicloud.site:35455/yy/33478222
-少年包青天,http://www.douzhicloud.site:35455/yy/1356043677
-鹊刀门传奇,http://www.douzhicloud.site:35455/yy/1382745997
-【动漫】斗罗斗破超清全屏,http://www.douzhicloud.site:35455/yy/28796627
-天龙神雕经典回忆,http://www.douzhicloud.site:35455/yy/68260522
-倚天屠龙记,http://www.douzhicloud.site:35455/yy/33300793
-燕双鹰,http://www.douzhicloud.site:35455/yy/1354143942
-雍正王朝,http://www.douzhicloud.site:35455/yy/1356043620
-超清经典港片,http://www.douzhicloud.site:35455/yy/1356180261
-东北一家人,http://www.douzhicloud.site:35455/yy/1355273385
-封神榜,http://www.douzhicloud.site:35455/yy/1382797534
-勇敢的心,http://www.douzhicloud.site:35455/yy/1354744544
-摸金 盗暮,http://www.douzhicloud.site:35455/yy/1459714870
-弹幕天团 下饭神剧,http://www.douzhicloud.site:35455/yy/23512910
-(周星驰)超经典搞笑电影,http://www.douzhicloud.site:35455/yy/29945997
-正阳门下 正在直播,http://www.douzhicloud.site:35455/yy/1453059740
-新三国,http://www.douzhicloud.site:35455/yy/26744898
-荒野求生德爷,http://www.douzhicloud.site:35455/yy/36949900
-国漫 一起看正在直播,http://www.douzhicloud.site:35455/yy/1351417866
-【案发现场】1-4部全集,http://www.douzhicloud.site:35455/yy/33567888
-你不知道的汽车冷知识,http://www.douzhicloud.site:35455/yy/1346966327
-大家车言论,http://www.douzhicloud.site:35455/yy/1382570702
-24【动漫】正在直播,http://www.douzhicloud.site:35455/yy/1350984033
-经典动漫,http://www.douzhicloud.site:35455/yy/24180320
-动漫,http://www.douzhicloud.site:35455/yy/25055036
-飞哥全集乐乐陪看】,http://www.douzhicloud.site:35455/yy/1352946111
-鬼片 恐怖片,http://www.douzhicloud.site:35455/yy/1455891197
-无敌燕双鹰,http://www.douzhicloud.site:35455/yy/1354825244
-送欢乐,http://www.douzhicloud.site:35455/yy/34093016
-雨馨 正在直播,http://www.douzhicloud.site:35455/yy/1354768828
-西游记后传 蓝光,http://www.douzhicloud.site:35455/yy/1353392400
-小兵张嘎,http://www.douzhicloud.site:35455/yy/1354930225
-新白娘子传奇-女神赵雅芝,http://www.douzhicloud.site:35455/yy/1354930969
-赌神-发哥,http://www.douzhicloud.site:35455/yy/1354889044
-西游记后传,http://www.douzhicloud.site:35455/yy/1382736846
-杭小妞,http://www.douzhicloud.site:35455/yy/1382851590
-神探狄仁杰1,http://www.douzhicloud.site:35455/yy/1382851575
-初恋脸,http://www.douzhicloud.site:35455/yy/1382851597
-澳门风云,http://www.douzhicloud.site:35455/yy/1459243913
-国内喜剧,http://www.douzhicloud.site:35455/yy/1382735563
-笑声传奇,http://www.douzhicloud.site:35455/yy/1382736880
-神探狄仁杰2,http://www.douzhicloud.site:35455/yy/1382828767
-双月之城-国漫,http://www.douzhicloud.site:35455/yy/1382736907
-天道-9.2高分好剧,http://www.douzhicloud.site:35455/yy/1382735574
-少年包青天第三部,http://www.douzhicloud.site:35455/yy/1382736814
-父母爱情,http://www.douzhicloud.site:35455/yy/1382746276
-父母爱情,http://www.douzhicloud.site:35455/yy/1354926650
-法证先锋,http://www.douzhicloud.site:35455/yy/1354930939
-宝莲灯前传,http://www.douzhicloud.site:35455/yy/1354931631
-都挺好-电视剧,http://www.douzhicloud.site:35455/yy/1382736892
-恋歌,http://www.douzhicloud.site:35455/yy/1382851594
-三国演义,http://www.douzhicloud.site:35455/yy/32788000
-神探狄仁杰1,http://www.douzhicloud.site:35455/yy/1354930934
-我的体育老师,http://www.douzhicloud.site:35455/yy/1382745169
-神探狄仁杰2,http://www.douzhicloud.site:35455/yy/1382851146
-情满四合院,http://www.douzhicloud.site:35455/yy/1382736848
-情满四合院,http://www.douzhicloud.site:35455/yy/1382736888
-炊事班的故事III,http://www.douzhicloud.site:35455/yy/1382736716
-颜值永远在线,http://www.douzhicloud.site:35455/yy/1382851582
-风筝,http://www.douzhicloud.site:35455/yy/1382828770
-速度与激情系列！-精彩大片,http://www.douzhicloud.site:35455/yy/1382736911
-炊事班的故事,http://www.douzhicloud.site:35455/yy/1382749901
-绝版鬼片电影,http://www.douzhicloud.site:35455/yy/1382743247
-三国演义94年经典版,http://www.douzhicloud.site:35455/yy/1354936241
-我的前半生,http://www.douzhicloud.site:35455/yy/1382735564
-张国荣与周润发的兄弟情,http://www.douzhicloud.site:35455/yy/1354930961
-康熙王朝,http://www.douzhicloud.site:35455/yy/1382736818
-笑傲江湖,http://www.douzhicloud.site:35455/yy/1354930909
-【杉杉来了】赵丽颖,http://www.douzhicloud.site:35455/yy/23458682
-大话西游至尊宝,http://www.douzhicloud.site:35455/yy/1382736910
-经典电影,http://www.douzhicloud.site:35455/yy/1450556636
-【破案 悬疑 港剧】,http://www.douzhicloud.site:35455/yy/1382800083
-《石敢当》六耳猕猴,http://www.douzhicloud.site:35455/yy/1394156613
-鬼经典老片,http://www.douzhicloud.site:35455/yy/1463783198
-《仙侠》开局无敌了,http://www.douzhicloud.site:35455/yy/29600150
-【战狼3吴京】首播,http://www.douzhicloud.site:35455/yy/1456668939
-盗暮惊悚妖魔,http://www.douzhicloud.site:35455/yy/1382765507
-欧美经典惊悚灾难,http://www.douzhicloud.site:35455/yy/1382656234
-寻秦记-穿越剧经典,http://www.douzhicloud.site:35455/yy/1382749900
-破案港剧,http://www.douzhicloud.site:35455/yy/1350670730
-2024盗幕鬼怪,http://www.douzhicloud.site:35455/yy/1355171231
-震撼！国内功夫大片,http://www.douzhicloud.site:35455/yy/1382736902
-【且试.护心】 ~,http://www.douzhicloud.site:35455/yy/29067083
-僵尸女鬼电影,http://www.douzhicloud.site:35455/yy/1457229809
-法海又来抓妖了,http://www.douzhicloud.site:35455/yy/1356326727
-24h 我爱我家 纯音频,http://www.douzhicloud.site:35455/yy/1356212303
-狄仁杰等你哦,http://www.douzhicloud.site:35455/yy/1457579747
-鬼片恐怖私人影院,http://www.douzhicloud.site:35455/yy/1354952229
-【聚星】娜娜,http://www.douzhicloud.site:35455/yy/1382851479
-林正英经典,http://www.douzhicloud.site:35455/yy/1353312849
-《一剑开天门》,http://www.douzhicloud.site:35455/yy/34313906
-精彩动漫斗罗斗破,http://www.douzhicloud.site:35455/yy/76101626
-【动漫】斗罗斗破超清全屏,http://www.douzhicloud.site:35455/yy/1382689904
-布丁-玄幻电影正在直播,http://www.douzhicloud.site:35455/yy/1455460998
-武林外传,http://www.douzhicloud.site:35455/yy/1353852605
-三国演义 超,http://www.douzhicloud.site:35455/yy/1508901692
-全职高手,http://www.douzhicloud.site:35455/yy/26870427
-薛元帅传奇,http://www.douzhicloud.site:35455/yy/31313785
-24H地下交通站全,http://www.douzhicloud.site:35455/yy/37880083
-【周星驰】搞笑电影,http://www.douzhicloud.site:35455/yy/38670875
-影视剧场,http://www.douzhicloud.site:35455/yy/1355260855
-【电影】超然巨作,http://www.douzhicloud.site:35455/yy/26623173
-天龙八部黄日华,http://www.douzhicloud.site:35455/yy/1461037999
-斗罗斗破,http://www.douzhicloud.site:35455/yy/1354768831
-新主播求照顾,http://www.douzhicloud.site:35455/yy/1382690406
-【陪你看】金刚葫芦娃,http://www.douzhicloud.site:35455/yy/1353323999
-精彩玄幻电影,http://www.douzhicloud.site:35455/yy/1382688400
-雪中悍刀行,http://www.douzhicloud.site:35455/yy/1460836818
-动漫,http://www.douzhicloud.site:35455/yy/1382747970
-小宝 天龙 神雕金庸,http://www.douzhicloud.site:35455/yy/1356043609
-【林正英】僵尸 鬼片,http://www.douzhicloud.site:35455/yy/30668277
-少年包青天三,http://www.douzhicloud.site:35455/yy/61318527
-火炬手,http://www.douzhicloud.site:35455/yy/1382851618
-公主陪看老酒馆,http://www.douzhicloud.site:35455/yy/1356254650
-军旅剧（回忆经典）,http://www.douzhicloud.site:35455/yy/1356306672
-动漫,http://www.douzhicloud.site:35455/yy/26664495
-放羊的星星,http://www.douzhicloud.site:35455/yy/1355260662
-Ｔ.Ｓ.Ｌ.-东门仔,http://www.douzhicloud.site:35455/yy/1382861117
-神探狄仁杰1—5部全集,http://www.douzhicloud.site:35455/yy/1382705592
-奇领 铁山靠【Y 正在直播,http://www.douzhicloud.site:35455/yy/41584371
-抗日奇侠,http://www.douzhicloud.site:35455/yy/22089862
-斗破苍穹斗罗大玄幻修仙剧,http://www.douzhicloud.site:35455/yy/1356051105
-24小时循环播电视剧,http://www.douzhicloud.site:35455/yy/53320802
-【新三国】日版,http://www.douzhicloud.site:35455/yy/1382851457
-枕上书正在直播,http://www.douzhicloud.site:35455/yy/1351844200
-超精彩！系列动作电影,http://www.douzhicloud.site:35455/yy/1382745096
-二号交通站,http://www.douzhicloud.site:35455/yy/1382735582
-雪儿 正在直播,http://www.douzhicloud.site:35455/yy/1354143938
-动作大片-热血开打,http://www.douzhicloud.site:35455/yy/1354936168
-士兵突击,http://www.douzhicloud.site:35455/yy/1382851600
-国内喜剧,http://www.douzhicloud.site:35455/yy/1382736862
-院线动作大片,http://www.douzhicloud.site:35455/yy/1382736900
-宰相刘罗锅,http://www.douzhicloud.site:35455/yy/1382745191
-燃爆动作片,http://www.douzhicloud.site:35455/yy/1382736801
-萌萌爱追剧,http://www.douzhicloud.site:35455/yy/1382745093
-木乃伊全集,http://www.douzhicloud.site:35455/yy/1354889024
-今夜欢乐颂,http://www.douzhicloud.site:35455/yy/1382735572
-雪中悍刀行,http://www.douzhicloud.site:35455/yy/59719179
-魔幻手机,http://www.douzhicloud.site:35455/yy/1382735544
-热血战争巨作,http://www.douzhicloud.site:35455/yy/1382745087
-夏洛特烦恼-国内电影-喜剧,http://www.douzhicloud.site:35455/yy/1354936201
-熊出没之探险日记S1-国漫,http://www.douzhicloud.site:35455/yy/1354930977
-你是最美的风景,http://www.douzhicloud.site:35455/yy/1382851599
-教画画了。,http://www.douzhicloud.site:35455/yy/25696285
-读心神探,http://www.douzhicloud.site:35455/yy/1382736875
-高分科幻动作片,http://www.douzhicloud.site:35455/yy/1382749948
-人生必看的科幻片,http://www.douzhicloud.site:35455/yy/1382745114
-毅哥说车,http://www.douzhicloud.site:35455/yy/1339366360
-伪装者,http://www.douzhicloud.site:35455/yy/1354936244
-欢天喜地七仙女,http://www.douzhicloud.site:35455/yy/1382735553
-军旅电视剧,http://www.douzhicloud.site:35455/yy/1352575322
-欢乐颂,http://www.douzhicloud.site:35455/yy/1382851577
-小欢喜,http://www.douzhicloud.site:35455/yy/1382737888
-纯纯纯儿,http://www.douzhicloud.site:35455/yy/1382851589
-生逢灿烂的日子,http://www.douzhicloud.site:35455/yy/1382745085
-热血动作电影,http://www.douzhicloud.site:35455/yy/1382736804
-时光的海,http://www.douzhicloud.site:35455/yy/1382851579
-我爱我家,http://www.douzhicloud.site:35455/yy/1382735557
-黑冰,http://www.douzhicloud.site:35455/yy/1354932427
-传奇英雄,http://www.douzhicloud.site:35455/yy/1382735578
-新水浒传,http://www.douzhicloud.site:35455/yy/1353215589
-最美的青春,http://www.douzhicloud.site:35455/yy/1382851530
-中国味道 第4季-美食纪录片,http://www.douzhicloud.site:35455/yy/1382736845
-【盜暮笔记】24h,http://www.douzhicloud.site:35455/yy/1356373644
-新世界,http://www.douzhicloud.site:35455/yy/1382736850
-福贵,http://www.douzhicloud.site:35455/yy/1354926537
-金婚,http://www.douzhicloud.site:35455/yy/1382828768
-纪晓岚,http://www.douzhicloud.site:35455/yy/1382781415
-【新三国】,http://www.douzhicloud.site:35455/yy/1382851415
-神雕侠侣,http://www.douzhicloud.site:35455/yy/1460913377
-霹雳火,http://www.douzhicloud.site:35455/yy/1356326459
-妖神记之黑狱篇,http://www.douzhicloud.site:35455/yy/1382745173
-体验另一种生活！,http://www.douzhicloud.site:35455/yy/1354936229
-喜剧闹翻天,http://www.douzhicloud.site:35455/yy/1382735548
-易中天品三国完整版,http://www.douzhicloud.site:35455/yy/1461244449
-战狼7吴京退役,http://www.douzhicloud.site:35455/yy/1382773714
-国内玄幻电影-林正英,http://www.douzhicloud.site:35455/yy/1354932444
-欢乐颂,http://www.douzhicloud.site:35455/yy/1382735624
-盗暮 老九门,http://www.douzhicloud.site:35455/yy/1382763739
-牛大叔提干,http://www.douzhicloud.site:35455/yy/1382851615
-神探包青天,http://www.douzhicloud.site:35455/yy/1457622044
-【科幻】超炫特效,http://www.douzhicloud.site:35455/yy/37988782
-《武林外传》武侠,http://www.douzhicloud.site:35455/yy/1394000563
-【天龙八部】蓝光超清,http://www.douzhicloud.site:35455/yy/28996058
-倚天屠龙记,http://www.douzhicloud.site:35455/yy/1356043643
-案发现场全集,http://www.douzhicloud.site:35455/yy/1354775242
-【电视剧】士兵突击,http://www.douzhicloud.site:35455/yy/96731358
-探案！探案！,http://www.douzhicloud.site:35455/yy/1382829413
-动漫,http://www.douzhicloud.site:35455/yy/23993334
-花千骨,http://www.douzhicloud.site:35455/yy/1508456184
-暖暖1999,http://www.douzhicloud.site:35455/yy/1382851591
-非诚勿扰,http://www.douzhicloud.site:35455/yy/1382735583
-西游记张卫健版,http://www.douzhicloud.site:35455/yy/1354936155
-经典动作电影,http://www.douzhicloud.site:35455/yy/1370293254
-欢乐集结号,http://www.douzhicloud.site:35455/yy/1354931582
-野山鹰-影视剧,http://www.douzhicloud.site:35455/yy/1354932395
-国产大片电影,http://www.douzhicloud.site:35455/yy/1354926655
-热血抗日电影,http://www.douzhicloud.site:35455/yy/1382749907
-大进军全集：红色系列电影,http://www.douzhicloud.site:35455/yy/1382745083
-爆笑小品,http://www.douzhicloud.site:35455/yy/1354931503
-金星脱口秀：我敢说你敢听吗,http://www.douzhicloud.site:35455/yy/1382735552
-经典抗日电影,http://www.douzhicloud.site:35455/yy/1354936141
-动物世界,http://www.douzhicloud.site:35455/yy/1382749889
-天下第一,http://www.douzhicloud.site:35455/yy/1382736838
-魔幻手机,http://www.douzhicloud.site:35455/yy/1382851541
-国内科幻,http://www.douzhicloud.site:35455/yy/1354936170
-法证先锋Ⅱ,http://www.douzhicloud.site:35455/yy/1354888736
-欢乐集结号,http://www.douzhicloud.site:35455/yy/1382735550
-仙剑奇侠传-神仙姐姐驾到,http://www.douzhicloud.site:35455/yy/1382749903
-黑衣人1、2—动作喜剧大片,http://www.douzhicloud.site:35455/yy/1354930936
-深夜惊悚大片,http://www.douzhicloud.site:35455/yy/1382745110
-活力满满,http://www.douzhicloud.site:35455/yy/1382851585
-超燃科幻大片：明日边缘,http://www.douzhicloud.site:35455/yy/1382736835
-晨晨的影视小窝,http://www.douzhicloud.site:35455/yy/1382851576
-超英集结,http://www.douzhicloud.site:35455/yy/1382745091
-国内经典动作电影,http://www.douzhicloud.site:35455/yy/1382851522
-深海利剑,http://www.douzhicloud.site:35455/yy/1382736906
-小敏,http://www.douzhicloud.site:35455/yy/1382736890
-红楼梦1987经典版,http://www.douzhicloud.site:35455/yy/1382745084
-本山快乐营,http://www.douzhicloud.site:35455/yy/1354933529
-国内战争电影,http://www.douzhicloud.site:35455/yy/1382736865
-欢乐一起看,http://www.douzhicloud.site:35455/yy/1354930926
-Blingbling,http://www.douzhicloud.site:35455/yy/1382851598
-三国演义【1994】,http://www.douzhicloud.site:35455/yy/1354930932
-非诚勿扰,http://www.douzhicloud.site:35455/yy/1382745106
-国内科幻片来袭,http://www.douzhicloud.site:35455/yy/1354930821
-动物世界-领略原始野性,http://www.douzhicloud.site:35455/yy/1382743138
-亲爱的热爱的,http://www.douzhicloud.site:35455/yy/1354932433
-国外黑色喜剧：冷幽默小剧场,http://www.douzhicloud.site:35455/yy/1382745175
-国外科幻,http://www.douzhicloud.site:35455/yy/1382736800
-特种兵归来-国产电影,http://www.douzhicloud.site:35455/yy/1382735581
-笑傲帮,http://www.douzhicloud.site:35455/yy/1382735555
-高分动作大片-热血出击,http://www.douzhicloud.site:35455/yy/1382736909
-丛林敢死队-国内电影,http://www.douzhicloud.site:35455/yy/1354936214
-少年包青天第三部,http://www.douzhicloud.site:35455/yy/1382851540
-欢乐集结号2,http://www.douzhicloud.site:35455/yy/1354930919
-法证先锋2,http://www.douzhicloud.site:35455/yy/1382736870
-了不起的萝莉小玲,http://www.douzhicloud.site:35455/yy/1382736799
-国产喜剧,http://www.douzhicloud.site:35455/yy/1382735584
-漫威超级英雄系列,http://www.douzhicloud.site:35455/yy/1354932402
-许多多,http://www.douzhicloud.site:35455/yy/1382851583
-以家人之名,http://www.douzhicloud.site:35455/yy/1382736908
-施公奇案1-欧阳震华,http://www.douzhicloud.site:35455/yy/1382749918
-大明王朝,http://www.douzhicloud.site:35455/yy/1382736879
-加勒比海盗系列,http://www.douzhicloud.site:35455/yy/1382749914
-聊斋志异S1,http://www.douzhicloud.site:35455/yy/1382736975
-中国第一神探-狄仁杰,http://www.douzhicloud.site:35455/yy/1354932438
-�潘磕惺康谝患�-国产喜剧,http://www.douzhicloud.site:35455/yy/1382741637
-小鬼当家-童年回忆,http://www.douzhicloud.site:35455/yy/1382745104
-穿越时空的爱恋,http://www.douzhicloud.site:35455/yy/1382735567
-国外高分大片,http://www.douzhicloud.site:35455/yy/1382736867
-心中的白月光,http://www.douzhicloud.site:35455/yy/1382851580
-吐槽大会 第1季,http://www.douzhicloud.site:35455/yy/1354936210
-美国队长史蒂夫,http://www.douzhicloud.site:35455/yy/1382736813
-机械战警1-3,http://www.douzhicloud.site:35455/yy/1382736854
-法证先锋Ⅲ,http://www.douzhicloud.site:35455/yy/1382736802
-洪大哥系列,http://www.douzhicloud.site:35455/yy/1354888743
-吐槽大会 第2季,http://www.douzhicloud.site:35455/yy/1354936145
-易中天品三国,http://www.douzhicloud.site:35455/yy/1354931498
-叛逆者,http://www.douzhicloud.site:35455/yy/1382736868
-X战警系列电影,http://www.douzhicloud.site:35455/yy/1382736893
-探秘中华美食,http://www.douzhicloud.site:35455/yy/1354930954
-平凡岁月,http://www.douzhicloud.site:35455/yy/1382745117
-大唐双龙传,http://www.douzhicloud.site:35455/yy/1354930979
-大汉贤后卫子夫,http://www.douzhicloud.site:35455/yy/1382735569
-哈利波特全集,http://www.douzhicloud.site:35455/yy/1382745105
-舌尖上的中国第2季,http://www.douzhicloud.site:35455/yy/1354930943
-鹿鼎记-陈小春版,http://www.douzhicloud.site:35455/yy/1382736920
-野性欧洲,http://www.douzhicloud.site:35455/yy/1354926622
-经典大片合集,http://www.douzhicloud.site:35455/yy/1382749895
-香港动作大片,http://www.douzhicloud.site:35455/yy/1382736816
-心理追凶-港剧,http://www.douzhicloud.site:35455/yy/1354936207
-田园生活,http://www.douzhicloud.site:35455/yy/1382736898
-漫画解说,http://www.douzhicloud.site:35455/yy/1382735568
-飓风营救,http://www.douzhicloud.site:35455/yy/1382735547
-河山,http://www.douzhicloud.site:35455/yy/1382749952
-蜥蜴世界,http://www.douzhicloud.site:35455/yy/1382735545
-神厨小福贵,http://www.douzhicloud.site:35455/yy/1382736860
-白夜追凶第一季,http://www.douzhicloud.site:35455/yy/1354932359
-非诚勿扰,http://www.douzhicloud.site:35455/yy/1382745100
-开心小泡芙,http://www.douzhicloud.site:35455/yy/1382851578
-精彩动作电影,http://www.douzhicloud.site:35455/yy/1382736823
-忠烈杨家将,http://www.douzhicloud.site:35455/yy/1382749909
-热门喜剧,http://www.douzhicloud.site:35455/yy/1354931495
-笑傲江湖 第2季,http://www.douzhicloud.site:35455/yy/1382736914
-无敌县令,http://www.douzhicloud.site:35455/yy/1354932390
-降服魔女的手段-泰剧,http://www.douzhicloud.site:35455/yy/1354932405
-我的父亲我的兵,http://www.douzhicloud.site:35455/yy/1353413714
-宫心计,http://www.douzhicloud.site:35455/yy/1382828769
-老广的味道 第3季-美食纪录片,http://www.douzhicloud.site:35455/yy/1382735565
-大汉天子S2,http://www.douzhicloud.site:35455/yy/1382736807
-岳云鹏宋小宝也来演电影了？,http://www.douzhicloud.site:35455/yy/1354926612
-国外动作大片,http://www.douzhicloud.site:35455/yy/1382735540
-科幻片：来看神奇的地球,http://www.douzhicloud.site:35455/yy/1354930897
-迷,http://www.douzhicloud.site:35455/yy/1382736719
-珍珠港-电影,http://www.douzhicloud.site:35455/yy/1354936234
-钟馗传说,http://www.douzhicloud.site:35455/yy/1382736839
-笑傲江湖 第1季,http://www.douzhicloud.site:35455/yy/1382749896
-十大经典港剧之《大时代》,http://www.douzhicloud.site:35455/yy/1354930891
-学生兵,http://www.douzhicloud.site:35455/yy/1354658003
-粉红女郎,http://www.douzhicloud.site:35455/yy/1354888671
-渴望,http://www.douzhicloud.site:35455/yy/1354930963
-妖神记,http://www.douzhicloud.site:35455/yy/1382745171
-大江大河-高分影视推荐,http://www.douzhicloud.site:35455/yy/1382736806
-回家的诱惑,http://www.douzhicloud.site:35455/yy/1354658043
-老司机带你开眼界,http://www.douzhicloud.site:35455/yy/1349538007
-舌尖上的中国第一季,http://www.douzhicloud.site:35455/yy/1354930952
-致敬星爷致敬经典,http://www.douzhicloud.site:35455/yy/1354889048
-洪金宝福星系列,http://www.douzhicloud.site:35455/yy/1382851602
-宫心计,http://www.douzhicloud.site:35455/yy/1354932429
-农家小菜,http://www.douzhicloud.site:35455/yy/1382736894
-欢乐集结号4,http://www.douzhicloud.site:35455/yy/1382736889
-小米粒Mili,http://www.douzhicloud.site:35455/yy/1382736842
-流金岁月-经典港剧,http://www.douzhicloud.site:35455/yy/1382736891
-编辑部的故事,http://www.douzhicloud.site:35455/yy/1354936120
-热血动作片合集,http://www.douzhicloud.site:35455/yy/1382735627
-热播国内侦探片,http://www.douzhicloud.site:35455/yy/1382736820
-欢乐集结号3,http://www.douzhicloud.site:35455/yy/1382736822
-经典搞笑影片,http://www.douzhicloud.site:35455/yy/1382749878
-赌神3之少年赌神,http://www.douzhicloud.site:35455/yy/1382749912
-大汉天子S1,http://www.douzhicloud.site:35455/yy/1382749902
-谈判专家,http://www.douzhicloud.site:35455/yy/1382735560
-战争大片,http://www.douzhicloud.site:35455/yy/1382736819
-华子系列,http://www.douzhicloud.site:35455/yy/1354888726
-小小飞虎队,http://www.douzhicloud.site:35455/yy/1382749888
-你最爱的小龙女-神雕侠侣,http://www.douzhicloud.site:35455/yy/1354926637
-小公举,http://www.douzhicloud.site:35455/yy/1382745124
-远去的飞鹰-影视剧,http://www.douzhicloud.site:35455/yy/1354930912
-法外风云,http://www.douzhicloud.site:35455/yy/1382736805
-解放：苏联战争巨片,http://www.douzhicloud.site:35455/yy/1354936249
-最美的青春,http://www.douzhicloud.site:35455/yy/1382745116
-真心想让你幸福,http://www.douzhicloud.site:35455/yy/1382736876
-王朝-自然-纪录片,http://www.douzhicloud.site:35455/yy/1354930927
-动作大片,http://www.douzhicloud.site:35455/yy/1354930887
-国产喜剧大片,http://www.douzhicloud.site:35455/yy/1382745113
-请回答1988,http://www.douzhicloud.site:35455/yy/1354932362
-法证先锋Ⅳ,http://www.douzhicloud.site:35455/yy/1354932426
-国外科幻片,http://www.douzhicloud.site:35455/yy/1382735585
-烧脑悬疑电影,http://www.douzhicloud.site:35455/yy/1382735571
-妖神记-全集,http://www.douzhicloud.site:35455/yy/1382735551
-最后的狮子-探险纪录片,http://www.douzhicloud.site:35455/yy/1382735577
-黄大妮-电视剧,http://www.douzhicloud.site:35455/yy/1354930904
-巾帼枭雄之义海豪情,http://www.douzhicloud.site:35455/yy/1382736859
-一起来笑吧,http://www.douzhicloud.site:35455/yy/1454859415
-重生之超级赛亚人,http://www.douzhicloud.site:35455/yy/1354936124
-脑洞大开的精彩科幻片,http://www.douzhicloud.site:35455/yy/1382736723
-开心麻花街,http://www.douzhicloud.site:35455/yy/1354926643
-单挑荒野第一季,http://www.douzhicloud.site:35455/yy/1354933535
-憨豆先生-经典喜剧,http://www.douzhicloud.site:35455/yy/1354936239
-馋哭了！川味来袭,http://www.douzhicloud.site:35455/yy/1382736913
-百家讲坛-红楼梦篇,http://www.douzhicloud.site:35455/yy/1382741639
-寻秦记,http://www.douzhicloud.site:35455/yy/1354658048
-笑傲江湖-电视剧,http://www.douzhicloud.site:35455/yy/1354936128
-笑到飞起！阿拉丁与神灯,http://www.douzhicloud.site:35455/yy/1382749950
-大江大河2-高分影视推荐,http://www.douzhicloud.site:35455/yy/1382736797
-大汉天子S3,http://www.douzhicloud.site:35455/yy/1382736810
-外国战争大片,http://www.douzhicloud.site:35455/yy/1382736872
-侏罗纪公园三部曲,http://www.douzhicloud.site:35455/yy/1354936191
-去有风的地方,http://www.douzhicloud.site:35455/yy/1382736874
-缺宅男女-精彩港剧,http://www.douzhicloud.site:35455/yy/1382745088
-百家讲坛-之女皇武则天,http://www.douzhicloud.site:35455/yy/1354889015
-老夫少妻搞笑忘年恋,http://www.douzhicloud.site:35455/yy/1354932391
-蒲松龄—经典港剧,http://www.douzhicloud.site:35455/yy/1354889042
-一分钟学道菜,http://www.douzhicloud.site:35455/yy/1382736901
-超激烈的猎食场面,http://www.douzhicloud.site:35455/yy/1382749898
-羊羊扛狼亿少女的噩梦,http://www.douzhicloud.site:35455/yy/1354921392
-最新喜剧电影,http://www.douzhicloud.site:35455/yy/1354936136
-国外最强动作大片！,http://www.douzhicloud.site:35455/yy/1354936157
-四大名捕2,http://www.douzhicloud.site:35455/yy/1382736916
-金婚,http://www.douzhicloud.site:35455/yy/1382736832
-悬疑破案！施公奇案全季,http://www.douzhicloud.site:35455/yy/1382749905
-欢乐集结号58-70,http://www.douzhicloud.site:35455/yy/1382745119
-热血战争片,http://www.douzhicloud.site:35455/yy/1354932409
-小生物的故事,http://www.douzhicloud.site:35455/yy/1382736834
-机场超燃警匪片,http://www.douzhicloud.site:35455/yy/1382735576
-公主嫁到,http://www.douzhicloud.site:35455/yy/1382736915
-无罪推定—经典律政港剧,http://www.douzhicloud.site:35455/yy/1354936203
-永远的经典系列,http://www.douzhicloud.site:35455/yy/1354930204
-机动步队,http://www.douzhicloud.site:35455/yy/1354932371
-来自星星的你,http://www.douzhicloud.site:35455/yy/1354930976
-飞虎之雷霆极战,http://www.douzhicloud.site:35455/yy/1382736869
-超燃动作大片,http://www.douzhicloud.site:35455/yy/1382749940
-银河护卫队-国外科幻巨作,http://www.douzhicloud.site:35455/yy/1382736815
-超级英雄系列电影,http://www.douzhicloud.site:35455/yy/1382736863
-宫心计-港剧-古装,http://www.douzhicloud.site:35455/yy/1354933540
-怪医文三块-影视剧,http://www.douzhicloud.site:35455/yy/1354936154
-重返校园电影合集,http://www.douzhicloud.site:35455/yy/1354930965
-地球上的地狱,http://www.douzhicloud.site:35455/yy/1382736918
-雷神系列,http://www.douzhicloud.site:35455/yy/1354932441
-卧虎藏龙-李安执导,http://www.douzhicloud.site:35455/yy/1382736849
-空谷幽兰,http://www.douzhicloud.site:35455/yy/1382745182
-惊险动作大片！挑战心脏,http://www.douzhicloud.site:35455/yy/1354932407
-爆笑抗日！厨子戏子痞子,http://www.douzhicloud.site:35455/yy/1354930816
-蜘蛛侠-院线大片,http://www.douzhicloud.site:35455/yy/1354926671
-白鹿原,http://www.douzhicloud.site:35455/yy/1354931488
-缺宅男女,http://www.douzhicloud.site:35455/yy/1354930937
-国产动作电影,http://www.douzhicloud.site:35455/yy/1382736858
-守望的天空-泪目电视剧,http://www.douzhicloud.site:35455/yy/1382736843
-高分港剧合集,http://www.douzhicloud.site:35455/yy/1382735542
-中国合伙人,http://www.douzhicloud.site:35455/yy/1354658051
-名媛望族-精彩港剧,http://www.douzhicloud.site:35455/yy/1354932431
-陈情令,http://www.douzhicloud.site:35455/yy/1382745121
-蔡明春晚小品,http://www.douzhicloud.site:35455/yy/1354936177
-欢乐集结号,http://www.douzhicloud.site:35455/yy/1382749911
-尽享国内精彩战争片,http://www.douzhicloud.site:35455/yy/1382745094
-【武林客栈】,http://www.douzhicloud.site:35455/yy/1382773728
-金装四大才子,http://www.douzhicloud.site:35455/yy/1354926600
-科幻大片,http://www.douzhicloud.site:35455/yy/1382745181
-娘亲舅大,http://www.douzhicloud.site:35455/yy/1354932360
-俺娘田小草,http://www.douzhicloud.site:35455/yy/1382741638
-宇宙护卫队--国漫,http://www.douzhicloud.site:35455/yy/1382736837
-喜乐街,http://www.douzhicloud.site:35455/yy/1354936231
-强悍“杀猪婆”的励志人生,http://www.douzhicloud.site:35455/yy/1354658062
-丈夫在外有人？真相竟然是！,http://www.douzhicloud.site:35455/yy/1354932375
-家有九凤-影视剧,http://www.douzhicloud.site:35455/yy/1354930894
-回家的诱惑-狗血剧巅峰,http://www.douzhicloud.site:35455/yy/1382851148
-复仇者联盟4：终局之战,http://www.douzhicloud.site:35455/yy/1354936167
-金玉满堂：精彩港剧,http://www.douzhicloud.site:35455/yy/1382736881
-下饭喜剧电影,http://www.douzhicloud.site:35455/yy/1382736844
-故事里的中国全季,http://www.douzhicloud.site:35455/yy/1382736798
-发哥系列,http://www.douzhicloud.site:35455/yy/1354888733
-国家宝藏 第二季,http://www.douzhicloud.site:35455/yy/1382736853
-电视剧 狂飙,http://www.douzhicloud.site:35455/yy/70163211
-三个臭皮匠顶一个诸葛亮,http://www.douzhicloud.site:35455/yy/1354936221
-仙灵儿,http://www.douzhicloud.site:35455/yy/1382736887
-雪中悍刀行,http://www.douzhicloud.site:35455/yy/1462996362
-动作大片,http://www.douzhicloud.site:35455/yy/1354888739
-玩命直播（普通话）,http://www.douzhicloud.site:35455/yy/1382736841
-大家都在看的警匪片,http://www.douzhicloud.site:35455/yy/1354930964
-第8号当铺,http://www.douzhicloud.site:35455/yy/1382736905
-什么会让你快乐,http://www.douzhicloud.site:35455/yy/54886912
-闲暇观看综艺,http://www.douzhicloud.site:35455/yy/1354932379
-武侠电视剧,http://www.douzhicloud.site:35455/yy/1459331991
-李三枪-抗战影视剧,http://www.douzhicloud.site:35455/yy/1354936122
-拆弹专家-刘德华,http://www.douzhicloud.site:35455/yy/1382745111
-男亲女爱-经典港剧,http://www.douzhicloud.site:35455/yy/1382736715
-战狼10086,http://www.douzhicloud.site:35455/yy/1382773686
-公公出宫-港剧,http://www.douzhicloud.site:35455/yy/1354936208
-卖拐,http://www.douzhicloud.site:35455/yy/1382851469
-萌鸡小队S1-国漫,http://www.douzhicloud.site:35455/yy/1382736904
-国威影院 仙侠系列,http://www.douzhicloud.site:35455/yy/1354866665
-岳云鹏-屌丝也能追到美女,http://www.douzhicloud.site:35455/yy/1382736882
-大家都爱看的港剧,http://www.douzhicloud.site:35455/yy/1382736861
-粟裕大将-影视,http://www.douzhicloud.site:35455/yy/1354926542
-国内最新战争大片,http://www.douzhicloud.site:35455/yy/1382745189
-国内动作大片,http://www.douzhicloud.site:35455/yy/1382749917
-能耐大了第1季,http://www.douzhicloud.site:35455/yy/1354930195
-哥斯拉1,http://www.douzhicloud.site:35455/yy/1382736833
-铭记历史-甲午大海战,http://www.douzhicloud.site:35455/yy/1354936195
-悬崖上的金鱼公主：宫崎骏系列,http://www.douzhicloud.site:35455/yy/1354926666
-越哥说电影,http://www.douzhicloud.site:35455/yy/1382745099
-狂飙,http://www.douzhicloud.site:35455/yy/28298966
-传奇之王-影视剧,http://www.douzhicloud.site:35455/yy/1354926735
-原始人大挑战,http://www.douzhicloud.site:35455/yy/1382736884
-经典电影 电视剧,http://www.douzhicloud.site:35455/yy/1354690927
-再向虎山行,http://www.douzhicloud.site:35455/yy/1355823667
-请回答1988-高分韩剧,http://www.douzhicloud.site:35455/yy/1354936228
-丁大命,http://www.douzhicloud.site:35455/yy/1382735579
-恐怖鬼片嘎嘎好看,http://www.douzhicloud.site:35455/yy/1355485328
-吐槽大会 第5季,http://www.douzhicloud.site:35455/yy/1354889009
-风味原产地潮汕,http://www.douzhicloud.site:35455/yy/1382745178
-太空生命？高分科幻电影开播,http://www.douzhicloud.site:35455/yy/1382851586
-另类民兵葛二蛋,http://www.douzhicloud.site:35455/yy/1382736895
-海王-院线大片,http://www.douzhicloud.site:35455/yy/1354936142
-灌篮高手,http://www.douzhicloud.site:35455/yy/1382735559
-少年包青天,http://www.douzhicloud.site:35455/yy/1356331540
-动漫奥斯卡正在直播,http://www.douzhicloud.site:35455/yy/1382626335
-心病,http://www.douzhicloud.site:35455/yy/1382851474
-家族荣耀-精彩港剧,http://www.douzhicloud.site:35455/yy/1382745103
-来看修牛蹄,http://www.douzhicloud.site:35455/yy/1382749887
-七色小彩虹,http://www.douzhicloud.site:35455/yy/1382851601
-迷失假期：少女香港寻身世,http://www.douzhicloud.site:35455/yy/1382745089
-能耐大了！德云社演技爆棚,http://www.douzhicloud.site:35455/yy/1354930915
-溏心风暴之家好月圆,http://www.douzhicloud.site:35455/yy/1354888747
-小戏骨黄飞鸿,http://www.douzhicloud.site:35455/yy/1354936181
-港片—两公婆八条心,http://www.douzhicloud.site:35455/yy/1382736917
-饥饿游戏全季,http://www.douzhicloud.site:35455/yy/1354932365
-耀舞长安-港剧,http://www.douzhicloud.site:35455/yy/1382741640
-拜年,http://www.douzhicloud.site:35455/yy/1382851470
-【雍正王朝】历史巨作,http://www.douzhicloud.site:35455/yy/1462895099
-变形金刚4、5,http://www.douzhicloud.site:35455/yy/1354658064
-国外院线动作大片,http://www.douzhicloud.site:35455/yy/1382735570
-【粤配动漫】,http://www.douzhicloud.site:35455/yy/1356262523
-金星脱口秀-爆笑回归,http://www.douzhicloud.site:35455/yy/1382749951
-国内动作电影,http://www.douzhicloud.site:35455/yy/1382745176
-催眠视频合集,http://www.douzhicloud.site:35455/yy/1354936178
-超精彩武打场景,http://www.douzhicloud.site:35455/yy/1354936131
-我是特种兵利刃出鞘,http://www.douzhicloud.site:35455/yy/1354127609
-战争大片,http://www.douzhicloud.site:35455/yy/1382735556
-希魔撞正杀人狂,http://www.douzhicloud.site:35455/yy/1382736903
-爱丽丝梦游仙境,http://www.douzhicloud.site:35455/yy/1354931585
-动漫,http://www.douzhicloud.site:35455/yy/1382788679
-内部测试频道请勿封禁,http://www.douzhicloud.site:35455/yy/1352488363
-百家讲坛――之明太祖朱元璋,http://www.douzhicloud.site:35455/yy/1354936149
-港片鬼片老电影,http://www.douzhicloud.site:35455/yy/1355269576
-犬夜叉,http://www.douzhicloud.site:35455/yy/1509038705
-狂飙2,http://www.douzhicloud.site:35455/yy/1456622512
-【康熙王朝】,http://www.douzhicloud.site:35455/yy/37033366
-鲨卷风：鲨鱼市区作乱,http://www.douzhicloud.site:35455/yy/1382736851
-胡歌不见不散,http://www.douzhicloud.site:35455/yy/1356355983
-奥斯卡战争大片,http://www.douzhicloud.site:35455/yy/1354932397
-的直播间,http://www.douzhicloud.site:35455/yy/1354129442
-荒诞喜剧！钢的琴,http://www.douzhicloud.site:35455/yy/1382736886
-电影电影电影电影电影电影,http://www.douzhicloud.site:35455/yy/1351496216
-超体：高分科幻片,http://www.douzhicloud.site:35455/yy/1354936116
-亲爱的味道：美食轻喜剧,http://www.douzhicloud.site:35455/yy/1382735561
-丫鬟大联盟！笑个不停,http://www.douzhicloud.site:35455/yy/1382749913
-【红球】不扯蛋,http://www.douzhicloud.site:35455/yy/1355084841
-【小星星】斗罗斗破精彩动,http://www.douzhicloud.site:35455/yy/1356362808
-我要成为贫民巨星！-全集,http://www.douzhicloud.site:35455/yy/1382744423
-每走一步都要小心翼翼,http://www.douzhicloud.site:35455/yy/1354936199
-我到家啦,http://www.douzhicloud.site:35455/yy/1382851468
-狂飙老莫请你吃鱼,http://www.douzhicloud.site:35455/yy/1382881866
-的士速递全季—爆笑犯罪大片,http://www.douzhicloud.site:35455/yy/1382749910
-精彩影视轮番上映,http://www.douzhicloud.site:35455/yy/1355336008
-2012：世界末日,http://www.douzhicloud.site:35455/yy/1382736836
-深山吃货：云南臭菜你吃过吗？,http://www.douzhicloud.site:35455/yy/1382745122
-本山小品 过年,http://www.douzhicloud.site:35455/yy/1382881708
-施公奇案2-欧阳震华,http://www.douzhicloud.site:35455/yy/1382736824
-一城一味（舌尖姐妹篇）,http://www.douzhicloud.site:35455/yy/1382745179
-国内喜剧电影合集,http://www.douzhicloud.site:35455/yy/1382851137
-买车前看一看 不然血亏,http://www.douzhicloud.site:35455/yy/1349602814
-悦悦电影,http://www.douzhicloud.site:35455/yy/1351537467
-呵呵❤正在直播,http://www.douzhicloud.site:35455/yy/1382828963
-今生是第一次：高分韩剧,http://www.douzhicloud.site:35455/yy/1382745190
-征服,http://www.douzhicloud.site:35455/yy/1461655788
-你看与不看我都在,http://www.douzhicloud.site:35455/yy/1353422557
-非遗真人秀？向往的国潮,http://www.douzhicloud.site:35455/yy/1382749953
-男生女生向前冲,http://www.douzhicloud.site:35455/yy/1354930957
-狂飙,http://www.douzhicloud.site:35455/yy/1509095132
-失忆24小时：绑架失踪案,http://www.douzhicloud.site:35455/yy/1382749890
-永远一家人：厂长夫人摆地摊,http://www.douzhicloud.site:35455/yy/1382736873
-打狗棍,http://www.douzhicloud.site:35455/yy/1507519895
-盗梦空间！悬疑烧脑！,http://www.douzhicloud.site:35455/yy/1354930903
-我比你更懂车 你偏不信,http://www.douzhicloud.site:35455/yy/85042287
-动画剧集电影-原声粤语国,http://www.douzhicloud.site:35455/yy/1382859239
-少林寺传奇,http://www.douzhicloud.site:35455/yy/1356338181
-经典影视,http://www.douzhicloud.site:35455/yy/1356364732
-筱威回来了,http://www.douzhicloud.site:35455/yy/37347905
-
 // http://jiaojirentv.top/2020/yy.php?id=
 侦探悬疑,http://jiaojirentv.top/2020/yy.php?id=1382735543
 TVB经典—九江十二坊,http://jiaojirentv.top/2020/yy.php?id=1382735566
@@ -2229,6 +1388,689 @@ TVB经典—九江十二坊,http://jiaojirentv.top/2020/yy.php?id=1382735566
 金三角大营救,http://jiaojirentv.top/2020/yy.php?id=1354930924
 致命守护者,http://jiaojirentv.top/2020/yy.php?id=1382745095
 沙海,http://jiaojirentv.top/2020/yy.php?id=1355171357
+恐怖电影,http://jiaojirentv.top/2020/yy.php?id=24066336
+外国科幻,http://jiaojirentv.top/2020/yy.php?id=1382747628
+漫威十年,http://jiaojirentv.top/2020/yy.php?id=1354930233
+科幻Sci-Fi,http://jiaojirentv.top/2020/yy.php?id=1354930209
+史诗级战争,http://jiaojirentv.top/2020/yy.php?id=1382745092
+港剧动作,http://jiaojirentv.top/2020/yy.php?id=1382736809
+成龙系列,http://jiaojirentv.top/2020/yy.php?id=1354888751
+天龙八部,http://jiaojirentv.top/2020/yy.php?id=1382736855
+苦乐村官,http://jiaojirentv.top/2020/yy.php?id=1382736864
+战火中的故事,http://jiaojirentv.top/2020/yy.php?id=1382735625
+憨豆先生,http://jiaojirentv.top/2020/yy.php?id=1354930189 
+港片电影集,http://jiaojirentv.top/2020/yy.php?id=1455225203
+港片赌片 3000部,http://jiaojirentv.top/2020/yy.php?id=1355076627
+港片,http://jiaojirentv.top/2020/yy.php?id=1459901192
+香港院线大片,http://jiaojirentv.top/2020/yy.php?id=1354936242 
+叶问全集,http://jiaojirentv.top/2020/yy.php?id=1382828771
+第一滴血全集,http://jiaojirentv.top/2020/yy.php?id=1354932355 
+香港经典蓝光电影,http://jiaojirentv.top/2020/yy.php?id=1382627144 
+奇缘39262港台影院,http://jiaojirentv.top/2020/yy.php?id=1354889234
+港剧悬疑破案,http://jiaojirentv.top/2020/yy.php?id=10425097
+末日系列-外国电影合集,http://jiaojirentv.top/2020/yy.php?id=1354889019
+李连杰,http://jiaojirentv.top/2020/yy.php?id=74613175
+李连杰,http://mtw.so/69HNaP
+洪金宝,http://jiaojirentv.top/2020/yy.php?id=1354924839
+鬼片.惊悚.港片,http://jiaojirentv.top/2020/yy.php?id=1355497884 
+港片鬼片全集,http://jiaojirentv.top/2020/yy.php?id=1459869766 
+动作武侠港片电影,http://jiaojirentv.top/2020/yy.php?id=1459801818
+经典港片电影,http://jiaojirentv.top/2020/yy.php?id=1382793140
+港片经典电影,http://jiaojirentv.top/2020/yy.php?id=1382633631
+林正英电影,http://jiaojirentv.top/2020/yy.php?id=1382841203
+超级吓人鬼片 恐怖片,http://jiaojirentv.top/2020/yy.php?id=1355641195
+鬼怪恐怖惊辣,http://jiaojirentv.top/2020/yy.php?id=1382748585
+林正英 僵尸 鬼片,http://jiaojirentv.top/2020/yy.php?id=1351505899
+电影电影,http://jiaojirentv.top/2020/yy.php?id=1458819360
+【成龙经典】动作,http://jiaojirentv.top/2020/yy.php?id=34460526
+古惑仔全集,http://jiaojirentv.top/2020/yy.php?id=1354507447
+武林外传 超清,http://jiaojirentv.top/2020/yy.php?id=21092633
+狂飙,http://jiaojirentv.top/2020/yy.php?id=1355142167
+绝版电影 港片女鬼,http://jiaojirentv.top/2020/yy.php?id=1455988450
+雪豹,http://jiaojirentv.top/2020/yy.php?id=28099939
+绝版电影 港片女鬼,http://jiaojirentv.top/2020/yy.php?id=1461579859
+雪中悍刀行,http://jiaojirentv.top/2020/yy.php?id=1450496699
+【狂飙2老默】首播,http://jiaojirentv.top/2020/yy.php?id=1354790484
+【战狼4】吴京老师,http://jiaojirentv.top/2020/yy.php?id=1354784284
+港片 喜剧 动作,http://jiaojirentv.top/2020/yy.php?id=1355480591
+古惑仔,http://jiaojirentv.top/2020/yy.php?id=1458015189
+封神榜,http://jiaojirentv.top/2020/yy.php?id=1353426319
+举起手来-惊险抗日,http://jiaojirentv.top/2020/yy.php?id=1382736877
+幸福满院,http://jiaojirentv.top/2020/yy.php?id=1382737886
+【新三国】蓝光版,http://jiaojirentv.top/2020/yy.php?id=1382705738
+豪哥带我们发财,http://jiaojirentv.top/2020/yy.php?id=23402146
+纪晓岚,http://jiaojirentv.top/2020/yy.php?id=1354143978
+惊恐盗暮鬼怪,http://jiaojirentv.top/2020/yy.php?id=1382749525
+天龙八部,http://jiaojirentv.top/2020/yy.php?id=1351814644
+【鹿鼎记】金庸经典,http://jiaojirentv.top/2020/yy.php?id=28265277
+林正英-经典电影,http://jiaojirentv.top/2020/yy.php?id=34229877
+家花与野花,http://jiaojirentv.top/2020/yy.php?id=1354420982
+超喜剧地下交通站男神贾贵,http://jiaojirentv.top/2020/yy.php?id=1353428972
+济公游记,http://jiaojirentv.top/2020/yy.php?id=1355265814
+随便看看,http://jiaojirentv.top/2020/yy.php?id=37454459
+交友林正英女鬼电影,http://jiaojirentv.top/2020/yy.php?id=1453996620
+【赌神片 动作片 港片】,http://jiaojirentv.top/2020/yy.php?id=1355112116
+热度榜1.包青天,http://jiaojirentv.top/2020/yy.php?id=22701868
+武林外传,http://jiaojirentv.top/2020/yy.php?id=1355652820
+经典动漫,http://jiaojirentv.top/2020/yy.php?id=22777075
+燕双鹰,http://jiaojirentv.top/2020/yy.php?id=1352227153
+狂飙,http://jiaojirentv.top/2020/yy.php?id=1382764587
+【战狼3吴京】独播,http://jiaojirentv.top/2020/yy.php?id=37999586
+纪晓岚,http://jiaojirentv.top/2020/yy.php?id=1352227227
+宰相刘罗锅,http://jiaojirentv.top/2020/yy.php?id=1353892468
+斗罗斗破动漫,http://jiaojirentv.top/2020/yy.php?id=1420843376
+狂飙,http://jiaojirentv.top/2020/yy.php?id=1382754187
+兔牙妹吖正在直播,http://jiaojirentv.top/2020/yy.php?id=1353782648
+英叔僵尸 3000部,http://jiaojirentv.top/2020/yy.php?id=1353685311
+66车讯,http://jiaojirentv.top/2020/yy.php?id=1382571192
+真实案件系列,http://jiaojirentv.top/2020/yy.php?id=1382671124
+神医喜来乐,http://jiaojirentv.top/2020/yy.php?id=1382714119
+欢乐集结号-每天笑不停,http://jiaojirentv.top/2020/yy.php?id=1382741642
+情满四合院,http://jiaojirentv.top/2020/yy.php?id=1382851524
+鹿鼎记-周星驰版,http://jiaojirentv.top/2020/yy.php?id=1354658049
+正阳门下,http://jiaojirentv.top/2020/yy.php?id=1354931580
+情满四合院-高分电视剧,http://jiaojirentv.top/2020/yy.php?id=1382735541
+【盜暮笔记】24h,http://jiaojirentv.top/2020/yy.php?id=1382702247
+83射雕英雄传,http://jiaojirentv.top/2020/yy.php?id=1354210357
+星爷经典-百看不厌,http://jiaojirentv.top/2020/yy.php?id=1382736808 
+经典鬼片3000部,http://jiaojirentv.top/2020/yy.php?id=29460894
+国产喜剧,http://jiaojirentv.top/2020/yy.php?id=1382736856
+火蓝刀锋,http://jiaojirentv.top/2020/yy.php?id=1382737892
+丸子,http://jiaojirentv.top/2020/yy.php?id=1382851588
+少年包青天1~3蓝光版,http://jiaojirentv.top/2020/yy.php?id=38498680
+雪中悍刀行,http://jiaojirentv.top/2020/yy.php?id=1382660835
+电影百团大战,http://jiaojirentv.top/2020/yy.php?id=1382736871
+花儿开心吧,http://jiaojirentv.top/2020/yy.php?id=1354930984
+国内侦探电影大全,http://jiaojirentv.top/2020/yy.php?id=1354936134
+炊事班的故事II,http://jiaojirentv.top/2020/yy.php?id=1382736885
+地下交通站,http://jiaojirentv.top/2020/yy.php?id=1382736795
+德爷单挑荒野,http://jiaojirentv.top/2020/yy.php?id=27772604
+皮蛋影视 正在直播,http://jiaojirentv.top/2020/yy.php?id=23055599
+雍正王朝,http://jiaojirentv.top/2020/yy.php?id=23206872
+小蓉儿 正在直播,http://jiaojirentv.top/2020/yy.php?id=1351762426
+笑傲江湖 4K超清,http://jiaojirentv.top/2020/yy.php?id=1354282410
+【神雕侠侣】金庸经典,http://jiaojirentv.top/2020/yy.php?id=1382704651
+进来 陪你看动漫,http://jiaojirentv.top/2020/yy.php?id=1352866135 
+小甜甜 闯关东,http://jiaojirentv.top/2020/yy.php?id=1382658790
+二龙湖浩哥【经典搞笑】,http://jiaojirentv.top/2020/yy.php?id=28205255
+金牌配角达叔系列,http://jiaojirentv.top/2020/yy.php?id=1354888728
+雯子：港剧影视厅,http://jiaojirentv.top/2020/yy.php?id=1456829119
+血色浪漫,http://jiaojirentv.top/2020/yy.php?id=1354926676
+【动漫】斗罗斗破,http://jiaojirentv.top/2020/yy.php?id=1353098382
+火凤凰之战狼七,http://jiaojirentv.top/2020/yy.php?id=1463088777
+鹿鼎记-高清全集,http://jiaojirentv.top/2020/yy.php?id=1382704650
+同桌的你,http://jiaojirentv.top/2020/yy.php?id=1382851477
+鬼片港片美女陪你看,http://jiaojirentv.top/2020/yy.php?id=1335509613
+泡芙陪你看电影,http://jiaojirentv.top/2020/yy.php?id=24407222
+24H国漫热播,http://jiaojirentv.top/2020/yy.php?id=1353937086
+【经典港片】佟瑶,http://jiaojirentv.top/2020/yy.php?id=23531261
+【新三国】萌儿陪看,http://jiaojirentv.top/2020/yy.php?id=29216766
+【港片】赌片 动作,http://jiaojirentv.top/2020/yy.php?id=24921161
+斗罗斗破精彩动漫,http://jiaojirentv.top/2020/yy.php?id=1507304388
+【少年歌行】,http://jiaojirentv.top/2020/yy.php?id=1354806550
+新白娘子传奇,http://jiaojirentv.top/2020/yy.php?id=1354490667
+燕双鹰专场,http://jiaojirentv.top/2020/yy.php?id=23026835
+神探狄仁杰,http://jiaojirentv.top/2020/yy.php?id=38338029
+【金超群】电视剧,http://jiaojirentv.top/2020/yy.php?id=1356158015
+丫头动漫 斗罗斗破,http://jiaojirentv.top/2020/yy.php?id=1458722520
+喜欢的小哥哥点点关注,http://jiaojirentv.top/2020/yy.php?id=98544634
+纪晓岚,http://jiaojirentv.top/2020/yy.php?id=22982216
+【新三国】吕布,http://jiaojirentv.top/2020/yy.php?id=1382851459
+倚天屠龙记,http://jiaojirentv.top/2020/yy.php?id=1449856066
+花千骨,http://jiaojirentv.top/2020/yy.php?id=1354943110
+隋唐英雄传,http://jiaojirentv.top/2020/yy.php?id=1352475619
+【港台】鬼片 惊悚 喜剧,http://jiaojirentv.top/2020/yy.php?id=1351030377
+神探狄仁杰,http://jiaojirentv.top/2020/yy.php?id=1351755386
+小美美 正在直播,http://jiaojirentv.top/2020/yy.php?id=1354143966
+经典 绝版 恐怖3000,http://jiaojirentv.top/2020/yy.php?id=84238895
+鬼片3000,http://jiaojirentv.top/2020/yy.php?id=1460889796
+武侠港片电影,http://jiaojirentv.top/2020/yy.php?id=1451866697
+新主播求照顾,http://jiaojirentv.top/2020/yy.php?id=29197808
+港片电影,http://jiaojirentv.top/2020/yy.php?id=33897188
+案发现场（1-3）,http://jiaojirentv.top/2020/yy.php?id=31368110
+康熙微服私访记,http://jiaojirentv.top/2020/yy.php?id=1352811698
+武林外传,http://jiaojirentv.top/2020/yy.php?id=1454629602
+鹊刀门,http://jiaojirentv.top/2020/yy.php?id=1355344777
+经典鬼片,http://jiaojirentv.top/2020/yy.php?id=1508828185
+妹子高分搞笑电影,http://jiaojirentv.top/2020/yy.php?id=33478222
+少年包青天,http://jiaojirentv.top/2020/yy.php?id=1356043677
+鹊刀门传奇,http://jiaojirentv.top/2020/yy.php?id=1382745997
+【动漫】斗罗斗破超清全屏,http://jiaojirentv.top/2020/yy.php?id=28796627
+天龙神雕经典回忆,http://jiaojirentv.top/2020/yy.php?id=68260522
+倚天屠龙记,http://jiaojirentv.top/2020/yy.php?id=33300793
+燕双鹰,http://jiaojirentv.top/2020/yy.php?id=1354143942
+雍正王朝,http://jiaojirentv.top/2020/yy.php?id=1356043620
+超清经典港片,http://jiaojirentv.top/2020/yy.php?id=1356180261
+东北一家人,http://jiaojirentv.top/2020/yy.php?id=1355273385
+封神榜,http://jiaojirentv.top/2020/yy.php?id=1382797534
+勇敢的心,http://jiaojirentv.top/2020/yy.php?id=1354744544
+摸金 盗暮,http://jiaojirentv.top/2020/yy.php?id=1459714870
+弹幕天团 下饭神剧,http://jiaojirentv.top/2020/yy.php?id=23512910
+(周星驰)超经典搞笑电影,http://jiaojirentv.top/2020/yy.php?id=29945997
+正阳门下 正在直播,http://jiaojirentv.top/2020/yy.php?id=1453059740
+新三国,http://jiaojirentv.top/2020/yy.php?id=26744898
+荒野求生德爷,http://jiaojirentv.top/2020/yy.php?id=36949900
+国漫 一起看正在直播,http://jiaojirentv.top/2020/yy.php?id=1351417866
+【案发现场】1-4部全集,http://jiaojirentv.top/2020/yy.php?id=33567888
+你不知道的汽车冷知识,http://jiaojirentv.top/2020/yy.php?id=1346966327
+大家车言论,http://jiaojirentv.top/2020/yy.php?id=1382570702
+24【动漫】正在直播,http://jiaojirentv.top/2020/yy.php?id=1350984033
+经典动漫,http://jiaojirentv.top/2020/yy.php?id=24180320
+动漫,http://jiaojirentv.top/2020/yy.php?id=25055036
+飞哥全集乐乐陪看】,http://jiaojirentv.top/2020/yy.php?id=1352946111
+鬼片 恐怖片,http://jiaojirentv.top/2020/yy.php?id=1455891197
+无敌燕双鹰,http://jiaojirentv.top/2020/yy.php?id=1354825244
+送欢乐,http://jiaojirentv.top/2020/yy.php?id=34093016
+雨馨 正在直播,http://jiaojirentv.top/2020/yy.php?id=1354768828
+西游记后传 蓝光,http://jiaojirentv.top/2020/yy.php?id=1353392400
+小兵张嘎,http://jiaojirentv.top/2020/yy.php?id=1354930225
+新白娘子传奇-女神赵雅芝,http://jiaojirentv.top/2020/yy.php?id=1354930969
+赌神-发哥,http://jiaojirentv.top/2020/yy.php?id=1354889044
+西游记后传,http://jiaojirentv.top/2020/yy.php?id=1382736846
+杭小妞,http://jiaojirentv.top/2020/yy.php?id=1382851590
+神探狄仁杰1,http://jiaojirentv.top/2020/yy.php?id=1382851575
+初恋脸,http://jiaojirentv.top/2020/yy.php?id=1382851597
+澳门风云,http://jiaojirentv.top/2020/yy.php?id=1459243913
+国内喜剧,http://jiaojirentv.top/2020/yy.php?id=1382735563
+笑声传奇,http://jiaojirentv.top/2020/yy.php?id=1382736880
+神探狄仁杰2,http://jiaojirentv.top/2020/yy.php?id=1382828767
+双月之城-国漫,http://jiaojirentv.top/2020/yy.php?id=1382736907
+天道-9.2高分好剧,http://jiaojirentv.top/2020/yy.php?id=1382735574
+少年包青天第三部,http://jiaojirentv.top/2020/yy.php?id=1382736814
+父母爱情,http://jiaojirentv.top/2020/yy.php?id=1382746276
+父母爱情,http://jiaojirentv.top/2020/yy.php?id=1354926650
+法证先锋,http://jiaojirentv.top/2020/yy.php?id=1354930939
+宝莲灯前传,http://jiaojirentv.top/2020/yy.php?id=1354931631
+都挺好-电视剧,http://jiaojirentv.top/2020/yy.php?id=1382736892
+恋歌,http://jiaojirentv.top/2020/yy.php?id=1382851594
+三国演义,http://jiaojirentv.top/2020/yy.php?id=32788000
+神探狄仁杰1,http://jiaojirentv.top/2020/yy.php?id=1354930934
+我的体育老师,http://jiaojirentv.top/2020/yy.php?id=1382745169
+神探狄仁杰2,http://jiaojirentv.top/2020/yy.php?id=1382851146
+情满四合院,http://jiaojirentv.top/2020/yy.php?id=1382736848
+情满四合院,http://jiaojirentv.top/2020/yy.php?id=1382736888
+炊事班的故事III,http://jiaojirentv.top/2020/yy.php?id=1382736716
+颜值永远在线,http://jiaojirentv.top/2020/yy.php?id=1382851582
+风筝,http://jiaojirentv.top/2020/yy.php?id=1382828770
+速度与激情系列！-精彩大片,http://jiaojirentv.top/2020/yy.php?id=1382736911
+炊事班的故事,http://jiaojirentv.top/2020/yy.php?id=1382749901
+绝版鬼片电影,http://jiaojirentv.top/2020/yy.php?id=1382743247
+三国演义94年经典版,http://jiaojirentv.top/2020/yy.php?id=1354936241
+我的前半生,http://jiaojirentv.top/2020/yy.php?id=1382735564
+张国荣与周润发的兄弟情,http://jiaojirentv.top/2020/yy.php?id=1354930961
+康熙王朝,http://jiaojirentv.top/2020/yy.php?id=1382736818
+笑傲江湖,http://jiaojirentv.top/2020/yy.php?id=1354930909
+【杉杉来了】赵丽颖,http://jiaojirentv.top/2020/yy.php?id=23458682
+大话西游至尊宝,http://jiaojirentv.top/2020/yy.php?id=1382736910
+经典电影,http://jiaojirentv.top/2020/yy.php?id=1450556636
+【破案 悬疑 港剧】,http://jiaojirentv.top/2020/yy.php?id=1382800083
+《石敢当》六耳猕猴,http://jiaojirentv.top/2020/yy.php?id=1394156613
+鬼经典老片,http://jiaojirentv.top/2020/yy.php?id=1463783198
+《仙侠》开局无敌了,http://jiaojirentv.top/2020/yy.php?id=29600150
+【战狼3吴京】首播,http://jiaojirentv.top/2020/yy.php?id=1456668939
+盗暮惊悚妖魔,http://jiaojirentv.top/2020/yy.php?id=1382765507
+欧美经典惊悚灾难,http://jiaojirentv.top/2020/yy.php?id=1382656234
+寻秦记-穿越剧经典,http://jiaojirentv.top/2020/yy.php?id=1382749900
+破案港剧,http://jiaojirentv.top/2020/yy.php?id=1350670730
+2024盗幕鬼怪,http://jiaojirentv.top/2020/yy.php?id=1355171231
+震撼！国内功夫大片,http://jiaojirentv.top/2020/yy.php?id=1382736902
+【且试.护心】 ~,http://jiaojirentv.top/2020/yy.php?id=29067083
+僵尸女鬼电影,http://jiaojirentv.top/2020/yy.php?id=1457229809
+法海又来抓妖了,http://jiaojirentv.top/2020/yy.php?id=1356326727
+24h 我爱我家 纯音频,http://jiaojirentv.top/2020/yy.php?id=1356212303
+狄仁杰等你哦,http://jiaojirentv.top/2020/yy.php?id=1457579747
+鬼片恐怖私人影院,http://jiaojirentv.top/2020/yy.php?id=1354952229
+【聚星】娜娜,http://jiaojirentv.top/2020/yy.php?id=1382851479
+林正英经典,http://jiaojirentv.top/2020/yy.php?id=1353312849
+《一剑开天门》,http://jiaojirentv.top/2020/yy.php?id=34313906
+精彩动漫斗罗斗破,http://jiaojirentv.top/2020/yy.php?id=76101626
+【动漫】斗罗斗破超清全屏,http://jiaojirentv.top/2020/yy.php?id=1382689904
+布丁-玄幻电影正在直播,http://jiaojirentv.top/2020/yy.php?id=1455460998
+武林外传,http://jiaojirentv.top/2020/yy.php?id=1353852605
+三国演义 超,http://jiaojirentv.top/2020/yy.php?id=1508901692
+全职高手,http://jiaojirentv.top/2020/yy.php?id=26870427
+薛元帅传奇,http://jiaojirentv.top/2020/yy.php?id=31313785
+24H地下交通站全,http://jiaojirentv.top/2020/yy.php?id=37880083
+【周星驰】搞笑电影,http://jiaojirentv.top/2020/yy.php?id=38670875
+影视剧场,http://jiaojirentv.top/2020/yy.php?id=1355260855
+【电影】超然巨作,http://jiaojirentv.top/2020/yy.php?id=26623173
+天龙八部黄日华,http://jiaojirentv.top/2020/yy.php?id=1461037999
+斗罗斗破,http://jiaojirentv.top/2020/yy.php?id=1354768831
+新主播求照顾,http://jiaojirentv.top/2020/yy.php?id=1382690406
+【陪你看】金刚葫芦娃,http://jiaojirentv.top/2020/yy.php?id=1353323999
+精彩玄幻电影,http://jiaojirentv.top/2020/yy.php?id=1382688400
+雪中悍刀行,http://jiaojirentv.top/2020/yy.php?id=1460836818
+动漫,http://jiaojirentv.top/2020/yy.php?id=1382747970
+小宝 天龙 神雕金庸,http://jiaojirentv.top/2020/yy.php?id=1356043609
+【林正英】僵尸 鬼片,http://jiaojirentv.top/2020/yy.php?id=30668277
+少年包青天三,http://jiaojirentv.top/2020/yy.php?id=61318527
+火炬手,http://jiaojirentv.top/2020/yy.php?id=1382851618
+公主陪看老酒馆,http://jiaojirentv.top/2020/yy.php?id=1356254650
+军旅剧（回忆经典）,http://jiaojirentv.top/2020/yy.php?id=1356306672
+动漫,http://jiaojirentv.top/2020/yy.php?id=26664495
+放羊的星星,http://jiaojirentv.top/2020/yy.php?id=1355260662
+Ｔ.Ｓ.Ｌ.-东门仔,http://jiaojirentv.top/2020/yy.php?id=1382861117
+神探狄仁杰1—5部全集,http://jiaojirentv.top/2020/yy.php?id=1382705592
+奇领 铁山靠【Y 正在直播,http://jiaojirentv.top/2020/yy.php?id=41584371
+抗日奇侠,http://jiaojirentv.top/2020/yy.php?id=22089862
+斗破苍穹斗罗大玄幻修仙剧,http://jiaojirentv.top/2020/yy.php?id=1356051105
+24小时循环播电视剧,http://jiaojirentv.top/2020/yy.php?id=53320802
+【新三国】日版,http://jiaojirentv.top/2020/yy.php?id=1382851457
+枕上书正在直播,http://jiaojirentv.top/2020/yy.php?id=1351844200
+超精彩！系列动作电影,http://jiaojirentv.top/2020/yy.php?id=1382745096
+二号交通站,http://jiaojirentv.top/2020/yy.php?id=1382735582
+雪儿 正在直播,http://jiaojirentv.top/2020/yy.php?id=1354143938
+动作大片-热血开打,http://jiaojirentv.top/2020/yy.php?id=1354936168
+士兵突击,http://jiaojirentv.top/2020/yy.php?id=1382851600
+国内喜剧,http://jiaojirentv.top/2020/yy.php?id=1382736862
+院线动作大片,http://jiaojirentv.top/2020/yy.php?id=1382736900
+宰相刘罗锅,http://jiaojirentv.top/2020/yy.php?id=1382745191
+燃爆动作片,http://jiaojirentv.top/2020/yy.php?id=1382736801
+萌萌爱追剧,http://jiaojirentv.top/2020/yy.php?id=1382745093
+木乃伊全集,http://jiaojirentv.top/2020/yy.php?id=1354889024
+今夜欢乐颂,http://jiaojirentv.top/2020/yy.php?id=1382735572
+雪中悍刀行,http://jiaojirentv.top/2020/yy.php?id=59719179
+魔幻手机,http://jiaojirentv.top/2020/yy.php?id=1382735544
+热血战争巨作,http://jiaojirentv.top/2020/yy.php?id=1382745087
+夏洛特烦恼-国内电影-喜剧,http://jiaojirentv.top/2020/yy.php?id=1354936201
+熊出没之探险日记S1-国漫,http://jiaojirentv.top/2020/yy.php?id=1354930977
+你是最美的风景,http://jiaojirentv.top/2020/yy.php?id=1382851599
+教画画了。,http://jiaojirentv.top/2020/yy.php?id=25696285
+读心神探,http://jiaojirentv.top/2020/yy.php?id=1382736875
+高分科幻动作片,http://jiaojirentv.top/2020/yy.php?id=1382749948
+人生必看的科幻片,http://jiaojirentv.top/2020/yy.php?id=1382745114
+毅哥说车,http://jiaojirentv.top/2020/yy.php?id=1339366360
+伪装者,http://jiaojirentv.top/2020/yy.php?id=1354936244
+欢天喜地七仙女,http://jiaojirentv.top/2020/yy.php?id=1382735553
+军旅电视剧,http://jiaojirentv.top/2020/yy.php?id=1352575322
+欢乐颂,http://jiaojirentv.top/2020/yy.php?id=1382851577
+小欢喜,http://jiaojirentv.top/2020/yy.php?id=1382737888
+纯纯纯儿,http://jiaojirentv.top/2020/yy.php?id=1382851589
+生逢灿烂的日子,http://jiaojirentv.top/2020/yy.php?id=1382745085
+热血动作电影,http://jiaojirentv.top/2020/yy.php?id=1382736804
+时光的海,http://jiaojirentv.top/2020/yy.php?id=1382851579
+我爱我家,http://jiaojirentv.top/2020/yy.php?id=1382735557
+黑冰,http://jiaojirentv.top/2020/yy.php?id=1354932427
+传奇英雄,http://jiaojirentv.top/2020/yy.php?id=1382735578
+新水浒传,http://jiaojirentv.top/2020/yy.php?id=1353215589
+最美的青春,http://jiaojirentv.top/2020/yy.php?id=1382851530
+中国味道 第4季-美食纪录片,http://jiaojirentv.top/2020/yy.php?id=1382736845
+【盜暮笔记】24h,http://jiaojirentv.top/2020/yy.php?id=1356373644
+新世界,http://jiaojirentv.top/2020/yy.php?id=1382736850
+福贵,http://jiaojirentv.top/2020/yy.php?id=1354926537
+金婚,http://jiaojirentv.top/2020/yy.php?id=1382828768
+纪晓岚,http://jiaojirentv.top/2020/yy.php?id=1382781415
+【新三国】,http://jiaojirentv.top/2020/yy.php?id=1382851415
+神雕侠侣,http://jiaojirentv.top/2020/yy.php?id=1460913377
+霹雳火,http://jiaojirentv.top/2020/yy.php?id=1356326459
+妖神记之黑狱篇,http://jiaojirentv.top/2020/yy.php?id=1382745173
+体验另一种生活！,http://jiaojirentv.top/2020/yy.php?id=1354936229
+喜剧闹翻天,http://jiaojirentv.top/2020/yy.php?id=1382735548
+易中天品三国完整版,http://jiaojirentv.top/2020/yy.php?id=1461244449
+战狼7吴京退役,http://jiaojirentv.top/2020/yy.php?id=1382773714
+国内玄幻电影-林正英,http://jiaojirentv.top/2020/yy.php?id=1354932444
+欢乐颂,http://jiaojirentv.top/2020/yy.php?id=1382735624
+盗暮 老九门,http://jiaojirentv.top/2020/yy.php?id=1382763739
+牛大叔提干,http://jiaojirentv.top/2020/yy.php?id=1382851615
+神探包青天,http://jiaojirentv.top/2020/yy.php?id=1457622044
+【科幻】超炫特效,http://jiaojirentv.top/2020/yy.php?id=37988782
+《武林外传》武侠,http://jiaojirentv.top/2020/yy.php?id=1394000563
+【天龙八部】蓝光超清,http://jiaojirentv.top/2020/yy.php?id=28996058
+倚天屠龙记,http://jiaojirentv.top/2020/yy.php?id=1356043643
+案发现场全集,http://jiaojirentv.top/2020/yy.php?id=1354775242
+【电视剧】士兵突击,http://jiaojirentv.top/2020/yy.php?id=96731358
+探案！探案！,http://jiaojirentv.top/2020/yy.php?id=1382829413
+动漫,http://jiaojirentv.top/2020/yy.php?id=23993334
+花千骨,http://jiaojirentv.top/2020/yy.php?id=1508456184
+暖暖1999,http://jiaojirentv.top/2020/yy.php?id=1382851591
+非诚勿扰,http://jiaojirentv.top/2020/yy.php?id=1382735583
+西游记张卫健版,http://jiaojirentv.top/2020/yy.php?id=1354936155
+经典动作电影,http://jiaojirentv.top/2020/yy.php?id=1370293254
+欢乐集结号,http://jiaojirentv.top/2020/yy.php?id=1354931582
+野山鹰-影视剧,http://jiaojirentv.top/2020/yy.php?id=1354932395
+国产大片电影,http://jiaojirentv.top/2020/yy.php?id=1354926655
+热血抗日电影,http://jiaojirentv.top/2020/yy.php?id=1382749907
+大进军全集：红色系列电影,http://jiaojirentv.top/2020/yy.php?id=1382745083
+爆笑小品,http://jiaojirentv.top/2020/yy.php?id=1354931503
+金星脱口秀：我敢说你敢听吗,http://jiaojirentv.top/2020/yy.php?id=1382735552
+经典抗日电影,http://jiaojirentv.top/2020/yy.php?id=1354936141
+动物世界,http://jiaojirentv.top/2020/yy.php?id=1382749889
+天下第一,http://jiaojirentv.top/2020/yy.php?id=1382736838
+魔幻手机,http://jiaojirentv.top/2020/yy.php?id=1382851541
+国内科幻,http://jiaojirentv.top/2020/yy.php?id=1354936170
+法证先锋Ⅱ,http://jiaojirentv.top/2020/yy.php?id=1354888736
+欢乐集结号,http://jiaojirentv.top/2020/yy.php?id=1382735550
+仙剑奇侠传-神仙姐姐驾到,http://jiaojirentv.top/2020/yy.php?id=1382749903
+黑衣人1、2—动作喜剧大片,http://jiaojirentv.top/2020/yy.php?id=1354930936
+深夜惊悚大片,http://jiaojirentv.top/2020/yy.php?id=1382745110
+活力满满,http://jiaojirentv.top/2020/yy.php?id=1382851585
+超燃科幻大片：明日边缘,http://jiaojirentv.top/2020/yy.php?id=1382736835
+晨晨的影视小窝,http://jiaojirentv.top/2020/yy.php?id=1382851576
+超英集结,http://jiaojirentv.top/2020/yy.php?id=1382745091
+国内经典动作电影,http://jiaojirentv.top/2020/yy.php?id=1382851522
+深海利剑,http://jiaojirentv.top/2020/yy.php?id=1382736906
+小敏,http://jiaojirentv.top/2020/yy.php?id=1382736890
+红楼梦1987经典版,http://jiaojirentv.top/2020/yy.php?id=1382745084
+本山快乐营,http://jiaojirentv.top/2020/yy.php?id=1354933529
+国内战争电影,http://jiaojirentv.top/2020/yy.php?id=1382736865
+欢乐一起看,http://jiaojirentv.top/2020/yy.php?id=1354930926
+Blingbling,http://jiaojirentv.top/2020/yy.php?id=1382851598
+三国演义【1994】,http://jiaojirentv.top/2020/yy.php?id=1354930932
+非诚勿扰,http://jiaojirentv.top/2020/yy.php?id=1382745106
+国内科幻片来袭,http://jiaojirentv.top/2020/yy.php?id=1354930821
+动物世界-领略原始野性,http://jiaojirentv.top/2020/yy.php?id=1382743138
+亲爱的热爱的,http://jiaojirentv.top/2020/yy.php?id=1354932433
+国外黑色喜剧：冷幽默小剧场,http://jiaojirentv.top/2020/yy.php?id=1382745175
+国外科幻,http://jiaojirentv.top/2020/yy.php?id=1382736800
+特种兵归来-国产电影,http://jiaojirentv.top/2020/yy.php?id=1382735581
+笑傲帮,http://jiaojirentv.top/2020/yy.php?id=1382735555
+高分动作大片-热血出击,http://jiaojirentv.top/2020/yy.php?id=1382736909
+丛林敢死队-国内电影,http://jiaojirentv.top/2020/yy.php?id=1354936214
+少年包青天第三部,http://jiaojirentv.top/2020/yy.php?id=1382851540
+欢乐集结号2,http://jiaojirentv.top/2020/yy.php?id=1354930919
+法证先锋2,http://jiaojirentv.top/2020/yy.php?id=1382736870
+了不起的萝莉小玲,http://jiaojirentv.top/2020/yy.php?id=1382736799
+国产喜剧,http://jiaojirentv.top/2020/yy.php?id=1382735584
+漫威超级英雄系列,http://jiaojirentv.top/2020/yy.php?id=1354932402
+许多多,http://jiaojirentv.top/2020/yy.php?id=1382851583
+以家人之名,http://jiaojirentv.top/2020/yy.php?id=1382736908
+施公奇案1-欧阳震华,http://jiaojirentv.top/2020/yy.php?id=1382749918
+大明王朝,http://jiaojirentv.top/2020/yy.php?id=1382736879
+加勒比海盗系列,http://jiaojirentv.top/2020/yy.php?id=1382749914
+聊斋志异S1,http://jiaojirentv.top/2020/yy.php?id=1382736975
+中国第一神探-狄仁杰,http://jiaojirentv.top/2020/yy.php?id=1354932438
+�潘磕惺康谝患�-国产喜剧,http://jiaojirentv.top/2020/yy.php?id=1382741637
+小鬼当家-童年回忆,http://jiaojirentv.top/2020/yy.php?id=1382745104
+穿越时空的爱恋,http://jiaojirentv.top/2020/yy.php?id=1382735567
+国外高分大片,http://jiaojirentv.top/2020/yy.php?id=1382736867
+心中的白月光,http://jiaojirentv.top/2020/yy.php?id=1382851580
+吐槽大会 第1季,http://jiaojirentv.top/2020/yy.php?id=1354936210
+美国队长史蒂夫,http://jiaojirentv.top/2020/yy.php?id=1382736813
+机械战警1-3,http://jiaojirentv.top/2020/yy.php?id=1382736854
+法证先锋Ⅲ,http://jiaojirentv.top/2020/yy.php?id=1382736802
+洪大哥系列,http://jiaojirentv.top/2020/yy.php?id=1354888743
+吐槽大会 第2季,http://jiaojirentv.top/2020/yy.php?id=1354936145
+易中天品三国,http://jiaojirentv.top/2020/yy.php?id=1354931498
+叛逆者,http://jiaojirentv.top/2020/yy.php?id=1382736868
+X战警系列电影,http://jiaojirentv.top/2020/yy.php?id=1382736893
+探秘中华美食,http://jiaojirentv.top/2020/yy.php?id=1354930954
+平凡岁月,http://jiaojirentv.top/2020/yy.php?id=1382745117
+大唐双龙传,http://jiaojirentv.top/2020/yy.php?id=1354930979
+大汉贤后卫子夫,http://jiaojirentv.top/2020/yy.php?id=1382735569
+哈利波特全集,http://jiaojirentv.top/2020/yy.php?id=1382745105
+舌尖上的中国第2季,http://jiaojirentv.top/2020/yy.php?id=1354930943
+鹿鼎记-陈小春版,http://jiaojirentv.top/2020/yy.php?id=1382736920
+野性欧洲,http://jiaojirentv.top/2020/yy.php?id=1354926622
+经典大片合集,http://jiaojirentv.top/2020/yy.php?id=1382749895
+香港动作大片,http://jiaojirentv.top/2020/yy.php?id=1382736816
+心理追凶-港剧,http://jiaojirentv.top/2020/yy.php?id=1354936207
+田园生活,http://jiaojirentv.top/2020/yy.php?id=1382736898
+漫画解说,http://jiaojirentv.top/2020/yy.php?id=1382735568
+飓风营救,http://jiaojirentv.top/2020/yy.php?id=1382735547
+河山,http://jiaojirentv.top/2020/yy.php?id=1382749952
+蜥蜴世界,http://jiaojirentv.top/2020/yy.php?id=1382735545
+神厨小福贵,http://jiaojirentv.top/2020/yy.php?id=1382736860
+白夜追凶第一季,http://jiaojirentv.top/2020/yy.php?id=1354932359
+非诚勿扰,http://jiaojirentv.top/2020/yy.php?id=1382745100
+开心小泡芙,http://jiaojirentv.top/2020/yy.php?id=1382851578
+精彩动作电影,http://jiaojirentv.top/2020/yy.php?id=1382736823
+忠烈杨家将,http://jiaojirentv.top/2020/yy.php?id=1382749909
+热门喜剧,http://jiaojirentv.top/2020/yy.php?id=1354931495
+笑傲江湖 第2季,http://jiaojirentv.top/2020/yy.php?id=1382736914
+无敌县令,http://jiaojirentv.top/2020/yy.php?id=1354932390
+降服魔女的手段-泰剧,http://jiaojirentv.top/2020/yy.php?id=1354932405
+我的父亲我的兵,http://jiaojirentv.top/2020/yy.php?id=1353413714
+宫心计,http://jiaojirentv.top/2020/yy.php?id=1382828769
+老广的味道 第3季-美食纪录片,http://jiaojirentv.top/2020/yy.php?id=1382735565
+大汉天子S2,http://jiaojirentv.top/2020/yy.php?id=1382736807
+岳云鹏宋小宝也来演电影了？,http://jiaojirentv.top/2020/yy.php?id=1354926612
+国外动作大片,http://jiaojirentv.top/2020/yy.php?id=1382735540
+科幻片：来看神奇的地球,http://jiaojirentv.top/2020/yy.php?id=1354930897
+迷,http://jiaojirentv.top/2020/yy.php?id=1382736719
+珍珠港-电影,http://jiaojirentv.top/2020/yy.php?id=1354936234
+钟馗传说,http://jiaojirentv.top/2020/yy.php?id=1382736839
+笑傲江湖 第1季,http://jiaojirentv.top/2020/yy.php?id=1382749896
+十大经典港剧之《大时代》,http://jiaojirentv.top/2020/yy.php?id=1354930891
+学生兵,http://jiaojirentv.top/2020/yy.php?id=1354658003
+粉红女郎,http://jiaojirentv.top/2020/yy.php?id=1354888671
+渴望,http://jiaojirentv.top/2020/yy.php?id=1354930963
+妖神记,http://jiaojirentv.top/2020/yy.php?id=1382745171
+大江大河-高分影视推荐,http://jiaojirentv.top/2020/yy.php?id=1382736806
+回家的诱惑,http://jiaojirentv.top/2020/yy.php?id=1354658043
+老司机带你开眼界,http://jiaojirentv.top/2020/yy.php?id=1349538007
+舌尖上的中国第一季,http://jiaojirentv.top/2020/yy.php?id=1354930952
+致敬星爷致敬经典,http://jiaojirentv.top/2020/yy.php?id=1354889048
+洪金宝福星系列,http://jiaojirentv.top/2020/yy.php?id=1382851602
+宫心计,http://jiaojirentv.top/2020/yy.php?id=1354932429
+农家小菜,http://jiaojirentv.top/2020/yy.php?id=1382736894
+欢乐集结号4,http://jiaojirentv.top/2020/yy.php?id=1382736889
+小米粒Mili,http://jiaojirentv.top/2020/yy.php?id=1382736842
+流金岁月-经典港剧,http://jiaojirentv.top/2020/yy.php?id=1382736891
+编辑部的故事,http://jiaojirentv.top/2020/yy.php?id=1354936120
+热血动作片合集,http://jiaojirentv.top/2020/yy.php?id=1382735627
+热播国内侦探片,http://jiaojirentv.top/2020/yy.php?id=1382736820
+欢乐集结号3,http://jiaojirentv.top/2020/yy.php?id=1382736822
+经典搞笑影片,http://jiaojirentv.top/2020/yy.php?id=1382749878
+赌神3之少年赌神,http://jiaojirentv.top/2020/yy.php?id=1382749912
+大汉天子S1,http://jiaojirentv.top/2020/yy.php?id=1382749902
+谈判专家,http://jiaojirentv.top/2020/yy.php?id=1382735560
+战争大片,http://jiaojirentv.top/2020/yy.php?id=1382736819
+华子系列,http://jiaojirentv.top/2020/yy.php?id=1354888726
+小小飞虎队,http://jiaojirentv.top/2020/yy.php?id=1382749888
+你最爱的小龙女-神雕侠侣,http://jiaojirentv.top/2020/yy.php?id=1354926637
+小公举,http://jiaojirentv.top/2020/yy.php?id=1382745124
+远去的飞鹰-影视剧,http://jiaojirentv.top/2020/yy.php?id=1354930912
+法外风云,http://jiaojirentv.top/2020/yy.php?id=1382736805
+解放：苏联战争巨片,http://jiaojirentv.top/2020/yy.php?id=1354936249
+最美的青春,http://jiaojirentv.top/2020/yy.php?id=1382745116
+真心想让你幸福,http://jiaojirentv.top/2020/yy.php?id=1382736876
+王朝-自然-纪录片,http://jiaojirentv.top/2020/yy.php?id=1354930927
+动作大片,http://jiaojirentv.top/2020/yy.php?id=1354930887
+国产喜剧大片,http://jiaojirentv.top/2020/yy.php?id=1382745113
+请回答1988,http://jiaojirentv.top/2020/yy.php?id=1354932362
+法证先锋Ⅳ,http://jiaojirentv.top/2020/yy.php?id=1354932426
+国外科幻片,http://jiaojirentv.top/2020/yy.php?id=1382735585
+烧脑悬疑电影,http://jiaojirentv.top/2020/yy.php?id=1382735571
+妖神记-全集,http://jiaojirentv.top/2020/yy.php?id=1382735551
+最后的狮子-探险纪录片,http://jiaojirentv.top/2020/yy.php?id=1382735577
+黄大妮-电视剧,http://jiaojirentv.top/2020/yy.php?id=1354930904
+巾帼枭雄之义海豪情,http://jiaojirentv.top/2020/yy.php?id=1382736859
+一起来笑吧,http://jiaojirentv.top/2020/yy.php?id=1454859415
+重生之超级赛亚人,http://jiaojirentv.top/2020/yy.php?id=1354936124
+脑洞大开的精彩科幻片,http://jiaojirentv.top/2020/yy.php?id=1382736723
+开心麻花街,http://jiaojirentv.top/2020/yy.php?id=1354926643
+单挑荒野第一季,http://jiaojirentv.top/2020/yy.php?id=1354933535
+憨豆先生-经典喜剧,http://jiaojirentv.top/2020/yy.php?id=1354936239
+馋哭了！川味来袭,http://jiaojirentv.top/2020/yy.php?id=1382736913
+百家讲坛-红楼梦篇,http://jiaojirentv.top/2020/yy.php?id=1382741639
+寻秦记,http://jiaojirentv.top/2020/yy.php?id=1354658048
+笑傲江湖-电视剧,http://jiaojirentv.top/2020/yy.php?id=1354936128
+笑到飞起！阿拉丁与神灯,http://jiaojirentv.top/2020/yy.php?id=1382749950
+大江大河2-高分影视推荐,http://jiaojirentv.top/2020/yy.php?id=1382736797
+大汉天子S3,http://jiaojirentv.top/2020/yy.php?id=1382736810
+外国战争大片,http://jiaojirentv.top/2020/yy.php?id=1382736872
+侏罗纪公园三部曲,http://jiaojirentv.top/2020/yy.php?id=1354936191
+去有风的地方,http://jiaojirentv.top/2020/yy.php?id=1382736874
+缺宅男女-精彩港剧,http://jiaojirentv.top/2020/yy.php?id=1382745088
+百家讲坛-之女皇武则天,http://jiaojirentv.top/2020/yy.php?id=1354889015
+老夫少妻搞笑忘年恋,http://jiaojirentv.top/2020/yy.php?id=1354932391
+蒲松龄—经典港剧,http://jiaojirentv.top/2020/yy.php?id=1354889042
+一分钟学道菜,http://jiaojirentv.top/2020/yy.php?id=1382736901
+超激烈的猎食场面,http://jiaojirentv.top/2020/yy.php?id=1382749898
+羊羊扛狼亿少女的噩梦,http://jiaojirentv.top/2020/yy.php?id=1354921392
+最新喜剧电影,http://jiaojirentv.top/2020/yy.php?id=1354936136
+国外最强动作大片！,http://jiaojirentv.top/2020/yy.php?id=1354936157
+四大名捕2,http://jiaojirentv.top/2020/yy.php?id=1382736916
+金婚,http://jiaojirentv.top/2020/yy.php?id=1382736832
+悬疑破案！施公奇案全季,http://jiaojirentv.top/2020/yy.php?id=1382749905
+欢乐集结号58-70,http://jiaojirentv.top/2020/yy.php?id=1382745119
+热血战争片,http://jiaojirentv.top/2020/yy.php?id=1354932409
+小生物的故事,http://jiaojirentv.top/2020/yy.php?id=1382736834
+机场超燃警匪片,http://jiaojirentv.top/2020/yy.php?id=1382735576
+公主嫁到,http://jiaojirentv.top/2020/yy.php?id=1382736915
+无罪推定—经典律政港剧,http://jiaojirentv.top/2020/yy.php?id=1354936203
+永远的经典系列,http://jiaojirentv.top/2020/yy.php?id=1354930204
+机动步队,http://jiaojirentv.top/2020/yy.php?id=1354932371
+来自星星的你,http://jiaojirentv.top/2020/yy.php?id=1354930976
+飞虎之雷霆极战,http://jiaojirentv.top/2020/yy.php?id=1382736869
+超燃动作大片,http://jiaojirentv.top/2020/yy.php?id=1382749940
+银河护卫队-国外科幻巨作,http://jiaojirentv.top/2020/yy.php?id=1382736815
+超级英雄系列电影,http://jiaojirentv.top/2020/yy.php?id=1382736863
+宫心计-港剧-古装,http://jiaojirentv.top/2020/yy.php?id=1354933540
+怪医文三块-影视剧,http://jiaojirentv.top/2020/yy.php?id=1354936154
+重返校园电影合集,http://jiaojirentv.top/2020/yy.php?id=1354930965
+地球上的地狱,http://jiaojirentv.top/2020/yy.php?id=1382736918
+雷神系列,http://jiaojirentv.top/2020/yy.php?id=1354932441
+卧虎藏龙-李安执导,http://jiaojirentv.top/2020/yy.php?id=1382736849
+空谷幽兰,http://jiaojirentv.top/2020/yy.php?id=1382745182
+惊险动作大片！挑战心脏,http://jiaojirentv.top/2020/yy.php?id=1354932407
+爆笑抗日！厨子戏子痞子,http://jiaojirentv.top/2020/yy.php?id=1354930816
+蜘蛛侠-院线大片,http://jiaojirentv.top/2020/yy.php?id=1354926671
+白鹿原,http://jiaojirentv.top/2020/yy.php?id=1354931488
+缺宅男女,http://jiaojirentv.top/2020/yy.php?id=1354930937
+国产动作电影,http://jiaojirentv.top/2020/yy.php?id=1382736858
+守望的天空-泪目电视剧,http://jiaojirentv.top/2020/yy.php?id=1382736843
+高分港剧合集,http://jiaojirentv.top/2020/yy.php?id=1382735542
+中国合伙人,http://jiaojirentv.top/2020/yy.php?id=1354658051
+名媛望族-精彩港剧,http://jiaojirentv.top/2020/yy.php?id=1354932431
+陈情令,http://jiaojirentv.top/2020/yy.php?id=1382745121
+蔡明春晚小品,http://jiaojirentv.top/2020/yy.php?id=1354936177
+欢乐集结号,http://jiaojirentv.top/2020/yy.php?id=1382749911
+尽享国内精彩战争片,http://jiaojirentv.top/2020/yy.php?id=1382745094
+【武林客栈】,http://jiaojirentv.top/2020/yy.php?id=1382773728
+金装四大才子,http://jiaojirentv.top/2020/yy.php?id=1354926600
+科幻大片,http://jiaojirentv.top/2020/yy.php?id=1382745181
+娘亲舅大,http://jiaojirentv.top/2020/yy.php?id=1354932360
+俺娘田小草,http://jiaojirentv.top/2020/yy.php?id=1382741638
+宇宙护卫队--国漫,http://jiaojirentv.top/2020/yy.php?id=1382736837
+喜乐街,http://jiaojirentv.top/2020/yy.php?id=1354936231
+强悍“杀猪婆”的励志人生,http://jiaojirentv.top/2020/yy.php?id=1354658062
+丈夫在外有人？真相竟然是！,http://jiaojirentv.top/2020/yy.php?id=1354932375
+家有九凤-影视剧,http://jiaojirentv.top/2020/yy.php?id=1354930894
+回家的诱惑-狗血剧巅峰,http://jiaojirentv.top/2020/yy.php?id=1382851148
+复仇者联盟4：终局之战,http://jiaojirentv.top/2020/yy.php?id=1354936167
+金玉满堂：精彩港剧,http://jiaojirentv.top/2020/yy.php?id=1382736881
+下饭喜剧电影,http://jiaojirentv.top/2020/yy.php?id=1382736844
+故事里的中国全季,http://jiaojirentv.top/2020/yy.php?id=1382736798
+发哥系列,http://jiaojirentv.top/2020/yy.php?id=1354888733
+国家宝藏 第二季,http://jiaojirentv.top/2020/yy.php?id=1382736853
+电视剧 狂飙,http://jiaojirentv.top/2020/yy.php?id=70163211
+三个臭皮匠顶一个诸葛亮,http://jiaojirentv.top/2020/yy.php?id=1354936221
+仙灵儿,http://jiaojirentv.top/2020/yy.php?id=1382736887
+雪中悍刀行,http://jiaojirentv.top/2020/yy.php?id=1462996362
+动作大片,http://jiaojirentv.top/2020/yy.php?id=1354888739
+玩命直播（普通话）,http://jiaojirentv.top/2020/yy.php?id=1382736841
+大家都在看的警匪片,http://jiaojirentv.top/2020/yy.php?id=1354930964
+第8号当铺,http://jiaojirentv.top/2020/yy.php?id=1382736905
+什么会让你快乐,http://jiaojirentv.top/2020/yy.php?id=54886912
+闲暇观看综艺,http://jiaojirentv.top/2020/yy.php?id=1354932379
+武侠电视剧,http://jiaojirentv.top/2020/yy.php?id=1459331991
+李三枪-抗战影视剧,http://jiaojirentv.top/2020/yy.php?id=1354936122
+拆弹专家-刘德华,http://jiaojirentv.top/2020/yy.php?id=1382745111
+男亲女爱-经典港剧,http://jiaojirentv.top/2020/yy.php?id=1382736715
+战狼10086,http://jiaojirentv.top/2020/yy.php?id=1382773686
+公公出宫-港剧,http://jiaojirentv.top/2020/yy.php?id=1354936208
+卖拐,http://jiaojirentv.top/2020/yy.php?id=1382851469
+萌鸡小队S1-国漫,http://jiaojirentv.top/2020/yy.php?id=1382736904
+国威影院 仙侠系列,http://jiaojirentv.top/2020/yy.php?id=1354866665
+岳云鹏-屌丝也能追到美女,http://jiaojirentv.top/2020/yy.php?id=1382736882
+大家都爱看的港剧,http://jiaojirentv.top/2020/yy.php?id=1382736861
+粟裕大将-影视,http://jiaojirentv.top/2020/yy.php?id=1354926542
+国内最新战争大片,http://jiaojirentv.top/2020/yy.php?id=1382745189
+国内动作大片,http://jiaojirentv.top/2020/yy.php?id=1382749917
+能耐大了第1季,http://jiaojirentv.top/2020/yy.php?id=1354930195
+哥斯拉1,http://jiaojirentv.top/2020/yy.php?id=1382736833
+铭记历史-甲午大海战,http://jiaojirentv.top/2020/yy.php?id=1354936195
+悬崖上的金鱼公主：宫崎骏系列,http://jiaojirentv.top/2020/yy.php?id=1354926666
+越哥说电影,http://jiaojirentv.top/2020/yy.php?id=1382745099
+狂飙,http://jiaojirentv.top/2020/yy.php?id=28298966
+传奇之王-影视剧,http://jiaojirentv.top/2020/yy.php?id=1354926735
+原始人大挑战,http://jiaojirentv.top/2020/yy.php?id=1382736884
+经典电影 电视剧,http://jiaojirentv.top/2020/yy.php?id=1354690927
+再向虎山行,http://jiaojirentv.top/2020/yy.php?id=1355823667
+请回答1988-高分韩剧,http://jiaojirentv.top/2020/yy.php?id=1354936228
+丁大命,http://jiaojirentv.top/2020/yy.php?id=1382735579
+恐怖鬼片嘎嘎好看,http://jiaojirentv.top/2020/yy.php?id=1355485328
+吐槽大会 第5季,http://jiaojirentv.top/2020/yy.php?id=1354889009
+风味原产地潮汕,http://jiaojirentv.top/2020/yy.php?id=1382745178
+太空生命？高分科幻电影开播,http://jiaojirentv.top/2020/yy.php?id=1382851586
+另类民兵葛二蛋,http://jiaojirentv.top/2020/yy.php?id=1382736895
+海王-院线大片,http://jiaojirentv.top/2020/yy.php?id=1354936142
+灌篮高手,http://jiaojirentv.top/2020/yy.php?id=1382735559
+少年包青天,http://jiaojirentv.top/2020/yy.php?id=1356331540
+动漫奥斯卡正在直播,http://jiaojirentv.top/2020/yy.php?id=1382626335
+心病,http://jiaojirentv.top/2020/yy.php?id=1382851474
+家族荣耀-精彩港剧,http://jiaojirentv.top/2020/yy.php?id=1382745103
+来看修牛蹄,http://jiaojirentv.top/2020/yy.php?id=1382749887
+七色小彩虹,http://jiaojirentv.top/2020/yy.php?id=1382851601
+迷失假期：少女香港寻身世,http://jiaojirentv.top/2020/yy.php?id=1382745089
+能耐大了！德云社演技爆棚,http://jiaojirentv.top/2020/yy.php?id=1354930915
+溏心风暴之家好月圆,http://jiaojirentv.top/2020/yy.php?id=1354888747
+小戏骨黄飞鸿,http://jiaojirentv.top/2020/yy.php?id=1354936181
+港片—两公婆八条心,http://jiaojirentv.top/2020/yy.php?id=1382736917
+饥饿游戏全季,http://jiaojirentv.top/2020/yy.php?id=1354932365
+耀舞长安-港剧,http://jiaojirentv.top/2020/yy.php?id=1382741640
+拜年,http://jiaojirentv.top/2020/yy.php?id=1382851470
+【雍正王朝】历史巨作,http://jiaojirentv.top/2020/yy.php?id=1462895099
+变形金刚4、5,http://jiaojirentv.top/2020/yy.php?id=1354658064
+国外院线动作大片,http://jiaojirentv.top/2020/yy.php?id=1382735570
+【粤配动漫】,http://jiaojirentv.top/2020/yy.php?id=1356262523
+金星脱口秀-爆笑回归,http://jiaojirentv.top/2020/yy.php?id=1382749951
+国内动作电影,http://jiaojirentv.top/2020/yy.php?id=1382745176
+催眠视频合集,http://jiaojirentv.top/2020/yy.php?id=1354936178
+超精彩武打场景,http://jiaojirentv.top/2020/yy.php?id=1354936131
+我是特种兵利刃出鞘,http://jiaojirentv.top/2020/yy.php?id=1354127609
+战争大片,http://jiaojirentv.top/2020/yy.php?id=1382735556
+希魔撞正杀人狂,http://jiaojirentv.top/2020/yy.php?id=1382736903
+爱丽丝梦游仙境,http://jiaojirentv.top/2020/yy.php?id=1354931585
+动漫,http://jiaojirentv.top/2020/yy.php?id=1382788679
+内部测试频道请勿封禁,http://jiaojirentv.top/2020/yy.php?id=1352488363
+百家讲坛――之明太祖朱元璋,http://jiaojirentv.top/2020/yy.php?id=1354936149
+港片鬼片老电影,http://jiaojirentv.top/2020/yy.php?id=1355269576
+犬夜叉,http://jiaojirentv.top/2020/yy.php?id=1509038705
+狂飙2,http://jiaojirentv.top/2020/yy.php?id=1456622512
+【康熙王朝】,http://jiaojirentv.top/2020/yy.php?id=37033366
+鲨卷风：鲨鱼市区作乱,http://jiaojirentv.top/2020/yy.php?id=1382736851
+胡歌不见不散,http://jiaojirentv.top/2020/yy.php?id=1356355983
+奥斯卡战争大片,http://jiaojirentv.top/2020/yy.php?id=1354932397
+的直播间,http://jiaojirentv.top/2020/yy.php?id=1354129442
+荒诞喜剧！钢的琴,http://jiaojirentv.top/2020/yy.php?id=1382736886
+电影电影电影电影电影电影,http://jiaojirentv.top/2020/yy.php?id=1351496216
+超体：高分科幻片,http://jiaojirentv.top/2020/yy.php?id=1354936116
+亲爱的味道：美食轻喜剧,http://jiaojirentv.top/2020/yy.php?id=1382735561
+丫鬟大联盟！笑个不停,http://jiaojirentv.top/2020/yy.php?id=1382749913
+【红球】不扯蛋,http://jiaojirentv.top/2020/yy.php?id=1355084841
+【小星星】斗罗斗破精彩动,http://jiaojirentv.top/2020/yy.php?id=1356362808
+我要成为贫民巨星！-全集,http://jiaojirentv.top/2020/yy.php?id=1382744423
+每走一步都要小心翼翼,http://jiaojirentv.top/2020/yy.php?id=1354936199
+我到家啦,http://jiaojirentv.top/2020/yy.php?id=1382851468
+狂飙老莫请你吃鱼,http://jiaojirentv.top/2020/yy.php?id=1382881866
+的士速递全季—爆笑犯罪大片,http://jiaojirentv.top/2020/yy.php?id=1382749910
+精彩影视轮番上映,http://jiaojirentv.top/2020/yy.php?id=1355336008
+2012：世界末日,http://jiaojirentv.top/2020/yy.php?id=1382736836
+深山吃货：云南臭菜你吃过吗？,http://jiaojirentv.top/2020/yy.php?id=1382745122
+本山小品 过年,http://jiaojirentv.top/2020/yy.php?id=1382881708
+施公奇案2-欧阳震华,http://jiaojirentv.top/2020/yy.php?id=1382736824
+一城一味（舌尖姐妹篇）,http://jiaojirentv.top/2020/yy.php?id=1382745179
+国内喜剧电影合集,http://jiaojirentv.top/2020/yy.php?id=1382851137
+买车前看一看 不然血亏,http://jiaojirentv.top/2020/yy.php?id=1349602814
+悦悦电影,http://jiaojirentv.top/2020/yy.php?id=1351537467
+呵呵❤正在直播,http://jiaojirentv.top/2020/yy.php?id=1382828963
+今生是第一次：高分韩剧,http://jiaojirentv.top/2020/yy.php?id=1382745190
+征服,http://jiaojirentv.top/2020/yy.php?id=1461655788
+你看与不看我都在,http://jiaojirentv.top/2020/yy.php?id=1353422557
+非遗真人秀？向往的国潮,http://jiaojirentv.top/2020/yy.php?id=1382749953
+男生女生向前冲,http://jiaojirentv.top/2020/yy.php?id=1354930957
+狂飙,http://jiaojirentv.top/2020/yy.php?id=1509095132
+失忆24小时：绑架失踪案,http://jiaojirentv.top/2020/yy.php?id=1382749890
+永远一家人：厂长夫人摆地摊,http://jiaojirentv.top/2020/yy.php?id=1382736873
+打狗棍,http://jiaojirentv.top/2020/yy.php?id=1507519895
+盗梦空间！悬疑烧脑！,http://jiaojirentv.top/2020/yy.php?id=1354930903
+我比你更懂车 你偏不信,http://jiaojirentv.top/2020/yy.php?id=85042287
+动画剧集电影-原声粤语国,http://jiaojirentv.top/2020/yy.php?id=1382859239
+少林寺传奇,http://jiaojirentv.top/2020/yy.php?id=1356338181
+经典影视,http://jiaojirentv.top/2020/yy.php?id=1356364732
+筱威回来了,http://jiaojirentv.top/2020/yy.php?id=37347905
 
 // https://lunbo.freetv.top/yy/
 侦探悬疑,https://lunbo.freetv.top/yy/1382735543
@@ -2577,7 +2419,7 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
-NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_600k.m3u8
 日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 NHKNews,https://nhk4.mov3.co/hls/nhk.m3u8
 
@@ -2589,11 +2431,11 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX新闻,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 俄IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+France24,https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/1080p/index.m3u8
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694$mitv
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 印BeritaSatu,https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://live-hls-web-aja.getaj.net/AJA/02.m3u8#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Bloomberg,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 Bloomberg,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780$mitv
 NASA Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -3030,24 +2872,24 @@ CNTV自然,#genre#
 相声搜,http://1.94.31.214:35455/yy/34025318
 怀旧小品,http://1.94.31.214:35455/yy/1382736821
 
-本山快乐营2,http://www.douzhicloud.site:35455/yy/1382736718
-宋小宝金星百乐门,http://www.douzhicloud.site:35455/yy/1382736912
-赵本山《蓝光版》,http://www.douzhicloud.site:35455/yy/32160832
-赵本山《超清版》,http://www.douzhicloud.site:35455/yy/1382683959
-宋小宝小品合集,http://www.douzhicloud.site:35455/yy/1354931577
-小沈阳春晚小品,http://www.douzhicloud.site:35455/yy/1382749941
-贾玲春晚小品,http://www.douzhicloud.site:35455/yy/1382736720
-你最爱的宋小宝,http://www.douzhicloud.site:35455/yy/1354936198
-冯巩 牛群,http://www.douzhicloud.site:35455/yy/1382851476
-小宝让你乐翻天：6到9集,http://www.douzhicloud.site:35455/yy/1354930971
-宋小宝春晚小品合集,http://www.douzhicloud.site:35455/yy/1382736866
-本山快乐营1,http://www.douzhicloud.site:35455/yy/1354936209
-巩汉林小品合集,http://www.douzhicloud.site:35455/yy/1354889035
-本山快乐营,http://www.douzhicloud.site:35455/yy/1354930948
-赵本山爆笑小品2,http://www.douzhicloud.site:35455/yy/1354936217
-本山快乐营,http://www.douzhicloud.site:35455/yy/1382736852
-相声搜,http://www.douzhicloud.site:35455/yy/34025318
-怀旧小品,http://www.douzhicloud.site:35455/yy/1382736821
+本山快乐营2,http://jiaojirentv.top/2020/yy.php?id=1382736718
+宋小宝金星百乐门,http://jiaojirentv.top/2020/yy.php?id=1382736912
+赵本山《蓝光版》,http://jiaojirentv.top/2020/yy.php?id=32160832
+赵本山《超清版》,http://jiaojirentv.top/2020/yy.php?id=1382683959
+宋小宝小品合集,http://jiaojirentv.top/2020/yy.php?id=1354931577
+小沈阳春晚小品,http://jiaojirentv.top/2020/yy.php?id=1382749941
+贾玲春晚小品,http://jiaojirentv.top/2020/yy.php?id=1382736720
+你最爱的宋小宝,http://jiaojirentv.top/2020/yy.php?id=1354936198
+冯巩 牛群,http://jiaojirentv.top/2020/yy.php?id=1382851476
+小宝让你乐翻天：6到9集,http://jiaojirentv.top/2020/yy.php?id=1354930971
+宋小宝春晚小品合集,http://jiaojirentv.top/2020/yy.php?id=1382736866
+本山快乐营1,http://jiaojirentv.top/2020/yy.php?id=1354936209
+巩汉林小品合集,http://jiaojirentv.top/2020/yy.php?id=1354889035
+本山快乐营,http://jiaojirentv.top/2020/yy.php?id=1354930948
+赵本山爆笑小品2,http://jiaojirentv.top/2020/yy.php?id=1354936217
+本山快乐营,http://jiaojirentv.top/2020/yy.php?id=1382736852
+相声搜,http://jiaojirentv.top/2020/yy.php?id=34025318
+怀旧小品,http://jiaojirentv.top/2020/yy.php?id=1382736821
 
 爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d$fast
 相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d$fast
