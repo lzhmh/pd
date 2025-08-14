@@ -58,6 +58,7 @@ RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -70,6 +71,7 @@ RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+
 亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
 
 体育频道,#genre#
@@ -292,18 +294,18 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 
 移动新闻,#genre#
 中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv#http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+
 中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 TVBSHD,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 
-TVBS新聞,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+TVBS新闻,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 
-东森电影,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 ChannelUHD,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
 
 东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
 爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
 新唐人美东台,https://ntd02.akamaized.net/HD-NY/index.m3u8
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
