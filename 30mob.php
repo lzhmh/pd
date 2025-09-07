@@ -266,13 +266,8 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8$郑移
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8$郑移
-
 掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
 掼蛋精英赛,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdjys
-
-淡定掼蛋,http://jackgao.top:35455/douyin/1089824966$jack
-张毅掼蛋,http://jackgao.top:35455/douyin/1080010222$jack
-掼蛋争冠,http://jackgao.top:35455/douyin/38731796266$jack
 
 戴长胜掼蛋,http://59.153.164.107:6868/huya/28092053$59
 石头掼蛋,http://59.153.164.107:6868/huya/28092051$59
@@ -333,9 +328,6 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 赵老师掼蛋,http://47.96.156.159:517/huya/28092052$47
 龙崎掼蛋,http://47.96.156.159:517/huya/28092048$47
 掼蛋实战讲解,http://47.96.156.159:517/huya/28092049$47
-
-象棋柳大华,http://jackgao.top:35455/douyin/27068126593$jack
-街头象棋,http://jackgao.top:35455/douyin/999039291841$jack
 
 八卦大师,http://iptv.jxpan.vip:18888/aio/douyu/851040$iptv
 帽子象棋,http://iptv.jxpan.vip:18888/aio/douyu/4487219$iptv
@@ -494,12 +486,25 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 陶老师围棋,https://www.goodiptv.club/douyu/6586073
 弈夫围棋,https://www.goodiptv.club/douyu/6399350
 
-天山弈道,http://jackgao.top:35455/douyin/309312439347$jack
-围棋张指导,http://jackgao.top:35455/douyin/448147530190$jack
-极简网课,http://jackgao.top:35455/douyin/328531745171$jack
+柳大华直播,http://jackgao.top:35455/douyin/27068126593$jack
+街头直播,http://jackgao.top:35455/douyin/999039291841$jack
+
+掼蛋联赛,http://jackgao.top:35455/douyin/55948161808$jack
+看风直播,http://jackgao.top:35455/douyin/42059896853$jack
+钰宝直播,http://jackgao.top:35455/douyin/38129468982$jack
+淡定直播,http://jackgao.top:35455/douyin/1089824966$jack
+张毅直播,http://jackgao.top:35455/douyin/1080010222$jack
+掼蛋直播,http://jackgao.top:35455/douyin/38731796266$jack
 
 囲碁将棋,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+天元围棋,http://121.29.169.136:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.136:8888/udp/239.253.93.211:6389$河北联#http://121.29.169.30:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.30:8888/udp/239.253.93.211:6389$河北联#http://121.29.169.6:7777/udp/239.253.93.211:6389$河北联#http://121.29.169.6:8888/udp/239.253.93.211:6389$河北联#http://121.29.215.215:7777/udp/239.253.93.211:6389$河北联#http://121.29.215.215:8888/udp/239.253.93.211:6389$河北联
+
+天山弈道,http://jackgao.top:35455/douyin/309312439347$jack
+张指导直播,http://jackgao.top:35455/douyin/448147530190$jack
+极简直播,http://jackgao.top:35455/douyin/328531745171$jack
+
+斗地主冠军赛,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 体育人物,https://mursor.ottiptv.cc/douyu/8434598
 体育人物,http://huanqiuzhibo.cn/manifest/douyu.php?id=8434598
 体育人物,http://zzy789.xyz/douyu1.php?id=8434598
@@ -508,10 +513,9 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
 斗鱼体育,http://huanqiuzhibo.cn/manifest/douyu.php?id=9170147
 
-黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8$idc
-黑龙江文体,http://111.43.126.240:9003/hls/8/index.m3u8$哈移动
-黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移
-黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8$哈移s
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移#
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8$哈移s#https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+
 安徽体育,http://112.27.235.94:8000/hls/25/index.m3u8
 
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
@@ -520,6 +524,8 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 睛彩广场舞,http://iptv.hn.cn:1258/itv/3000000020000011523.m3u8?cdn=FifastbLive$hn
 睛彩广场舞,http://iptv.hn.cn:1258/itv/3000000020000011524.m3u8?cdn=FifastbLive$hn
 睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
+睛彩广场舞,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000270005/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=3$ip4
+英雄联盟音乐节,http://[2409:8087:5e08:25::4]:6610/000000001000/8978605063318475207/index.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3$ip4
 
 哑铃塑型,https://i.uik.cc/view.php/e88fd95f75bd9c600fd335b518c82d02.mp4
 
@@ -531,8 +537,6 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 太极十二拍,https://vd4.bdstatic.com/mda-kj2uht81cen964qa/mda-kj2uht81cen964qa.mp4
 
 邱慧芳24太极拳,https://vd3.bdstatic.com/mda-pct748r1egmk3c8x/sc/cae_h264/1680067740751400060/mda-pct748r1egmk3c8x.mp4
-
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8$哈移
 
 咪咕体育,#genre#
 
