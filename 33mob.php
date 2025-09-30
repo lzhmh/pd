@@ -261,7 +261,6 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8$郑移
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8$郑移
 掼蛋精英赛,http://m.061899.xyz/mg/dds$mg
-掼蛋精英赛,https://migu.188766.xyz/?migutoken=0afe1019b9ad56f275eb8bb1fab96db1&id=%E6%8E%BC%E8%9B%8B%E7%B2%BE%E8%8B%B1%E8%B5%9B&type=yy$migu
 
 八卦大师,http://iptv.jxpan.vip:18888/aio/douyu/851040$iptv
 帽子象棋,http://iptv.jxpan.vip:18888/aio/douyu/4487219$iptv
@@ -597,47 +596,6 @@ JOJO 的奇妙冒險,http://152.32.229.52:5050/ofiii178/index.m3u8?proxy=true$4g
 TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.ctv
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163$tlive
 寰宇新闻,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
-
-咪咕体育,#genre#
-
-咪咕网球29,http://iptv.hn.cn:1258/itv/3000000010000006077.m3u8?cdn=FifastbLive$hn
-咪咕网球32,http://iptv.hn.cn:1258/itv/3000000010000010833.m3u8?cdn=FifastbLive$hn
-咪咕体育1,http://iptv.hn.cn:1258/itv/3000000001000005308.m3u8?cdn=FifastbLive$hn
-咪咕体育2,http://iptv.hn.cn:1258/itv/3000000001000005969.m3u8?cdn=FifastbLive$hn
-咪咕体育3,http://iptv.hn.cn:1258/itv/3000000001000007218.m3u8?cdn=FifastbLive$hn
-咪咕体育4,http://iptv.hn.cn:1258/itv/3000000001000008001.m3u8?cdn=FifastbLive$hn
-咪咕体育5,http://iptv.hn.cn:1258/itv/3000000001000008176.m3u8?cdn=FifastbLive$hn
-咪咕体育6,http://iptv.hn.cn:1258/itv/3000000001000008379.m3u8?cdn=FifastbLive$hn
-咪咕体育7,http://iptv.hn.cn:1258/itv/3000000001000010129.m3u8?cdn=FifastbLive$hn
-咪咕体育8,http://iptv.hn.cn:1258/itv/3000000001000010948.m3u8?cdn=FifastbLive$hn
-咪咕体育9,http://iptv.hn.cn:1258/itv/3000000001000028638.m3u8?cdn=FifastbLive$hn
-咪咕体育10,http://iptv.hn.cn:1258/itv/3000000001000031494.m3u8?cdn=FifastbLive$hn
-咪咕体育11,http://iptv.hn.cn:1258/itv/3000000010000005837.m3u8?cdn=FifastbLive$hn
-咪咕体育12,http://iptv.hn.cn:1258/itv/3000000020000011518.m3u8?cdn=FifastbLive$hn
-咪咕体育13,http://iptv.hn.cn:1258/itv/3000000020000011519.m3u8?cdn=FifastbLive$hn
-咪咕体育14,http://iptv.hn.cn:1258/itv/3000000020000011520.m3u8?cdn=FifastbLive$hn
-咪咕体育15,http://iptv.hn.cn:1258/itv/3000000020000011521.m3u8?cdn=FifastbLive$hn
-咪咕体育24,http://iptv.hn.cn:1258/itv/3000000010000000097.m3u8?cdn=FifastbLive$hn
-咪咕体育25,http://iptv.hn.cn:1258/itv/3000000010000002019.m3u8?cdn=FifastbLive$hn
-咪咕体育26,http://iptv.hn.cn:1258/itv/3000000010000002809.m3u8?cdn=FifastbLive$hn
-咪咕体育27,http://iptv.hn.cn:1258/itv/3000000010000003915.m3u8?cdn=FifastbLive$hn
-咪咕体育28,http://iptv.hn.cn:1258/itv/3000000010000004193.m3u8?cdn=FifastbLive$hn
-咪咕体育30,http://iptv.hn.cn:1258/itv/3000000010000006658.m3u8?cdn=FifastbLive$hn
-咪咕体育31,http://iptv.hn.cn:1258/itv/3000000010000009788.m3u8?cdn=FifastbLive$hn
-咪咕体育33,http://iptv.hn.cn:1258/itv/3000000010000011297.m3u8?cdn=FifastbLive$hn
-咪咕体育35,http://iptv.hn.cn:1258/itv/3000000010000012558.m3u8?cdn=FifastbLive$hn
-咪咕体育36,http://iptv.hn.cn:1258/itv/3000000010000012616.m3u8?cdn=FifastbLive$hn
-咪咕体育37,http://iptv.hn.cn:1258/itv/3000000010000015470.m3u8?cdn=FifastbLive$hn
-咪咕体育38,http://iptv.hn.cn:1258/itv/3000000010000015560.m3u8?cdn=FifastbLive$hn
-咪咕体育39,http://iptv.hn.cn:1258/itv/3000000010000017678.m3u8?cdn=FifastbLive$hn
-咪咕体育40,http://iptv.hn.cn:1258/itv/3000000010000019839.m3u8?cdn=FifastbLive$hn
-咪咕体育41,http://iptv.hn.cn:1258/itv/3000000010000021904.m3u8?cdn=FifastbLive$hn
-咪咕体育42,http://iptv.hn.cn:1258/itv/3000000010000023434.m3u8?cdn=FifastbLive$hn
-咪咕体育43,http://iptv.hn.cn:1258/itv/3000000010000025380.m3u8?cdn=FifastbLive$hn
-咪咕体育44,http://iptv.hn.cn:1258/itv/3000000010000027691.m3u8?cdn=FifastbLive$hn
-咪咕体育45,http://iptv.hn.cn:1258/itv/3000000010000031669.m3u8?cdn=FifastbLive$hn
-咪咕足球,http://111.43.126.240:9003/hls/103/index.m3u8$哈
-咪咕体育,http://111.43.126.240:9003/hls/104/index.m3u8$哈
 
 环球赛事,#genre#
 
