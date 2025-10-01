@@ -3,13 +3,17 @@
 
 港澳HM03,#genre#
 
-凤凰中文,http://108.181.20.181/livehttpplay?channel_id=20065$108
-凤凰资讯,http://108.181.20.181/livehttpplay?channel_id=20066$108
-凤凰香港,http://108.181.20.181/livehttpplay?channel_id=20067$108
+凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
+凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
+凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$0618
 
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
 凤凰香港,http://m.061899.xyz/mg/fhhk$mg
+
+凤凰中文,http://108.181.20.181/livehttpplay?channel_id=20065$108
+凤凰资讯,http://108.181.20.181/livehttpplay?channel_id=20066$108
+凤凰香港,http://108.181.20.181/livehttpplay?channel_id=20067$108
 
 凤凰中文,http://j.s.bkpcp.top/js/fhzw$js
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx$js
@@ -20,10 +24,6 @@
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw$bxtv
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx$bxtv
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk$bxtv
-
-凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
-凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
-凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$0618
 
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
