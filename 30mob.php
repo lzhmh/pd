@@ -2,16 +2,19 @@
 
 新闻HM09,#genre#
 
+凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$api
+凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8$api
+凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$api
+
+凤凰中文,http://m.061899.xyz/mg/fhzw$mg
+凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
+凤凰香港,http://m.061899.xyz/mg/fhhk$mg
+
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv$0701f
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$0701f
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv$0701f
 
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
-
-
-凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$api
-凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8$api
-凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$api
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
@@ -25,10 +28,6 @@
 凤凰中文,https://cdn9.163189.xyz/smt3.2.1.php?id=phoenixtv_hd$smt#
 凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$smt#https://cdn9.163189.xyz/smt3.2.1.php?id=hkphoenix_twn$smt#
 
-凤凰中文,http://m.061899.xyz/mg/fhzw$mg
-凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
-凤凰香港,http://m.061899.xyz/mg/fhhk$mg
-
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$0618
@@ -37,33 +36,12 @@
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx$js
 凤凰香港,http://j.s.bkpcp.top/js/fhxg$js
 
-凤凰中文,http://zqh2333.top:2222/udp/239.93.24.9:2192$雅安信
-凤凰资讯,http://zqh2333.top:2222/udp/239.93.24.4:2191$雅安信
-
-凤凰中文,http://108.181.20.181/livehttpplay?channel_id=30014$108
-凤凰资讯,http://108.181.20.181/livehttpplay?channel_id=30015$108
-凤凰香港,http://108.181.20.181/livehttpplay?channel_id=30016$108
-
 凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw$bxtv
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx$bxtv
 
-凤凰中文,https://hyf000.eu.org/80947108/FHZW$hyf
-凤凰资讯,https://hyf000.eu.org/80947108/FHZX$hyf
-凤凰香港,https://hyf000.eu.org/80947108/FHXG$hyf
+凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand#http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1
 
-凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand#http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1#http://feng163.com:8001/bysid/85.m3u8$feng
-
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065$live4#
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066$live4#
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067$live4#
-
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014$live4
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015$live4
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016$live4
-
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$0701
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$0701
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$0701
+///凤凰中文http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$0701凤凰资讯http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$0701凤凰香港http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$0701
 
 凤凰中文,http://218.15.183.23:9901/tsfile/live/23037_1.m3u8$梅州信
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$php
@@ -184,18 +162,15 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$
 
 爱尔达3,rtmp://59.124.75.138/sat/md021$59
 
-爱羽客,http://111.162.204.18:8686/udp/225.1.2.1:5002$天津联#http://118.180.142.189:65535/udp/239.255.29.31:8231$甘肃信
+百事乒羽1,http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv#http://www.li0580.top:4022/udp/233.50.200.246:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.204:5140$浙江联#http://223.167.230.5:4022/udp/239.45.3.139:5140$上海信#http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://www.958598.xyz:4022/udp/239.45.3.139:5140$上海信
 
-百事乒羽1,http://cloud.sunrisecom.wang:8888/udp/239.45.3.139:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv#http://www.li0580.top:4022/udp/233.50.200.246:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.204:5140$浙江联#http://223.167.230.5:4022/udp/239.45.3.139:5140$上海信#http://www.958598.xyz:4022/udp/239.45.3.139:5140$上海信#http://118.180.142.189:65535/udp/239.255.30.170:8231$甘肃信
-
-百事乒羽2,http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信#http://223.167.230.5:4022/udp/239.45.3.140:5140$上海信#http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信#http://118.180.142.189:65535/udp/239.255.30.171:8231$甘肃信#http://www.li0580.top:4022/udp/233.50.200.237:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.205:5140$浙江联#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv
+百事乒羽2,http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信#http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信#http://www.li0580.top:4022/udp/233.50.200.237:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.205:5140$浙江联#http://223.167.230.5:4022/udp/239.45.3.140:5140$上海信#http://cloud.sunrisecom.wang:8888/udp/239.45.3.140:5140$上海信#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv
 
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8$汕头联#http://120.233.73.4:19901/tsfile/live/1040_1.m3u8$深移动#http://go.bkpcp.top/mg/gdty$go#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移#http://m.061899.xyz/mg/gdty$mg
 
 深圳体育,http://120.233.73.4:19901/tsfile/live/1036_1.m3u8$深移动#http://183.236.43.98:4013/udp/239.77.1.140:5146$广东信#http://183.236.43.98:4013/udp/239.77.1.128:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.140:5146$广东信#http://59.35.185.47:8188/udp/239.77.1.128:5146$广东信
 
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8$bp
-北京体育,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8$平顶山教
 北京体育,http://49.232.181.26:6000/udp/225.1.8.23:8002$北京信#http://115.171.216.39:4000/udp/225.1.8.23:8002$北京信#http://115.171.80.250:1688/udp/225.1.8.23:8002$北京信
 
 山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
@@ -265,65 +240,29 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 
 安徽体育,http://117.68.197.198:4022/udp/238.1.79.41:4440$安徽信#http://60.166.81.174:6688/udp/238.1.79.41:4440$安徽信#http://183.164.55.78:5000/udp/238.1.79.41:4440$安徽信#http://36.57.175.227:2000/udp/238.1.79.41:4440$安徽信#http://36.57.175.234:2000/udp/238.1.79.41:4440$安徽信#http://36.57.175.251:2000/udp/238.1.79.41:4440$安徽信#http://60.168.109.180:4000/udp/238.1.79.41:4440$安徽信#http://60.168.109.197:4000/udp/238.1.79.41:4440$安徽信#http://183.164.37.18:4022/udp/238.1.79.41:4440$安徽信
 
-八卦大师,https://live.ottiptv.cc/douyu/851040$live
-帽子象棋,https://live.ottiptv.cc/douyu/4487219$live
-笑笑象棋,https://live.ottiptv.cc/douyu/9969$live
-大神象棋,https://live.ottiptv.cc/douyu/1227260$live
-九拙讲棋,https://live.ottiptv.cc/douyu/4369877$live
-熊山雷疯,https://live.ottiptv.cc/douyu/291514$live
-小鹤求败,https://live.ottiptv.cc/douyu/3830820$live
-旭宝斗地主,https://live.ottiptv.cc/douyu/9804176$live
-欢乐斗地主,https://live.ottiptv.cc/douyu/8324074$live
-斗地主冠军赛,https://live.ottiptv.cc/douyu/488743$live
-弈夫围棋,https://live.ottiptv.cc/douyu/6399350$live
+八卦大师,http://jiaojirentv.top/2020/dy.php?id=851040$jiao
+帽子象棋,http://jiaojirentv.top/2020/dy.php?id=4487219$jiao
+笑笑象棋,http://jiaojirentv.top/2020/dy.php?id=9969$jiao
+大神象棋,http://jiaojirentv.top/2020/dy.php?id=1227260$jiao
+九拙讲棋,http://jiaojirentv.top/2020/dy.php?id=4369877$jiao
+熊山雷疯,http://jiaojirentv.top/2020/dy.php?id=291514$jiao
+小鹤求败,http://jiaojirentv.top/2020/dy.php?id=3830820$jiao
+旭宝斗地主,http://jiaojirentv.top/2020/dy.php?id=9804176$jiao
+欢乐斗地主,http://jiaojirentv.top/2020/dy.php?id=8324074$jiao
+斗地主冠军赛,http://jiaojirentv.top/2020/dy.php?id=488743$jiao
+弈夫围棋,http://jiaojirentv.top/2020/dy.php?id=6399350$jiao
 
-八卦大师,http://129.150.54.232:10001/douyu/851040
-帽子象棋,http://129.150.54.232:10001/douyu/4487219
-笑笑象棋,http://129.150.54.232:10001/douyu/9969
-大神象棋,http://129.150.54.232:10001/douyu/1227260
-九拙讲棋,http://129.150.54.232:10001/douyu/4369877
-熊山雷疯,http://129.150.54.232:10001/douyu/291514
-小鹤求败,http://129.150.54.232:10001/douyu/3830820
-旭宝斗地主,http://129.150.54.232:10001/douyu/9804176
-欢乐斗地主,http://129.150.54.232:10001/douyu/8324074
-斗地主冠军赛,http://129.150.54.232:10001/douyu/488743
-弈夫围棋,http://129.150.54.232:10001/douyu/6399350
-
-八卦大师,http://198.23.236.148:35455/douyu/851040
-帽子象棋,http://198.23.236.148:35455/douyu/4487219
-笑笑象棋,http://198.23.236.148:35455/douyu/9969
-大神象棋,http://198.23.236.148:35455/douyu/1227260
-九拙讲棋,http://198.23.236.148:35455/douyu/4369877
-熊山雷疯,http://198.23.236.148:35455/douyu/291514
-小鹤求败,http://198.23.236.148:35455/douyu/3830820
-旭宝斗地主,http://198.23.236.148:35455/douyu/9804176
-欢乐斗地主,http://198.23.236.148:35455/douyu/8324074
-斗地主冠军赛,http://198.23.236.148:35455/douyu/488743
-弈夫围棋,http://198.23.236.148:35455/douyu/6399350
-
-八卦大师,http://222.186.39.21:35466/douyu/851040
-帽子象棋,http://222.186.39.21:35466/douyu/4487219
-笑笑象棋,http://222.186.39.21:35466/douyu/9969
-大神象棋,http://222.186.39.21:35466/douyu/1227260
-九拙讲棋,http://222.186.39.21:35466/douyu/4369877
-熊山雷疯,http://222.186.39.21:35466/douyu/291514
-小鹤求败,http://222.186.39.21:35466/douyu/3830820
-旭宝斗地主,http://222.186.39.21:35466/douyu/9804176
-欢乐斗地主,http://222.186.39.21:35466/douyu/8324074
-斗地主冠军赛,http://222.186.39.21:35466/douyu/488743
-弈夫围棋,http://222.186.39.21:35466/douyu/6399350
-
-八卦大师,http://39.100.103.186:5000/douyu/851040
-帽子象棋,http://39.100.103.186:5000/douyu/4487219
-笑笑象棋,http://39.100.103.186:5000/douyu/9969
-大神象棋,http://39.100.103.186:5000/douyu/1227260
-九拙讲棋,http://39.100.103.186:5000/douyu/4369877
-熊山雷疯,http://39.100.103.186:5000/douyu/291514
-小鹤求败,http://39.100.103.186:5000/douyu/3830820
-旭宝斗地主,http://39.100.103.186:5000/douyu/9804176
-欢乐斗地主,http://39.100.103.186:5000/douyu/8324074
-斗地主冠军赛,http://39.100.103.186:5000/douyu/488743
-弈夫围棋,http://39.100.103.186:5000/douyu/6399350
+八卦大师,http://zzy789.xyz/douyu1.php?id=851040
+帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
+笑笑象棋,http://zzy789.xyz/douyu1.php?id=9969
+大神象棋,http://zzy789.xyz/douyu1.php?id=1227260
+九拙讲棋,http://zzy789.xyz/douyu1.php?id=4369877
+熊山雷疯,http://zzy789.xyz/douyu1.php?id=291514
+小鹤求败,http://zzy789.xyz/douyu1.php?id=3830820
+旭宝斗地主,http://zzy789.xyz/douyu1.php?id=9804176
+欢乐斗地主,http://zzy789.xyz/douyu1.php?id=8324074
+斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
+弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
 
 //http://php.404003.xyz/live/douyuyqk.php?id=
 八卦大师,http://php.404003.xyz/live/douyuyqk.php?id=851040
@@ -351,18 +290,6 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 斗地主冠军赛,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 弈夫围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6399350
 
-八卦大师,http://zzy789.xyz/douyu1.php?id=851040
-帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
-笑笑象棋,http://zzy789.xyz/douyu1.php?id=9969
-大神象棋,http://zzy789.xyz/douyu1.php?id=1227260
-九拙讲棋,http://zzy789.xyz/douyu1.php?id=4369877
-熊山雷疯,http://zzy789.xyz/douyu1.php?id=291514
-小鹤求败,http://zzy789.xyz/douyu1.php?id=3830820
-旭宝斗地主,http://zzy789.xyz/douyu1.php?id=9804176
-欢乐斗地主,http://zzy789.xyz/douyu1.php?id=8324074
-斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
-弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
-
 //http://lxajh.top/tv/douyu.php?id=
 八卦大师,http://lxajh.top/tv/douyu.php?id=851040
 帽子象棋,http://lxajh.top/tv/douyu.php?id=4487219
@@ -377,11 +304,11 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 弈夫围棋,http://lxajh.top/tv/douyu.php?id=6399350
 
 八卦大师,https://www.goodiptv.club/douyu/851040
-帽子象棋,https://www.goodiptv.club/douyu/4487219
-笑笑象棋,https://www.goodiptv.club/douyu/9969
-大神象棋,https://www.goodiptv.club/douyu/1227260
-
+八卦大师,http://39.100.103.186:5000/douyu/851040
 八卦大师,http://tv123.top:35455/douyu/851040$tv123
+八卦大师,http://129.150.54.232:10001/douyu/851040
+八卦大师,https://live.ottiptv.cc/douyu/851040$live
+八卦大师,http://222.186.39.21:35466/douyu/851040
 
 戴长胜掼蛋,http://aiony.top:35455/huya/28092053$aiony
 石头掼蛋,http://aiony.top:35455/huya/28092051$aiony
