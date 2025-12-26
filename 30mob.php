@@ -2,9 +2,15 @@
 
 新闻HM09,#genre#
 
-凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$api
+凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
+
+凤凰中文,http://183.234.238.18:8927/live1129.m3u8$阳江移
+凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
+凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$阳江移
+
 凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8$api
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$api
+凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$api
 
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
@@ -13,8 +19,6 @@
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv$0701f
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv$0701f
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv$0701f
-
-凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
@@ -81,6 +85,8 @@ CCTV13,http://110.177.144.14:9003/hls/14/index.m3u8$太原信
 先锋乒羽,http://113.195.172.192:808/hls/101/index.m3u8$宜春联
 先锋乒羽,http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
+
+翡翠台,http://183.236.161.100:8959/live1170.m3u8$阳江移
 
 翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$api
 明珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8$api
@@ -252,7 +258,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 斗地主冠军赛,http://jiaojirentv.top/2020/dy.php?id=488743$jiao
 弈夫围棋,http://jiaojirentv.top/2020/dy.php?id=6399350$jiao
 
-八卦大师,http://zzy789.xyz/douyu1.php?id=851040
+八卦大师,http://zzy789.xyz/douyu1.php?id=851040$zzy
 帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
 笑笑象棋,http://zzy789.xyz/douyu1.php?id=9969
 大神象棋,http://zzy789.xyz/douyu1.php?id=1227260
@@ -265,7 +271,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
 
 //http://php.404003.xyz/live/douyuyqk.php?id=
-八卦大师,http://php.404003.xyz/live/douyuyqk.php?id=851040
+八卦大师,http://php.404003.xyz/live/douyuyqk.php?id=851040$php
 帽子象棋,http://php.404003.xyz/live/douyuyqk.php?id=4487219
 笑笑象棋,http://php.404003.xyz/live/douyuyqk.php?id=9969
 大神象棋,http://php.404003.xyz/live/douyuyqk.php?id=1227260
@@ -278,7 +284,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 弈夫围棋,http://php.404003.xyz/live/douyuyqk.php?id=6399350
 
 //http://huanqiuzhibo.cn/manifest/douyu.php?id=
-八卦大师,http://huanqiuzhibo.cn/manifest/douyu.php?id=851040
+八卦大师,http://huanqiuzhibo.cn/manifest/douyu.php?id=851040$huan
 帽子象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=4487219
 笑笑象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=9969
 大神象棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=1227260
@@ -291,7 +297,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 弈夫围棋,http://huanqiuzhibo.cn/manifest/douyu.php?id=6399350
 
 //http://lxajh.top/tv/douyu.php?id=
-八卦大师,http://lxajh.top/tv/douyu.php?id=851040
+八卦大师,http://lxajh.top/tv/douyu.php?id=851040$lxajh
 帽子象棋,http://lxajh.top/tv/douyu.php?id=4487219
 笑笑象棋,http://lxajh.top/tv/douyu.php?id=9969
 大神象棋,http://lxajh.top/tv/douyu.php?id=1227260
@@ -303,7 +309,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 斗地主冠军赛,http://lxajh.top/tv/douyu.php?id=488743
 弈夫围棋,http://lxajh.top/tv/douyu.php?id=6399350
 
-八卦大师,https://www.goodiptv.club/douyu/851040
+八卦大师,https://www.goodiptv.club/douyu/851040$good
 八卦大师,http://39.100.103.186:5000/douyu/851040
 八卦大师,http://tv123.top:35455/douyu/851040$tv123
 八卦大师,http://129.150.54.232:10001/douyu/851040
@@ -2840,6 +2846,8 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 孝感新闻,http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-2286294457518d52f02d91906380d72a
 孝感生活,http://xiaogan-live21.cjyun.org/10139/s10139-xg.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-1d24a98d45449c0f85cda4bddc5d72a6
+
+苏州4K频道,http://live-auth.51kandianshi.com/szgd/csztv4k_fhd.m3u#http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 外语新闻,#genre#
 
