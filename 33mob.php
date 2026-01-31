@@ -1,6 +1,6 @@
-//Mobile频道数据收集自网络上的分享251223开通IPV6
+//Mobile频道数据收集自网络上的分享260131开通IPV6
 
-新闻HM11,#genre#
+新闻HM12,#genre#
 
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
 凤凰中文,http://111.221.137.155:44330/tsfile/live/0136_1.m3u8$深圳天威
@@ -9,10 +9,6 @@
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
-
-凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8$api
-凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$api
-凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$api
 
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
@@ -87,13 +83,8 @@ CCTV13,http://110.177.144.14:9003/hls/14/index.m3u8$太原信
 明珠台,http://183.237.95.108:9901/tsfile/live/1009_1.m3u8$梅州移
 
 明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
-
-翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$api
-明珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8$api
-无线新闻,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8$api
-
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
+翡翠台,http://116.77.38.138:44330/tsfile/live/1009_1.m3u8$深圳天威
+明珠台,http://116.77.38.138:44330/tsfile/live/1010_1.m3u8$深圳天威
 
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网#https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
@@ -122,6 +113,15 @@ CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u
 CCTV5,http://m.061899.xyz/mg/cctv5$mg
 CCTV5+,http://m.061899.xyz/mg/cctv5p$mg
 CCTV16,http://m.061899.xyz/mg/cctv16$mg
+
+CCTV5,http://111.221.137.155:44330/tsfile/live/0005_1.m3u8$深圳天威
+CCTV5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8$深圳天威
+CCTV16,http://111.221.137.155:44330/tsfile/live/1012_1.m3u8$深圳天威
+
+CCTV5,http://58.32.18.53:4022/udp/233.18.204.71:5140$上海信
+CCTV5+,http://58.32.18.53:4022/udp/233.18.204.67:5140$上海信
+CCTV16,http://58.32.18.53:4022/udp/233.18.204.82:5140$上海信
+CCTV16,http://58.32.18.53:4022/udp/233.18.204.215:5140$上海信4K
 
 CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16$cdn6
 CCTV16,http://t.061899.xyz/tl/dq.php?id=cctv16$618
@@ -243,6 +243,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 睛彩广场舞,http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.42:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.223:5540$kbtv
 
 八卦大师,http://www.douzhicloud.site:35455/douyu/851040$douzhi
+日月轮回,http://www.douzhicloud.site:35455/douyu/2293920$douzhi
 帽子象棋,http://www.douzhicloud.site:35455/douyu/4487219$douzhi
 笑笑象棋,http://www.douzhicloud.site:35455/douyu/9969$douzhi
 大神象棋,http://www.douzhicloud.site:35455/douyu/1227260$douzhi
@@ -252,64 +253,57 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 旭宝斗地主,http://www.douzhicloud.site:35455/douyu/9804176$douzhi
 欢乐斗地主,http://www.douzhicloud.site:35455/douyu/8324074$douzhi
 斗地主冠军赛,http://www.douzhicloud.site:35455/douyu/488743$douzhi
-弈夫围棋,http://www.douzhicloud.site:35455/douyu/6399350$douzhi
+围棋素材,http://www.douzhicloud.site:35455/douyu/6399350$douzhi
+围棋泳往,http://www.douzhicloud.site:35455/douyu/692988$douzhi
 
 //http://php.404003.xyz/live/douyuyqk.php?id=
 八卦大师,http://php.404003.xyz/live/douyuyqk.php?id=851040$php
-帽子象棋,http://php.404003.xyz/live/douyuyqk.php?id=4487219
-笑笑象棋,http://php.404003.xyz/live/douyuyqk.php?id=9969
-大神象棋,http://php.404003.xyz/live/douyuyqk.php?id=1227260
-九拙讲棋,http://php.404003.xyz/live/douyuyqk.php?id=4369877
-熊山雷疯,http://php.404003.xyz/live/douyuyqk.php?id=291514
-小鹤求败,http://php.404003.xyz/live/douyuyqk.php?id=3830820
-旭宝斗地主,http://php.404003.xyz/live/douyuyqk.php?id=9804176
-欢乐斗地主,http://php.404003.xyz/live/douyuyqk.php?id=8324074
-斗地主冠军赛,http://php.404003.xyz/live/douyuyqk.php?id=488743
-弈夫围棋,http://php.404003.xyz/live/douyuyqk.php?id=6399350
+日月轮回,http://php.404003.xyz/live/douyuyqk.php?id=2293920$php
+帽子象棋,http://php.404003.xyz/live/douyuyqk.php?id=4487219$php
+笑笑象棋,http://php.404003.xyz/live/douyuyqk.php?id=9969$php
+大神象棋,http://php.404003.xyz/live/douyuyqk.php?id=1227260$php
+九拙讲棋,http://php.404003.xyz/live/douyuyqk.php?id=4369877$php
+熊山雷疯,http://php.404003.xyz/live/douyuyqk.php?id=291514$php
+小鹤求败,http://php.404003.xyz/live/douyuyqk.php?id=3830820$php
+旭宝斗地主,http://php.404003.xyz/live/douyuyqk.php?id=9804176$php
+欢乐斗地主,http://php.404003.xyz/live/douyuyqk.php?id=8324074$php
+斗地主冠军赛,http://php.404003.xyz/live/douyuyqk.php?id=488743$php
+围棋素材,http://php.404003.xyz/live/douyuyqk.php?id=6399350$php
+围棋泳往,http://php.404003.xyz/live/douyuyqk.php?id=692988$php
 
-八卦大师,http://jiaojirentv.top/2020/dy.php?id=851040$jiao
-帽子象棋,http://jiaojirentv.top/2020/dy.php?id=4487219$jiao
-笑笑象棋,http://jiaojirentv.top/2020/dy.php?id=9969$jiao
-大神象棋,http://jiaojirentv.top/2020/dy.php?id=1227260$jiao
-九拙讲棋,http://jiaojirentv.top/2020/dy.php?id=4369877$jiao
-熊山雷疯,http://jiaojirentv.top/2020/dy.php?id=291514$jiao
-小鹤求败,http://jiaojirentv.top/2020/dy.php?id=3830820$jiao
-旭宝斗地主,http://jiaojirentv.top/2020/dy.php?id=9804176$jiao
-欢乐斗地主,http://jiaojirentv.top/2020/dy.php?id=8324074$jiao
-斗地主冠军赛,http://jiaojirentv.top/2020/dy.php?id=488743$jiao
-弈夫围棋,http://jiaojirentv.top/2020/dy.php?id=6399350$jiao
+八卦大师,https://live.ottiptv.cc/douyu/851040$live
+日月轮回,https://live.ottiptv.cc/douyu/2293920$live
+帽子象棋,https://live.ottiptv.cc/douyu/4487219$live
+笑笑象棋,https://live.ottiptv.cc/douyu/9969$live
+大神象棋,https://live.ottiptv.cc/douyu/1227260$live
+九拙讲棋,https://live.ottiptv.cc/douyu/4369877$live
+熊山雷疯,https://live.ottiptv.cc/douyu/291514$live
+小鹤求败,https://live.ottiptv.cc/douyu/3830820$live
+旭宝斗地主,https://live.ottiptv.cc/douyu/9804176$live
+欢乐斗地主,https://live.ottiptv.cc/douyu/8324074$live
+斗地主冠军赛,https://live.ottiptv.cc/douyu/488743$live
+围棋素材,https://live.ottiptv.cc/douyu/6399350$live
+围棋泳往,https://live.ottiptv.cc/douyu/692988$live
 
-八卦大师,http://zzy789.xyz/douyu1.php?id=851040$zzy
-帽子象棋,http://zzy789.xyz/douyu1.php?id=4487219
-笑笑象棋,http://zzy789.xyz/douyu1.php?id=9969
-大神象棋,http://zzy789.xyz/douyu1.php?id=1227260
-九拙讲棋,http://zzy789.xyz/douyu1.php?id=4369877
-熊山雷疯,http://zzy789.xyz/douyu1.php?id=291514
-小鹤求败,http://zzy789.xyz/douyu1.php?id=3830820
-旭宝斗地主,http://zzy789.xyz/douyu1.php?id=9804176
-欢乐斗地主,http://zzy789.xyz/douyu1.php?id=8324074
-斗地主冠军赛,http://zzy789.xyz/douyu1.php?id=488743
-弈夫围棋,http://zzy789.xyz/douyu1.php?id=6399350
+八卦大师,http://222.186.39.21:35466/douyu/851040$222
+日月轮回,http://222.186.39.21:35466/douyu/2293920$222
+帽子象棋,http://222.186.39.21:35466/douyu/4487219$222
+笑笑象棋,http://222.186.39.21:35466/douyu/9969$222
+大神象棋,http://222.186.39.21:35466/douyu/1227260$222
+九拙讲棋,http://222.186.39.21:35466/douyu/4369877$222
+熊山雷疯,http://222.186.39.21:35466/douyu/291514$222
+小鹤求败,http://222.186.39.21:35466/douyu/3830820$222
+旭宝斗地主,http://222.186.39.21:35466/douyu/9804176$222
+欢乐斗地主,http://222.186.39.21:35466/douyu/8324074$222
+斗地主冠军赛,http://222.186.39.21:35466/douyu/488743$222
+围棋素材,http://222.186.39.21:35466/douyu/6399350$222
+围棋泳往,http://222.186.39.21:35466/douyu/692988$222
 
-//http://lxajh.top/tv/douyu.php?id=
 八卦大师,http://lxajh.top/tv/douyu.php?id=851040$lxajh
-帽子象棋,http://lxajh.top/tv/douyu.php?id=4487219
-笑笑象棋,http://lxajh.top/tv/douyu.php?id=9969
-大神象棋,http://lxajh.top/tv/douyu.php?id=1227260
-九拙讲棋,http://lxajh.top/tv/douyu.php?id=4369877
-熊山雷疯,http://lxajh.top/tv/douyu.php?id=291514
-小鹤求败,http://lxajh.top/tv/douyu.php?id=3830820
-旭宝斗地主,http://lxajh.top/tv/douyu.php?id=9804176
-欢乐斗地主,http://lxajh.top/tv/douyu.php?id=8324074
-斗地主冠军赛,http://lxajh.top/tv/douyu.php?id=488743
-弈夫围棋,http://lxajh.top/tv/douyu.php?id=6399350
-
+八卦大师,http://zzy789.xyz/douyu1.php?id=851040$zzy
 八卦大师,https://www.goodiptv.club/douyu/851040$good
-八卦大师,http://www.douzhicloud.site:35455/douyu/851040
 八卦大师,http://tv123.top:35455/douyu/851040$tv123
 八卦大师,http://129.150.54.232:10001/douyu/851040
-八卦大师,https://live.ottiptv.cc/douyu/851040$live
-八卦大师,http://222.186.39.21:35466/douyu/851040
 
 戴长胜掼蛋,http://live.nctv.top/huya.php?id=28092053$nctv
 石头掼蛋,http://live.nctv.top/huya.php?id=28092051$nctv
@@ -329,29 +323,11 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 龙崎掼蛋,http://live.metshop.top/huya/28092048$live
 掼蛋实战讲解,http://live.metshop.top/huya/28092049$live
 
-斗地主冠军赛,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+天元围棋,http://www.tszhgjj.cn:7000/udp/239.253.93.211:6389$河北联
 
-黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8$哈移#
-黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8$哈移s#https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-
-安徽体育,http://112.27.235.94:8000/hls/25/index.m3u8
-
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-
-睛彩广场舞,http://iptv.hn.cn:1258/itv/3000000020000011523.m3u8?cdn=FifastbLive$hn
-睛彩广场舞,http://iptv.hn.cn:1258/itv/3000000020000011524.m3u8?cdn=FifastbLive$hn
-睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8$哈移
-睛彩广场舞,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000270005/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=3$ip4
-英雄联盟音乐节,http://[2409:8087:5e08:25::4]:6610/000000001000/8978605063318475207/index.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=3$ip4
-
-天元围棋,http://101.73.17.209:9999/udp/239.253.93.211:6389$河北联#https://cc06.tv12.xyz/47.m3u8#http://www.tszhgjj.cn:7000/udp/239.253.93.211:6389$河北联
+斯诺克,http://live.nctv.top/huya.php?id=880214$nctv
 
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-
-睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8$zby
-睛彩广场舞,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/index.m3u8$ip6#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf#http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-至臻视界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8$ip6
 
 哑铃塑型,https://i.uik.cc/view.php/e88fd95f75bd9c600fd335b518c82d02.mp4
 
@@ -365,15 +341,85 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 
 邱慧芳24太极拳,https://vd3.bdstatic.com/mda-pct748r1egmk3c8x/sc/cae_h264/1680067740751400060/mda-pct748r1egmk3c8x.mp4
 
-体育人物,http://php.404003.xyz/live/douyuyqk.php?id=8434598
-体育人物,http://huanqiuzhibo.cn/manifest/douyu.php?id=8434598
+体育人物,http://www.douzhicloud.site:35455/douyu/8434598
 体育人物,http://zzy789.xyz/douyu1.php?id=8434598
 
-斗鱼体育,http://php.404003.xyz/live/douyuyqk.php?id=9170147
+斗鱼体育,http://www.douzhicloud.site:35455/douyu/9170147
 斗鱼体育,http://zzy789.xyz/douyu1.php?id=9170147
-斗鱼体育,http://huanqiuzhibo.cn/manifest/douyu.php?id=9170147
 
-移动新闻,#genre#
+实时直播,#genre#
+
+咪视界1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界17,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界10,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界11,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界13,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界16,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界18,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界19,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界20,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界21,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界22,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界23,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界24,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界25,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界26,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界27,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界28,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界29,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界30,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界31,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界32,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界33,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界34,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界35,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪视界36,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
+咪咕4K1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$anf
+咪咕4K2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&$anf
+
+///域外体育#genre#
+
+DAZN1,rtmp://f13h.mine.nu/sat/tv731$f13
+DAZN2,rtmp://f13h.mine.nu/sat/tv741$f13
+MOMOTV,rtmp://f13h.mine.nu/sat/tv761.flv
+MOMOTV,rtmp://f13h.mine.nu/sat/tv761
+MOMOTV,http://60.248.77.83/sat/tv761.flv
+DAZN2,rtmp://59.124.75.138/sat/md011$59
+DAZN3,rtmp://59.124.75.138/sat/md021$59
+
+SPORTSTV,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8$migu
+
+皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+红牛运动,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+MOMOTV,rtmp://59.124.75.138/sat/tv761$59#
+
+TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+
+彭荃围棋,https://live.iill.top/douyin/707246679178$live
+围棋张导,https://live.iill.top/douyin/448147530190$live
+围棋昊洋,https://live.iill.top/douyin/841353831506$live
+华丽象棋,https://live.iill.top/douyin/364795556202$live
+天天象棋,https://live.iill.top/douyin/162120419867$live
+
+河南移动,#genre#
 
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
@@ -406,7 +452,7 @@ TVBS新闻,http://cnlive.org/channel/n69ccce92/index.m3u8$cnlive
 
 TVBSHD,http://free.cnlive.club/channel/154f9d73/index.m3u8?q=1752629214236$free
 TVBS新闻,http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1752629214236$free
-東森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316$free
+东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316$free
 
 中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true$nmk
 TVBSHD,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true$nmk
@@ -498,98 +544,6 @@ TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
 寰宇台湾,http://152.32.229.52:5050/of-4gtv-4gtv156/index.m3u8$of
 寰宇财经,http://152.32.229.52:5050/of-4gtv-4gtv158/index.m3u8$of
 台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8
-
-实时直播,#genre#
-
-咪视界1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界3,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界4,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界5,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界6,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界7,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界8,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界9,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界10,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界11,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界12,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界13,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界14,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界15,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界16,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界17,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界18,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界19,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界20,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界21,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界22,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界23,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界24,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界25,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界26,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界27,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界28,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界29,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界30,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界31,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界32,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界33,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界34,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界35,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪视界36,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=toShengfen&/PLTV/&hostip=&$anf
-咪咕4K1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=toShengfen&/PLTV/&$anf
-咪咕4K2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&/PLTV/&$anf
-
-咪视界1,http://183.220.20.17:4000/udp/239.10.0.43:5140$四川移
-咪视通2,http://183.220.20.17:4000/udp/239.10.0.45:5140$四川移
-咪视通3,http://183.220.20.17:4000/udp/239.10.0.19:5140$四川移
-咪视通4,http://183.220.20.17:4000/udp/239.10.0.20:5140$四川移
-咪视通5,http://183.220.20.17:4000/udp/239.10.0.21:5140$四川移
-咪视通6,http://183.220.20.17:4000/udp/239.10.0.22:5140$四川移
-咪视通7,http://183.220.20.17:4000/udp/239.10.0.23:5140$四川移
-咪视通9,http://183.220.20.17:4000/udp/239.10.0.24:5140$四川移
-咪视通10,http://183.220.20.17:4000/udp/239.10.0.25:5140$四川移
-咪视通11,http://183.220.20.17:4000/udp/239.10.0.26:5140$四川移
-咪视通12,http://183.220.20.17:4000/udp/239.10.0.27:5140$四川移
-咪视通13,http://183.220.20.17:4000/udp/239.10.0.28:5140$四川移
-咪视通14,http://183.220.20.17:4000/udp/239.10.0.40:5140$四川移
-咪视通15,http://183.220.20.17:4000/udp/239.10.0.41:5140$四川移
-咪视通16,http://183.220.20.17:4000/udp/239.10.0.42:5140$四川移
-咪视通17,http://183.220.20.17:4000/udp/239.10.0.18:5140$四川移
-咪视通18,http://183.220.20.17:4000/udp/239.10.0.44:5140$四川移
-咪视通19,http://183.220.20.17:4000/udp/239.10.0.17:5140$四川移
-咪视通20,http://183.220.20.17:4000/udp/239.10.0.232:5140$四川移
-咪视通21,http://183.220.20.17:4000/udp/239.10.0.233:5140$四川移
-咪视通22,http://183.220.20.17:4000/udp/239.10.0.234:5140$四川移
-咪视通23,http://183.220.20.17:4000/udp/239.10.0.235:5140$四川移
-咪视通24,http://183.220.20.17:4000/udp/239.10.0.236:5140$四川移
-咪视通25,http://183.220.20.17:4000/udp/239.10.0.238:5140$四川移
-咪视通26,http://183.220.20.17:4000/udp/239.10.0.239:5140$四川移
-咪咕4K1,http://183.220.20.17:4000/udp/239.10.0.240:5140$四川移
-///域外体育#genre#
-
-DAZN1,rtmp://f13h.mine.nu/sat/tv731$f13
-DAZN2,rtmp://f13h.mine.nu/sat/tv741$f13
-MOMOTV,rtmp://f13h.mine.nu/sat/tv761.flv
-MOMOTV,rtmp://f13h.mine.nu/sat/tv761
-MOMOTV,http://60.248.77.83/sat/tv761.flv
-DAZN2,rtmp://59.124.75.138/sat/md011$59
-DAZN3,rtmp://59.124.75.138/sat/md021$59
-
-SPORTSTV,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8$migu
-
-皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-
-红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-红牛运动,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?zshijd
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
-MOMOTV,rtmp://59.124.75.138/sat/tv761$59#
-
-TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 财经综合,#genre#
 
@@ -1027,14 +981,6 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-尼克卡通,http://108.181.20.197/livehttpplay?channel_id=20089$108#http://108.181.21.27:27347/livehttpplay?channel_id=20089$108
-CN卡通,http://108.181.20.197/livehttpplay?channel_id=20048$108#http://108.181.21.27:27347/livehttpplay?channel_id=20048$108
-
-NICKTOONS,http://143.244.60.30/NICKTOONS/index.m3u8
-NICK_JR,https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-
-GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227210/index.m3u8$郑移
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8$郑移
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8$郑移
@@ -1066,22 +1012,6 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8#http://tl.061833.xyz/tl/zoomoo$0618
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-NickJr,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/5286.ts$40gbp
-NickJr,http://tlive24.uk/livehttpplay?channel_id=20102$tlive
-nicklodeon,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19480.ts$40gbp
-
-GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-ELTV生活英語,http://220.132.15.209:5008/of-litv-longturn20/index.m3u8
-尼克儿童,http://114.34.40.48:50008/4gtv-live105/index.m3u8?proxy=true$4gtv
-NickJr,http://114.34.40.48:50008/4gtv-live032/index.m3u8?proxy=true$4gtv
-梦工厂动画,http://114.34.40.48:50008/4gtv-live017/index.m3u8?proxy=true$4gtv
-经典卡通,http://114.34.40.48:50008/4gtv-live022/index.m3u8?proxy=true$4gtv
-精选动漫,http://114.34.40.48:50008/4gtv-live024/index.m3u8?proxy=true$4gtv
-忍者乱太郎,http://114.34.40.48:50008/ofiii182/index.m3u8?proxy=true$4gtv
-哆啦A梦,http://114.34.40.48:50008/ofiii22/index.m3u8?proxy=true$4gtv
-新哆啦A梦,http://114.34.40.48:50008/ofiii23/index.m3u8?proxy=true$4gtv
-蜡笔小新,http://114.34.40.48:50008/ofiii165/index.m3u8?proxy=true$4gtv
-
 华数动画,http://120.233.73.4:19901/tsfile/live/1011_1.m3u8$深圳移
 金鹰卡通,http://vip1.xinketongxun.fun:8082/tsfile/live/1010_1.m3u8$钦州联
 嘉佳卡通,http://vip1.xinketongxun.fun:8082/tsfile/live/1014_1.m3u8$钦州联
@@ -1107,10 +1037,6 @@ NickJr,http://114.34.40.48:50008/4gtv-live032/index.m3u8?proxy=true$4gtv
 优漫卡通,http://171.15.18.199:8180/TV00000000000000000019@HHZT$hhzt
 
 嘉佳卡通,http://183.11.239.36:808/hls/8/index.m3u8
-
-乐龄学堂,http://zqh2333.top:2222/udp/239.93.25.179:5140$雅安信
-亲子趣学,http://zqh2333.top:2222/udp/239.93.25.191:5140$雅安信
-精彩连播,http://zqh2333.top:2222/udp/239.93.25.188:5140$雅安信
 
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$哈移
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8$哈移
