@@ -1,22 +1,25 @@
-//Mobile频道数据收集自网络上的分享260131开通IPV6
-
-新闻HM15,#genre#
+//Mobile频道数据收集自网络上的分享260215开通IPV6
 
 凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
-凤凰资讯,http://183.234.238.18:8926/live1128.m3u8$阳江移
-
+凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8$郑州移
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8$深圳天威
+
+凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
+
+凤凰香港,http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk
+凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand#http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1
+
+凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8$郑州移
+凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8$郑州移
+
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8$中牟移
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8$中牟移
+
 凤凰中文,http://m.061899.xyz/mg/fhzw$mg
 凤凰资讯,http://m.061899.xyz/mg/fhzx$mg
 凤凰香港,http://m.061899.xyz/mg/fhhk$mg
 
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
-
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
-
-凤凰香港,http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk
-凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand#http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1
 
 凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8$北广
 凤凰中文,http://120.76.248.139/live/bfgd/4200000201.m3u8$北广
@@ -42,10 +45,14 @@
 凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx$bxtv
 
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-///凤凰中文http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$0701凤凰资讯http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$0701凤凰香港http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$0701
+///凤凰中文http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$0701凤凰资讯http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$0701凤凰香港http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$0701凤凰资讯http://183.234.238.18:8926/live1128.m3u8$阳江移
 
 凤凰中文,http://218.15.183.23:9901/tsfile/live/23037_1.m3u8$梅州信
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$php
+
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27$香港
 
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8$郑移
 CCTV4,http://m.061899.xyz/mg/cctv4$mg
@@ -162,10 +169,6 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$
 
 爱尔达3,rtmp://59.124.75.138/sat/md021$59
 
-百事乒羽1,http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv#http://www.li0580.top:4022/udp/233.50.200.246:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.204:5140$浙江联#http://www.958598.xyz:4022/udp/239.45.3.139:5140$上海信
-
-百事乒羽2,http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信#http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信#http://www.li0580.top:4022/udp/233.50.200.237:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.205:5140$浙江联#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv
-
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8$汕头联#http://111.221.137.155:44330/tsfile/live/1000_1.m3u8$深圳天威
 
 广东体育,http://183.236.161.116:8963/live1174.m3u8$阳江移
@@ -235,6 +238,10 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 
 骑牛大赛,https://yylunbo.ottiptv.cc/yy/1355313481#http://jiaojirentv.top/2020/yy.php?id=1355313481
 摩托挑战,https://yylunbo.ottiptv.cc/yy/1354946983#http://jiaojirentv.top/2020/yy.php?id=1354946983
+
+百事乒羽1,http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv#http://www.li0580.top:4022/udp/233.50.200.246:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.204:5140$浙江联#http://www.958598.xyz:4022/udp/239.45.3.139:5140$上海信
+
+百事乒羽2,http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信#http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信#http://www.li0580.top:4022/udp/233.50.200.237:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.205:5140$浙江联#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv
 
 棋牌娱乐,#genre#
 
