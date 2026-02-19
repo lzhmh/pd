@@ -123,6 +123,20 @@ CCTV5,http://111.221.137.234:44330/tsfile/live/0005_1.m3u8$深圳天威
 CCTV5+,http://111.221.137.234:44330/tsfile/live/0125_1.m3u8$深圳天威
 CCTV16,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8$深圳天威
 
+CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$深圳天威
+CCTV5,http://223.112.114.228:50080/newlive/live/hls/5/live.m3u8$苏州移
+CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8$苏州移
+CCTV16,http://116.76.254.170:44330/tsfile/live/1012_1.m3u8$深圳天威
+
+CCTV5,http://27.41.245.32:801/hls/5/index.m3u8$汕头联
+
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8$74
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8$74
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8$74
+
+CCTV5+,http://69.30.246.194/live/cctv5p.m3u8$密苏里
+CCTV16,http://69.30.246.194/live/cctv16.m3u8$密苏里
+
 CCTV5,http://m.061899.xyz/mg/cctv5$mg
 CCTV5+,http://m.061899.xyz/mg/cctv5p$mg
 CCTV16,http://m.061899.xyz/mg/cctv16$mg
@@ -162,10 +176,6 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$哈移
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$哈移
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$哈移
-
-先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
-
-///先锋乒羽http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移#http://113.195.172.192:808/hls/239/index.m3u8$宜春联#http://219.146.65.78:59902/tsfile/live/0140_1.m3u8$青岛信#http://171.38.107.34:8181/tsfile/live/1034_1.m3u8$玉林联#http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=329#http://117.141.162.238:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0$北海移#http://home.amucn.net:8800/udp/239.49.0.145:8000$江苏信##http://113.195.172.192:808/hls/101/index.m3u8$宜春联#http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
 爱尔达3,rtmp://59.124.75.138/sat/md021$59
 
@@ -242,6 +252,10 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 百事乒羽1,http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.253:5540$kbtv#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.237:5540$kbtv#http://www.li0580.top:4022/udp/233.50.200.246:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.204:5140$浙江联#http://www.958598.xyz:4022/udp/239.45.3.139:5140$上海信
 
 百事乒羽2,http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信#http://www.958598.xyz:4022/udp/239.45.3.140:5140$上海信#http://www.li0580.top:4022/udp/233.50.200.237:5140$浙江联#http://www.li0580.top:4022/udp/233.50.201.205:5140$浙江联#http://kbtv.zkbhj.com/liveRedirect/zubo.php?t=rtp&p=jldx&id=239.37.0.214:5540$kbtv
+
+先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
+
+///先锋乒羽http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移#http://113.195.172.192:808/hls/239/index.m3u8$宜春联#http://219.146.65.78:59902/tsfile/live/0140_1.m3u8$青岛信#http://171.38.107.34:8181/tsfile/live/1034_1.m3u8$玉林联#http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-1.m3u8$温州移#http://nn.7x9d.cn/地方台8563/湖南2.php?id=329#http://117.141.162.238:8181/tsfile/live/1114_1.m3u8?key=txiptv&playlive=1&authid=0$北海移#http://home.amucn.net:8800/udp/239.49.0.145:8000$江苏信##http://113.195.172.192:808/hls/101/index.m3u8$宜春联#http://vip1.xinketongxun.fun:8082/tsfile/live/1013_1.m3u8$钦州联#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移
 
 棋牌娱乐,#genre#
 
