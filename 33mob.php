@@ -2,7 +2,8 @@
 
 新闻HM17,#genre#
 
-凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
+凤凰中文,http://219.146.65.78:59902/tsfile/live/0117_2.m3u8$青岛信
+凤凰中文,http://36.36.200.198:44330/tsfile/live/1011_1.m3u8$深圳天威
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8$郑州移
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8$深圳天威
 
@@ -10,6 +11,9 @@
 
 凤凰香港,http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk
 凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8$grand#http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8$nz1
+
+凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8$北广
+凤凰中文,http://120.76.248.139/live/bfgd/4200000201.m3u8$北广
 
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8$郑州移
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8$郑州移
@@ -23,13 +27,8 @@
 
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
 
-凤凰资讯,http://120.76.248.139/live/bfgd/4200000484.m3u8$北广
-凤凰中文,http://120.76.248.139/live/bfgd/4200000201.m3u8$北广
-
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联
-
-凤凰中文,http://219.146.65.78:59902/tsfile/live/0117_2.m3u8$青岛信
 
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd$smt#
 凤凰中文,https://cdn9.163189.xyz/smt3.2.1.php?id=phoenixtv_hd$smt#
@@ -54,11 +53,9 @@
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27$香港
+凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8$汕头联
 
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8$郑移
-CCTV4,https://iptv.gstory.cn/Cinetry/631780421$腾讯云
-CCTV13,https://iptv.gstory.cn/Cinetry/608807423$腾讯云
 CCTV4,http://m.061899.xyz/mg/cctv4$mg
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$哈移
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8$郑移
@@ -129,9 +126,6 @@ CCTV16,http://111.221.137.234:44330/tsfile/live/1012_1.m3u8$深圳天威
 CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$深圳天威
 CCTV5+,http://116.76.254.170:44330/tsfile/live/0125_1.m3u8$深圳天威#
 CCTV16,http://116.76.254.170:44330/tsfile/live/1012_1.m3u8$深圳天威
-
-CCTV5,https://iptv.gstory.cn/Cinetry/641886683$腾讯云
-CCTV5+,https://iptv.gstory.cn/Cinetry/641886773$腾讯云
 
 CCTV5,http://223.112.114.228:50080/newlive/live/hls/5/live.m3u8$苏州移
 CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8$苏州移
@@ -239,11 +233,9 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$郑移
 中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8$郑移
 
-CETV4,https://iptv.gstory.cn/Cinetry/923287339$腾讯云
 CETV4,http://m.061899.xyz/mg/cetv4$mg
 
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd$hntv
-武术世界,https://iptv.gstory.cn/Cinetry/958475359$腾讯云
 武术世界,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=3a25b2152ee83fa2f06c21c21c83455f&wsTime=1770530381
 武术世界,http://m.061899.xyz/mg/dds$mg
 武术世界,http://t.061899.xyz/tl/dq.php?id=dds$t
@@ -400,56 +392,12 @@ TVBSHD,http://free.cnlive.club/channel/154f9d73/index.m3u8?q=1752629214236$free
 TVBS新闻,http://free.cnlive.club/channel/n69ccce92/index.m3u8?q=1752629214236$free
 东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316$free
 
-中天新闻,http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true$nmk
-TVBSHD,http://nmk.ioapk.com:5050/4gtv-4gtv073/index.m3u8?proxy=true$nmk
-TVBS新闻,http://nmk.ioapk.com:5050/4gtv-4gtv072/index.m3u8?proxy=true$nmk
-东森新闻,http://nmk.ioapk.com:5050/4gtv-4gtv152/index.m3u8?proxy=true$nmk
-寰宇新闻,http://nmk.ioapk.com:5050/litv-longturn14/index.m3u8?proxy=true$nmk
-寰宇台湾,http://nmk.ioapk.com:5050/4gtv-4gtv156/index.m3u8?proxy=true$nmk
-非凡新闻,http://nmk.ioapk.com:5050/4gtv-4gtv010/index.m3u8?proxy=true$nmk
-中视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv074/index.m3u8?proxy=true$nmk
-华视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv052/index.m3u8?proxy=true$nmk
-台视新闻,http://nmk.ioapk.com:5050/4gtv-4gtv051/index.m3u8?proxy=true$nmk
-民视新闻,http://nmk.ioapk.com:5050/li-litv-ftv13/index.m3u8?proxy=true$nmk
-镜新闻,http://nmk.ioapk.com:5050/4gtv-4gtv075/index.m3u8?proxy=true$nmk
-新唐人,http://nmk.ioapk.com:5050/4gtv-live050/index.m3u8?proxy=true$nmk
-民视台湾,http://nmk.ioapk.com:5050/4gtv-4gtv001/index.m3u8?proxy=true$nmk
-东森财经,http://nmk.ioapk.com:5050/4gtv-4gtv153/index.m3u8?proxy=true$nmk
-台视财经,http://nmk.ioapk.com:5050/4gtv-4gtv056/index.m3u8?proxy=true$nmk
-非凡商业,http://nmk.ioapk.com:5050/4gtv-4gtv048/index.m3u8?proxy=true$nmk
-三立iNEWS,http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true$nmk
-靖天国际,http://nmk.ioapk.com:5050/4gtv-4gtv063/index.m3u8?proxy=true$nmk
-古典音乐,http://nmk.ioapk.com:5050/4gtv-4gtv059/index.m3u8?proxy=true$nmk
-
-中天新闻,http://210.61.15.55:50007/4gtv-4gtv009/index.m3u8?proxy=true$210
-中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true$152
-
-中天新闻,http://152.32.229.52:5050/li-4gtv-4gtv009/index.m3u8?proxy=true$li
-TVBSHD,http://152.32.229.52:5050/li-4gtv-4gtv073/index.m3u8?proxy=true$li
-中视新闻,http://152.32.229.52:5050/li-4gtv-4gtv074/index.m3u8?proxy=true$li
-TVBS新闻,http://152.32.229.52:5050/li-4gtv-4gtv072/index.m3u8?proxy=true$li
-东森新闻,http://152.32.229.52:5050/li-4gtv-4gtv152/index.m3u8?proxy=true$li
-寰宇台湾,http://152.32.229.52:5050/li-4gtv-4gtv156/index.m3u8?proxy=true$li
-台视新闻,http://152.32.229.52:5050/li-4gtv-4gtv051/index.m3u8?proxy=true$li
-民视新闻,http://152.32.229.52:5050/li-litv-ftv13/index.m3u8?proxy=true$li
-镜新闻,http://152.32.229.52:5050/li-4gtv-4gtv075/index.m3u8?proxy=true$li
-民视台湾,http://152.32.229.52:5050/li-4gtv-4gtv001/index.m3u8?proxy=true$li
-东森财经,http://152.32.229.52:5050/li-4gtv-4gtv153/index.m3u8?proxy=true$li
-靖天国际,http://152.32.229.52:5050/li-4gtv-4gtv063/index.m3u8?proxy=true$li
-
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8$hls#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8$hls
 中视新闻,http://123.51.136.80:8302/0.ts$ts
 民视新闻,http://123.51.136.80:8310/0.ts$ts
 台视新闻,http://123.51.136.80:8314/0.ts$ts
 台视财经,http://123.51.136.80:8315/0.ts$ts
 华视新闻,http://123.51.136.80:8319/0.ts$ts
-
-中天新闻,http://152.32.229.52:5050/of-4gtv-4gtv009/index.m3u8$of
-中视新闻,http://152.32.229.52:5050/of-4gtv-4gtv074/index.m3u8$of
-寰宇新闻,http://152.32.229.52:5050/of-litv-longturn14/index.m3u8$of
-寰宇台湾,http://152.32.229.52:5050/of-4gtv-4gtv156/index.m3u8$of
-寰宇财经,http://152.32.229.52:5050/of-4gtv-4gtv158/index.m3u8$of
-台视新闻,http://152.32.229.52:5050/4gtv-4gtv051/index.m3u8
 
 实时直播,#genre#
 
@@ -678,20 +626,6 @@ CCTV17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8$郑移
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8$郑移
 
-CCTV9,https://iptv.gstory.cn/Cinetry/673168140$腾讯云
-CCTV10,https://iptv.gstory.cn/Cinetry/624878405$腾讯云
-CCTV2,https://iptv.gstory.cn/Cinetry/631780532$腾讯云
-CCTV3,https://iptv.gstory.cn/Cinetry/624878271$腾讯云
-CCTV6,https://iptv.gstory.cn/Cinetry/624878396$腾讯云
-CCTV7,https://iptv.gstory.cn/Cinetry/673168121$腾讯云
-CCTV8,https://iptv.gstory.cn/Cinetry/624878356$腾讯云
-CCTV11,https://iptv.gstory.cn/Cinetry/667987558$腾讯云
-CCTV12,https://iptv.gstory.cn/Cinetry/673168185$腾讯云
-CCTV14,https://iptv.gstory.cn/Cinetry/624878440$腾讯云
-CCTV15,https://iptv.gstory.cn/Cinetry/673168223$腾讯云
-CCTV17,https://iptv.gstory.cn/Cinetry/673168256$腾讯云
-CCTV1,https://iptv.gstory.cn/Cinetry/608807420$腾讯云
-
 CCTV7,http://iptv.hn.cn:1258/itv/3000000020000011522.m3u8?cdn=FifastbLive$hn
 CCTV7,http://iptv.hn.cn:1258/itv/3000000010000011518.m3u8?cdn=FifastbLive$hn
 
@@ -846,57 +780,6 @@ MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$live
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$原
 广东卫视,http://106.53.99.30/tv/api.php?id=gdws#http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
-
-北京卫视,http://27.41.245.32:801/hls/28/index.m3u8$汕头联
-深圳卫视,http://27.41.245.32:801/hls/26/index.m3u8$汕头联
-东南卫视,http://27.41.245.32:801/hls/32/index.m3u8$汕头联
-湖南卫视,http://27.41.245.32:801/hls/27/index.m3u8$汕头联
-江西卫视,http://27.41.245.32:801/hls/43/index.m3u8$汕头联
-山东卫视,http://27.41.245.32:801/hls/51/index.m3u8$汕头联
-天津卫视,http://27.41.245.32:801/hls/55/index.m3u8$汕头联
-吉林卫视,http://27.41.245.32:801/hls/40/index.m3u8$汕头联
-黑龙江卫视,http://27.41.245.32:801/hls/39/index.m3u8$汕头联
-青海卫视,http://27.41.245.32:801/hls/49/index.m3u8$汕头联
-浙江卫视,http://27.41.245.32:801/hls/58/index.m3u8$汕头联
-安徽卫视,http://27.41.245.32:801/hls/29/index.m3u8$汕头联
-东方卫视,http://27.41.245.32:801/hls/31/index.m3u8$汕头联
-河北卫视,http://27.41.245.32:801/hls/37/index.m3u8$汕头联
-四川卫视,http://27.41.245.32:801/hls/54/index.m3u8$汕头联
-海南卫视,http://27.41.245.32:801/hls/36/index.m3u8$汕头联
-重庆卫视,http://27.41.245.32:801/hls/59/index.m3u8$汕头联
-江苏卫视,http://27.41.245.32:801/hls/42/index.m3u8$汕头联
-河南卫视,http://27.41.245.32:801/hls/38/index.m3u8$汕头联
-广西卫视,http://27.41.245.32:801/hls/34/index.m3u8$汕头联
-贵州卫视,http://27.41.245.32:801/hls/35/index.m3u8$汕头联
-甘肃卫视,http://27.41.245.32:801/hls/33/index.m3u8$汕头联
-山西卫视,http://27.41.245.32:801/hls/52/index.m3u8$汕头联
-陕西卫视,http://27.41.245.32:801/hls/50/index.m3u8$汕头联
-内蒙古卫视,http://27.41.245.32:801/hls/47/index.m3u8$汕头联
-宁夏卫视,http://27.41.245.32:801/hls/48/index.m3u8$汕头联
-新疆卫视,http://27.41.245.32:801/hls/57/index.m3u8$汕头联
-西藏卫视,http://27.41.245.32:801/hls/56/index.m3u8$汕头联
-
-北京卫视,https://iptv.gstory.cn/Cinetry/630287636$腾讯云
-广东卫视,https://iptv.gstory.cn/Cinetry/608831231$腾讯云
-东南卫视,https://iptv.gstory.cn/Cinetry/849116810$腾讯云
-湖北卫视,https://iptv.gstory.cn/Cinetry/947472496$腾讯云
-辽宁卫视,https://iptv.gstory.cn/Cinetry/630291707$腾讯云
-东方卫视,https://iptv.gstory.cn/Cinetry/651632648$腾讯云
-河北卫视,https://iptv.gstory.cn/Cinetry/962042070$腾讯云
-海南卫视,https://iptv.gstory.cn/Cinetry/947472502$腾讯云
-重庆卫视,https://iptv.gstory.cn/Cinetry/738910914$腾讯云
-江苏卫视,https://iptv.gstory.cn/Cinetry/623899368$腾讯云
-河南卫视,https://iptv.gstory.cn/Cinetry/790187291$腾讯云
-吉林卫视,https://iptv.gstory.cn/Cinetry/947472500$腾讯云
-青海卫视,https://iptv.gstory.cn/Cinetry/947472506$腾讯云
-江西卫视,https://iptv.gstory.cn/Cinetry/783847495$腾讯云
-陕西卫视,https://iptv.gstory.cn/Cinetry/738910838$腾讯云
-宁夏卫视,https://iptv.gstory.cn/Cinetry/738910535$腾讯云
-三沙卫视,https://iptv.gstory.cn/Cinetry/961023778$腾讯云
-大湾区卫视,https://iptv.gstory.cn/Cinetry/608917627$腾讯云
-海峡卫视,https://iptv.gstory.cn/Cinetry/849119120$腾讯云
-农林卫视,https://iptv.gstory.cn/Cinetry/956904896$腾讯云
-兵团卫视,https://iptv.gstory.cn/Cinetry/956923145$腾讯云
 
 北京新闻,http://m.061899.xyz/mg/bjxw$mg
 上海新闻,http://m.061899.xyz/mg/shxw$mg
@@ -1122,16 +1005,6 @@ ZooMoo,http://tl.061833.xyz/tl/zoomoo$0618
 风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8$茂名信
 第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8$茂名信
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8$茂名信
-
-CHC家庭影院,https://iptv.gstory.cn/Cinetry/644368373$腾讯云
-CHC动作电影,https://iptv.gstory.cn/Cinetry/644368714$腾讯云
-CHC影迷电影,https://iptv.gstory.cn/Cinetry/952383261$腾讯云
-老故事,https://iptv.gstory.cn/Cinetry/884121956$腾讯云
-
-抗战经典,https://iptv.gstory.cn/Cinetry/617432318$腾讯云
-新片放映厅,https://iptv.gstory.cn/Cinetry/619495952$腾讯云
-南方影视,https://iptv.gstory.cn/Cinetry/614961829$腾讯云
-香港电影,https://iptv.gstory.cn/Cinetry/625703337$腾讯云
 
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8$梅州移
 CHC家庭影院,http://183.237.95.108:9901/tsfile/live/1007_1.m3u8$梅州移
@@ -2448,15 +2321,6 @@ CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8$news
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 
-CGTN纪录,https://iptv.gstory.cn/Cinetry/609006487$腾讯云
-发现之旅,https://iptv.gstory.cn/Cinetry/624878970$腾讯云
-茶频道,https://iptv.gstory.cn/Cinetry/961930369$腾讯云
-中华特产,https://iptv.gstory.cn/Cinetry/959986618$腾讯云
-环球旅游,https://iptv.gstory.cn/Cinetry/958475356$腾讯云
-快乐垂钓,https://iptv.gstory.cn/Cinetry/961930263$腾讯云
-四海钓鱼,https://iptv.gstory.cn/Cinetry/637444975$腾讯云
-中国天气,https://iptv.gstory.cn/Cinetry/959986621$腾讯云
-
 发现之旅,http://go.bkpcp.top/mg/fxzl$go
 发现之旅,http://m.061899.xyz/mg/fxzl$mg
 发现之旅,http://mg.qqnb.top/zb2.php?id=fxzl$qqnb
@@ -2530,9 +2394,6 @@ CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 CETV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8$郑移
 CETV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227329/index.m3u8$郑移
 CETV3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8$郑移
-
-CETV1,https://iptv.gstory.cn/Cinetry/923287154$腾讯云
-CETV2,https://iptv.gstory.cn/Cinetry/923287211$腾讯云
 
 CETV1,http://m.061899.xyz/mg/cetv1$mg
 CETV2,http://m.061899.xyz/mg/cetv2$mg
@@ -2752,7 +2613,6 @@ CEC-4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 中国国际CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8$郑移
 中国国际CGTN,http://news.cgtn.com/resource/live/english/cgtn-news.m3u8#https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 中国国际CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-中国国际CGTN,https://iptv.gstory.cn/Cinetry/609017205$腾讯云
 中国国际CGTN,https://0472.org/hls/cgtn.m3u8
 
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -2867,9 +2727,6 @@ NINETTUNOUNIVERSITYTV,http://stream6-rai-it.akamaized.net/live/uninettuno/playli
 拜年,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0d00fg10000c83hhi3c77u01a8d7hp0&ratio=720p&line=0
 
 相声快板,#genre#
-
-相声汇集,https://isus.cc/php/huya.php?id=20985830$腾讯云
-最强综艺趴,https://iptv.gstory.cn/Cinetry/629942228$腾讯云
 
 新虎口遐想,https://vd4.bdstatic.com/mda-jarfmdf8su7sckk3/hd/mda-jarfmdf8su7sckk3.mp4?auth_key=1655295819-0-0-df94f7531d93ff90ad12888c89a672ca&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=3219421685&vid=8705230262897615568&abtest=all
 冯巩郭冬临狗不理包子,https://vd2.bdstatic.com/mda-jdqwqnk1xxszhw8c/mda-jdqwqnk1xxszhw8c.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2275698282&vid=17330773072848394300&auth_key=1655291275-0-0-73fe6c276ababcdb43b87a4fda6002df&bcevod_channel=searchbox_feed
