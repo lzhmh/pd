@@ -3,18 +3,17 @@
 新闻HM22,#genre#
 
 凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8$宁波移
-凤凰中文,http://219.146.65.78:59902/tsfile/live/0117_2.m3u8$青岛信
-
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
-凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$cdn9
-
-凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT$天威hh
-凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT$天威hh
-凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT$天威hh
 
 凤凰中文,http://156.238.251.122/fh.php?id=fhzw$fh
 凤凰资讯,http://156.238.251.122/fh.php?id=fhzx$fh
 凤凰香港,http://156.238.251.122/fh.php?id=fhhk$fh
+
+凤凰中文,http://219.146.65.78:59902/tsfile/live/0117_2.m3u8$青岛信
+
+凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT$天威hh
+凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT$天威hh
+凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT$天威hh
 
 凤凰中文,http://k.061899.xyz/k.php?id=fhzw$腾讯云
 凤凰资讯,http://k.061899.xyz/k.php?id=fhzx$腾讯云
@@ -51,6 +50,8 @@
 
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联
+
+凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$cdn9
 
 凤凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt$0618
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt$0618
