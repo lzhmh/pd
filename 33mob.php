@@ -2,10 +2,6 @@
 
 新闻HM32,#genre#
 
-凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw$oc
-凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx$oc
-凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg$oc
-
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$北海联
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8$北海联
 
@@ -538,43 +534,6 @@ MezzoLive,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv083&token=xiatian
 
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.php$t
 
-凤凰资讯,http://80tv.eu.org:8711/live.m3u8?c=43$80
-TVBSHD,http://80tv.eu.org:8711/live.m3u8?c=2$80
-中天新闻,http://80tv.eu.org:8711/live.m3u8?c=5$80
-寰宇新闻,http://80tv.eu.org:8711/live.m3u8?c=8$80
-东森新闻,http://80tv.eu.org:8711/live.m3u8?c=14$80
-东森新闻,http://80tv.eu.org:8711/live.m3u8?c=16$80
-东森新闻,http://80tv.eu.org:8711/live.m3u8?c=15$80
-中天新闻+,http://80tv.eu.org:8711/live.m3u8?c=6$80
-TVBS新闻,http://80tv.eu.org:8711/live.m3u8?c=4$80
-TVBSNEWS,http://80tv.eu.org:8711/live.m3u8?c=3$80
-寰宇LIVE,http://80tv.eu.org:8711/live.m3u8?c=9$80
-寰宇台湾,http://80tv.eu.org:8711/live.m3u8?c=10$80
-东森财经,http://80tv.eu.org:8711/live.m3u8?c=17$80
-东森财经,http://80tv.eu.org:8711/live.m3u8?c=18$80
-新唐人,http://80tv.eu.org:8711/live.m3u8?c=25$80
-
-中视新闻,http://80tv.eu.org:8711/live.m3u8?c=12$80
-台视新闻,http://80tv.eu.org:8711/live.m3u8?c=13$80
-LIVE三立,http://80tv.eu.org:8711/live.m3u8?c=20$80
-LIVE三立,http://80tv.eu.org:8711/live.m3u8?c=21$80
-民视新闻,http://80tv.eu.org:8711/live.m3u8?c=19$80
-华视新闻,http://80tv.eu.org:8711/live.m3u8?c=22$80
-公视新闻,http://80tv.eu.org:8711/live.m3u8?c=23$80
-镜新闻,http://80tv.eu.org:8711/live.m3u8?c=24$80
-国会頻道1,http://80tv.eu.org:8711/live.m3u8?c=27$80
-国会頻道2,http://80tv.eu.org:8711/live.m3u8?c=28$80
-
-TVBSHD,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGs8ZkpFx0ZzZqjEHuo2Itiv4FbhPO_a9MawRpjPFqO5rLG_M9KndZoq4pTwzN5YsgEJPtQiQvRftrRQv-970k7XxHRiAgRok3wpXwm44QOjCzi60kzyU72IA4XMGV3cpwLP3xveQPxQs8SaUOt3zoRLh8D8S5aZxUG9GDpjglkotL29bTkgAdSn-34M4Uk3vu3wSJU4wqvjtykbUdu1UOSQ.m3u8?u=1757123819$89#http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyg_eOOZtFuqPa4t0j_eSveWP9aYFGU9KyqHId0yBbQCNk_YYNPAQshbfPKqC9c38lNgUXvOX1CWo8KR7PlDyfDvX_iwDtRZKy5TXRRRgnnBLkL6BSjACZP-UTeaLQfhMZaNzw7_yLFCytFhoKEJdKnWR4s-z1aYsDToMQ8eJ8brenzAnvC6viw0jRoU0QZYpLA.m3u8?u=1756878715$85#
-中天新闻,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGPs5SFZLO-IinkvC7BQ9rvah7AJj10Y0roafJQipTV3s2ryJxTTpw4mR-Oe6-Xr7F7vE_epW-GQXfLCzEA5V_TOW6Elw0vI4GrVSq2mgsVMV5NpcvUd3RpiN3UMlI15w5xefYSDQaSd5tIR7B5FQ7U0Hix33ZFbGKYitYETl0h2VnSo_rKQPzQwWL9REhX7fMYBybbKVqlzTBOfD6pogJxw.m3u8?u=1757123819$89#http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715$85
-寰宇新闻,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGzBGO_5rjP_x_fBbIjWnn4LHjBH2ukJK6v_-VCP5x3tP1unCAxP9T392rhTgwF2O68ij3NP5pn1khx_QGEDs3LBNfg0cvWaFBYAjUA5S7_ZcVfKe_a-GD7-HESRwIQt42LkfGPQMCUPZTHQ4NwQ0YviYaezVyIO3YlWngG6wrgWv5GWj9uhg7CvxEhYXI9tmgvxlroN0VhBpAwE3kBxLtVQ.m3u8?u=1757123819$89#http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715$85
-TVBS新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LymUZNT2bmlxSvQ4cHRLiJ2fe2MaJc9Z6qOVHYbAImRKurKFLRanLJEjwLLytJ5msriMu78zUItpIgJjRN_mEajAeMurzBNZ6hoCeXJs5WQzLW-nmSuRFnv4FyYXnpB2GHc0J8Pp4HFKFRkpYhUW4r4qIZGA-BhwepMx06F0exFTlBdJ4GjyCsLcmGsAfpOI7YQ.m3u8?u=1756878715$85
-东森新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwjWGI-kbzDKdcyNxDFVxU1FRFqUYdSnAlgANthqY6LES4LG3UkCWe6qg8Ln_T_TrdMrSyN53UB-GKlpN0m_Xtiemr8RPWlNYQTkuapKaeZ_tUhIwqwIR_D6lFRZyEKfuCfIJCDaoPzBzno5QpD5tDEUf5Ik30ZhXPyfINNx8-sF09MXxxtvF1BhC59ljjYKg.m3u8?u=1756878715$85
-中天亚洲,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGAIvoaPRT_k7Q11J666xNCqRH7OI284a7oSqD1Zg0p0SImQFGi2klg_36ARQstovhrMJY1dqEhypU4Mu4I1t6wCe4a9y_JAvvQM6lunFI-vBUKJT8P6q2FTJKII8e5DulZrUbsmabaDwnemXYcxiFBk8aDg7z0GTe76gexmhjqmWujQMHu_Qq1-ANQdx76SA94Ez9P1YeKu9osjveb9YbHQ.m3u8?u=1757123819$89#http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUX5IHWvb3zedf6expPkQooUiSNAtYY810Aw14IIVfQDk_l93y0Jw-Q_ImK3iBHZLkjVqP2FTqUR13YW5vCldIWHWxChU7x0grZzxS_b7Ta-K6E0nm85bxgn3lw7p0LdO2Q-wX3nuypLAkEiDKr5XadtekKtgSiXFXEEn9ukk1tDFfOlxxBpZIBTE0dM21Y_VCiGL37GMgUB839QQQCG6VFQ.m3u8?u=1756878715$85
-寰宇台湾,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG-NsW6bSFcgEjK8p4ZtP-qEnEKjjD6eb_Hv9ytKbTQ5H2giI6H_2Tu8K-Gu2bk8h3W-O-obbn2XVao8W6T4KSnqpkY6v7Pg2Hj3Zx4-9lz8YgzGMxmDCPSgnFl7iQip9fuHsB9eM3t14UjftDSchHSbF5SksuSS2_nlQANM4-dmUfZe5-3nGhZuSvBa9HNWKHLa78cN9Bf1SwHev-eG5S_A.m3u8?u=1757123819$89#http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUdt63uRz89giBm7SDjL0rvx6mPFYFBkkZvn9WFnIWrnrmw-PJg94VdaIFjhKLLslS3hVgt8K1Gxhccp_R67ZRq_HQNtWBy3po4j7bv2IwqnZT9T8D5Ef3z7y9ybvoYR_r9iPLH8ejARDMhF9S1XKesCvpRSuc2dxQIegka38FuTXru3e7plTyOLICLjP8wL2__-kVV5BF8U8VV7BewaGHGdqMycRKCnq0nX0iQk4S_Kk.m3u8?u=1756878715$85
-东森财经,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGdTl2oZi3PFcrIdH2vEo6mFGlFGcNM3YPk2Iju0GbA7Z9SpAdtkw3pUhEPhoMurs0vNz0Y_uO_z5kyiofMngimoRhNglwdrmqr8sBMu6goI850-VohIC2Pw5OCIszDtkF300MY1FSf21M4wr0VhcV1TU9ms6g3TCy8QPJ1I0d5eApZ2WZu8o7fKft4anKwdz67NKlbpx573JBYVOvmWv6_7Dx5impty9VbD-j0U6A_Nw.m3u8?u=1757123819$89
-壹新闻,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGtqvaXXbta95-qX6RTBNzNdXMy6PYYPVGb7wJEs_I_f5UpdKNTkfQyNqbeH3dDEq7FyHjlaM91e6-Pjbc4AJvXliZkNSyk-VFu5uv66pikPsSCMmLyRs7yllyIY0E6epgebbhAAByXQsq7QFMkVcuBPfIivXoGm_SOVTM0_gfqHmdu95WzskBJpIBvZau7pfEQ1p5Zvs0RIqZ59xj5AxM_A.m3u8?u=1757123819$89
-
 TVBSHD,http://rihou.cc:555/tv/TVBS1$ri#https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8$a3
 
 股道直播,https://cdn-3.ttvb.eu.org/douyin/272329718530$cdn
@@ -610,10 +569,6 @@ TVBSHD,http://rihou.cc:555/tv/TVBS1$ri#https://a3f1b2.kylintv.tv/live/tvbshd_iph
 百事乒羽2,http://e1.woc.iiiya.cn:18888/udp/239.61.5.13:1025$福建信
 百事乒羽2,http://hook.msen.site:8000/udp/235.254.196.235:1212$重庆信
 百事乒羽2,http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信
-
-ELTA体育,rtmp://59.124.75.138/sat/md021$59
-ELTA体育,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGDzvtprdJ6tAUgb7EAU2W8YOtYVEn4M7QUdT11B4KbGtXw9imIqvoqgheBVeoCxs1-b11wz9zErMHJ3FTnmnS-c648kOOE78TQJdIMYgnjOnKAnlmJU5ld1y6fBl5OjJ5fR8i41BxZF-P8Rap_NUzkRWe8MTghNEpZZMMzzcqFl5Fe4W4-XtMqrdtQrWyMl90sr57B1clqiESydxNB3Ck0g.m3u8?u=1757123819$89
-ELTA体育,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakdgDZYTd1TO17f1P5z1fhiat3_-0ZLkDmL_tm5VqfvlwYflnMRf6IMKUgWfzBvelfrb4GedBcHyXMidxDfbodbANXYhzG4eE296vdiGRXnbPAc1cTkGMtlGhA1KKcjE2KtNrUt4FDZ10KUAC-H7ZCUfiwTSNlI7MnP71NYfHszNjp1J1az5RpXgtkFrE1-HAXz_LN21JCg4GUNOTEkYx8xo.m3u8?u=1756878715$85
 
 咪视界1,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129$a29
 咪视界2,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308$a08
