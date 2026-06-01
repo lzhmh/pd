@@ -23,6 +23,10 @@ https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 http://eversouthhangzhou.7766.org:8188/udp/233.50.200.246:5140
 #EXTINF:-1,百事乒羽2
 http://123.157.31.182:7912/udp/233.50.200.237:5140
+#EXTINF:-1,都业华直播
+https://cdn-3.ttvb.eu.org/douyin/992023778128
+#EXTINF:-1,股道直播
+https://cdn-3.ttvb.eu.org/douyin/272329718530
 #EXTINF:-1,百事乒羽1
 http://www.liangcl.top:8686/udp/233.50.200.246:5140
 #EXTINF:-1,百事乒羽2
@@ -35,3 +39,7 @@ http://165.154.226.214:50007/of-litv-longturn14/index.m3u8
 http://165.154.226.214:50007/of-4gtv-4gtv156/index.m3u8
 #EXTINF:-1,寰宇财经
 http://165.154.226.214:50007/of-4gtv-4gtv158/index.m3u8
+#EXTINF:-1,都业华直播
+https://live.iill.top/douyin/992023778128
+#EXTINF:-1,股道直播
+https://live.iill.top/douyin/272329718530
