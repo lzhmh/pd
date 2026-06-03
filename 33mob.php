@@ -4,13 +4,15 @@
 
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8$郑州移
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8$郑州移
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+
+凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
+
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw$cdn6
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$cdn6
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$cdn6
 
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$北海联
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8$北海联
-
-凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.35:5140$浙江联
-凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140$浙江联
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
@@ -19,6 +21,10 @@
 凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT$天威hh
 凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT$天威hh
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT$天威hh
+
+凤凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8$汕头移
+凤凰资讯,http://gd.wsd.gd.cn:1698/hls/95/index.m3u8$汕头移
+凤凰香港,http://gd.wsd.gd.cn:1698/hls/97/index.m3u8$汕头移
 
 凤凰资讯,http://feilong123.vip/409990236/hktv.php?id=1$fei
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=2$fei
@@ -33,16 +39,13 @@
 
 凤凰中文,http://218.15.183.23:9901/tsfile/live/23037_1.m3u8$梅州信
 
-凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
-
-凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$福州联
-凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$福州联
+凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.35:5140$浙江联
+凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140$浙江联
 
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8$郑移
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$郑移
 
 CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421$洛阳移
-CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807419$洛阳移#https://live.chinacert.cftest5.cn/cnmg/live/608807416$洛阳移
 CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423$洛阳移
 
 CCTV4,http://58.17.89.7:8081/hls/4/index.m3u8$鹰潭联
@@ -65,7 +68,7 @@ CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=28$iptv
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29$iptv
 
-无线新闻,http://115.44.140.170:18180/TV00000000000000000034@HHZT$天威hh#http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601$main
+无线新闻,http://115.44.140.170:18180/TV00000000000000000034@HHZT$天威hh#http://cdn6.163189.xyz/163189/wxxw$cdn6#http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:3A:93:FD&stream=1495601$main
 
 翡翠台,http://115.44.140.170:18180/TV00000000000000000032@HHZT$天威hh
 明珠台,http://115.44.140.170:18180/TV00000000000000000035@HHZT$天威hh
@@ -124,25 +127,17 @@ CCTV5+,http://183.129.255.66:8480/hls/6/index.m3u8$杭州信
 CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8$杭州信
 
 CCTV5,http://218.13.138.139:59901/tsfile/live/0005_1.m3u8$佛山信
-CCTV5+,http://218.13.138.139:59901/tsfile/live/0016_1.m3u8$佛山信
-
-CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$天威16
-CCTV5+,http://116.76.254.170:44330/tsfile/live/0125_1.m3u8$天威16
-CCTV16,http://116.76.254.170:44330/tsfile/live/1012_1.m3u8$天威16
 
 CCTV5+,http://zh.sqitv.com:888/hls/5/index.m3u8$商丘信
 CCTV5+,http://zh.sqitv.com:888/hls/19/index.m3u8$商丘信
 
-CCTV5,http://223.112.114.228:50080/newlive/live/hls/5/live.m3u8$苏州移
-CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8$苏州移
-
 CCTV5,http://221.7.175.154:8445/tsfile/live/0113_1.m3u8$北海联
 CCTV5+,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8$北海联
 
-CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
+CCTV5,http://223.112.114.228:50080/newlive/live/hls/5/live.m3u8$苏州移
+CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8$苏州移
 
-CCTV5,http://223.95.198.3:8000/hls/5/index.m3u8$宁波移
-CCTV16,http://223.95.198.3:8000/hls/16/index.m3u8$宁波移
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$gslb
 
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226487/index.m3u8$郑移
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226491/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8$郑移
@@ -298,18 +293,14 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT$天威hh
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT$天威hh
 
-凤凰中文,http://ccav.zone.id/php/fh.php?id=2$ccav
-凤凰资讯,http://ccav.zone.id/php/fh.php?id=1$ccav
-
-凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
-
 凤凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8$汕头移
 凤凰资讯,http://gd.wsd.gd.cn:1698/hls/95/index.m3u8$汕头移
 凤凰香港,http://gd.wsd.gd.cn:1698/hls/97/index.m3u8$汕头移
 
-凤凰中文,http://183.239.108.37:1698/hls/96/index.m3u8$汕头移
-凤凰资讯,http://183.239.108.37:1698/hls/95/index.m3u8$汕头移
-凤凰香港,http://183.239.108.37:1698/hls/97/index.m3u8$汕头移
+凤凰中文,http://ccav.zone.id/php/fh.php?id=2$ccav
+凤凰资讯,http://ccav.zone.id/php/fh.php?id=1$ccav
+
+凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 
 CCTV4,http://58.17.89.7:8081/hls/4/index.m3u8$鹰潭联
 CCTV13,http://58.17.89.7:8081/hls/13/index.m3u8$鹰潭联
