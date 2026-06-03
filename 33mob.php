@@ -1,12 +1,16 @@
 //Mobile频道数据收集自网络上的分享260215开通IPV6
 
-新闻HM34,#genre#
+新闻HM35,#genre#
 
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8$郑州移
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8$郑州移
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$北海联
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8$北海联
+
+凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.35:5140$浙江联
+凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140$浙江联
 
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
@@ -15,6 +19,10 @@
 凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT$天威hh
 凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT$天威hh
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT$天威hh
+
+凤凰资讯,http://feilong123.vip/409990236/hktv.php?id=1$fei
+凤凰中文,http://feilong123.vip/409990236/hktv.php?id=2$fei
+凤凰香港,http://feilong123.vip/409990236/hktv.php?id=3$fei
 
 凤凰资讯,http://rihou.cc:555/tv/凤凰卫视$ri
 
@@ -33,6 +41,10 @@
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8$郑移
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$郑移
 
+CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/631780421$洛阳移
+CCTV4,https://live.chinacert.cftest5.cn/cnmg/live/608807419$洛阳移#https://live.chinacert.cftest5.cn/cnmg/live/608807416$洛阳移
+CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423$洛阳移
+
 CCTV4,http://58.17.89.7:8081/hls/4/index.m3u8$鹰潭联
 CCTV13,http://58.17.89.7:8081/hls/13/index.m3u8$鹰潭联
 
@@ -41,9 +53,6 @@ CCTV13,http://223.75.149.129:9906/tsfile/live/0013_1.m3u8$神农移
 
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226468/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227167/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227439/index.m3u8$郑移
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227186/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227266/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227441/index.m3u8$郑移
-
-CCTV4,http://go.bkpcp.top/mg/cctv4$go
-CCTV13,http://go.bkpcp.top/mg/cctv13$go
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$web#https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
 
@@ -68,6 +77,7 @@ HOY78,http://115.44.140.170:18180/TV00000000000000000088@HHZT$天威hh
 
 中国国际CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227303/index.m3u8$郑移
 中国国际CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8#https://0472.org/hls/cgtn.m3u8#https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226587/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8$郑移
+中国国际CGTN,https://live.chinacert.cftest5.cn/cnmg/live/609017205$洛阳移
 
 新加坡cna,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8#https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
 
@@ -102,9 +112,16 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226305/index.m3u8$郑移
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$郑移
 
+CCTV5,https://live.chinacert.cftest5.cn/cnmg/live/641886683$洛阳移
+CCTV5+,https://live.chinacert.cftest5.cn/cnmg/live/641886773$洛阳移
+
 CCTV5,http://116.76.254.170:44330/tsfile/live/0005_1.m3u8$天威16
 CCTV5+,http://116.76.254.170:44330/tsfile/live/0125_1.m3u8$天威16
 CCTV16,http://116.76.254.170:44330/tsfile/live/1012_1.m3u8$天威16
+
+CCTV5,http://183.129.255.66:8480/hls/5/index.m3u8$杭州信
+CCTV5+,http://183.129.255.66:8480/hls/6/index.m3u8$杭州信
+CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8$杭州信
 
 CCTV5,http://218.13.138.139:59901/tsfile/live/0005_1.m3u8$佛山信
 CCTV5+,http://218.13.138.139:59901/tsfile/live/0016_1.m3u8$佛山信
@@ -316,14 +333,13 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rify
 镜新闻,http://rihou.cc:555/tv/镜新闻$ri
 镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻$rihk
 
+///220.135.64.124==nmk.ioapk.com:5050
 中天新闻,http://165.154.226.214:50007/of-4gtv-4gtv009/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
 寰宇新闻,http://165.154.226.214:50007/of-litv-longturn14/index.m3u8$165#http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220
 寰宇台湾,http://165.154.226.214:50007/of-4gtv-4gtv156/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
 寰宇财经,http://165.154.226.214:50007/of-4gtv-4gtv158/index.m3u8$165#http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2$vip#rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw$demo
-
-寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8$jnzq
-TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8$jnzq
+中天新闻,https://iptv.852851.xyz/ch/9cc92e5d8ca3b2fa16ad6c1dee5dff6e/master.m3u8$iptv
 
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$洛杉矶http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$洛杉矶#http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$洛杉矶##http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$洛杉矶#http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$洛杉矶#http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$洛杉矶
 
@@ -603,6 +619,7 @@ Big3专场,https://live.ottiptv.cc/huya/30847442$cc
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8$郑移
 法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8$郑移
 
+第一财经,https://live.chinacert.cftest5.cn/cnmg/live/608780988$洛阳移
 点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$38
@@ -679,6 +696,20 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u
 女性时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8$郑移
 卫生健康,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516/index.m3u8$郑移
 
+CCTV9,https://live.chinacert.cftest5.cn/cnmg/live/673168140$洛阳移
+CCTV10,https://live.chinacert.cftest5.cn/cnmg/live/624878405$洛阳移
+CCTV2,https://live.chinacert.cftest5.cn/cnmg/live/631780532$洛阳移
+CCTV3,https://live.chinacert.cftest5.cn/cnmg/live/624878271$洛阳移
+CCTV6,https://live.chinacert.cftest5.cn/cnmg/live/624878396$洛阳移
+CCTV7,https://live.chinacert.cftest5.cn/cnmg/live/673168121$洛阳移
+CCTV8,https://live.chinacert.cftest5.cn/cnmg/live/624878356$洛阳移
+CCTV11,https://live.chinacert.cftest5.cn/cnmg/live/667987558$洛阳移
+CCTV12,https://live.chinacert.cftest5.cn/cnmg/live/673168185$洛阳移
+CCTV14,https://live.chinacert.cftest5.cn/cnmg/live/624878440$洛阳移
+CCTV15,https://live.chinacert.cftest5.cn/cnmg/live/673168223$洛阳移
+CCTV17,https://live.chinacert.cftest5.cn/cnmg/live/673168256$洛阳移
+CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420$洛阳移
+
 CCTV9,http://58.17.89.7:8081/hls/9/index.m3u8$鹰潭联
 CCTV10,http://58.17.89.7:8081/hls/10/index.m3u8$鹰潭联
 CCTV2,http://58.17.89.7:8081/hls/2/index.m3u8$鹰潭联
@@ -753,6 +784,46 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8$郑移4k
 湖南卫视,http://8.138.7.223/tv/api.php?id=hnws4k$4k
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8$4k
+
+上海新闻,https://live.chinacert.cftest5.cn/cnmg/live/651632657$洛阳移
+北京卫视,https://live.chinacert.cftest5.cn/zgst/live/beijing$洛阳移
+广东卫视,https://live.chinacert.cftest5.cn/zgst/live/guangdong$洛阳移
+深圳卫视,https://live.chinacert.cftest5.cn/zgst/live/shenzhen$洛阳移
+东南卫视,https://live.chinacert.cftest5.cn/zgst/live/dongnan$洛阳移
+湖北卫视,https://live.chinacert.cftest5.cn/zgst/live/hubei$洛阳移
+湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan$洛阳移
+云南卫视,https://live.chinacert.cftest5.cn/zgst/live/yunnan$洛阳移
+天津卫视,https://live.chinacert.cftest5.cn/zgst/live/tianjin$洛阳移
+辽宁卫视,https://live.chinacert.cftest5.cn/zgst/live/liaoning$洛阳移
+浙江卫视,https://live.chinacert.cftest5.cn/zgst/live/zhejiang$洛阳移
+安徽卫视,https://live.chinacert.cftest5.cn/zgst/live/anhui$洛阳移
+东方卫视,https://live.chinacert.cftest5.cn/zgst/live/dongfang$洛阳移
+河北卫视,https://live.chinacert.cftest5.cn/zgst/live/hebei$洛阳移
+四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan$洛阳移
+海南卫视,https://live.chinacert.cftest5.cn/zgst/live/hainan$洛阳移
+重庆卫视,https://live.chinacert.cftest5.cn/zgst/live/zhongqing$洛阳移
+江苏卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangsu$洛阳移
+河南卫视,https://live.chinacert.cftest5.cn/zgst/live/henan$洛阳移
+吉林卫视,https://live.chinacert.cftest5.cn/zgst/live/jilin$洛阳移
+黑龙江卫视,https://live.chinacert.cftest5.cn/zgst/live/heilongjiang$洛阳移
+青海卫视,https://live.chinacert.cftest5.cn/zgst/live/qinghai$洛阳移
+江西卫视,https://live.chinacert.cftest5.cn/zgst/live/jiangxi$洛阳移
+山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong$洛阳移
+广西卫视,https://live.chinacert.cftest5.cn/zgst/live/guangxi$洛阳移
+贵州卫视,https://live.chinacert.cftest5.cn/zgst/live/guizhou$洛阳移
+甘肃卫视,https://live.chinacert.cftest5.cn/zgst/live/gansu$洛阳移
+山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi$洛阳移
+陕西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi1$洛阳移
+内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/live/neimenggu$洛阳移
+厦门卫视,https://live.chinacert.cftest5.cn/zgst/live/xiamen$洛阳移
+宁夏卫视,https://live.chinacert.cftest5.cn/zgst/live/ningxia$洛阳移
+新疆卫视,https://live.chinacert.cftest5.cn/zgst/live/xinjiang$洛阳移
+三沙卫视,https://live.chinacert.cftest5.cn/zgst/live/sansha$洛阳移
+大湾区卫视,https://live.chinacert.cftest5.cn/cnmg/live/608917627$洛阳移
+兵团卫视,https://live.chinacert.cftest5.cn/zgst/live/bingtuan$洛阳移
+西藏卫视,https://live.chinacert.cftest5.cn/zgst/live/xizang$洛阳移
+农林卫视,https://live.chinacert.cftest5.cn/cnmg/live/956904896$洛阳移
+海峡卫视,https://live.chinacert.cftest5.cn/cnmg/live/849119120$洛阳移
 
 北京卫视,http://58.17.89.7:8081/hls/51/index.m3u8$鹰潭联
 广东卫视,http://58.17.89.7:8081/hls/72/index.m3u8$鹰潭联
@@ -2401,7 +2472,9 @@ TVB经典—九江十二坊,https://live.ottiptv.cc/yy/1382735566$cc
 世界地理,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227512/index.m3u8$郑移
 发现之旅,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8$郑移
 乐游频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8$郑移
+
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CGTN纪录,https://live.chinacert.cftest5.cn/cnmg/live/609006487$洛阳移
 CGTN纪录,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8#http://m.061899.xyz/mg/cgtnjl$mg
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
