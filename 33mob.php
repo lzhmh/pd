@@ -2,6 +2,13 @@
 
 新闻HM37,#genre#
 
+凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8$兰州信
+凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8$兰州信
+凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8$兰州信
+
+凤凰中文,http://120.237.39.10:9901/tsfile/live/1037_1.m3u8$梅州移
+凤凰资讯,http://120.237.39.10:9901/tsfile/live/1036_1.m3u8$梅州移
+
 凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
@@ -42,6 +49,9 @@ CCTV13,http://39.164.138.145:9003/hls/13/index.m3u8$郑州移
 
 CCTV4,http://111.43.126.240:9003/hls/4/index.m3u8$哈尔滨移
 CCTV13,http://111.43.126.240:9003/hls/13/index.m3u8$哈尔滨移
+
+CCTV4,http://61.178.227.57:9901/tsfile/live/0004_1.m3u8$兰州信
+CCTV13,http://61.178.227.57:9901/tsfile/live/0013_1.m3u8$兰州信
 
 CCTV4,http://39.165.150.207:19901/tsfile/live/0004_1.m3u8$信阳移
 CCTV13,http://39.165.150.207:19901/tsfile/live/0013_1.m3u8$信阳移
@@ -127,6 +137,10 @@ CCTV5,http://111.43.126.240:9003/hls/5/index.m3u8$哈尔滨移
 CCTV5+,http://111.43.126.240:9003/hls/18/index.m3u8$哈尔滨移
 CCTV16,http://111.43.126.240:9003/hls/16/index.m3u8$哈尔滨移
 
+CCTV5,http://61.178.227.57:9901/tsfile/live/0005_1.m3u8$兰州信
+CCTV5+,http://61.178.227.57:9901/tsfile/live/0141_1.m3u8$兰州信
+CCTV16,http://61.178.227.57:9901/tsfile/live/1003_1.m3u8$兰州信
+
 CCTV5,http://39.165.150.207:19901/tsfile/live/1028_1.m3u8$信阳移
 CCTV5+,http://39.165.150.207:19901/tsfile/live/0127_1.m3u8$信阳移
 CCTV5,http://39.165.39.49:19901/tsfile/live/1005_1.m3u8$平顶移
@@ -162,8 +176,10 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227451/index.m3u8$郑移
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8$郑移
 
+广东体育,http://120.237.39.10:9901/tsfile/live/1013_1.m3u8$梅州移
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移
 广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16#http://120.198.95.220:9901/tsfile/live/1010_1.m3u8$梅州移#http://183.236.43.98:4013/udp/239.77.0.112:5146$广东信
+广东体育,http://120.237.39.10:9901/tsfile/live/1010_1.m3u8$梅州移s
 
 风云足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8$郑移
 武术世界,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$郑移
@@ -176,6 +192,7 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 
 劲爆体育,http://111.8.242.124:9999/tsfile/live/1035_1.m3u8$怀化移#http://111.8.242.102:9999/tsfile/live/1035_1.m3u8$怀化移#
 
+爱体育,http://61.178.227.57:9901/tsfile/live/1001_1.m3u8$兰州信
 爱体育,http://2g545s5578.qicp.vip:59901/tsfile/live/0110_1.m3u8$安阳联#http://yahao.myqnapcloud.com:4022/udp/239.77.1.77:5146$广东信
 天元围棋,http://192.151.150.154/live/gztywq.m3u8$192
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub$gslb#http://yahao.myqnapcloud.com:4022/udp/239.253.43.98:5146$广东信#http://202.105.239.77:8188/rtp/239.253.43.98:5146$广东信
@@ -309,16 +326,10 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 ///_1204
 
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻$ri
-东森新闻,http://rihou.cc:555/tv/东森新闻$ri
-中天新闻,http://rihou.cc:555/tv/中天新闻$ri
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻$ribx
-中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻$risz
-中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞$rihv
-
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$iptv
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rify
-镜新闻,http://rihou.cc:555/tv/镜新闻$ri
-镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻$rihk
+
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/f4d56046-82ba-474e-8499-ab2353dc7a9b/1.m3u8#https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8#https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 
@@ -412,6 +423,12 @@ TVBSHD,http://rihou.cc:555/tv/TVBS1$ri#https://a3f1b2.kylintv.tv/live/tvbshd_iph
 都业华直播,https://cdn-3.ttvb.eu.org/douyin/992023778128$cdn#
 都业华直播,https://live.iill.top/douyin/992023778128$live
 
+东森新闻,http://rihou.cc:555/tv/东森新闻$ri
+中天新闻,http://rihou.cc:555/tv/中天新闻$ri
+中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻$risz
+中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞$rihv
+镜新闻,http://rihou.cc:555/tv/镜新闻$ri
+镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻$rihk
 ///end
 咪视直播,#genre#
 
@@ -968,6 +985,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$索1
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8$索1
 吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8$索1海联
+安徽卫视,https://qsxw.gov.cn/rtmp_export/video11.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$live
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$原
 广东卫视,http://106.53.99.30/tv/api.php?id=gdws#http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
