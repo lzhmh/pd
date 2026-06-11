@@ -333,6 +333,17 @@ TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rify
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/f4d56046-82ba-474e-8499-ab2353dc7a9b/1.m3u8#https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8#https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#
 
+中天新聞,http://80tv.eu.org:8711/live.m3u8?c=5$80tv
+中天新聞+,http://80tv.eu.org:8711/live.m3u8?c=6$80tv
+TVBS新聞,http://80tv.eu.org:8711/live.m3u8?c=4$80tv
+TVBSHD,http://80tv.eu.org:8711/live.m3u8?c=2$80tv
+TVBSNEWS,http://80tv.eu.org:8711/live.m3u8?c=3$80tv
+寰宇新聞,http://80tv.eu.org:8711/live.m3u8?c=8$80tv
+寰宇LIVE,http://80tv.eu.org:8711/live.m3u8?c=9$80tv
+寰宇台灣,http://80tv.eu.org:8711/live.m3u8?c=10$80tv
+寰宇財經,http://80tv.eu.org:8711/live.m3u8?c=11$80tv
+新唐人,http://80tv.eu.org:8711/live.m3u8?c=25$80tv
+
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$cdn6
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$cdn6
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$cdn6
