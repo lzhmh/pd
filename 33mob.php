@@ -93,6 +93,7 @@ RHK32,http://115.44.140.170:18180/TV00000000000000000017@HHZT$天威hh
 RHK31,http://115.44.140.170:18180/TV00000000000000000019@HHZT$天威hh
 HOY78,http://115.44.140.170:18180/TV00000000000000000088@HHZT$天威hh
 
+环球电视频道,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8$官网#https://swiftplay.hxkjmedia.com/tv/spbW.m3u8$官网
 
 中国国际CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227303/index.m3u8$郑移
@@ -178,6 +179,7 @@ CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8$郑移
 
 广东体育,http://120.237.39.10:9901/tsfile/live/1013_1.m3u8$梅州移
+广东体育,http://rihou.cc:555/tv/[At|]广东体育$riat
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移
 广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16#http://120.198.95.220:9901/tsfile/live/1010_1.m3u8$梅州移#http://183.236.43.98:4013/udp/239.77.0.112:5146$广东信
 广东体育,http://120.237.39.10:9901/tsfile/live/1010_1.m3u8$梅州移s
@@ -327,6 +329,7 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 ///_1204
 
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻$ri
+中天新闻,http://rihou.cc:555/tv/中天新闻$ri
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻$ribx
 TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43$iptv
 TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻$rify
@@ -436,7 +439,6 @@ TVBSHD,http://rihou.cc:555/tv/TVBS1$ri#https://a3f1b2.kylintv.tv/live/tvbshd_iph
 都业华直播,https://live.iill.top/douyin/992023778128$live
 
 东森新闻,http://rihou.cc:555/tv/东森新闻$ri
-中天新闻,http://rihou.cc:555/tv/中天新闻$ri
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻$risz
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞$rihv
 镜新闻,http://rihou.cc:555/tv/镜新闻$ri
@@ -1308,7 +1310,7 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8
 百姓调解,http://39.165.39.49:19901/tsfile/live/1124_1.m3u8$平顶移
 
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8#https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=ad545f61bf0e2389628eaf71279d9662&txTime=192a274ca1d#https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=0901a0ee80ee6b60f0731399e0de6c5d&txTime=191825f0639#
-广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=2debb202362deb8fe12548e796d6ae45&txTime=192a274ca1d#https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8#https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=2debb202362deb8fe12548e796d6ae45&txTime=192a274ca1d#https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=234cace79a853922dd89c29a3823c470&txTime=191825e8b1d
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8#https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=6332a877c5f4cd0bee7b40bbed1983f8&txTime=192a274ca1d#https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=7a9302751803950aa7bee6994f477b11&txTime=19182c0a3f6#http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4&replay=1&days=7#https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7&replay=1&days=7
 
 深圳都市,http://120.198.95.220:9901/tsfile/live/1042_1.m3u8$梅州移
