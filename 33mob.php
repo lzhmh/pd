@@ -38,6 +38,10 @@
 凤凰中文,http://www.liangcl.top:8686/udp/233.50.202.35:5140$浙江联
 凤凰资讯,http://www.liangcl.top:8686/udp/233.50.202.36:5140$浙江联
 
+凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8$push
+凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8$push
+凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8$push
+
 凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8$中牟移s
 凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8$中牟移s
 
@@ -273,20 +277,20 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 围棋素材,https://goodiptv.club/douyu/6399350$club
 围棋泳往,https://goodiptv.club/douyu/692988$club
 
-//http://php.404003.xyz/live/douyuyqk.php?id=
-八卦大师,http://php.404003.xyz/live/douyuyqk.php?id=851040$php
-日月轮回,http://php.404003.xyz/live/douyuyqk.php?id=2293920$php
-帽子象棋,http://php.404003.xyz/live/douyuyqk.php?id=4487219$php
-笑笑象棋,http://php.404003.xyz/live/douyuyqk.php?id=9969$php
-大神象棋,http://php.404003.xyz/live/douyuyqk.php?id=1227260$php
-九拙讲棋,http://php.404003.xyz/live/douyuyqk.php?id=4369877$php
-熊山雷疯,http://php.404003.xyz/live/douyuyqk.php?id=291514$php
-小鹤求败,http://php.404003.xyz/live/douyuyqk.php?id=3830820$php
-旭宝斗地主,http://php.404003.xyz/live/douyuyqk.php?id=9804176$php
-欢乐斗地主,http://php.404003.xyz/live/douyuyqk.php?id=8324074$php
-斗地主冠军赛,http://php.404003.xyz/live/douyuyqk.php?id=488743$php
-围棋素材,http://php.404003.xyz/live/douyuyqk.php?id=6399350$php
-围棋泳往,http://php.404003.xyz/live/douyuyqk.php?id=692988$php
+//https://iptv.catvod.com/douyu/
+八卦大师,https://iptv.catvod.com/douyu/851040$iptv
+日月轮回,https://iptv.catvod.com/douyu/2293920$iptv
+帽子象棋,https://iptv.catvod.com/douyu/4487219$iptv
+笑笑象棋,https://iptv.catvod.com/douyu/9969$iptv
+大神象棋,https://iptv.catvod.com/douyu/1227260$iptv
+九拙讲棋,https://iptv.catvod.com/douyu/4369877$iptv
+熊山雷疯,https://iptv.catvod.com/douyu/291514$iptv
+小鹤求败,https://iptv.catvod.com/douyu/3830820$iptv
+旭宝斗地主,https://iptv.catvod.com/douyu/9804176$iptv
+欢乐斗地主,https://iptv.catvod.com/douyu/8324074$iptv
+斗地主冠军赛,https://iptv.catvod.com/douyu/488743$iptv
+围棋素材,https://iptv.catvod.com/douyu/6399350$iptv
+围棋泳往,https://iptv.catvod.com/douyu/692988$iptv
 
 八卦大师,https://live.ottiptv.cc/douyu/851040$cc
 日月轮回,https://live.ottiptv.cc/douyu/2293920$cc
@@ -432,8 +436,10 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$洛杉矶http:
 
 TVBSHD,http://rihou.cc:555/tv/TVBS1$ri#https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8$a3
 股道直播,https://cdn-3.ttvb.eu.org/douyin/75636502992$cdn
+股道直播,https://iptv.catvod.com/douyin/75636502992$iptv
 股道直播,https://live.iill.top/douyin/75636502992$live
 都业华直播,https://cdn-3.ttvb.eu.org/douyin/992023778128$cdn#
+都业华直播,https://iptv.catvod.com//douyin/992023778128$iptv
 都业华直播,https://live.iill.top/douyin/992023778128$live
 
 东森新闻,http://rihou.cc:555/tv/东森新闻$ri
@@ -736,7 +742,10 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8$郑移4k
 湖南卫视,http://8.138.7.223/tv/api.php?id=hnws4k$4k
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8$4k
-苏州4K频道,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+看东方,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8$bp4K#http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$bp#
+看东方,http://110.42.52.180:6688/live/live.php?token=y7G7pt99&id=shxjs&zy.m3u8$宁波信
+上海魔都眼,http://110.42.52.180:6688/live/live.php?token=y7G7pt99&id=shmdy&zy.m3u8$宁波信
+苏州4K,http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8#https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 上海新闻,http://47.104.178.59:3566/651632657$青阿里#http://hc8q.x3322.net:3000/651632657$重庆联#
 上海新闻,http://110.42.52.180:6688/live/live.php?token=y7G7pt99&id=shxwzh&zy.m3u8$宁波信
@@ -847,6 +856,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$live
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8$原
 广东卫视,http://106.53.99.30/tv/api.php?id=gdws#http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8$索1
 
 //郑铁有线http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 //人民铁道http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
@@ -858,9 +868,7 @@ ZooMoo,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
 ZooMoo,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40$iptv#https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
-Duck卡通,http://iptv.4666888.xyz/iptv2A.php?id=39$iptv
-MOMO亲子,http://iptv.4666888.xyz/iptv2A.php?id=49$iptv
+少儿专区,https://iptv.catvod.com/yy/1382736904$iptv#https://iptv.catvod.com/yy/1382736904$iptv
 
 北京酷少,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226411/index.m3u8$郑移
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8$郑移
@@ -971,6 +979,12 @@ MOMO亲子,http://iptv.4666888.xyz/iptv2A.php?id=49$iptv
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
+篮球专区,https://iptv.catvod.com/yy/1354946982$iptv
+骑牛大赛,https://live.ottiptv.cc/yy/1355313481$cc
+摩托挑战,https://live.ottiptv.cc/yy/1354946983$cc#https://iptv.catvod.com/yy/1354946983$iptv
+骑牛大赛,https://live.metshop.top/yy/1355313481
+摩托挑战,https://live.metshop.top/yy/1354946983
+
 羽毛球专场,http://8.155.43.98:35455/huya/30806115$8
 乒乓球专场,http://8.155.43.98:35455/huya/23505696$8
 格斗专场,http://8.155.43.98:35455/huya/20072796$8
@@ -1034,11 +1048,6 @@ Big3专场,https://live.ottiptv.cc/huya/30847442$cc
 棒球专场,https://live.ottiptv.cc/huya/20072763$cc
 扇耳光专场,https://live.ottiptv.cc/huya/30631765$cc
 
-骑牛大赛,https://live.ottiptv.cc/yy/1355313481$cc
-摩托挑战,https://live.ottiptv.cc/yy/1354946983$cc
-骑牛大赛,https://live.metshop.top/yy/1355313481
-摩托挑战,https://live.metshop.top/yy/1354946983
-
 彭荃围棋,https://cdn-3.ttvb.eu.org/douyin/707246679178$cdn
 围棋张导,https://cdn-3.ttvb.eu.org/douyin/448147530190$cdn
 围棋昊洋,https://cdn-3.ttvb.eu.org/douyin/841353831506$cdn
@@ -1069,7 +1078,7 @@ Big3专场,https://live.ottiptv.cc/huya/30847442$cc
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$38
 
 中国通史,https://live.ottiptv.cc/huya/20985822$cc
-中国通史,https://isus.cc/php/huya.php?id=20985822$php#http://39.153.130.167:35455/huya/20985822$39
+中国通史,https://isus.cc/php/huya.php?id=20985822$isus#http://39.153.130.167:35455/huya/20985822$39
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 HBOPremuim,https://s.vdo.ai/vhs/1.m3u8$s
 
@@ -1137,6 +1146,8 @@ CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 发现之旅,http://47.104.178.59:3566/624878970$青阿里#http://hc8q.x3322.net:3000/624878970$沪信
 金鹰纪实,http://120.202.73.48:8888/tsfile/live/1004_1.m3u8$宜昌移
 
+动物专区,http://8.155.43.98:35455/yy/1382736918$8#https://iptv.catvod.com/yy/1382736918$iptv
+
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$61#
 ANIMALPLANET,http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 LoveNature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8#https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
@@ -1151,7 +1162,7 @@ RT纪录片,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
 History,https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/cb423e4f7b7b6fdccb993e6cd3f011a0d10e688b5534d23f3aaa76da089e5500d9e0a0dce855ef7844f8468035552a124d19af09df7c1fc7d56acf086a7a137f8ad0b47fc0896349f2845a4d7fe1014715e10b16d73b502499a13120b1109935451fe1026b161588be02f26f42b6d848d4227c94acd965277d445f815d4d86f108f2bdb84240db6bbfb21a58e07b12f88346cdca1ca580ca5b8c578277f745cec7f38cce46d381967ea856e464440021259dcd2ac5cd5be58d9c383f9d227974213f9ecb1255d35efc25766fba92feb16ceb16cac916956123be13ea37ee52a44adac4237c2cdac095d0505531e4e5566435a9e6a1f09b7f53ef2393a6985eb6873db6945a67b0f5eba1eec384c56b5eebe21893a42a86b5263e30c992449c9288248eda9067933fc3cbf89972170033444ab154ac9e62cc3a9d569c8e4271121d1fedad5ccad08d05707a19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab15275e590970caf2fdcb40cd3e40be6386f0e4ce0a46c7a414b3281ba32436037930bb4a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf48f43743bc850346f671f118276bf44d6035b0f3dc618c7d667518101246dabe70854546899dfa2c3e0f2cf57be6bdcdff75b796bb90222a7be8d0869bb78de63b9f27f79018987c8936451/60/960x540_3043040/index.m3u8
 
-wildtv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
+wildTV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8#https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 
@@ -1160,10 +1171,6 @@ The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amag
 乐游频道,http://39.165.39.49:19901/tsfile/live/1126_1.m3u8$平顶移
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$gslb
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8$廊坊移
-
-看东方,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8$bp4K#http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$bp#
-看东方,http://110.42.52.180:6688/live/live.php?token=y7G7pt99&id=shxjs&zy.m3u8$宁波信
-上海魔都眼,http://110.42.52.180:6688/live/live.php?token=y7G7pt99&id=shmdy&zy.m3u8$宁波信
 
 金鹰纪实,http://hmfs.f3322.net:3388/hls/39/index.m3u8$茂名信
 世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8$茂名信
@@ -1224,7 +1231,7 @@ CETV4,http://47.104.178.59:3566/923287339$青阿里
 环球旅游,http://47.104.178.59:3566/958475356$青阿里
 四海钓鱼,http://hc8q.x3322.net:3000/637444975$德阳信
 山东教育,http://47.104.178.59:3566/609154353$青阿里
-中国天气,http://hc8q.x3322.net:3000/959986621$德阳信1#http://47.104.178.59:3566/959986621$青阿里#http://116.52.173.106:1234/959986621$昆明信#http://110.244.139.249:7788/959986621$沧州联#http://14.153.176.157:1234/959986621深圳信#http://hc8q.x3322.net:3000/959986621$重庆联2#http://182.61.15.163:80/959986621$广州百度3#http://8.135.27.147:1234/959986621$深阿里1#http://124.77.202.8:49155/959986621$上海信8#http://124.223.82.228:89/959986621$沪腾讯9#http://101.6.130.52:1234/959986621$京教育3#http://110.154.192.30:7788/959986621$阿克苏信4#http://116.236.204.18:1234/959986621$上海信9#http://27.12.12.250:1234/959986621$重庆联#
+中国天气,http://27.18.85.136:1234/959986621$武汉信#http://222.140.13.12:1234/959986621$许昌联#http://hc8q.x3322.net:3000/959986621$德阳信1#http://47.104.178.59:3566/959986621$青阿里#http://116.52.173.106:1234/959986621$昆明信#http://110.244.139.249:7788/959986621$沧州联#http://14.153.176.157:1234/959986621深圳信#http://hc8q.x3322.net:3000/959986621$重庆联2#http://182.61.15.163:80/959986621$广州百度3#http://8.135.27.147:1234/959986621$深阿里1#http://124.77.202.8:49155/959986621$上海信8#http://124.223.82.228:89/959986621$沪腾讯9#http://101.6.130.52:1234/959986621$京教育3#http://110.154.192.30:7788/959986621$阿克苏信4#http://116.236.204.18:1234/959986621$上海信9#http://27.12.12.250:1234/959986621$重庆联#
 
 CETV1,http://111.43.126.240:9003/hls/21/index.m3u8$哈尔滨移
 CETV2,http://111.43.126.240:9003/hls/22/index.m3u8$哈尔滨移
@@ -1548,7 +1555,7 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub$gsl
 小栗子,http://live.nctv.top/douyu1.php?id=7254536$nctv
 粤语电影,http://live.nctv.top/douyu1.php?id=1226741$nctv
 
-犯罪片,http://php.404003.xyz/live/douyuyqk.php?id=747764$php
+犯罪片,https://iptv.catvod.com/douyu/747764$iptv
 
 ///end
 虎牙轮播,#genre#
@@ -1820,6 +1827,50 @@ Running Man,http://8.155.43.98:35455/huya/11352883$8
 天雷滚滚,http://8.155.43.98:35455/huya/11352945$8
 小鲤鱼,http://8.155.43.98:35455/huya/11601961$8
 
+怪兽系列,https://iptv.catvod.com/huya/21059554$iptv
+美国战争,https://iptv.catvod.com/huya/11602047$iptv
+功夫片,https://iptv.catvod.com/huya/11352941$iptv
+经典港片,https://iptv.catvod.com/huya/11352965$iptv
+杰森史塔森,https://iptv.catvod.com/huya/21059588$iptv
+枪战大片,https://iptv.catvod.com/huya/21059579$iptv
+武侠片场,https://iptv.catvod.com/huya/11342427$iptv
+玄幻系列,https://iptv.catvod.com/huya/11342414$iptv
+搞笑系列,https://iptv.catvod.com/huya/11342423$iptv
+战争片,https://iptv.catvod.com/huya/21059574$iptv
+黑帮系列,https://iptv.catvod.com/huya/11336719$iptv
+喜剧系列,https://iptv.catvod.com/huya/11352877$iptv
+动作大片,https://iptv.catvod.com/huya/11602077$iptv
+谍战大片,https://iptv.catvod.com/huya/21059585$iptv
+谍战片,https://iptv.catvod.com/huya/21059587$iptv
+海盗片,https://iptv.catvod.com/huya/21059595$iptv
+战争电影,https://iptv.catvod.com/huya/21059592$iptv
+变形记,https://iptv.catvod.com/huya/11352966$iptv
+笑傲江湖,https://iptv.catvod.com/huya/11352937$iptv
+速度激情,https://iptv.catvod.com/huya/21059556$iptv
+欧美黑白,https://iptv.catvod.com/huya/11352880$iptv
+警匪片,https://iptv.catvod.com/huya/11352886$iptv
+智商罪犯,https://iptv.catvod.com/huya/11352962$iptv
+巨石强森,https://iptv.catvod.com/huya/21059581$iptv
+救援电影,https://iptv.catvod.com/huya/21059594$iptv
+看救援,https://iptv.catvod.com/huya/21059586$iptv
+赛车片,https://iptv.catvod.com/huya/11279247$iptv
+灾难片,https://iptv.catvod.com/huya/11602075$iptv
+黑帮斗争,https://iptv.catvod.com/huya/11342419$iptv
+科幻电影,https://iptv.catvod.com/huya/11602034$iptv
+死神来了,https://iptv.catvod.com/huya/11352903$iptv
+港台电影,https://iptv.catvod.com/huya/880261$iptv
+高分电影,https://iptv.catvod.com/huya/16615910$iptv
+命案十三宗,https://iptv.catvod.com/huya/11601981$iptv
+喜乐影院,https://iptv.catvod.com/huya/21059580$iptv
+贺岁片,https://iptv.catvod.com/huya/11601986$iptv
+怪兽电影,https://iptv.catvod.com/huya/21059577$iptv
+香港电影,https://iptv.catvod.com/huya/11601971$iptv
+中华小当家,https://iptv.catvod.com/huya/11342413$iptv
+喜剧专场,https://iptv.catvod.com/huya/11602044$iptv
+搞笑僵尸片,https://iptv.catvod.com/huya/11352963$iptv
+倩女幽魂,https://iptv.catvod.com/huya/11601970$iptv
+日本电影,https://iptv.catvod.com/huya/23652317$iptv
+
 怪兽系列,http://cdn.jdshipin.com:8880/huya.php?id=21059554$cdn
 美国战争,http://cdn.jdshipin.com:8880/huya.php?id=11602047$cdn
 功夫片,http://cdn.jdshipin.com:8880/huya.php?id=11352941$cdn
@@ -1995,50 +2046,6 @@ Running Man,http://8.155.43.98:35455/huya/11352883$8
 搞笑僵尸片,https://live.ottiptv.cc/huya/11352963$ott
 倩女幽魂,https://live.ottiptv.cc/huya/11601970$ott
 日本电影,https://live.ottiptv.cc/huya/23652317$ott
-
-怪兽系列,https://live.laobaitv.net/huya/21059554$lao
-美国战争,https://live.laobaitv.net/huya/11602047$lao
-功夫片,https://live.laobaitv.net/huya/11352941$lao
-经典港片,https://live.laobaitv.net/huya/11352965$lao
-杰森史塔森,https://live.laobaitv.net/huya/21059588$lao
-枪战大片,https://live.laobaitv.net/huya/21059579$lao
-武侠片场,https://live.laobaitv.net/huya/11342427$lao
-玄幻系列,https://live.laobaitv.net/huya/11342414$lao
-搞笑系列,https://live.laobaitv.net/huya/11342423$lao
-战争片,https://live.laobaitv.net/huya/21059574$lao
-黑帮系列,https://live.laobaitv.net/huya/11336719$lao
-喜剧系列,https://live.laobaitv.net/huya/11352877$lao
-动作大片,https://live.laobaitv.net/huya/11602077$lao
-谍战大片,https://live.laobaitv.net/huya/21059585$lao
-谍战片,https://live.laobaitv.net/huya/21059587$lao
-海盗片,https://live.laobaitv.net/huya/21059595$lao
-战争电影,https://live.laobaitv.net/huya/21059592$lao
-变形记,https://live.laobaitv.net/huya/11352966$lao
-笑傲江湖,https://live.laobaitv.net/huya/11352937$lao
-速度激情,https://live.laobaitv.net/huya/21059556$lao
-欧美黑白,https://live.laobaitv.net/huya/11352880$lao
-警匪片,https://live.laobaitv.net/huya/11352886$lao
-智商罪犯,https://live.laobaitv.net/huya/11352962$lao
-巨石强森,https://live.laobaitv.net/huya/21059581$lao
-救援电影,https://live.laobaitv.net/huya/21059594$lao
-看救援,https://live.laobaitv.net/huya/21059586$lao
-赛车片,https://live.laobaitv.net/huya/11279247$lao
-灾难片,https://live.laobaitv.net/huya/11602075$lao
-黑帮斗争,https://live.laobaitv.net/huya/11342419$lao
-科幻电影,https://live.laobaitv.net/huya/11602034$lao
-死神来了,https://live.laobaitv.net/huya/11352903$lao
-港台电影,https://live.laobaitv.net/huya/880261$lao
-高分电影,https://live.laobaitv.net/huya/16615910$lao
-命案十三宗,https://live.laobaitv.net/huya/11601981$lao
-喜乐影院,https://live.laobaitv.net/huya/21059580$lao
-贺岁片,https://live.laobaitv.net/huya/11601986$lao
-怪兽电影,https://live.laobaitv.net/huya/21059577$lao
-香港电影,https://live.laobaitv.net/huya/11601971$lao
-中华小当家,https://live.laobaitv.net/huya/11342413$lao
-喜剧专场,https://live.laobaitv.net/huya/11602044$lao
-搞笑僵尸片,https://live.laobaitv.net/huya/11352963$lao
-倩女幽魂,https://live.laobaitv.net/huya/11601970$lao
-日本电影,https://live.laobaitv.net/huya/23652317$lao
 
 B站绝地求生,http://live.iill.top/bilibili.php?id=98
 怪兽系列,https://www.goodiptv.club/huya/21059554$good
@@ -2822,6 +2829,42 @@ TVB经典—九江十二坊,https://live.ottiptv.cc/yy/1382735566$cc
 史诗级战争,https://live.ottiptv.cc/yy/1382745092$cc
 港剧动作,https://live.ottiptv.cc/yy/1382736809$cc
 成龙系列,https://live.ottiptv.cc/yy/1354888751$cc
+
+侦探悬疑,https://iptv.catvod.com/yy/1382735543$iptv
+TVB经典—九江十二坊,https://iptv.catvod.com/yy/1382735566$iptv
+十诫—外国影史里程碑,https://iptv.catvod.com/yy/1354930945$iptv
+修牛蹄,https://iptv.catvod.com/yy/1353413683$iptv
+你爱看的国内战争大片合集,https://iptv.catvod.com/yy/1354936160$iptv
+美国超级英雄电影系列,https://iptv.catvod.com/yy/1354933556$iptv
+霍比特人电影系列,https://iptv.catvod.com/yy/1354930967$iptv
+喜剧大片—篮球冠军,https://iptv.catvod.com/yy/1382749906$iptv
+特种兵归来4,https://iptv.catvod.com/yy/1382736896$iptv
+科幻电影,https://iptv.catvod.com/yy/1355065896$iptv
+纪录片封神,https://iptv.catvod.com/yy/1382736825$iptv
+飞虎之潜行极战,https://iptv.catvod.com/yy/1354932420$iptv
+影视剧-林深见鹿,https://iptv.catvod.com/yy/1345494225$iptv
+功夫婆媳-家庭剧,https://iptv.catvod.com/yy/1382736883$iptv
+风靡全球的谍战片,https://iptv.catvod.com/yy/1382736817$iptv
+007系列大片,https://iptv.catvod.com/yy/1382736897$iptv
+超炫科幻大片,https://iptv.catvod.com/yy/1382736840$iptv
+火线追凶,https://iptv.catvod.com/yy/1382745090$iptv
+速度与激情,https://iptv.catvod.com/yy/1382749892$iptv
+敢死队,https://iptv.catvod.com/yy/1382735573$iptv
+国外战争,https://iptv.catvod.com/yy/1382736857$iptv
+行动与枪战,https://iptv.catvod.com/yy/29170933$iptv
+顶级动作,https://iptv.catvod.com/yy/24923327$iptv
+暮光之城,https://iptv.catvod.com/yy/1354930181$iptv
+变形金刚,https://iptv.catvod.com/yy/1382736803$iptv
+金三角大营救,https://iptv.catvod.com/yy/1354930924$iptv
+致命守护者,https://iptv.catvod.com/yy/1382745095$iptv
+沙海,https://iptv.catvod.com/yy/1355171357$iptv
+恐怖电影,https://iptv.catvod.com/yy/24066336$iptv
+外国科幻,https://iptv.catvod.com/yy/1382747628$iptv
+漫威十年,https://iptv.catvod.com/yy/1354930233$iptv
+科幻Sci-Fi,https://iptv.catvod.com/yy/1354930209$iptv
+史诗级战争,https://iptv.catvod.com/yy/1382745092$iptv
+港剧动作,https://iptv.catvod.com/yy/1382736809$iptv
+成龙系列,https://iptv.catvod.com/yy/1354888751$iptv
 
 ///end
 小品汇,#genre#
