@@ -38,8 +38,6 @@
 {"key":"虎牙","name":"🐯虎牙直播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js","style":{"type":"rect","ratio":1.755},"timeout":10,"playerType":"2","searchable":1,"quickSearch":0,"changeable":0},
 {"key": "奇异","name": "采集☪奇异","type": 0,"api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/","playurl": "json:https://www.iqiyizyjx.com/?url="},
 {"key": "斗笔","name": "采集☪豆瓣","type": 0,"api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/","playurl": "json:https://www.dbjiexi.com:966/jx/?url="},
-{"key": "ConfigCenter","name": "🇨🇳┣☪配✿置┫辅助","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect", "ratio": 1.597}},
-
 {"key": "mtm3u8","name": "影剧","type": 1,"api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/","playUrl": "https://mtjiexi.cc:966/?url=","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "mtyun","name": "影剧云","type": 0,"api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtyun/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "gsm3u8","name": "光速","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/","playUrl": "https://www.gszyv.com/m3u8/?url=","searchable": 1,"quickSearch": 1,"filterable": 1},
