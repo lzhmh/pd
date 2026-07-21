@@ -1,6 +1,6 @@
 //Mobile频道数据收集自网络上的分享260215开通IPV6
 
-新闻HM38,#genre#
+新闻HM39,#genre#
 
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8$bobo
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$bobo
@@ -692,6 +692,7 @@ CCTV1,http://218.206.193.218:8888/hls/97/index.m3u8$中牟移
 CCTV1,http://218.206.193.218:8888/hls/132/index.m3u8$中牟移
 CCTV4K,http://218.206.193.218:8888/hls/91/index.m3u8$中牟移
 
+生活时尚,http://0001.6600.org:907/hls/500/index.m3u8$哈移
 风云音乐,http://120.238.84.45:9901/tsfile/live/1089_1.m3u8$梅州移
 文化精品,http://120.238.84.45:9901/tsfile/live/1092_1.m3u8$梅州移
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
@@ -830,6 +831,11 @@ ZooMoo,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playli
 中学生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226347/index.m3u8$郑移
 
 金鹰卡通,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYKTMPP360.m3u8$phone
+
+北京酷少,http://0001.6600.org:907/hls/58/index.m3u8$哈移
+金鹰卡通,http://111.40.34.235:907/hls/89/index.m3u8$哈移
+动漫秀场,http://0001.6600.org:907/hls/217/index.m3u8$哈移
+优漫卡通,http://0001.6600.org:907/hls/35/index.m3u8$哈移
 
 北京酷少,http://39.165.150.207:19901/tsfile/live/1013_1.m3u8$信阳移
 金鹰卡通,http://39.165.150.207:19901/tsfile/live/1020_1.m3u8$信阳移
@@ -1018,6 +1024,10 @@ Big3专场,https://live.ottiptv.cc/huya/30847442$cc
 
 财富天下,http://47.104.178.59:3566/956923159$青阿里#http://hc8q.x3322.net:3000/956923159$重庆联
 第一财经,http://47.104.178.59:3566/608780988$青阿里#http://hc8q.x3322.net:3000/608780988$重庆联
+
+东方财经,http://0001.6600.org:907/hls/61/index.m3u8$哈移
+法治天地,http://0001.6600.org:907/hls/73/index.m3u8$哈移
+
 第一财经,https://live.chinacert.cftest5.cn/cnmg/live/608780988$洛阳移
 点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8$vol
 证券服务,https://hlss.gstv.com.cn/se0rch/20sv46.m3u8$郑州移
@@ -1077,7 +1087,8 @@ Big3专场,https://live.ottiptv.cc/huya/30847442$cc
 发现中国,https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 
 北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8$北京联
-CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8#http://0001.6600.org:907/hls/14/index.m3u8$哈移
 CGTN纪录,https://live.chinacert.cftest5.cn/cnmg/live/609006487$洛阳移
 CGTN纪录,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8#http://m.061899.xyz/mg/cgtnjl$mg
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
@@ -1271,6 +1282,9 @@ CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/
 风云剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227500/index.m3u8$郑移
 第一剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227498/index.m3u8$郑移
 都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226324/index.m3u8$郑移
+
+风云剧场,http://0001.6600.org:907/hls/278/index.m3u8$哈移
+都市剧场,http://0001.6600.org:907/hls/74/index.m3u8$哈移
 
 CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8$api
 CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8$api
@@ -1622,6 +1636,82 @@ BesTV电影,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8$绵阳信
 高分片系列,http://8.155.43.98:35455/huya/23902225$8
 僵尸片系列,http://8.155.43.98:35455/huya/23865148$8
 短片系列,http://8.155.43.98:35455/huya/17098448$8
+
+我和僵尸有个约会,http://8.155.43.98:35455/huya/21059571$8
+美人心计,http://8.155.43.98:35455/huya/26355837$8
+延禧攻略,http://8.155.43.98:35455/huya/26355864$8
+读心专家,http://8.155.43.98:35455/huya/30590779$8
+如懿传,http://8.155.43.98:35455/huya/29465868$8
+雪山飞狐,http://8.155.43.98:35455/huya/23734176$8
+唐人街探探,http://8.155.43.98:35455/huya/20969137$8
+第一滴血,http://8.155.43.98:35455/huya/26355849$8
+香港黑社会,http://8.155.43.98:35455/huya/26355853$8
+搞笑赌神,http://8.155.43.98:35455/huya/21059607$8
+哈利波特,http://8.155.43.98:35455/huya/29982669$8
+阿汤哥,http://8.155.43.98:35455/huya/26355792$8
+空降的英雄,http://8.155.43.98:35455/huya/26355780$8
+金刚大战哥斯拉,http://8.155.43.98:35455/huya/11601965$8
+笑到岔气,http://8.155.43.98:35455/huya/30080169$8
+科幻,http://8.155.43.98:35455/huya/23746486$8
+国外,http://8.155.43.98:35455/huya/11342385$8
+人性本恶,http://8.155.43.98:35455/huya/29982649$8
+韩国首尔之春,http://8.155.43.98:35455/huya/30080226$8
+毒液三部曲,http://8.155.43.98:35455/huya/29982604$8
+经典史诗,http://8.155.43.98:35455/huya/20969119$8
+恐怖血腥,http://8.155.43.98:35455/huya/30080173$8
+丧尸围城,http://8.155.43.98:35455/huya/30080183$8
+国外动作枪战,http://8.155.43.98:35455/huya/20985841$8
+国外恐怖,http://8.155.43.98:35455/huya/20985852$8
+硬汉动作片,http://8.155.43.98:35455/huya/29465873$8
+经典大片,http://8.155.43.98:35455/huya/20985866$8
+死侍与金刚狼,http://8.155.43.98:35455/huya/30080224$8
+经典武打连播,http://8.155.43.98:35455/huya/23865179$8
+人到底能有多残忍,http://8.155.43.98:35455/huya/29982620$8
+无形之手,http://8.155.43.98:35455/huya/30080174$8
+憨豆搞笑,http://8.155.43.98:35455/huya/20969133$8
+漫改,http://8.155.43.98:35455/huya/11336593$8
+小鬼当家,http://8.155.43.98:35455/huya/20985772$8
+张艺谋,http://8.155.43.98:35455/huya/23863895$8
+史诗级谍战,http://8.155.43.98:35455/huya/20969129$8
+好莱坞巅峰之作,http://8.155.43.98:35455/huya/23734223$8
+奇幻！,http://8.155.43.98:35455/huya/29982638$8
+国产科幻,http://8.155.43.98:35455/huya/20985801$8
+科幻神作,http://8.155.43.98:35455/huya/20985857$8
+皇家师姐,http://8.155.43.98:35455/huya/11601955$8
+神作科幻美学,http://8.155.43.98:35455/huya/29982648$8
+战争并不是一场游戏,http://8.155.43.98:35455/huya/20969127$8
+千万不要一个人看,http://8.155.43.98:35455/huya/20985839$8
+国外劲爆动作爽片,http://8.155.43.98:35455/huya/23863818$8
+黑色幽默 荒诞世界,http://8.155.43.98:35455/huya/30080159$8
+最新韩国大片一网打尽,http://8.155.43.98:35455/huya/26355838$8
+电锯惊魂,http://8.155.43.98:35455/huya/11601969$8
+看得我欲罢不能,http://8.155.43.98:35455/huya/20985864$8
+最新动作大片,http://8.155.43.98:35455/huya/23728651$8
+超新恐怖片,http://8.155.43.98:35455/huya/29465898$8
+科幻史诗巨作！,http://8.155.43.98:35455/huya/30080257$8
+超级无厘头,http://8.155.43.98:35455/huya/29982651$8
+大导演斯皮尔伯格经典,http://8.155.43.98:35455/huya/21267475$8
+大白鲨,http://8.155.43.98:35455/huya/29465881$8
+贾玲,http://8.155.43.98:35455/huya/30080235$8
+复仇者,http://8.155.43.98:35455/huya/20969111$8
+无聊点进来,http://8.155.43.98:35455/huya/29465896$8
+人类清除计划,http://8.155.43.98:35455/huya/23749074$8
+连环杀手,http://8.155.43.98:35455/huya/30080185$8
+爽片天花板,http://8.155.43.98:35455/huya/30080147$8
+暴力美学,http://8.155.43.98:35455/huya/23860049$8
+致命女人联盟,http://8.155.43.98:35455/huya/30080157$8
+国外骗术大赏,http://8.155.43.98:35455/huya/23903085$8
+铁血麦卡伦的不死征程,http://8.155.43.98:35455/huya/23749068$8
+黑夜传说,http://8.155.43.98:35455/huya/30080231$8
+杀人/逃命,http://8.155.43.98:35455/huya/21954527$8
+校园bao力,http://8.155.43.98:35455/huya/24609811$8
+经典烧脑探案推理合集,http://8.155.43.98:35455/huya/30080172$8
+美女,http://8.155.43.98:35455/huya/29982617$8
+来自万圣节的追杀,http://8.155.43.98:35455/huya/23824171$8
+超好看经典,http://8.155.43.98:35455/huya/30080155$8
+带你穿越无人区,http://8.155.43.98:35455/huya/30080144$8
+许绍雄,http://8.155.43.98:35455/huya/20985771$8
+航拍中国,http://8.155.43.98:35455/huya/22414123$8
 美剧8,http://8.155.43.98:35455/huya/30080138$8
 英剧8,http://8.155.43.98:35455/huya/29982659$8
 年代剧,http://8.155.43.98:35455/huya/20969095$8
@@ -1780,6 +1870,20 @@ Running Man,http://8.155.43.98:35455/huya/11352883$8
 陀枪师姐,http://8.155.43.98:35455/huya/29465857$8
 创世纪,http://8.155.43.98:35455/huya/29465852$8
 妙手仁心,http://8.155.43.98:35455/huya/29465853$8
+康熙微服,http://8.155.43.98:35455/huya/11342418$8
+封神榜3,http://8.155.43.98:35455/huya/20432237$8
+经典神剧,http://8.155.43.98:35455/huya/508118$8
+星际迷航,http://8.155.43.98:35455/huya/30080232$8
+神雕侠侣,http://8.155.43.98:35455/huya/30454429$8
+科幻电影,http://8.155.43.98:35455/huya/30080242$8
+荒野求生,http://8.155.43.98:35455/huya/28556708$8
+鹿鼎记,http://8.155.43.98:35455/huya/23650774$8
+水浒传,http://8.155.43.98:35455/huya/26355860$8
+西游记,http://8.155.43.98:35455/huya/20985836$8
+寻秦记,http://8.155.43.98:35455/huya/30080146$8
+大宋提刑官,http://8.155.43.98:35455/huya/26355856$8
+问心,http://8.155.43.98:35455/huya/11352890$8
+与凤行,http://8.155.43.98:35455/huya/26355866$8
 埋堆堆 𝟙,http://8.155.43.98:35455/huya/23740156
 埋堆堆 𝟚,http://8.155.43.98:35455/huya/23749096
 埋堆堆 𝟝,http://8.155.43.98:35455/huya/23734169
@@ -1848,6 +1952,61 @@ Running Man,http://8.155.43.98:35455/huya/11352883$8
 电影|搞笑恐怖,https://iptv.catvod.com/huya/11601960$iptv
 电影|死神来了,https://iptv.catvod.com/huya/11352903$iptv
 电影|变形金刚,https://iptv.catvod.com/huya/21059596$iptv
+
+电影|枪战,http://file.dokor.cn:35455/huya/21059579$8
+电影|美国战争,http://file.dokor.cn:35455/huya/11602047$8
+电影|战争片,http://file.dokor.cn:35455/huya/21059574$8
+电影|怪兽系列,http://file.dokor.cn:35455/huya/21059554$8
+电影|怪兽,http://file.dokor.cn:35455/huya/21059577$8
+电影|武侠,http://file.dokor.cn:35455/huya/11342427$8
+电影|警匪,http://file.dokor.cn:35455/huya/11352886$8
+电影|罪犯,http://file.dokor.cn:35455/huya/11352962$8
+电影|海盗,http://file.dokor.cn:35455/huya/21059595$8
+电影|赛车,http://file.dokor.cn:35455/huya/11279247$8
+电影|推荐,http://file.dokor.cn:35455/huya/11602041$8
+电影|救援,http://file.dokor.cn:35455/huya/21059594$8
+电影|热血,http://file.dokor.cn:35455/huya/11352934$8
+电影|盗墓,http://file.dokor.cn:35455/huya/21059552$8
+电影|贺岁,http://file.dokor.cn:35455/huya/11601971$8
+电影|玄幻,http://file.dokor.cn:35455/huya/11342414$8
+电影|谍战,http://file.dokor.cn:35455/huya/21059585$8
+电影|战争,http://file.dokor.cn:35455/huya/21059592$8
+电影|喜剧,http://file.dokor.cn:35455/huya/11352877$8
+电影|港片,http://file.dokor.cn:35455/huya/11602043$8
+电影|国产,http://file.dokor.cn:35455/huya/11352973$8
+电影|小鬼头,http://file.dokor.cn:35455/huya/11352963$8
+电影|蜘蛛侠,http://file.dokor.cn:35455/huya/21059599$8
+电影|贺岁片,http://file.dokor.cn:35455/huya/11601986$8
+电影|功夫片,http://file.dokor.cn:35455/huya/11352941$8
+电影|黑帮片,http://file.dokor.cn:35455/huya/11336719$8
+电影|丧尸片,http://file.dokor.cn:35455/huya/21059578$8
+电影|灾难片,http://file.dokor.cn:35455/huya/11602075$8
+电影|谍战片,http://file.dokor.cn:35455/huya/21059587$8
+电影|犯罪片,http://file.dokor.cn:35455/huya/11352974$8
+电影|古装片,http://file.dokor.cn:35455/huya/11336590$8
+电影|八点档,http://file.dokor.cn:35455/huya/880261$8
+电影|高分动作,http://file.dokor.cn:35455/huya/11352884$8
+电影|动作电影,http://file.dokor.cn:35455/huya/11602077$8
+电影|搞笑喜剧,http://file.dokor.cn:35455/huya/11342423$8
+电影|喜剧专场,http://file.dokor.cn:35455/huya/11602044$8
+电影|欢笑影院,http://file.dokor.cn:35455/huya/11352894$8
+电影|不挤影院,http://file.dokor.cn:35455/huya/11352897$8
+电影|国产悬疑,http://file.dokor.cn:35455/huya/11342395$8
+电影|快意江湖,http://file.dokor.cn:35455/huya/11342435$8
+电影|黑帮斗争,http://file.dokor.cn:35455/huya/11342419$8
+电影|古墓系列,http://file.dokor.cn:35455/huya/11352913$8
+电影|嫣然影厅,http://file.dokor.cn:35455/huya/11601977$8
+电影|女神系列,http://file.dokor.cn:35455/huya/11336571$8
+电影|经典女神,http://file.dokor.cn:35455/huya/11352909$8
+电影|许氏三杰,http://file.dokor.cn:35455/huya/11602033$8
+电影|经典港片,http://file.dokor.cn:35455/huya/11352965$8
+电影|镖行天下,http://file.dokor.cn:35455/huya/11352969$8
+电影|高能反转,http://file.dokor.cn:35455/huya/11352887$8
+电影|喜乐影院,http://file.dokor.cn:35455/huya/21059580$8
+电影|蘑菇影厅,http://file.dokor.cn:35455/huya/11601981$8
+电影|搞笑恐怖,http://file.dokor.cn:35455/huya/11601960$8
+电影|死神来了,http://file.dokor.cn:35455/huya/11352903$8
+电影|变形金刚,http://file.dokor.cn:35455/huya/21059596$8
 
 电影|枪战,http://cdn.jdshipin.com:8880/huya.php?id=21059579$cdn
 电影|美国战争,http://cdn.jdshipin.com:8880/huya.php?id=11602047$cdn
