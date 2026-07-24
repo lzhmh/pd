@@ -47,8 +47,9 @@
 
 CCTV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226303/index.m3u8$郑移
 CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$郑移
-CCTV4,http://39.175.52.28:2026/IPTV.php?id=CCTV4$金华移
-CCTV13,http://39.175.52.28:2026/IPTV.php?id=CCTV13$金华移
+
+CCTV4,http://111.230.72.38:1234/631780421$穗腾讯
+CCTV13,http://111.230.72.38:1234/608807423$穗腾讯
 
 CCTV4,http://114.242.62.109:888/hls/4/index.m3u8$北京联
 CCTV13,http://114.242.62.109:888/hls/13/index.m3u8$北京联
@@ -64,9 +65,6 @@ CCTV13,https://live.chinacert.cftest5.cn/cnmg/live/608807423$洛阳移
 
 CCTV4,http://36.35.109.8:8000/hls/4/index.m3u8$淮南联
 CCTV13,http://36.35.109.8:8000/hls/14/index.m3u8$淮南联
-
-CCTV4,http://111.230.72.38:1234/631780421$穗腾讯
-CCTV13,http://111.230.72.38:1234/608807423$穗腾讯
 
 CCTV4,http://120.238.84.45:9901/tsfile/live/1021_1.m3u8$梅州移
 CCTV13,http://120.238.84.45:9901/tsfile/live/1031_1.m3u8$梅州移
@@ -147,9 +145,6 @@ CCTV16,http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&a
 CCTV5+,http://183.237.71.182:40000/hls/16/index.m3u8$深圳移
 CCTV5,http://183.237.71.182:40000/hls/5/index.m3u8$深圳移
 CCTV16,http://183.237.71.182:40000/hls/17/index.m3u8$深圳移
-
-CCTV5,http://39.175.52.28:2026/IPTV.php?id=CCTV5$金华移
-CCTV5+,http://39.175.52.28:2026/IPTV.php?id=CCTV5p$金华移
 
 CCTV5,http://114.242.62.109:888/hls/5/index.m3u8$北京联
 CCTV5+,http://114.242.62.109:888/hls/16/index.m3u8$北京联
@@ -358,10 +353,10 @@ TVBSNEWS,http://80tv.eu.org:8711/live.m3u8?c=3$80tv
 寰宇新闻,http://80tv.eu.org:8711/live.m3u8?c=8$80tv
 寰宇LIVE,http://80tv.eu.org:8711/live.m3u8?c=9$80tv
 寰宇台湾,http://80tv.eu.org:8711/live.m3u8?c=10$80tv
-新唐人,http://80tv.eu.org:8711/live.m3u8?c=25$80tv
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻$risz#
 
-新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8#http://rihou.cc:555/tv/NTD$ri
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8$官网#https://livedata.cloudokyo.cloud/hls/424e5248-02c2-47f3-9435-28877812d25c/hls_480p/video.m3u8$官网#http://rihou.cc:555/tv/NTD$ri
+新唐人,http://80tv.eu.org:8711/live.m3u8?c=25$80tv
 
 凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8$青岛联
 凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.flv$青岛联
