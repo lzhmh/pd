@@ -15,9 +15,6 @@
 凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw$香港云
 凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx$香港云
 
-凤凰中文,http://120.237.39.10:9901/tsfile/live/1037_1.m3u8$梅州移
-凤凰资讯,http://120.237.39.10:9901/tsfile/live/1036_1.m3u8$梅州移
-
 凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
@@ -50,6 +47,9 @@ CCTV13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u
 
 CCTV4,http://111.230.72.38:1234/631780421$穗腾讯
 CCTV13,http://111.230.72.38:1234/608807423$穗腾讯
+
+CCTV4,http://221.221.137.78:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
+CCTV13,http://221.221.137.78:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 
 CCTV4,http://114.242.62.109:888/hls/4/index.m3u8$北京联
 CCTV13,http://114.242.62.109:888/hls/13/index.m3u8$北京联
@@ -90,8 +90,6 @@ CCTV13,http://218.206.193.218:8888/hls/13/index.m3u8$中牟移s
 明珠台,http://183.239.108.37:1698/hls/93/index.m3u8$汕头移
 翡翠台,http://116.76.254.170:44330/tsfile/live/1008_1.m3u8$天威16
 明珠台,http://116.76.254.170:44330/tsfile/live/1009_1.m3u8$天威16
-翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8$梅州移
-明珠台,http://120.238.94.82:9901/tsfile/live/1008_1.m3u8$梅州移
 
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
 每日经济,http://swiftplay.hxkjmedia.com/tv/spbW.m3u8$官网#https://swiftplay.hxkjmedia.com/tv/spbW.m3u8$官网
@@ -141,6 +139,10 @@ CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u
 CCTV5,http://39.165.150.207:19901/tsfile/live/1028_1.m3u8$信阳移
 CCTV5+,http://39.165.150.207:19901/tsfile/live/0127_1.m3u8$信阳移
 CCTV16,http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$天水联
+
+CCTV5,http://221.221.137.78:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
+CCTV5+,http://221.221.137.78:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
+CCTV16,http://221.221.137.78:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$北京联
 
 CCTV5+,http://183.237.71.182:40000/hls/16/index.m3u8$深圳移
 CCTV5,http://183.237.71.182:40000/hls/5/index.m3u8$深圳移
@@ -195,13 +197,13 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8$郑移#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227451/index.m3u8$郑移
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8$郑移
 
-广东体育,http://120.237.39.10:9901/tsfile/live/1010_1.m3u8$梅州移s#http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$梅州移
+广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16#http://183.236.43.98:4013/udp/239.77.0.112:5146$广东信
 广东体育,http://183.237.71.182:40000/hls/67/index.m3u8$深圳移
 广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8$梅州移
-广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16#http://120.198.95.220:9901/tsfile/live/1010_1.m3u8$梅州移#http://183.236.43.98:4013/udp/239.77.0.112:5146$广东信
-广东体育,http://183.239.108.37:1698/hls/12/index.m3u8$汕头移
 
 北京体育,http://114.242.62.109:888/hls/22/index.m3u8$北京联
+北京体育,http://221.219.104.6:1193/udp/239.3.1.243:8000$京联#http://n2.192372.xyz:8888/udp/239.3.1.243:8000$京联#http://naslmd2.myqnapcloud.com:4022/udp/239.3.1.243:8000$京联
+北京体育,http://guoxue7.3322.org:57022/udp/239.3.1.243:8000$京联
 
 风云足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8$郑移
 武术世界,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8$郑移
@@ -212,7 +214,6 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 
 风云足球,http://120.238.84.45:9901/tsfile/live/1087_1.m3u8$梅州移
 劲爆体育,http://120.238.84.45:9901/tsfile/live/1105_1.m3u8$梅州移
-劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8$梅州移
 
 爱体育,http://202.105.239.77:8188/udp/239.77.1.77:5146$广东信
 
@@ -995,6 +996,8 @@ Big3专场,https://live.ottiptv.cc/huya/30847442$cc
 
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$38
 
+ARTS,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
 中国通史,http://8.155.43.98:35455/huya/20985822$8#https://live.ottiptv.cc/huya/20985822$cc#https://isus.cc/php/huya.php?id=20985822$isus#
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 
@@ -1228,10 +1231,6 @@ CHC影迷电影,http://218.206.193.218:8888/hls/127/index.m3u8$中牟移
 重温经典,http://218.206.193.218:8888/hls/29/index.m3u8$中牟移
 都市剧场,http://218.206.193.218:8888/hls/133/index.m3u8$中牟移
 重温经典,http://8.138.7.223/tv/cwjd.php
-
-CHC家庭影院,http://120.238.94.82:9901/tsfile/live/1051_1.m3u8$梅州移
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$梅州移
-CHC影迷电影,http://120.238.94.82:9901/tsfile/live/1053_1.m3u8$梅州移
 
 邵氏影院,http://8.155.43.98:35455/douyu/4246519$8
 邵氏影院,https://goodiptv.club/douyu/4246519$club
