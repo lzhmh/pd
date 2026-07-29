@@ -154,6 +154,10 @@ CCTV5+,http://183.237.71.182:40000/hls/16/index.m3u8$深圳移
 CCTV5,http://183.237.71.182:40000/hls/5/index.m3u8$深圳移
 CCTV16,http://183.237.71.182:40000/hls/17/index.m3u8$深圳移
 
+CCTV5,http://104.152.209.49:8181/720p/cctv5.m3u8$魁北克
+CCTV5+,http://104.152.209.49:8181/720p/cctv5p.m3u8$魁北克
+CCTV16,http://104.152.209.49:8181/720p/cctv16.m3u8$魁北克
+
 CCTV5,http://114.242.62.109:888/hls/5/index.m3u8$北京联
 CCTV5+,http://114.242.62.109:888/hls/16/index.m3u8$北京联
 
@@ -240,6 +244,10 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$密苏里
 央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq$密苏里
+
+风云足球,http://104.152.209.49:8181/720p/fyzq.m3u8$魁北克
+央视台球,http://104.152.209.49:8181/720p/ystq.m3u8$魁北克
+高尔夫网球,http://104.152.209.49:8181/720p/gefwq.m3u8$魁北克
 
 风云足球,http://107.150.60.122/live/fyzq.m3u8$堪萨斯
 央视台球,http://107.150.60.122/live/ystq.m3u8$堪萨斯
@@ -676,6 +684,11 @@ CCTV17,http://218.206.193.218:8888/hls/17/index.m3u8$中牟移s
 CCTV1,http://218.206.193.218:8888/hls/97/index.m3u8$中牟移
 CCTV1,http://218.206.193.218:8888/hls/132/index.m3u8$中牟移
 
+风云音乐,http://104.152.209.49:8181/720p/fyyy.m3u8$魁北克
+文化精品,http://104.152.209.49:8181/720p/ysjp.m3u8$魁北克
+CCTV4K,http://104.152.209.49:8181/720p/cctv4k.m3u8$魁北克
+CCTV8K,http://104.152.209.49:8181/720p/cctv8k.m3u8$魁北克
+
 生活时尚,http://0001.6600.org:907/hls/500/index.m3u8$哈移
 风云音乐,http://120.238.84.45:9901/tsfile/live/1089_1.m3u8$梅州移
 文化精品,http://120.238.84.45:9901/tsfile/live/1092_1.m3u8$梅州移
@@ -1022,6 +1035,7 @@ Big3专场,https://live.ottiptv.cc/huya/30847442$cc
 
 法治天地,http://218.206.193.218:8888/hls/131/index.m3u8$中牟移
 
+兵器科技,http://104.152.209.49:8181/720p/gfjs.m3u8$魁北克
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub$38
 
 ARTS,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -1064,7 +1078,6 @@ ARTS,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 北京纪实科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8$郑移
 世界地理,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227512/index.m3u8$郑移
 发现之旅,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8$郑移#
-乐游频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8$郑移#
 //求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8$郑移
 
 金鹰纪实,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/JYJSMPP360.m3u8$phone
@@ -1109,7 +1122,7 @@ The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amag
 金鹰纪实,http://hmfs.f3322.net:3388/hls/39/index.m3u8$茂名信
 世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8$茂名信
 
-乐游频道,http://39.165.39.49:19901/tsfile/live/1126_1.m3u8$平顶移
+世界地理,http://104.152.209.49:8181/720p/sjdl.m3u8$魁北克
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub$gslb
 ///end
 教育综合,#genre#
@@ -1124,10 +1137,21 @@ CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227200/index.m3u8
 文物宝库,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8$郑移
 汽摩频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8$郑移
 环球旅游,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8$郑移
+乐游频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8$郑移#
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226326/index.m3u8$郑移
 四海钓鱼,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226333/index.m3u8$郑移
 中国天气,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226329/index.m3u8$郑移
 山东教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227214/index.m3u8$郑移
+
+CETV1,http://47.104.178.59:3566/923287154$青阿里
+CETV2,http://47.104.178.59:3566/923287211$青阿里
+CETV4,http://47.104.178.59:3566/923287339$青阿里
+中华特产,http://47.104.178.59:3566/959986618$青阿里
+环球旅游,http://47.104.178.59:3566/958475356$青阿里
+四海钓鱼,http://111.230.72.38:1234/637444975$穗腾讯
+山东教育,http://47.104.178.59:3566/609154353$青阿里
+
+中国天气,http://wfenf.x3322.net:7788/959986621$武汉信1#http://116.236.204.18:1234/959986621$上海信2#http://110.244.139.249:7788/959986621$沧州联3#http://47.104.178.59:3566/959986621$青岛阿里4#http://111.230.72.38:1234/959986621$穗腾讯#http://182.61.15.163:80/959986621$广州百度6#http://119.88.243.98:17231/959986621$沧州联8#http://106.52.119.159:1234/959986621$广州腾云9
 
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8$phone
 
@@ -1162,16 +1186,7 @@ CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8$官方源
 CEC教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8$官方源
 CEC健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8$官方源
 
-CETV1,http://47.104.178.59:3566/923287154$青阿里
-CETV2,http://47.104.178.59:3566/923287211$青阿里
-CETV4,http://47.104.178.59:3566/923287339$青阿里
-中华特产,http://47.104.178.59:3566/959986618$青阿里
-环球旅游,http://47.104.178.59:3566/958475356$青阿里
-四海钓鱼,http://111.230.72.38:1234/637444975$穗腾讯
-山东教育,http://47.104.178.59:3566/609154353$青阿里
-
-中国天气,http://wfenf.x3322.net:7788/959986621$武汉信1#http://116.236.204.18:1234/959986621$上海信2#http://110.244.139.249:7788/959986621$沧州联3#http://47.104.178.59:3566/959986621$青岛阿里4#http://111.230.72.38:1234/959986621$穗腾讯#http://182.61.15.163:80/959986621$广州百度6#http://119.88.243.98:17231/959986621$沧州联8#http://106.52.119.159:1234/959986621$广州腾云9
-
+乐游频道,http://39.165.39.49:19901/tsfile/live/1126_1.m3u8$平顶移
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 飞碟之谜01,https:/hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
@@ -1289,6 +1304,10 @@ BesTV电影,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8$绵阳信
 都市剧场,http://120.238.84.45:9901/tsfile/live/1002_1.m3u8$梅州移
 华数电影,http://120.238.84.45:9901/tsfile/live/1040_1.m3u8$梅州移
 华数古剧,http://120.238.84.45:9901/tsfile/live/1042_1.m3u8$梅州移
+
+怀旧剧场,http://104.152.209.49:8181/720p/hjjc.m3u8$魁北克
+风云剧场,http://104.152.209.49:8181/720p/fyjc.m3u8$魁北克
+第一剧场,http://104.152.209.49:8181/720p/dyjc.m3u8$魁北克
 
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub$gslb
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub$gslb
