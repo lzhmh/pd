@@ -12,7 +12,7 @@
   {"name":"本地00", "type":0,"url":"clan://localhost/1tv/00","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":""}],
 // {"name":"电影","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/moves.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":""},{"name":"Mtv", "type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/lzhmh/pd/main/Mtv.php","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
-  "sites":[{"key":"csp_DouDou","name":"豆瓣M3H50","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+  "sites":[{"key":"csp_DouDou","name":"豆瓣M3H51","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 //--------以上复制-------20260717---------------------
 
  {"key":"lf_js_lf_live","name":"电视直播","type":3,"api":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.js","style":{"type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hnkfmh/Mobtee/raw/master/if.txt"},
@@ -40,6 +40,13 @@
 {"key":"量子","name":"🥉量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 {"key":"茅台","name":"🥉茅台","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
 {"key":"猫眼","name":"🥉猫眼","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8/","searchable":1,"quickSearch":1,"filterable":0,"playerType":2},
+
+{"key":"dr_百忙无果","name":"🔧┃果果TV┃官源","type":3,"api":"https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/百忙无果.js"},
+{"key":"dr_360影视","name":"♑┃三三影视┃官源","type":3,"api":"https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"🍅┃艺艺┃官源","type":3,"api":"https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/drpy2.min.js","ext":"https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/奇珍异兽.js"},
+{"key": "dr_腾云驾雾","name": "🐢┃腾腾┃官源","type": 3,"api": "https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/腾云驾雾.js"},
+{"key": "dr_优酷","name": "⛽┃酷酷TV┃官源","type": 3,"api": "https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/优酷.js"},
+{"key": "dr_菜狗","name": "🐶┃狗狗TV┃官源","type": 3,"api": "https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://raw.giteeusercontent.com/hnkfmh/jsjar/raw/master/菜狗.js"},
 
 {"key":"天涯","name":"🥇天涯","type":1,"api":"https://tyyszyapi.com/api.php/provide/vod/from/tym3u8/","searchable":0,"quickSearch":0,"filterable":0,"playerType":2},
 {"key":"牛牛","name":"🥇牛牛","type":1,"api":"https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/","searchable":0,"quickSearch":0,"filterable":0,"playerType":2},
