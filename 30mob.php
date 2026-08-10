@@ -2,6 +2,12 @@
 
 新闻HM39,#genre#
 
+凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
+凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8$梅州移
+
+凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw$香港云
+凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx$香港云
+
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv$曼谷腾讯
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv$曼谷腾讯
 
@@ -9,14 +15,9 @@
 凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8$兰州信
 凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8$兰州信
 
-凤凰中文,http://46.196.228.jiaheyy.top/ftx.php?id=fhzw$香港云
-凤凰资讯,http://46.196.228.jiaheyy.top/ftx.php?id=fhzx$香港云
-
 凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8$中牟移
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$中牟移
 
-凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
-凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8$梅州移
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8$梅州移
 
 凤凰中文,http://120.234.44.98:18180/TV00000000000000000008@HHZT$天威hh
