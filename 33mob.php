@@ -1,6 +1,10 @@
 //Mobile频道数据收集自网络上的分享260215开通IPV6
 
-新闻HM40,#genre#
+新闻HM41,#genre#
+
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8$bo
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$bo
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8$bo
 
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8$梅州移
@@ -191,6 +195,7 @@ CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226716/index.m3u
 CCTV5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227451/index.m3u8$郑移
 CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8$郑移
 
+广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146$粤信
 广东体育,http://116.76.254.170:44330/tsfile/live/1000_1.m3u8$天威16#http://183.236.43.98:4013/udp/239.77.0.112:5146$广东信
 广东体育,http://183.237.71.182:40000/hls/67/index.m3u8$深圳移#http://192.151.150.154/live/gdty.m3u8$192
 广东体育,http://120.238.84.45:9901/tsfile/live/1012_1.m3u8$梅州移
@@ -333,12 +338,33 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 ///end
 河南移动,#genre#
 ///_1204
-中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞$riHv
-中天新闻,http://rihou.cc:555/tv/中天新闻$ri
-中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻$riBx
-中天新闻,http://rihou.cc:555/tv/[Us]中天新闻$riUs
-中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻$riSz
+中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8$hs#http://111.0.115.129:8081/live/000ztxw.m3u8$111#http://iactive-clink.com:8081/live/111ztxw.m3u8$ia
 
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8$d2
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8$d2
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8$d2
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8$d2
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8$d2
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8$d2
+
+TVBS新闻,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837$4g
+寰宇新聞,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837$4g
+寰宇新聞灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837$4g
+
+中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8$safe
+
+中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
+寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220
+寰宇台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
+寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
+中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8$220
+华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8$220
+
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8$bobo
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$bobo
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8$bobo
+
+中天新闻,http://rihou.cc:555/tv/中天新闻$ri
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻$ri
 东森新闻,http://rihou.cc:555/tv/东森新闻$ri
 
@@ -347,18 +373,14 @@ CCTV5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 新唐人,http://rihou.cc:555/tv/NTD$ri
 民视新闻,http://rihou.cc:555/tv/民视新闻$ri
 新唐人,http://80tv.eu.org:8711/live.m3u8?c=25$80tv
+
+凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8$青岛联
+凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.flv$青岛联
 凤凰中文,http://ccav.zone.id/php/fh.php?id=2$ccav
 凤凰资讯,http://ccav.zone.id/php/fh.php?id=1$ccav
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8$阳江移
 CCTV4,http://116.76.254.170:44330/tsfile/live/0004_1.m3u8$天威16
 CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$天威16
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8$220
-寰宇新闻,http://220.135.64.124:5050/of-litv-longturn14/index.m3u8$220
-寰宇台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8$220
-寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8$220
-中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8$220
-华视新闻,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8$220
-
 民视新闻,http://211.72.174.95:8117/0.ts$中华
 台视,http://211.72.174.95:8112/0.ts$中华
 中视,http://211.72.174.95:8113/0.ts$中华
@@ -369,19 +391,11 @@ CCTV13,http://116.76.254.170:44330/tsfile/live/0013_1.m3u8$天威16
 股道直播,https://iptv.catvod.com/douyin/75636502992$iptv
 都业华直播,https://iptv.catvod.com//douyin/992023778128$iptv
 
-凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8$bobo
-凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8$bobo
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8$bobo
-
-凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8$青岛联
-凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.flv$青岛联
 ///end
 咪视直播,#genre#
 
-百事乒羽1,http://www.negative.top:50000/udp/233.50.200.236:5140$浙信
-百事乒羽2,http://www.negative.top:50000/udp/233.50.200.237:5140$浙信
-百事乒羽1,http://eversouthhangzhou.7766.org:8188/udp/233.50.200.246:5140$浙江联1#http://sss918.synology.me:8000/udp/233.50.200.246:5140$浙江联2#http://123.157.31.182:7912/udp/233.50.201.204:5140$浙江联3#http://www.liangcl.top:8686/udp/233.50.200.246:5140$浙江联4#http://www.negative.top:50000/udp/233.50.200.246:5140$浙江联5#http://e1.woc.iiiya.cn:18888/udp/239.61.5.12:1025$福建信#http://hook.msen.site:8000/udp/235.254.196.234:1208$重庆信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信1#http://eversouthhangzhou.7766.org:8188/udp/233.50.201.204:5140$浙江联6#http://sss918.synology.me:8000/udp/233.50.201.204:5140$浙江联7#http://123.157.31.182:7912/udp/233.50.200.246:5140$浙江联8#http://www.negative.top:50000/udp/233.50.201.204:5140$浙江联9
-百事乒羽2,http://123.157.31.182:7912/udp/233.50.200.237:5140$浙江联1#http://eversouthhangzhou.7766.org:8188/udp/233.50.201.205:5140$浙江联2#http://sss918.synology.me:8000/udp/233.50.201.205:5140$浙江联3#http://www.liangcl.top:8686/udp/233.50.201.205:5140$浙江联4#http://123.157.31.182:7912/udp/233.50.201.205:5140$浙江联5#http://www.negative.top:50000/udp/233.50.201.205:5140$浙江联6#http://e1.woc.iiiya.cn:18888/udp/239.61.5.13:1025$福建信#http://hook.msen.site:8000/udp/235.254.196.235:1212$重庆信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信1
+百事乒羽1,http://123.157.31.182:7912/udp/233.50.201.204:5140$浙江联3#http://www.liangcl.top:8686/udp/233.50.200.246:5140$浙江联4#http://www.negative.top:50000/udp/233.50.200.246:5140$浙江联5#http://e1.woc.iiiya.cn:18888/udp/239.61.5.12:1025$福建信#http://hook.msen.site:8000/udp/235.254.196.234:1208$重庆信#http://www.745612.xyz:7788/udp/235.254.196.234:1208$重庆信1#http://eversouthhangzhou.7766.org:8188/udp/233.50.201.204:5140$浙江联6#http://sss918.synology.me:8000/udp/233.50.201.204:5140$浙江联7#http://123.157.31.182:7912/udp/233.50.200.246:5140$浙江联8#http://www.negative.top:50000/udp/233.50.201.204:5140$浙江联9
+百事乒羽2,http://sss918.synology.me:8000/udp/233.50.201.205:5140$浙江联3#http://www.liangcl.top:8686/udp/233.50.201.205:5140$浙江联4#http://123.157.31.182:7912/udp/233.50.201.205:5140$浙江联5#http://www.negative.top:50000/udp/233.50.201.205:5140$浙江联6#http://e1.woc.iiiya.cn:18888/udp/239.61.5.13:1025$福建信#http://hook.msen.site:8000/udp/235.254.196.235:1212$重庆信#http://www.745612.xyz:7788/udp/235.254.196.235:1212$重庆信1
 百事乒羽1,http://www.negative.top:50000/udp/233.50.200.246:5140$浙联
 
 睛彩青少,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1$无锡移
